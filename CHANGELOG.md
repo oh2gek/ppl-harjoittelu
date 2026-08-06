@@ -2,6 +2,11 @@
 
 Kaikki merkittävät muutokset PPL-harjoittelu -projektiin, uusin ensin.
 
+## [V4.2.16] — 2026-08-06
+
+### Korjattu
+- **030-0067 ja 030-0068 ei tunnistuneet kuvakysymyksiksi**: Kummasta kysymyksestä puuttui liiteviittaus `(Katso LAPL/PPL 030-10)` (todennettu PDF-lähteestä sivulta 13), jonka takia `imageRefFor`-tunnistus ei löytänyt kuvaa `PNG/PPL 030-10.png`. Lisätty puuttuva viittaus molempiin, ja 030-0068:sta puuttunut "kuormattu seuraavasti?" -teksti. Lisäksi taulukkomuotoiset massa/momentti-tiedot jaettu riveille (`\n`) selkeyden vuoksi, ja `.statement`-CSS-luokkaan lisätty `white-space: pre-line` jotta rivinvaihdot näkyvät.
+
 ## [V4.2.15] — 2026-08-06
 
 ### Korjattu

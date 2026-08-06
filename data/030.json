@@ -1262,7 +1262,7 @@
       "module": "030",
       "moduleName": "Suoritusarvot ja lennonsuunnittelu",
       "number": 67,
-      "statement": "Selvitä onko ilma-aluksen massa rajojen sisällä (normaaliluokka). (Katso massa (lb) momentti/1000 (lbxin) Tyhjämassa 1,350 51,5 Ohjaaja ja matkustaja edessä 360 Matkustajat takana 280 Polttoaine 30 US gal. Öljy 8 qt -0,2",
+      "statement": "Selvitä onko ilma-aluksen massa rajojen sisällä (normaaliluokka). (Katso LAPL/PPL 030-10)\nmassa (lb) — momentti/1000 (lbxin)\nTyhjämassa: 1,350 — 51,5\nOhjaaja ja matkustaja edessä: 360\nMatkustajat takana: 280\nPolttoaine: 30 US gal.\nÖljy: 8 qt — -0,2",
       "options": [
         "A. Eturajan etupuolella.",
         "B. Takarajan takapuolella.",
@@ -1281,7 +1281,7 @@
       "module": "030",
       "moduleName": "Suoritusarvot ja lennonsuunnittelu",
       "number": 68,
-      "statement": "Mikä on suurin sallittu määrä polttoainetta lentoonlähdössä, jos lentokone on massa (lb) momentti/1000 (lbxin) Tyhjämassa 1,350 51,5 Ohjaaja ja matkustaja edessä 340 Matkustajat takana 310 Matkatavarat 45 Öljy 8 qt -0,2",
+      "statement": "Mikä on suurin sallittu määrä polttoainetta lentoonlähdössä, jos lentokone on kuormattu seuraavasti? (Katso LAPL/PPL 030-10)\nmassa (lb) — momentti/1000 (lbxin)\nTyhjämassa: 1,350 — 51,5\nOhjaaja ja matkustaja edessä: 340\nMatkustajat takana: 310\nMatkatavarat: 45\nÖljy: 8 qt — -0,2",
       "options": [
         "A. 40 USA gal.",
         "B. 34 USA gal.",
