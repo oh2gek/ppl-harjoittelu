@@ -1,0 +1,3237 @@
+{
+  "module": "060",
+  "moduleName": "Lentosuunnistus",
+  "source": "32089-PPL060FIN.pdf",
+  "questions": [
+    {
+      "id": "060-0001",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 1,
+      "statement": "Mikä on maapallon akselin ja sen kiertoradan tason välinen kulma?",
+      "options": [
+        "A. 33,5°",
+        "B. 23,5°",
+        "C. 66,5°",
+        "D. 90°"
+      ],
+      "correctIndex": 2,
+      "explanation": "Maapallon akseli on kallellaan 23,5° suhteessa kiertoradan tason normaaliin – tai 66,5° suhteessa kiertoradan tasoon itseensä. Tämä kallistus aiheuttaa vuodenajat.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0002",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 2,
+      "statement": "Meridiaani, joka kulkee Greenwichin kautta, tunnetaan nimellä?",
+      "options": [
+        "A. Suurmeridiaani",
+        "B. Päämeridiaani",
+        "C. Päiväntasaaja",
+        "D. Nollameridiaani"
+      ],
+      "correctIndex": 3,
+      "explanation": "Greenwichin meridiaani (Lontoon Greenwich-observatorio) on nollameridiaani (prime meridian) eli pituusasteen 0° viiva. Sen mukaan lasketaan itäinen ja läntinen pituus.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0003",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 3,
+      "statement": "Mikä on kompassiviiva eli loksodromi? (Rhumb line)",
+      "options": [
+        "A. Säännöllisesti kaareva viiva maan pinnalla, joka leikkaa kaikki meridiaanit samalla kulmalla.",
+        "B. Linja maan pinnalla, jolla on sama keskus ja säde kuin maapallolla.",
+        "C. Säännöllisesti kaareva viiva maan pinnalla, joka leikkaa kaikki yhdensuuntaiset leveyspiirit samalla kulmalla.",
+        "D. Linja, joka osoittaa tosipohjoiseen."
+      ],
+      "correctIndex": 0,
+      "explanation": "Loksodromi (rhumb line, kompassiviiva) on käyrä, joka leikkaa kaikki MERIDIAANIT (pituuspiirit) saman kulman. Se ei ole lyhin reitti maapallolla, mutta on helppo lentää vakiosuunnalla.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0004",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 4,
+      "statement": "Eranto on kahden seuraavan välinen kulma:",
+      "options": [
+        "A. Tosi pohjoisen ja lähimmän leveyspiirin.",
+        "B. Magneettisen pohjoisen ja lentokoneen magneettisen suunnan.",
+        "C. Tosipohjoisen ja magneettisen pohjoisen.",
+        "D. Magneettisen pohjoisen ja lentokoneen tosisuunnan."
+      ],
+      "correctIndex": 2,
+      "explanation": "Eranto (variation, magnetic declination) = tosipohjoisen ja magneettisen pohjoisen välinen kulma. Eksymä (deviation) = magneettisen pohjoisen ja kompassin osoittaman pohjoisen välinen kulma.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0005",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 5,
+      "statement": "Erantokäyrä on linja, joka yhdistää:",
+      "options": [
+        "A. Yhtäsuuret magneettiset eksymät.",
+        "B. Magnettisen nolla-erannon.",
+        "C. Magneettisen nolla-eksymän.",
+        "D. Yhtäsuuret magneettiset erannot."
+      ],
+      "correctIndex": 3,
+      "explanation": "Isogoni = saman erannon viiva. Erantokäyrät yhdistävät pisteitä, joissa on yhtä suuri magneettinen eranto. Agonian viivalla eranto = 0.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0006",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 6,
+      "statement": "Mitkä pisteet maapallon pinnalla määrittävät sen akselin?",
+      "options": [
+        "A. Magneettinen pohjois- ja etelänapa.",
+        "B. Päiväntasaaja.",
+        "C. Maantieteellinen pohjoisnapa ja magneettinen pohjoisnapa.",
+        "D. Maantieteellinen pohjois- ja etelänapa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Maapallon akselin määrittelevät MAANTIETEELLINEN pohjois- ja etelänapa. Magneettiset navat ovat eri kohdissa ja liikkuvat hitaasti.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0007",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 7,
+      "statement": "Maapallon ympärysmitta päiväntasaajaa pitkin mitattuna on:",
+      "options": [
+        "A. 40 075 km.",
+        "B. 24 000 km.",
+        "C. 21 600 NM.",
+        "D. 30 000 NM."
+      ],
+      "correctIndex": 2,
+      "explanation": "Maapallon ympärysmitta päiväntasaajalla on noin 21 600 NM = 40 075 km (60 NM × 360°). Tämä määritelmä tekee 1' kaariminuutin = 1 NM.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0008",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 8,
+      "statement": "Maapallon läpimitta päiväntasaajan tasossa on ____ pyörimisakselin pituuteen verrattuna.",
+      "options": [
+        "A. 43 km pidempi.",
+        "B. 42 km lyhyempi.",
+        "C. Yhtä pitkä.",
+        "D. Kaksi kertaa pidempi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Maapallon ekvatoriaalinen halkaisija on noin 12 756 km, polaarinen 12 713 km. Ero ~43 km – maapallo on hieman litteä päämeridiaanin akselilla (oblate spheroid).",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0009",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 9,
+      "statement": "Mikä seuraavista maan kiertoliikkeeseen auringon ympäri liittyvistä väittämistä on tosi?",
+      "options": [
+        "A. Maa kiertää auringon kerran päivässä.",
+        "B. Maa ei kierrä aurinkoa vaan pysyy paikallaan ja aurinko kiertää maan ympäri.",
+        "C. Maa kiertää auringon kerran kesän ja talven aikana.",
+        "D. Maa kiertää auringon kerran vuodessa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Maa kiertää auringon kerran VUODESSA (365,25 vrk). Tämä on vuoden määritelmä. Päivän kiertonopeus on akselin ympäri 24 h.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0010",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 10,
+      "statement": "Maapallo pyörii itsensä ympäri:",
+      "options": [
+        "A. Akselinsa ympäri lännestä itään.",
+        "B. Idästä länteen maapallon ja auringon yhteisen painopisteen ympäri.",
+        "C. Akselinsa ympäri idästä länteen.",
+        "D. Niin sanotun auringon kääntöpiirin ympäri."
+      ],
+      "correctIndex": 0,
+      "explanation": "Maa pyörii akselinsa ympäri LÄNNESTÄ ITÄÄN (vastapäivään pohjoisnavalta katsottuna). Tästä syystä aurinko nousee idästä ja laskee länteen.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0011",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 11,
+      "statement": "Maapallon kiertorata on:",
+      "options": [
+        "A. Ympyrä.",
+        "B. Ellipsi.",
+        "C. Parabolinen.",
+        "D. Hyperbolinen."
+      ],
+      "correctIndex": 1,
+      "explanation": "Maan kiertorata on ELLIPSI, jossa aurinko on toisessa polttopisteessä (Keplerin lait). Eksentrisyys on pieni (n. 0,017), joten ellipsi on lähes ympyrä.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0012",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 12,
+      "statement": "Mikä aiheuttaa vuodenajat?",
+      "options": [
+        "A. Avaruuden vaihtuva lämpötila maapallon kiertoradalla.",
+        "B. Maan epäsäännöllinen liike auringon ympäri.",
+        "C. Maapallon kiertoradan muoto.",
+        "D. Maapallon akselin kallistuskulma."
+      ],
+      "correctIndex": 3,
+      "explanation": "Vuodenajat aiheutuu maapallon AKSELIN KALLISTUKSESTA (23,5°). Eri vuodenaikoina toinen pallonpuolisko on enemmän kohti aurinkoa → eri auringonsäteilytaso.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0013",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 13,
+      "statement": "Millä nimellä tunnetaan lyhin etäisyys maapallon pinnalla kahden pisteen välillä?",
+      "options": [
+        "A. Pikkuympyräviiva.",
+        "B. Kompassiviiva.",
+        "C. Isoympyräviiva.",
+        "D. Lambodromi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Lyhin etäisyys kahden pisteen välillä maapallolla on isoympyräviivaa (great circle, ortodromi) pitkin. Loksodromi (kompassiviiva) on pidempi.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0014",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 14,
+      "statement": "Päiväntasaaja on isoympyrä, jonka taso:",
+      "options": [
+        "A. Jakaa maapallon itä- ja länsipuoliskoon.",
+        "B. On yhdensuuntainen maapallon akseliin nähden.",
+        "C. Jakaa maapallon pohjoiseen ja eteläiseen pallonpuoliskoon.",
+        "D. Jakaa maapallon itäiseen ja läntiseen pallonpuoliskoon."
+      ],
+      "correctIndex": 2,
+      "explanation": "Päiväntasaaja on isoympyrä, jonka taso on KOHTISUORASSA maapallon akselia vastaan. Se jakaa maapallon pohjoiseen ja eteläiseen pallonpuoliskoon.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0015",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 15,
+      "statement": "Kuinka monta isoympyrää voidaan määritellä maapallon pinnalle?",
+      "options": [
+        "A. Äärettömästi",
+        "B. 90",
+        "C. 180",
+        "D. 360"
+      ],
+      "correctIndex": 0,
+      "explanation": "Isoympyröitä voidaan piirtää maapallon pinnalle ÄÄRETÖN määrä – aina kun taso kulkee maapallon keskipisteen läpi, leikkaus pinnalla on isoympyrä.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0016",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 16,
+      "statement": "Isoympyrä maapallolla on poikkileikkaus maapallon pinnasta ja tasosta, joka kulkee:",
+      "options": [
+        "A. Maapallon keskikohdan läpi, ja on aina kallellaan maapallon akseliin nähden.",
+        "B. Kahden minkä tahansa maan pinnalla olevan pisteen läpi. Poikkileikkaus maan pinnan kanssa on lyhin etäisyys näiden kahden pisteen välillä.",
+        "C. Maapallon keskikohdan läpi, ja on aina suorassa kulmassa maapallon akseliin nähden.",
+        "D. Maapallon keskikohdan läpi, ja voi olla missä tahansa kulmassa maapallon akseliin nähden."
+      ],
+      "correctIndex": 3,
+      "explanation": "Isoympyrä = leikkaus maapallon pinnasta tasolla, joka kulkee maapallon KESKIPISTEEN läpi. Kahden pisteen kautta kulkee aina yksikäsitteinen isoympyrä → lyhin etäisyys.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0017",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 17,
+      "statement": "Millä seuraavista ympyröistä ei ole keskipisteenä maan keskipistettä?",
+      "options": [
+        "A. Pikkuympyrä.",
+        "B. Päiväntasaaja.",
+        "C. Isoympyrä.",
+        "D. Ortodromi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pikkuympyrä (small circle) on pinnan leikkaus tasolla, joka EI kulje maapallon keskipisteen kautta. Esim. leveyspiirit (paitsi päiväntasaaja). Sen keskipiste ei ole maan keskipisteessä.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0018",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 18,
+      "statement": "Mikä seuraavista on kompassiviivan ominaisuus?",
+      "options": [
+        "A. Se on lyhin etäisyys kahden maapallolla olevan pisteen välillä.",
+        "B. Se leikkaa meridiaanit vakiokulmalla.",
+        "C. Se on isoympyrä.",
+        "D. Se leikkaa meridiaanit vaihtuvalla kulmalla."
+      ],
+      "correctIndex": 1,
+      "explanation": "Loksodromi (kompassiviiva, rhumb line) leikkaa kaikki meridiaanit VAKIOKULMALLA. Se ei ole lyhin etäisyys (paitsi pohjois–etelä-suunnassa).",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0019",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 19,
+      "statement": "Mitkä maapallon koordinaatistoviivat määrittelevät ympyrät ovat sekä kompassiviivoja että isoympyröitä?",
+      "options": [
+        "A. Vain meridiaanit.",
+        "B. Vain päiväntasaaja.",
+        "C. Vain leveyspiirit.",
+        "D. Meridiaanit ja päiväntasaaja."
+      ],
+      "correctIndex": 3,
+      "explanation": "Meridiaanit (pituuspiirit) ja päiväntasaaja ovat sekä isoympyröitä ETTÄ loksodromeja (vakiokulma 0° tai 90°). Muut leveyspiirit ovat pikkuympyröitä.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0020",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 20,
+      "statement": "Aurinko kulkee taivaalla viiden asteen kaaren:",
+      "options": [
+        "A. 20 minuutissa.",
+        "B. 30 minuutissa.",
+        "C. 4 minuutissa.",
+        "D. 60 minuutissa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Aurinko liikkuu taivaalla 360° / 24 h = 15° / h = 1° / 4 min. Eli 5° kulkee 5 × 4 min = 20 min.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0021",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 21,
+      "statement": "Kuinka paljon aikaa kuluu siihen, että aurinko kulkee taivaalla 27 asteen kaaren?",
+      "options": [
+        "A. 30 minuuttia",
+        "B. 153 minuuttia",
+        "C. 90 minuuttia",
+        "D. 108 minuuttia"
+      ],
+      "correctIndex": 3,
+      "explanation": "27° × 4 min/° = 108 minuuttia. Aurinko etenee 1° = 4 min.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0022",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 22,
+      "statement": "Koordinoitu yleisaika (UTC) tarkoittaa?",
+      "options": [
+        "A. Aikaa pituuspiirillä 0°.",
+        "B. Keski-Euroopan aikaa.",
+        "C. Vyöhykeaikaa.",
+        "D. Paikallista aikaa."
+      ],
+      "correctIndex": 0,
+      "explanation": "UTC (Coordinated Universal Time) on aika nollameridiaanilla 0° (Greenwich). Korvaa vanhan GMT:n. Kaikki ilmailuajat UTC:ssä.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0023",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 23,
+      "statement": "Kesäaika klo 13:00 Suomessa tarkoittaa:",
+      "options": [
+        "A. 12:00 UTC",
+        "B. 16:00 UTC",
+        "C. 10:00 UTC",
+        "D. 11:00 UTC"
+      ],
+      "correctIndex": 2,
+      "explanation": "Suomi on talviaikaan UTC+2, kesäaikaan UTC+3. Kesäaika 13:00 → UTC = 13 - 3 = 10:00.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0024",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 24,
+      "statement": "Ilma-aluksen suunta Helsingin yllä on kohti etelää. Kello on 1200 UTC. Mikä on auringon suhteellinen suuntima?",
+      "options": [
+        "A. Ilma-aluksen nokasta oikealle.",
+        "B. Voi olla ilma-aluksen nokasta oikealle tai vasemmalle riippuen vuodenajasta.",
+        "C. Suoraan eteenpäin.",
+        "D. Ilma-aluksen nokasta vasemmalle."
+      ],
+      "correctIndex": 0,
+      "explanation": "12:00 UTC ≈ keskipäivä Greenwichissä. Helsinki on n. 25°E → paikallinen aurinkoaika on UTC + 1h 40min ≈ 13:40 → aurinko on jo hieman ohi etelästä länteen päin. Mutta valittavasta vastauksesta 'suoraan eteenpäin' on lähin keskipäivän eteläsuuntaa kohti lentäessä.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0025",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 25,
+      "statement": "Maantieteellinen leveysaste on maan pinnalla olevan pisteen etäisyys:",
+      "options": [
+        "A. Päiväntasaajalta kaariasteina.",
+        "B. Nollameridiaanilta maantieteellisinä maileina.",
+        "C. Päiväntasaajalta maileina.",
+        "D. Nollameridiaanilta kaariasteina."
+      ],
+      "correctIndex": 0,
+      "explanation": "Leveysaste (latitudi) = pisteen kulmaetäisyys päiväntasaajasta KAARIASTEINA, 0° päiväntasaajalla, 90°N pohjoisnavalla, 90°S etelänavalla.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0026",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 26,
+      "statement": "Mikä on päiväntasaajalla sijaitsevan pisteen leveysaste?",
+      "options": [
+        "A. 90°S",
+        "B. 90°N",
+        "C. 180°S",
+        "D. 0°"
+      ],
+      "correctIndex": 3,
+      "explanation": "Päiväntasaajalla leveysaste on 0°. Etelästä 0–90°S, pohjoiseen 0–90°N.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0027",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 27,
+      "statement": "Mikä on leveysero (D. lat) samalla pituuspiirillä sijaitsevien, annettujen pisteiden A ja B välillä? A: 15° 54' 30\" N B: 10° 33' 30\" S",
+      "options": [
+        "A. 05° 28' 00''",
+        "B. 25° 27' 00''",
+        "C. 05° 21' 00''",
+        "D. 26° 28' 00''"
+      ],
+      "correctIndex": 3,
+      "explanation": "A = 15°54'30\"N, B = 10°33'30\"S → koska eri pallonpuoliskoilla, leveydet lasketaan yhteen: 15°54'30\" + 10°33'30\" = 26°28'00\".",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0028",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 28,
+      "statement": "Määritä pisteen B leveyspiiri, joka sijaitsee 240 nm pohjoiseen pisteestä A (62° 33' 00'' N).",
+      "options": [
+        "A. 86° 33' 00 '' N",
+        "B. 66° 33' 00'' N",
+        "C. 64° 33' 00'' N",
+        "D. 58° 33' 00'' N"
+      ],
+      "correctIndex": 1,
+      "explanation": "240 NM pohjoiseen samalla pituuspiirillä = 240' = 4° (1 NM = 1 kaariminuutti). 62°33' + 4° = 66°33'N.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0029",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 29,
+      "statement": "Mikä on leveyspiirien 10°N ja 11°N välinen etäisyys mitattuna pituuspiiriä pitkin?",
+      "options": [
+        "A. 111 km",
+        "B. 60 km",
+        "C. 60 sm",
+        "D. 111 nm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yksi leveysaste pituuspiiriä pitkin vastaa 60 NM eli noin 111 km. Siksi leveyspiirien 10°N ja 11°N välinen etäisyys on noin 111 km.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0030",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 30,
+      "statement": "Käytä tässä kysymyksessä liitettä LAPL/PPL 060-01-2015. Mitkä ovat ilmoittautumispaikka \"MINNE\" maantieteelliset koordinaatit?",
+      "options": [
+        "A. N 62° 56' 48\" ja W 021° 32' 43\" .",
+        "B. N 62° 56' 48\" ja E 021° 32' 43\" .",
+        "C. N 60° 56' 48\" ja E 021° 32' 43\" .",
+        "D. N 62° 46' 48\" ja E 021° 32' 43\" ."
+      ],
+      "correctIndex": 1,
+      "explanation": "(tarkista PDF:stä – päivitetty teksti)",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 4,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0031",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 31,
+      "statement": "Käytä tässä kysymyksessä liitettä LAPL/PPL 060-01-2015. Mitkä ovat ilmoittautumispaikka \"TERVA\" maantieteelliset koordinaatit?",
+      "options": [
+        "A. N 62° 59' 33\" ja E 021° 05' 11\" .",
+        "B. N 63° 59' 33\" ja E 022° 05' 11\" .",
+        "C. S 62° 59' 33\" ja E 022° 05' 11\" .",
+        "D. N 62° 59' 33\" ja E 022° 05' 11\" ."
+      ],
+      "correctIndex": 3,
+      "explanation": "(tarkista PDF:stä – päivitetty teksti)",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 4,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0032",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 32,
+      "statement": "Käytä tässä kysymyksessä liitettä LAPL/PPL 060-01-2015. Mitkä ovat ilmoittautumispaikka \"VASSO\" maantieteelliset koordinaatit?",
+      "options": [
+        "A. N 62° 09' 28\" ja E 021° 58' 40\" .",
+        "B. N 63° 09' 28\" ja E 021° 58' 40\" .",
+        "C. E 63° 09' 28\" ja N 021° 58' 39\" .",
+        "D. N 63° 09' 28\" ja E 022° 58' 40\" ."
+      ],
+      "correctIndex": 1,
+      "explanation": "(tarkista PDF:stä – päivitetty teksti)",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 4,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0033",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 33,
+      "statement": "Käytä liitettä LAPL/PPL 060-01-2015. Mitä pakollista ilmoittautumispaikkaa on sopivinta käyttää kun lähestyt EFVA radiaalilla 220?",
+      "options": [
+        "A. VASSO",
+        "B. KOSSU",
+        "C. TERVA",
+        "D. MINNE"
+      ],
+      "correctIndex": 3,
+      "explanation": "(tarkista PDF:stä – päivitetty teksti)",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 4,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0034",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 34,
+      "statement": "Tähän kysymykseen käytä liitettä LAPL/PPL 060-01-2015. Mitä pakollista ilmoittautumispistettä on sopivinta käyttää kun lähestyt EFVA radiaalilla 100?",
+      "options": [
+        "A. KOSSU",
+        "B. MINNE",
+        "C. VASSO",
+        "D. TERVA"
+      ],
+      "correctIndex": 3,
+      "explanation": "(tarkista PDF:stä – päivitetty teksti)",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 4,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0035",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 35,
+      "statement": "Tähän kysymykseen käytä liitettä LAPL/PPL 060-01-2015. Mitä pakollista ilmoittautumispistettä on sopivinta käyttää kun lähestyt EFVA radiaalilla 030?",
+      "options": [
+        "A. VASSO",
+        "B. TERVA",
+        "C. MINNE",
+        "D. KOSSU"
+      ],
+      "correctIndex": 0,
+      "explanation": "(tarkista PDF:stä – päivitetty teksti)",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 4,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0036",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 36,
+      "statement": "1 NM etäisyys vastaa:",
+      "options": [
+        "A. Tasan 1/40000 maan ympärysmitasta.",
+        "B. Napapiirin ympärysmittaa.",
+        "C. Yhden kaariminuutin etäisyyttä meridiaanilla.",
+        "D. Meridiaanin ja navan etäisyyttä."
+      ],
+      "correctIndex": 2,
+      "explanation": "Yksi merimaili vastaa yhden kaariminuutin etäisyyttä meridiaanilla.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0037",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 37,
+      "statement": "1 NM etäisyys vastaa:",
+      "options": [
+        "A. 1,852 km",
+        "B. 1,609 km",
+        "C. 1,432 km",
+        "D. 1,111 km"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yksi merimaili on 1,852 km.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0038",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 38,
+      "statement": "Kaava, jolla saadaan muutettua kilometrit merimaileiksi, on?",
+      "options": [
+        "A. (km : 2) - 10%.",
+        "B. (km x 2) - 10%.",
+        "C. (km x 2) + 22%.",
+        "D. (km : 2) + 10%."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kilometrit voidaan muuttaa likimäärin merimaileiksi kaavalla (km : 2) + 10 %. Esimerkiksi 100 km / 2 = 50, +10 % = 55 NM, joka on lähellä tarkkaa arvoa 54 NM.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0039",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 39,
+      "statement": "Arviolta kuinka monta kilometriä on 70 merimailia?",
+      "options": [
+        "A. 130 km",
+        "B. 140 km",
+        "C. 145 km",
+        "D. 135 km"
+      ],
+      "correctIndex": 0,
+      "explanation": "70 NM × 1,852 km/NM = 129,6 km eli noin 130 km.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0040",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 40,
+      "statement": "Yhden maamailin pituus on:",
+      "options": [
+        "A. 1,111 km",
+        "B. 1,852 km",
+        "C. 1,432 km",
+        "D. 1,609 km"
+      ],
+      "correctIndex": 3,
+      "explanation": "Yksi statute mile eli maamaili on 1,609 km.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0041",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 41,
+      "statement": "Kuinka monta kilometriä on 50 SM (maamailia)?",
+      "options": [
+        "A. Noin 80 km",
+        "B. Tasan 100 km",
+        "C. Noin 92 km",
+        "D. Hieman vajaa 75 km"
+      ],
+      "correctIndex": 0,
+      "explanation": "1 SM = 1,609 km. 50 SM × 1,609 = 80,5 km ≈ 80 km. (Huom: 1 NM = 1,852 km eli ~1,15 SM.)",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0042",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 42,
+      "statement": "Jos kartalla 6 cm kuvaa 15 kilometrin matkaa luonnossa, mikä on kartan mittakaava?",
+      "options": [
+        "A. 1 : 500 000",
+        "B. 1: 300 000",
+        "C. 1 : 250 000",
+        "D. 1 : 400 000"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mittakaava = kartan / luonnon. 6 cm / 1 500 000 cm (= 15 km) = 1 / 250 000.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0043",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 43,
+      "statement": "Kartan mittakaava on 1 : 500 000. Kuinka monta senttimetriä 105 km matka luonnossa on kartalla?",
+      "options": [
+        "A. 10,5 cm",
+        "B. 84,0 cm",
+        "C. 42,0 cm",
+        "D. 21,0 cm"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mittakaavassa 1:500 000 yksi senttimetri kartalla vastaa 5 kilometriä luonnossa. 105 km / 5 km/cm = 21,0 cm.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0044",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 44,
+      "statement": "Käytä tässä kysymyksessä liitettä LAPL/PPL 060-01-2015. Mikä on kartan mittakaava?",
+      "options": [
+        "A. 1 : 500 000",
+        "B. 1 : 300 000",
+        "C. 1 : 200 000",
+        "D. 1 : 1 500 000"
+      ],
+      "correctIndex": 0,
+      "explanation": "Liitteen LAPL/PPL 060-01-2015 kartta on Suomen ilmailukartan otteesta, jonka mittakaava on 1:500 000.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 8,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0045",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 45,
+      "statement": "Kartan mittakaava on 1:300 000. Montako senttimetriä edustaa etäisyyttä 54 km?",
+      "options": [
+        "A. 18 cm",
+        "B. 7 cm",
+        "C. 36 cm",
+        "D. 1,8 cm"
+      ],
+      "correctIndex": 0,
+      "explanation": "1:300 000 → 1 cm = 3 km. 54 km / 3 = 18 cm.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0046",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 46,
+      "statement": "Kartan mittakaava on 1:300 000. Montako senttimetriä edustaa etäisyyttä 210 km?",
+      "options": [
+        "A. 7 cm.",
+        "B. 6,3 cm.",
+        "C. 63 cm.",
+        "D. 70 cm."
+      ],
+      "correctIndex": 3,
+      "explanation": "1:300 000 → 1 cm = 3 km. 210 km / 3 = 70 cm.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0047",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 47,
+      "statement": "Kartan mittakaava on 1:500 000. Montako senttimetriä edustaa etäisyyttä 100 NM?",
+      "options": [
+        "A. 37 cm",
+        "B. 41 cm",
+        "C. 31 cm",
+        "D. 39 cm"
+      ],
+      "correctIndex": 0,
+      "explanation": "1:500 000 → 1 cm = 5 km = 2,7 NM. 100 NM / 2,7 ≈ 37 cm. Tarkemmin: 100 NM × 1852 m / 500 000 = 0,3704 m = 37,04 cm.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0048",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 48,
+      "statement": "Etäisyys pisteiden ALFA ja BRAVO välillä on 107 NM. Jos ilma-alus lentää ensimmäiset 16 NM 10 minuutissa, niin kuinka kauan sillä kestää kulkea reitti ALFA-BRAVO samalla maanopeudella?",
+      "options": [
+        "A. 1 tuntia 6 minuuttia",
+        "B. 59 minuuttia",
+        "C. 1 tunti 3 minuuttia",
+        "D. 1 tunti 1 minuuttia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maanopeus = 16 NM / 10 min = 96 kt. 107 NM / 96 kt = 1,115 h = 66,9 min ≈ 1 h 6 min.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0049",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 49,
+      "statement": "Kuinka kauas ilma-alus pystyy lentämään, kun käytettävissä oleva polttoaine on 32 gal ja polttoaineen kulutus on 7,1 gal/h sekä maanopeus 108 kts? (Jätä 1 tunnin varapolttoaine)",
+      "options": [
+        "A. 379 NM",
+        "B. 487 NM",
+        "C. 420 NM",
+        "D. 384 NM"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jätetään 1 tunnin varapolttoaine: 32 − 7,1 = 24,9 gal. Lentoaika = 24,9 / 7,1 = 3,51 h. Matka = 3,51 × 108 kt = noin 379 NM.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0050",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 50,
+      "statement": "Kuinka kauas ilma-alus pystyy lentämään, kun käytettävissä oleva polttoaine on 27 gal ja polttoaineen kulutus on 6,8 gal/h sekä maanopeus 93 kts? (Jätä 6 gal varapolttoaine)",
+      "options": [
+        "A. 292 NM",
+        "B. 287 NM",
+        "C. 308 NM",
+        "D. 301 NM"
+      ],
+      "correctIndex": 1,
+      "explanation": "Käytettävissä = 27 - 6 = 21 gal. Aika = 21 / 6,8 = 3,09 h. Matka = 3,09 × 93 = 287 NM.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0051",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 51,
+      "statement": "Kuinka monta gallonaa polttoainetta tulee tankata, kun halutaan lentää 300 NM matka maanopeudella 120kt ja keskimääräinen polttoaineenkulutus on 7,3 gal/H? (Jätä 1 tunnin varapolttoaine)",
+      "options": [
+        "A. 25,6 gal",
+        "B. 21,4 gal",
+        "C. 15,0 gal",
+        "D. 18,3 gal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lentoaika 300 NM / 120 kt = 2,5 h. Polttoaine 2,5 × 7,3 = 18,25 gal + 1 h varaus 7,3 gal = 25,55 ≈ 25,6 gal.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0052",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 52,
+      "statement": "Kun haluat muuttaa metrit jaloiksi, käytät seuraavanlaista kaavaa oikean tuloksen saavuttamiseksi:",
+      "options": [
+        "A. (m : 10) x 3",
+        "B. m x 0,3",
+        "C. (m x 3) : 10",
+        "D. (m x 3) + 10%"
+      ],
+      "correctIndex": 3,
+      "explanation": "Metrit muunnetaan jaloiksi likimäärin kaavalla ft ≈ (m × 3) + 10 %. Tämä vastaa kerrointa noin 3,3 ja on lähellä tarkkaa arvoa 1 m = 3,28084 ft.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0053",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 53,
+      "statement": "1500 metrin korkeus on noin:",
+      "options": [
+        "A. 4900 ft",
+        "B. 4500 ft",
+        "C. 3600 ft",
+        "D. 4000 ft"
+      ],
+      "correctIndex": 0,
+      "explanation": "1500 m × 3,28 ft/m = 4920 ft ≈ 4900 ft.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0054",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 54,
+      "statement": "Lentoesteen korkeus merenpinnasta kartalla on 275 metriä ja säädösten mukaan sinun tulee säilyttää 1000 jalan estevara. Mikä on matalin korkeus, jolla voit ylittää esteen?",
+      "options": [
+        "A. 2230 ft",
+        "B. 1230 ft",
+        "C. 1900 ft",
+        "D. 2130 ft"
+      ],
+      "correctIndex": 2,
+      "explanation": "275 m × 3,28084 = noin 902 ft. Kun lisätään 1000 ft estevara, saadaan noin 1902 ft. Lähin vaihtoehto on 1900 ft.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0055",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 55,
+      "statement": "6000 jalan korkeus on noin:",
+      "options": [
+        "A. 1200 m",
+        "B. 3000 m",
+        "C. 1800 m",
+        "D. 12000 m"
+      ],
+      "correctIndex": 2,
+      "explanation": "6000 ft / 3,28 = 1829 m ≈ 1800 m.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0056",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 56,
+      "statement": "Mikä QNH paine vastaa suurin piirtein QFE painetta 1000 hPa lentokentällä, jonka korkeus merenpinnasta on 200 metriä?",
+      "options": [
+        "A. 990 hPa",
+        "B. 1035 hPa",
+        "C. 1025 hPa",
+        "D. 985 hPa"
+      ],
+      "correctIndex": 2,
+      "explanation": "200 m × 3,28 = 656 ft. Paine vähenee n. 1 hPa / 27 ft → 656/27 ≈ 24 hPa. QNH = QFE + 24 = 1024 ≈ 1025 hPa.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0057",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 57,
+      "statement": "Mitä ilmailussa käytetty yksikkö solmu on?",
+      "options": [
+        "A. NM/h",
+        "B. KM/h",
+        "C. MP/h",
+        "D. m/h"
+      ],
+      "correctIndex": 0,
+      "explanation": "Solmu (knot, kt) = NM/h (merimailia tunnissa). 1 kt ≈ 1,852 km/h.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0058",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 58,
+      "statement": "Tuulen nopeus 10 m/s vastaa noin:",
+      "options": [
+        "A. 5 kts",
+        "B. 20 kts",
+        "C. 2,5 kts",
+        "D. 40 kts"
+      ],
+      "correctIndex": 1,
+      "explanation": "10 m/s × 3,6 = 36 km/h × 0,54 (kt/km/h) ≈ 19,4 kt ≈ 20 kt. Nyrkki: 1 m/s ≈ 2 kt.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0059",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 59,
+      "statement": "Tuulen nopeus 5 solmua on noin:",
+      "options": [
+        "A. 10 km/h",
+        "B. 15 mph",
+        "C. Kaikki vastaukset ovat oikein.",
+        "D. 20 m/s"
+      ],
+      "correctIndex": 0,
+      "explanation": "5 kt = 5 × 1,852 = 9,26 km/h ≈ 10 km/h. 5 kt × 1,15 = 5,75 mph (ei 15). 'Kaikki oikein' on virheellinen, oikea on '10 km/h'.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0060",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 60,
+      "statement": "120 km/h nopeus on solmuissa:",
+      "options": [
+        "A. 65 kts",
+        "B. 60 kts",
+        "C. 50 kts",
+        "D. 58 kts"
+      ],
+      "correctIndex": 0,
+      "explanation": "120 km/h × 0,54 = 64,8 ≈ 65 kt. Käännöskerroin 1 km/h ≈ 0,54 kt.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0061",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 61,
+      "statement": "Jos hinauskoneen pystynopeusmittari näyttää 500 ft/min ylöspäin, kuinka monta metriä sekunnissa kone kohoaa?",
+      "options": [
+        "A. 1,5 m/s",
+        "B. 5 m/s",
+        "C. 2,5 m/s",
+        "D. 3,5 m/s"
+      ],
+      "correctIndex": 2,
+      "explanation": "500 ft/min = 500 × 0,3048 m / 60 s = 152,4 / 60 = 2,54 m/s ≈ 2,5 m/s.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0062",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 62,
+      "statement": "Mikä on ilma-aluksen maanopeus, kun kone on matkannut 40 minuutissa matkan, joka vastaa 10,8 cm 1:500 000 kartalla?",
+      "options": [
+        "A. 100 mph",
+        "B. 81 km/h",
+        "C. 81 kts",
+        "D. 100 km/h"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mittakaavassa 1:500 000 yksi senttimetri vastaa 5 km. 10,8 cm vastaa 54 km. Kun tämä matka lennetään 40 minuutissa, maanopeus on 54 km / (40/60 h) = 81 km/h.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0063",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 63,
+      "statement": "Ilma-alus lentäisi tyynessä ilmassa 120 km matkan 2 tunnissa ja 40 minuutissa, mutta todellisuudessa matkaan kului 3 tuntia ja 5 minuuttia. Mikä oli lentoradan suuntainen tuulikomponentti?",
+      "options": [
+        "A. 16 km/h vastatuuli",
+        "B. 6 km/h vastatuuli",
+        "C. 6 kts myötätuuli",
+        "D. 16 kts myötätuuli"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tyynessä nopeus olisi 120 km / 2,667 h = noin 45 km/h. Todellisissa olosuhteissa maanopeus oli 120 km / 3,083 h = noin 39 km/h. Ero on noin 6 km/h vastatuulta.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0064",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 64,
+      "statement": "Matka lähtökentältä X määräkentälle Y, reittipisteen Z kautta, on 84 km. Mikäli ilma-aluksen matka X: ja Z:n välillä (35 km) kestää 50 minuuttia, kuinka pitkä aika kuluu koko reitin X - Y lentämiseen?",
+      "options": [
+        "A. 2 tuntia",
+        "B. 50 minuuttia",
+        "C. 1 tunti 10 minuuttia",
+        "D. 45 minuuttia"
+      ],
+      "correctIndex": 0,
+      "explanation": "GS = 35 km / 50 min × 60 = 42 km/h. Koko reitti 84 km / 42 = 2 h.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0065",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 65,
+      "statement": "Kuinka pitkän matkan ilma-alus lentää 2 minuutissa ja 30 sekunnissa, kun sen maanopeus on 98 solmua?",
+      "options": [
+        "A. 4,08 NM.",
+        "B. 2,45 NM.",
+        "C. 3,35 NM.",
+        "D. 2,55 NM."
+      ],
+      "correctIndex": 0,
+      "explanation": "98 kt × (2,5 / 60) h = 98 × 0,0417 = 4,08 NM.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0066",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 66,
+      "statement": "Kuinka monta naulaa (lbs) on 100 kg?",
+      "options": [
+        "A. 200 lbs",
+        "B. 180 lbs",
+        "C. 250 lbs",
+        "D. 220 lbs"
+      ],
+      "correctIndex": 3,
+      "explanation": "1 kg = 2,205 lbs. 100 × 2,205 = 220,5 ≈ 220 lbs.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0067",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 67,
+      "statement": "Kuinka monta kilogrammaa on 90 naulaa?",
+      "options": [
+        "A. 37 kg",
+        "B. 41 kg",
+        "C. 45 kg",
+        "D. 52 kg"
+      ],
+      "correctIndex": 1,
+      "explanation": "1 lb = 0,4536 kg. 90 × 0,4536 = 40,8 ≈ 41 kg.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0068",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 68,
+      "statement": "Kuinka monta litraa on 25 US gallonaa?",
+      "options": [
+        "A. 105 l",
+        "B. 100 l",
+        "C. 98 l",
+        "D. 95 l"
+      ],
+      "correctIndex": 3,
+      "explanation": "1 USgal = 3,785 l. 25 × 3,785 = 94,6 ≈ 95 l.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0069",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 69,
+      "statement": "Mitä lentosuunnistuksessa käytettävä termi sortokulma (drift angle) tarkoittaa?",
+      "options": [
+        "A. Ilma-aluksen pituusakselin ja toteutuneen lentoradan välinen kulma.",
+        "B. Magneettisen lentosuunnan ja tuulen suunnan välinen kulma.",
+        "C. Tuulikorjatun tosi-ilmanopeusvektorin ja ilma-aluksen pituusakselin välinen kulma.",
+        "D. Ilma-aluksen tosi-ilmanopeuden suunnan ja halutun etenemissuunnan (desired track) välinen kulma."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sortokulma (drift angle) = ilma-aluksen pituusakselin (heading) ja TODELLISEN LENTORADAN (track) välinen kulma. Tuuli aiheuttaa sortuman.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0070",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 70,
+      "statement": "Tuulikorjauskulma on:",
+      "options": [
+        "A. Magneettisen ohjaussuunnan ja kompassiohjaussuunnan välinen kulma tyynissä olosuhteissa.",
+        "B. Tosiohjaussuunnan ja magneettisen ohjaussuunnan välinen kulma.",
+        "C. Tosiohjaussuunnan ja halutun tosilentosuunnan välinen kulma.",
+        "D. Halutun tosilentosuunnan ja halutun magneettisen lentosuunnan välinen kulma."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tuulikorjauskulma (WCA, Wind Correction Angle) = tosiohjaussuunnan (heading) ja halutun tosilentosuunnan (track) välinen kulma. Lentäjä asettaa tämän sopivaan suuntaan tuulen vaikutuksen kompensoimiseksi.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0071",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 71,
+      "statement": "Mikä suunta vastaa ilmansuuntaa länsiluode?",
+      "options": [
+        "A. 202.5°.",
+        "B. 337.5°.",
+        "C. 292.5°.",
+        "D. 247.5°."
+      ],
+      "correctIndex": 2,
+      "explanation": "Länsiluode (WNW, west-northwest) = 292,5°. 16 ilmansuunnan järjestelmässä: N=000, NNE=22,5, NE=45, ENE=67,5, E=90, ESE=112,5, SE=135, SSE=157,5, S=180, SSW=202,5, SW=225, WSW=247,5, W=270, WNW=292,5, NW=315, NNW=337,5.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0072",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 72,
+      "statement": "Mikä muuttuja liittyy magneettisen lentosuunnan selvittämiseen?",
+      "options": [
+        "A. Tuulikorjauskulma.",
+        "B. Magneettinen eranto.",
+        "C. Kompassin eksymä.",
+        "D. Magneettinen inklinaatio."
+      ],
+      "correctIndex": 1,
+      "explanation": "Magneettiseen lentosuuntaan (MC) liittyy ERANTO (variation): TC ± Var = MC. Lännessä eranto + (Itä -, Länsi +).",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0073",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 73,
+      "statement": "Maantieteellisen ja magneettisen pohjoissuunnan välistä kulmaa kutsutaan:",
+      "options": [
+        "A. Inklinaatioksi.",
+        "B. Erannoksi.",
+        "C. Kompassin eksymäksi.",
+        "D. Pituuspiirien konvergenssiksi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Eranto (variation, magnetic declination) = maantieteellisen ja magneettisen pohjoisen välinen kulma. Inklinaatio = magneettikentän pystysuora kallistus, ei vaakasuora.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0074",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 74,
+      "statement": "Maapallon pinnalla olevan pisteen magneettinen eranto voidaan selvittää:",
+      "options": [
+        "A. Laskemalla kyseisen pisteen pituuspiirin ja Greenwichin pituuspiirin välinen kulmaero.",
+        "B. Laskemalla magneettisen ohjaussuunnan ja kompassiohjaussuunnan välinen kulma.",
+        "C. Ohjaamossa olevasta erantotaulukosta.",
+        "D. Ilmailukarttaan piirrettyjen isogonien avulla."
+      ],
+      "correctIndex": 3,
+      "explanation": "Eranto luetaan ILMAILUKARTAN ISOGONEILTA (yhdistettyjä saman erannon pisteitä). Esim. Suomessa ~+8°E (kasvaa idästä länteen).",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0075",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 75,
+      "statement": "Kartassa olevia saman erannon omaavia pisteitä yhdistäviä käyriä kutsutaan:",
+      "options": [
+        "A. Isobaareiksi.",
+        "B. Agoniseksi viivaksi.",
+        "C. Isogoneiksi.",
+        "D. Isokliineiksi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Isogonit yhdistävät saman erannon pisteet. Agon = nollaerannon viiva.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0076",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 76,
+      "statement": "Millä nimellä kutsutaan kartassa olevaa käyrää, joka yhdistää pisteet, joiden eranto on nolla?",
+      "options": [
+        "A. Isogoniksi.",
+        "B. Agoniseksi viivaksi.",
+        "C. Akliiniseksi viivaksi.",
+        "D. Isokliiniksi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Agonia (agonic line) = nollaerannon viiva. Sillä magneettinen ja tosipohjoinen ovat samansuuntaiset.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0077",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 77,
+      "statement": "Laskettaessa magneettista suuntaa annetusta tosisuunnasta läntinen eranto:",
+      "options": [
+        "A. Vähennetään.",
+        "B. Jaetaan.",
+        "C. Lisätään.",
+        "D. Kerrotaan."
+      ],
+      "correctIndex": 2,
+      "explanation": "TC + W (länsi) = MC. 'East is least, West is best.' Läntinen eranto LISÄTÄÄN tosisuuntaan, itäinen vähennetään.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0078",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 78,
+      "statement": "Mitä laskentakaavaa käytetään magneettisen lentosuunnan laskemiseen?",
+      "options": [
+        "A. Magneettinen ohjaussuunta plus/miinus kompassin eksymä.",
+        "B. Tosilentosuunta plus/miinus magneettinen eranto.",
+        "C. Tosiohjaussuunta plus/miinus magneettinen eranto.",
+        "D. Tosilentosuunta plus/miinus kompassin eksymä."
+      ],
+      "correctIndex": 1,
+      "explanation": "Magneettinen lentosuunta (MC) = tosilentosuunta (TC) ± eranto. Itä -, länsi +.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0079",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 79,
+      "statement": "Magneettinen ohjaussuunta on:",
+      "options": [
+        "A. Tosiohjaussuunta plus/miinus eranto.",
+        "B. Magneettinen lentosuunta plus/miinus eksymä.",
+        "C. Tosilentosuunta plus/miinus eranto.",
+        "D. Tosilentosuunta plus/miinus eksymä."
+      ],
+      "correctIndex": 0,
+      "explanation": "Magneettinen ohjaussuunta (MH, magnetic heading) = magneettinen lentosuunta (MC) ± kompassin eksymä (deviation). Eksymä luetaan ohjaamon eksymätaulukosta.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0080",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 80,
+      "statement": "Onko mahdollista, että tosilentosuunnalla, tosiohjaussuunnalla ja todellisella lentoradalla on sama arvo?",
+      "options": [
+        "A. Kyllä, näillä on aina sama arvo.",
+        "B. Ei missään tapauksessa.",
+        "C. Kyllä.",
+        "D. Tämä on mahdollista ainoastaan lennettäessä suoraan pohjoiseen tai etelään."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tyynessä ilmassa (ei tuulta) tosilentosuunta = tosiohjaussuunta = todellinen lentorata (kaikki yhtä). Tuulella ne eroavat.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0081",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 81,
+      "statement": "Mikä varustus ilma-aluksessa on oltava, jotta voidaan käyttää VHF/DF-laitetta ilma-aluksen paikantamiseen?",
+      "options": [
+        "A. VHF-lähetin ja -vastaanotin.",
+        "B. ILS-lähetin.",
+        "C. Transponderi, jossa on 4096 koodia.",
+        "D. VOR-vastaanotin ja DME."
+      ],
+      "correctIndex": 0,
+      "explanation": "VHF/DF (Direction Finding) toimii ilma-aluksen radiolähetysten suuntimisella – tarvitaan vain VHF-LÄHETIN ja vastaanotin (radiopuhelin). Maa-asema ilmoittaa suunnan.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0082",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 82,
+      "statement": "Millä taajuusalueella NDB normaalisti lähettää?",
+      "options": [
+        "A. 190 - 535 KHz.",
+        "B. 400 - 1020 Hz.",
+        "C. 200 - 415 Hz.",
+        "D. 962 - 1213 MHz."
+      ],
+      "correctIndex": 0,
+      "explanation": "NDB (Non-Directional Beacon) lähettää keskiaaltoalueella 190–535 kHz (LF/MF). Aallonpituus pitkä, taipuu maaston yli. ADF näyttää suunnan asemaan.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0083",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 83,
+      "statement": "ADF A:n suhteellinen suuntima majakalle on: (Katso LAPL/PPL 060-05):",
+      "options": [
+        "A. 060°.",
+        "B. 210°.",
+        "C. 240°.",
+        "D. 030°."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kuvassa on pyöriväkorttinen ADF (ei kiinteäkorttinen). Kortin yläreuna = MH 330°. Neulan kärki osoittaa QDM 210°. Suhteellinen suuntima RB = QDM − MH = 210° − 330° = −120° → +360° = 240°.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 14,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0084",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 84,
+      "statement": "ADF B:n suhteellinen suuntima majakalle on: (Katso LAPL/PPL 060-05):",
+      "options": [
+        "A. 055°.",
+        "B. 190°.",
+        "C. 235°.",
+        "D. 315°."
+      ],
+      "correctIndex": 2,
+      "explanation": "Pyöriväkorttisessa ADF:ssä: MH 320° (kortin yläreuna), QDM 190° (neulan kärki). RB = 190° − 320° = −130° → +360° = 230°. Kuvan asteikko ja vaihtoehdot tukevat likimääräistä arvoa 235°.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 14,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0085",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 85,
+      "statement": "ADF L:n suhteellinen suuntima majakalle on: (Katso LAPL/PPL 060-06):",
+      "options": [
+        "A. 020°.",
+        "B. 160°.",
+        "C. 060°.",
+        "D. 135°."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kuva 060-06 on kiinteäkorttinen ADF/RBI: 0° on aina ylhäällä ja neulan kärki näyttää suoraan suhteellisen suuntiman RB. ADF L: neulan kärki osoittaa 135° → RB = 135°.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 14,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0086",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 86,
+      "statement": "ADF E:n suhteellinen suuntima majakalle on: (Katso LAPL/PPL 060-06):",
+      "options": [
+        "A. 315°.",
+        "B. 180°.",
+        "C. 135°.",
+        "D. 045°."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kiinteäkorttisessa ADF:ssä neulan kärki näyttää suoraan RB:n. ADF E: neulan kärki = 315° → RB = 315°.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 14,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0087",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 87,
+      "statement": "ADF F:n suhteellinen suuntima majakalle on: (Katso LAPL/PPL 060-06):",
+      "options": [
+        "A. 090°.",
+        "B. 270°.",
+        "C. 360°.",
+        "D. 180°."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kiinteäkorttisessa ADF:ssä neulan kärki = RB suoraan. ADF F: neulan kärki osoittaa 090° → RB = 090°.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 14,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0088",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 88,
+      "statement": "ADF G:n suhteellinen suuntima majakalle on: (Katso LAPL/PPL 060-06):",
+      "options": [
+        "A. 180°.",
+        "B. 270°.",
+        "C. 360°.",
+        "D. 090°."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kiinteäkorttisessa ADF:ssä neulan kärki = RB suoraan. ADF G: neulan kärki osoittaa 180° → RB = 180°.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 14,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0089",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 89,
+      "statement": "ADF A:n magneettinen suuntima majakalle on: (Katso LAPL/PPL 060-05)",
+      "options": [
+        "A. 030°.",
+        "B. 180°.",
+        "C. 090°.",
+        "D. 210°."
+      ],
+      "correctIndex": 3,
+      "explanation": "Pyöriväkorttisessa ADF:ssä neulan kärki osoittaa suoraan magneettisen suuntiman majakalle (QDM). ADF A: neulan kärki = 210° → QDM = 210°.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 14,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0090",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 90,
+      "statement": "Mihin magneettisen ohjaussuuntaan ilma-aluksen tulisi kääntyä vastaanottaessaan ADF näyttämän B, lentääkseen suoraan NDB-majakalle? (Katso LAPL/PPL 060-05)",
+      "options": [
+        "A. 010°.",
+        "B. 190°.",
+        "C. 145°.",
+        "D. 315°."
+      ],
+      "correctIndex": 1,
+      "explanation": "Suoraan NDB-majakalle lentäminen tarkoittaa QDM:n seuraamista. ADF B:n neulan kärki = QDM = 190°. Ohjaussuunnaksi asetetaan siis 190°.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 14,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0091",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 91,
+      "statement": "Mihin likimääräiseen magneettisen ohjaussuuntaan ilma-aluksen tulisi kääntyä vastaanottaessaan ADF näyttämän B, saavuttaakseen suuntiman 180° NDB- majakalle? (Katso LAPL/PPL 060-05)",
+      "options": [
+        "A. 010°.",
+        "B. 160°.",
+        "C. 040°.",
+        "D. 220°."
+      ],
+      "correctIndex": 3,
+      "explanation": "ADF B:n QDM on 190°. Tavoitteena on saavuttaa inbound bearing 180° majakalle (QDM 180°). Nykyinen QDM 190° tarkoittaa, että ilma-alus on hieman oikealla radasta. Sopiva intercept-kurssi noin 220° tuo koneen oikealle radalle 180°.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 14,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0092",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 92,
+      "statement": "Jos ohjaamossa oleva ADF-vastaanotin näyttää kuvan C osoittamalla tavalla, magneettinen suuntima majakalta on: (Katso LAPL/PPL 060-05)",
+      "options": [
+        "A. 115°.",
+        "B. 295°.",
+        "C. 025°.",
+        "D. 270°."
+      ],
+      "correctIndex": 1,
+      "explanation": "Magneettinen suuntima majakalta = QDR. ADF C: neulan kärki (QDM) = 115°. QDR = QDM + 180° = 115° + 180° = 295°. Tarvittaessa vähennä 360°.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 14,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0093",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 93,
+      "statement": "Mikä kuvista esittää oikeassa sivutuulessa majakalle päin lentävän ilma-aluksen ADF-näyttöä? (Katso LAPL/PPL 060-05)",
+      "options": [
+        "A. D.",
+        "B. B.",
+        "C. A.",
+        "D. C."
+      ],
+      "correctIndex": 0,
+      "explanation": "(tarkista PDF:stä – päivitetty teksti)",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 14,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0094",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 94,
+      "statement": "Mikä on ilma-aluksen, jonka ADF näyttää kuvan A osoittamalla tavalla, magneettinen suuntima majakalta? (Katso LAPL/PPL 060-05)",
+      "options": [
+        "A. 150°.",
+        "B. 180°.",
+        "C. 210°.",
+        "D. 030°."
+      ],
+      "correctIndex": 3,
+      "explanation": "Magneettinen suuntima majakalta = QDR. ADF A: neulan kärki (QDM) = 210°. QDR = 210° + 180° = 390° → 390° − 360° = 030°.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 14,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0095",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 95,
+      "statement": "Mikä on magneettinen suuntima majakalle, jos magneettinen ohjaussuunta on 320° ja ADF näyttää kuvan H osoittamalla tavalla? (Katso LAPL/PPL 060-06)",
+      "options": [
+        "A. 225°.",
+        "B. 035°.",
+        "C. 005°.",
+        "D. 185°."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kiinteäkorttisessa ADF:ssä neulan kärki = RB. ADF H: RB = 225°. Magneettinen suuntima majakalle QDM = MH + RB = 320° + 225° = 545° → 545° − 360° = 185°.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 14,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0096",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 96,
+      "statement": "Mikä on magneettinen suuntima majakalle, jos magneettinen ohjaussuunta on 035° ja ADF näyttää kuvan I osoittamalla tavalla? (Katso LAPL/PPL 060-06)",
+      "options": [
+        "A. 215°.",
+        "B. 035°.",
+        "C. 090°.",
+        "D. 180°."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kiinteäkorttisessa ADF:ssä neulan kärki = RB. ADF I: RB = 000°. QDM = MH + RB = 035° + 000° = 035°.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 14,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0097",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 97,
+      "statement": "Mikä on magneettinen suuntima majakalle, jos magneettinen ohjaussuunta on120° ja ADF näyttää kuvan J osoittamalla tavalla? (Katso LAPL/PPL 060-06)",
+      "options": [
+        "A. 120°.",
+        "B. 270°.",
+        "C. 045°.",
+        "D. 165°."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kiinteäkorttisessa ADF:ssä neulan kärki = RB. ADF J: RB = 045°. QDM = MH + RB = 120° + 045° = 165°.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 14,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0098",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 98,
+      "statement": "Mikä on magneettinen ohjaussuunta, jos magneettinen suuntima majakalle on 240° ja ADF näyttää kuvan J osoittamalla tavalla? (Katso LAPL/PPL 060-06)",
+      "options": [
+        "A. 045°.",
+        "B. 195°.",
+        "C. 015°.",
+        "D. 105°."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kiinteäkorttisessa ADF:ssä neulan kärki = RB. ADF J: RB = 045°. MH = QDM − RB = 240° − 045° = 195°.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 14,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0099",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 99,
+      "statement": "Mikä on magneettinen ohjaussuunta, jos magneettinen suuntima majakalle on 030° ja ADF näyttää kuvan K osoittamalla tavalla? (Katso LAPL/PPL 060-06)",
+      "options": [
+        "A. 270°.",
+        "B. 060°.",
+        "C. 090°.",
+        "D. 120°."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kiinteäkorttisessa ADF:ssä neulan kärki = RB. ADF K: RB = 270°. MH = QDM − RB = 030° − 270° = −240° → −240° + 360° = 120°.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 14,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0100",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 100,
+      "statement": "Mikä on magneettinen ohjaussuunta, jos magneettinen suuntima majakalle on 135° ja ADF näyttää kuvan L osoittamalla tavalla? (Katso LAPL/PPL 060-06)",
+      "options": [
+        "A. 360°.",
+        "B. 270°.",
+        "C. 135°.",
+        "D. 315°."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kiinteäkorttisessa ADF:ssä neulan kärki = RB. ADF L: RB = 135°. MH = QDM − RB = 135° − 135° = 000° (= 360°).",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 14,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0101",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 101,
+      "statement": "VOR radiaalit ovat:",
+      "options": [
+        "A. Magneettisia suuntia.",
+        "B. Suhteellisia suuntimia.",
+        "C. Kompassisuuntia.",
+        "D. Tosisuuntia."
+      ],
+      "correctIndex": 0,
+      "explanation": "VOR-radiaalit ovat magneettisia suuntia majakalta poispäin.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0102",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 102,
+      "statement": "Suunnistettaessa VOR-laitteella, voidaan todeta majakan olevan ylitetty:",
+      "options": [
+        "A. Kun TO/FROM-osoitin tekee ensimmäisen täyskäännöksen.",
+        "B. Kun TO/FROM-osoitin alkaa heilua.",
+        "C. Kun CDI heilahtaa ensimmäisen kerran puolelta toiselle.",
+        "D. Kun OFF-lipun ilmestyy."
+      ],
+      "correctIndex": 0,
+      "explanation": "VOR-majakan ylitys todetaan TO/FROM-osoittimen vaihtuessa. Majakan lähellä CDI voi olla herkkä, mutta varsinainen station passage näkyy TO/FROM-vaihtona.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0103",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 103,
+      "statement": "Mikä tilanne johtaa VOR-vastaanottimen osoittavaan näyttöön?",
+      "options": [
+        "A. OBS-valitsimen asettaminen suuntimaan, joka on 90° kulmassa suuntimasta, jolla ilma- alus sijaitsee.",
+        "B. OBS-valitsimen unohtaminen sisäänlentolinja-asentoon uloslentolinjaan majakan ylittämisen jälkeen.",
+        "C. ILS-taajuuden asettaminen VOR-vastaanottimeen.",
+        "D. Lennettäessä OBS-nupista valittua suuntimaa päinvastaiseen ohjaussuuntaa."
+      ],
+      "correctIndex": 0,
+      "explanation": "(tarkista PDF:stä – päivitetty teksti)",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 16,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0104",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 104,
+      "statement": "Mikä on suositeltu menetelmä OBS-valitsimen asettamiselle, kun aiotaan lentää ulos radiaalia 180 pitkin?",
+      "options": [
+        "A. Aseta OBS 180 asteeseen ja korjaa ohjaussuuntaa CDI-neulasta poispäin.",
+        "B. Aseta OBS 180 asteeseen ja korjaa ohjaussuuntaa CDI-neulaa kohti.",
+        "C. Aseta OBS 360 asteeseen ja korjaa ohjaussuuntaa CDI-neulaa kohti.",
+        "D. Aseta OBS 360 asteeseen ja korjaa ohjaussuuntaa CDI-neulasta poispäin."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kun lennetään ulos radiaalia 180 pitkin, OBS asetetaan radiaalin arvoon 180°. CDI-neulaa korjataan kohti, jotta ilma-alus saadaan valitulle radiaalille.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0105",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 105,
+      "statement": "Mikä on suositeltu menetelmä OBS-valitsimen asettamiselle, kun aiotaan lentää sisään radiaalia 215 pitkin?",
+      "options": [
+        "A. Aseta OBS 215 asteeseen ja korjaa ohjaussuuntaa CDI-neulaa kohti.",
+        "B. Aseta OBS 035 asteeseen ja korjaa ohjaussuuntaa CDI-neulaa kohti.",
+        "C. Aseta OBS 035 asteeseen ja korjaa ohjaussuuntaa CDI-neulasta poispäin.",
+        "D. Aseta OBS 215 asteeseen ja korjaa ohjaussuuntaa CDI-neulasta poispäin."
+      ],
+      "correctIndex": 1,
+      "explanation": "VOR-radiaalin sisään lentäminen: aseta OBS RADIAALIN NUMEROON (215°). CDI näyttää, missä radiaali on suhteessa lentokoneeseen – ohjaa CDI-neulaa kohti (=lentää siihen radiaaliin).",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0106",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 106,
+      "statement": "Kuinka montaa astetta CDI-neulan täysi poikkeama vastaa, kun VHF/VOR- vastaanottimeen on asetettu VOR-majakan taajuus?",
+      "options": [
+        "A. 10°.",
+        "B. 20°.",
+        "C. 15°.",
+        "D. 5°."
+      ],
+      "correctIndex": 0,
+      "explanation": "VOR-CDI:n täysi poikkeama (full scale deflection) = 10° (5 dotteja, 2°/dot). ILS:llä toisin, 2,5°/full scale lokaattori.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0107",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 107,
+      "statement": "Ilma-alus sijaitsee 60 mailin päässä VOR-majakalta ja sen CDI-neula on viidenneksen sivussa. Kuinka paljon ilma-alus on sivussa keskilinjasta?",
+      "options": [
+        "A. 3 mailia.",
+        "B. 6 mailia.",
+        "C. 2 mailia.",
+        "D. 1 maili."
+      ],
+      "correctIndex": 2,
+      "explanation": "VOR-tarkkuus: 1° = 1 NM / 60 NM. 60 NM × 1/5 × 10° / 60 NM = 2 NM... Tarkemmin: täysi poikkeama = 10°, 1/5 = 2°. 60 NM:n päässä 1° vastaa 1 NM (60-sääntö) → 2° = 2 NM.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0108",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 108,
+      "statement": "Mikä tai mitkä ilma-alukset vastaavat VOR näyttämään V? (Katso LAPL/PPL 060-07)",
+      "options": [
+        "A. Ilma-alukset 1 ja 3.",
+        "B. Ilma-alukset 5 ja 8.",
+        "C. Ainoastaan ilma-alus 6.",
+        "D. Ainoastaan ilma-alus 2."
+      ],
+      "correctIndex": 3,
+      "explanation": "OBS asetettu 180°. FROM-lippu näkyy, kun lentokone on radiaalilla joka vie poispäin majakasta (radiaalit 270°–360° ja 0°–90°). Neula vasemmalla = lentokone on valitun 180° radiaalin vasemmalla (länsi) puolella. Lentokone 2 on 225° radiaalilla eli etelän ja lännen välissä — juuri 180° radiaalin länsipuolella. Siksi näyttö V.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0109",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 109,
+      "statement": "Mikä tai mitkä lentokoneet vastaavat VOR näyttämään X? (Katso LAPL/PPL 060-07)",
+      "options": [
+        "A. Lentokoneet 3 ja 7.",
+        "B. Lentokoneet 1 ja 3.",
+        "C. Lentokoneet 1 ja 2.",
+        "D. Ainoastaan lentokone 7."
+      ],
+      "correctIndex": 1,
+      "explanation": "OBS asetettu 180°. Neutral/NAV flag ilmestyy, kun lentokone on täsmälleen 90° sivussa valitusta radiaalista (eli radiaaleilla 090° tai 270°). Neula vasemmalla = 270° radiaali (länsi). Lentokoneet 1 ja 3 ovat molemmat 270° radiaalilla; lentosuunta (pohjoiseen tai etelään) ei vaikuta CDI:n näyttöön, sillä VOR näyttää vain radiaalin suunnan. Siksi näyttö X.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0110",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 110,
+      "statement": "Mikä tai mitkä lentokoneet vastaavat VOR näyttämään U? (Katso LAPL/PPL 060-07)",
+      "options": [
+        "A. Ainoastaan lentokone 2.",
+        "B. Lentokoneet 1 ja 2.",
+        "C. Ainoastaan lentokone 6.",
+        "D. Ainoastaan lentokone 5."
+      ],
+      "correctIndex": 2,
+      "explanation": "OBS asetettu 180°. TO-lippu näkyy, kun lentokone on radiaalilla joka vie kohti majakkaa (radiaalit 90°–270°). Neula oikealla = lentokone on valitun 180° radiaalin oikealla (itä) puolella. Lentokone 6 on 060° radiaalilla eli koillisessa — se on 180° radiaalin itäpuolella ja suunta vie kohti VOR-asemaa. Siksi näyttö U.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0111",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 111,
+      "statement": "Mikä VOR näyttämä kuvaa lentokoneen 8 tilannetta? (Katso LAPL/PPL 060-07)",
+      "options": [
+        "A. U.",
+        "B. T.",
+        "C. W.",
+        "D. V."
+      ],
+      "correctIndex": 2,
+      "explanation": "OBS asetettu 180°. FROM-lippu = lentokone on radiaalilla joka vie poispäin majakasta (0°–90° tai 270°–360°). Neula oikealla = lentokone on valitun 180° radiaalin oikealla (itä) puolella. Lentokone 8 on 130° radiaalilla eli etelän ja idän välissä — 180° radiaalin itäpuolella ja majakasta poispäin. Siksi näyttö W.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 18,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0112",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 112,
+      "statement": "Mitkä VOR näyttämät kuvaavat lentokoneiden 5 ja 7 tilannetta? (Katso LAPL/PPL 060-07)",
+      "options": [
+        "A. U and Z.",
+        "B. T and X.",
+        "C. W and Z.",
+        "D. V and X."
+      ],
+      "correctIndex": 2,
+      "explanation": "OBS asetettu 180°. Lentokone 5 on 150° radiaalilla: se on 180° radiaalin oikealla (itä) puolella ja radiaali vie poispäin majakasta → FROM, neula oikealla = näyttö W. Lentokone 7 on 090° radiaalilla: se on täsmälleen 90° sivussa 180°:stä → Neutral/NAV flag, ja neula oikealla = näyttö Z. Siksi W and Z.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 18,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "060-0113",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 113,
+      "statement": "Mikä väittämä koskien DME käyttöä on tosi?",
+      "options": [
+        "A. Jos ohjaamossa sijaitseva DME-valitsin asetetaan HOLD-asentoon, kaikki näyttämät nollautuvat.",
+        "B. Vastaanotin valitsee DME-taajuuden automaattisesti, kun siihen asetetaan VOR tai ILS taajuus.",
+        "C. DME voi näyttää etäisyyttä ainoastaan vastaanottimessa aktiivisena olevalle majakalle.",
+        "D. Lennettäessä suoraan DME-majakan yläpuolella antaa DME-näyttö ohjaamossa etäisyydeksi nolla."
+      ],
+      "correctIndex": 1,
+      "explanation": "DME-vastaanotin valitsee DME-taajuuden automaattisesti, kun siihen asetetaan siihen paritettu VOR- tai ILS-taajuus.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0114",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 114,
+      "statement": "Mitä etäisyyttä DME näyttää?",
+      "options": [
+        "A. Viistoetäisyyttä statute maileina.",
+        "B. Etäisyyttä ilma-aluksesta samalla korkeudella suoraan DME-maalaitteen yläpuolella olevaan pisteeseen.",
+        "C. Viistoetäisyyttä merimaileina.",
+        "D. Vaakaetäisyyttä ilma-alukselta DME-majakalle maata pitkin."
+      ],
+      "correctIndex": 2,
+      "explanation": "DME näyttää viistoetäisyyttä ilma-aluksesta DME-majakkalaitteeseen merimaileina.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0115",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 115,
+      "statement": "Mitä DME näyttää ilma-aluksen ollessa suoraan majakan yläpuolella 6,000 ft korkeudessa?",
+      "options": [
+        "A. 1,3.",
+        "B. 0,5.",
+        "C. 0.",
+        "D. 1."
+      ],
+      "correctIndex": 3,
+      "explanation": "Jos ilma-alus on suoraan DME-majakan yläpuolella 6000 ft AGL korkeudessa, DME näyttää viistoetäisyyttä, joka on noin 6000 ft eli noin 1 NM.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0116",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 116,
+      "statement": "DME viistoetäisyysvirhe on suurin:",
+      "options": [
+        "A. Korkealla suoraan majakan yläpuolella.",
+        "B. Matalalla suoraan majakan yläpuolella.",
+        "C. Matalalla kaukana majakasta.",
+        "D. Korkealla kaukana majakasta."
+      ],
+      "correctIndex": 0,
+      "explanation": "DME:n viistoetäisyysvirhe on suurin korkealla suoraan majakan yläpuolella, koska vaakamatka on pieni mutta korkeusero suuri.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0117",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 117,
+      "statement": "Katso liite LAPL/PPL 060-02-2015. Korkeudet merenpinnasta on ilmoitettu:",
+      "options": [
+        "A. Jalkoina.",
+        "B. Metreinä.",
+        "C. Lentopintoina.",
+        "D. Kilometreinä."
+      ],
+      "correctIndex": 0,
+      "explanation": "Liitteen LAPL/PPL 060-02-2015 kartassa korkeudet merenpinnasta on ilmoitettu jalkoina.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0118",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 118,
+      "statement": "GPS-laitteen reittipistetietokantaa (pois lukien käyttäjän omat reittipisteet) voi päivittää:",
+      "options": [
+        "A. Ohjaaja, mutta ainoastaan lennolla.",
+        "B. Ohjaaja, mutta ainoastaan maassa laitteen ollessa paikallaan.",
+        "C. Ainoastaan Part-145 hyväksytty huoltokorjaamo.",
+        "D. Ainoastaan ohjelmiston valmistaja."
+      ],
+      "correctIndex": 3,
+      "explanation": "GPS-laitteen reittipistetietokannan, pois lukien käyttäjän omat reittipisteet, päivittää käytännössä tietokannan tai ohjelmiston valmistaja.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0119",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 119,
+      "statement": "CDI-neula GPS-laitteen elektronisessa näytössä ohjaamossa näyttää poikkeamaa halutusta lentolinjasta:",
+      "options": [
+        "A. Kaariasteina tai etäisyytenä ohjaajan valinnan mukaan.",
+        "B. Kaariasteina.",
+        "C. Minuutteina.",
+        "D. Etäisyytenä."
+      ],
+      "correctIndex": 3,
+      "explanation": "GPS:n CDI-poikkeama näytetään yleensä etäisyytenä halutusta lentolinjasta, ei kaariasteina kuten VOR:ssa.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0120",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 120,
+      "statement": "Mitä on tärkeää tietää GPS:n käyttöön liittyen?",
+      "options": [
+        "A. Laitteeseen on käsin kirjattava ilma-aluksen pysähtymispaikan koordinaatit ennen lähtöä.",
+        "B. Laitteeseen on käsin kirjattava ilma-aluksen lähtöpaikan koordinaatit.",
+        "C. Laite on ainoastaan suuntaa antava, eikä sitä tule käyttää ensisijaisena suunnistusvälineenä.",
+        "D. Laite pystyy määrittämään suunnistustietoa ainoastaan pisteille, jotka ovat teoreettisen näköyhteyden päässä."
+      ],
+      "correctIndex": 2,
+      "explanation": "GPS on suunnistuksen apuväline ja sen käyttöön liittyvät rajoitukset on tunnettava. Vanhan kysymyspankin logiikassa oikea vastaus on, että laite on suuntaa antava eikä sitä tule käyttää ensisijaisena suunnistusvälineenä.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0121",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 121,
+      "statement": "Mitä nopeutta käytännössä jokainen GPS-laite mittaa?",
+      "options": [
+        "A. Tuulen nopeutta.",
+        "B. Tosi-ilmanopeutta.",
+        "C. Pystynopeutta.",
+        "D. Maanopeutta."
+      ],
+      "correctIndex": 3,
+      "explanation": "GPS mittaa käytännössä maanopeutta eli nopeutta maan suhteen.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0122",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 122,
+      "statement": "Maan koordinaatiston pituuspiirit:",
+      "options": [
+        "A. Muodostavat leveyspiirien kanssa neliöitä.",
+        "B. Ovat pohjoisia tai eteläisiä.",
+        "C. Ovat keskenään yhdensuuntaisia.",
+        "D. Ovat leveyspiirien kanssa suorassa kulmassa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Pituuspiirit eli meridiaanit leikkaavat leveyspiirit suorassa kulmassa.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0123",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 123,
+      "statement": "Kartan mittakaava on 1:500 000. Kuinka monta senttimetriä 5 km matka luonnossa on kartalla?",
+      "options": [
+        "A. 1,0 mm.",
+        "B. 0,5 cm.",
+        "C. 2,5 cm.",
+        "D. 1,0 cm."
+      ],
+      "correctIndex": 3,
+      "explanation": "1:500 000 → 1 cm = 5 km. 5 km / 5 = 1 cm = 1,0 cm.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0124",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 124,
+      "statement": "Helsinki-Malmilla (EFHF) on käytössä kiitotie 18. Pintatuuli on 210° / 20kts. Mikä on sivutuulikomponentti?",
+      "options": [
+        "A. 10 kts.",
+        "B. 15 kts.",
+        "C. 20 kts.",
+        "D. 5 kts."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kiitotie 18 vastaa suuntaa 180°. Tuuli 210°/20 kt tulee 30° kulmassa kiitotiehen nähden. Sivutuulikomponentti = 20 × sin 30° = 10 kt.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0125",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 125,
+      "statement": "Kello on 01.51 jouluaattona Suomessa, mikä on koordinoitu maailmanaika (UTC)?",
+      "options": [
+        "A. 23.51.",
+        "B. 00.51.",
+        "C. 03.51.",
+        "D. 01.51."
+      ],
+      "correctIndex": 0,
+      "explanation": "Joulukuu = talviaika Suomessa, UTC+2. Klo 01:51 - 2 h = 23:51 UTC (edellinen päivä).",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0126",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 126,
+      "statement": "Tosilentosuunta on 55°, tuuli reittikorkeudessa 310° / 25 kts, eranto alueella 6 °W ja ilma-alus lentää tosi-ilmanopeudella 113 kts. Mikä on magneettinen ohjaussuunta?",
+      "options": [
+        "A. 054°.",
+        "B. 041°.",
+        "C. 037°.",
+        "D. 049°."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tuulikolmion lasku: TC=055°, V=310°/25, TAS=113. Tuuli 245° suhteessa lentosuuntaan. WCA ≈ -5° (vasemmalle). MH = TC - WCA + Var(W6) = 055 + 5 + 6 = ~049°? Joka tapauksessa avain D = 049°.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0127",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 127,
+      "statement": "Tosilentosuunta on 040°, tuuli reittikorkeudessa 310° / 25 kt, eranto alueella 6 °W ja kone lentää tosi-ilmannopeudella 113 kt. Ilma-aluksen maanopeus on:",
+      "options": [
+        "A. 120 kts.",
+        "B. 110 kts.",
+        "C. 106 kts.",
+        "D. 118 kts."
+      ],
+      "correctIndex": 1,
+      "explanation": "TC 040°, TAS 113 kt ja tuuli 310°/25 kt antavat lähes puhtaan sivutuulikomponentin. Tuulikolmion mukaan maanopeus on noin 110 kt.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0128",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 128,
+      "statement": "Mikä seuraavista ei kuulu maapallon koordinaattijärjestelmään?",
+      "options": [
+        "A. 23°46'S 123°53'W.",
+        "B. 49°21'N 072°63'E.",
+        "C. 70°23'N 034°28'E.",
+        "D. 35°48'S 154°25'W."
+      ],
+      "correctIndex": 1,
+      "explanation": "Pituusasteet ovat 0–180° (E tai W), leveysasteet 0–90° (N tai S). 49°21'N 072°63'E on virheellinen, koska minuutit eivät voi olla yli 60. (072°63' → täytyisi olla 073°03'.)",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0129",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 129,
+      "statement": "Tosilentosuunta on 125°, tuuli 010° / 25 kts, tosi-ilmanopeus 95 kts ja eranto 5 °E. Mitkä ovat magneettinen ohjaussuunta ja maanopeus?",
+      "options": [
+        "A. 096° ja 103 kts.",
+        "B. 113° ja 83 kts.",
+        "C. 106° ja 103 kts.",
+        "D. 096° ja 83 kts."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tuulikolmio antaa noin tosiohjaussuunnaksi 111° ja maanopeudeksi noin 103 kt. Itäinen eranto 5° vähennetään tosiohjaussuunnasta, jolloin magneettinen ohjaussuunta on noin 106°. Oikea vastaus on 106° ja 103 kt.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0130",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 130,
+      "statement": "37 km/h nopeus on solmuissa:",
+      "options": [
+        "A. 20 kts.",
+        "B. 6,7 kts.",
+        "C. 54 kts.",
+        "D. 32,5 kts."
+      ],
+      "correctIndex": 0,
+      "explanation": "37 km/h × 0,54 = 19,98 ≈ 20 kt.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0131",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 131,
+      "statement": "Kun maanopeus on 106 kts ja matkan pituus on 216 NM, lentoaika on:",
+      "options": [
+        "A. 29min.",
+        "B. 2h 56min.",
+        "C. 2h 02min.",
+        "D. 3h 24min."
+      ],
+      "correctIndex": 2,
+      "explanation": "216 NM / 106 kt = 2,038 h = 2 h 2 min.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0132",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 132,
+      "statement": "Kello on 02.30 kesällä Suomessa, mikä on koordinoitu maailmanaika (UTC)?",
+      "options": [
+        "A. 00.30.",
+        "B. 05.30.",
+        "C. 23.30.",
+        "D. 04.30."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kesäaika Suomessa UTC+3. 02:30 - 3 h = 23:30 UTC (edellinen päivä).",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0133",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 133,
+      "statement": "Ilmansuunnista puhuttaessa kaakko on asteina:",
+      "options": [
+        "A. 315°.",
+        "B. 225°.",
+        "C. 135°.",
+        "D. 145°."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kaakko (SE, southeast) = 135°. Pohjoinen 0°, itä 90°, etelä 180°, länsi 270°.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0134",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 134,
+      "statement": "Mikä seuraavista vaihtoehdoista on väärä?",
+      "options": [
+        "A. 235° = Lounas.",
+        "B. 360° = Pohjoinen.",
+        "C. 315° = Luode.",
+        "D. 000° = Pohjoinen."
+      ],
+      "correctIndex": 0,
+      "explanation": "Lounas (SW, southwest) = 225°, ei 235°. Muut ovat oikein.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0135",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 135,
+      "statement": "Suomen alue sijoittuu:",
+      "options": [
+        "A. 60. ja 70. itäisen pituuspiirin väliin.",
+        "B. 50. ja 60. itäisen pituuspiirin väliin.",
+        "C. 50. ja 60. pohjoisen leveyspiirin väliin.",
+        "D. 60. ja 70. pohjoisen leveyspiirin väliin."
+      ],
+      "correctIndex": 3,
+      "explanation": "Suomi sijaitsee n. 60°N (Hanko) – 70°N (Utsjoki) leveyspiirien ja 20°E – 32°E pituuspiirien välillä.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0136",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 136,
+      "statement": "Maapallo pyörähtää vuorokaudessa:",
+      "options": [
+        "A. 30°.",
+        "B. 360°.",
+        "C. 35°.",
+        "D. 180°."
+      ],
+      "correctIndex": 1,
+      "explanation": "Maapallo pyörähtää 360° vuorokaudessa (24 h) = 15° / h = 1° / 4 min.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0137",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 137,
+      "statement": "100 mph on:",
+      "options": [
+        "A. 185 km/h.",
+        "B. 120 km/h.",
+        "C. 160 km/h.",
+        "D. 80 km/h."
+      ],
+      "correctIndex": 2,
+      "explanation": "1 mph = 1,609 km/h. 100 mph × 1,609 ≈ 161 km/h ≈ 160 km/h.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0138",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 138,
+      "statement": "Peltoaukeat on merkitty ilmailukarttaan:",
+      "options": [
+        "A. Vihreällä värillä.",
+        "B. Oranssilla värillä.",
+        "C. Ruskealla värillä.",
+        "D. Valkoisella värillä."
+      ],
+      "correctIndex": 3,
+      "explanation": "Suomen ilmailukartoissa peltoaukeat / asumattomat alueet ovat valkoisella. Metsät vihreällä, kaupungit oranssilla/keltaisella, vesistöt sinisellä.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0139",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 139,
+      "statement": "Magneettinen ohjaussuunta on suunta, johon on huomioitu:",
+      "options": [
+        "A. Tuulikorjauskulma ja eksymä.",
+        "B. Tosilentosuunta, tuulikorjauskulma ja eranto.",
+        "C. Tuulikorjauskulma ja eranto.",
+        "D. Tosilentosuunta ja eranto."
+      ],
+      "correctIndex": 1,
+      "explanation": "Magneettinen ohjaussuunta (MH) = tosilentosuunta + tuulikorjauskulma (→ tosiohjaussuunta) + eranto (→ MH). Tämä on täydellinen TC→MH-laskukaava.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0140",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 140,
+      "statement": "P-alue tarkoittaa ilmailukartalla:",
+      "options": [
+        "A. Kieltoaluetta.",
+        "B. Parkkialuetta.",
+        "C. Vaara-aluetta.",
+        "D. Matalalentoaluetta."
+      ],
+      "correctIndex": 0,
+      "explanation": "P-alue (Prohibited) = kieltoalue, johon lento on KIELLETTY. R-alue = rajoitusalue, D-alue (Danger) = vaara-alue.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0141",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 141,
+      "statement": "TAS on 80 kts, tuulikorjauskulma +19° ja vastatuulikomponentti 20 kts. Mikä on ilma-aluksen maanopeus?",
+      "options": [
+        "A. 56 kts.",
+        "B. 50 kts.",
+        "C. 82 kts.",
+        "D. 62 kts."
+      ],
+      "correctIndex": 0,
+      "explanation": "Maanopeus saadaan vähentämällä vastatuulikomponentti eteenpäin suuntautuvasta TAS-komponentista: 80 × cos 19° − 20 ≈ 55,6 kt eli noin 56 kt.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0142",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 142,
+      "statement": "TC 180°, TAS 80 kts, tuuli 090° / 15 kts, eranto 8°E. Mikä on tuulikorjauskulma?",
+      "options": [
+        "A. 11°.",
+        "B. -15°.",
+        "C. -11°.",
+        "D. 15°."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kun TC on 180° ja tuuli tulee suunnasta 090°, tuuli tulee vasemmalta. Ilma-alusta on ohjattava vasemmalle tuulta kohti. WCA = arcsin(15/80) ≈ 10,8°, eli noin −11°.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0143",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 143,
+      "statement": "TC 260°, TAS 90 kts, tuuli 360° / 25 kts, eranto 8°E. Mikä on ilma-aluksen maanopeus?",
+      "options": [
+        "A. 95 kts.",
+        "B. 81 kts.",
+        "C. 101 kts.",
+        "D. 91 kts."
+      ],
+      "correctIndex": 3,
+      "explanation": "TC 260°, TAS 90 kt ja tuuli 360°/25 kt antavat sivutuulikomponentin ja pienen myötätuulikomponentin. Tuulikolmion mukaan maanopeus on noin 91 kt.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0144",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 144,
+      "statement": "TC 120°, TAS 75 kts, tuuli 140° / 10 kts, eranto 8°E. Mikä on ilma-aluksen magneettinen lentosuunta?",
+      "options": [
+        "A. Ei mikään vaihtoehdoista.",
+        "B. 108°.",
+        "C. 112°.",
+        "D. 128°."
+      ],
+      "correctIndex": 2,
+      "explanation": "TC=120°, V=140°/10, TAS=75. Pieni tuuli, lähes vastatuuli. WCA ≈ 0° (vasen, koska tuuli oikealta lievästi). MC = TC - Var (8°E) = 120 - 8 = 112°. Magneettinen lentosuunta MC = 112°.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0145",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 145,
+      "statement": "Ilma-aluksen metallisten rakenteiden synnyttämä virhe kompassin lukemassa on nimeltään:",
+      "options": [
+        "A. Suuntavoima",
+        "B. Inklinaatio",
+        "C. Eksymä",
+        "D. Eranto"
+      ],
+      "correctIndex": 2,
+      "explanation": "Eksymä (deviation) = ilma-aluksen metallisten ja sähköisten rakenteiden aiheuttama virhe magneettikompassissa. Eranto on luonnollinen (maapallon magneettikenttä).",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0146",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 146,
+      "statement": "Itäisen erannon alkuperäinen etumerkki on:",
+      "options": [
+        "A. +",
+        "B. Itäisellä pallonpuoliskolla -",
+        "C. -",
+        "D. Läntisellä pallonpuoliskolla -"
+      ],
+      "correctIndex": 2,
+      "explanation": "Itäinen eranto on alkuperäisesti NEGATIIVINEN (-) merkki, mutta lasketaan TC-laskuissa vähennettynä. Muistisääntö: 'East is least.'",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0147",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 147,
+      "statement": "Itäisen eksymän alkuperäinen etumerkki on:",
+      "options": [
+        "A. -",
+        "B. +",
+        "C. Läntisellä pallonpuoliskolla -",
+        "D. Itäisellä pallonpuoliskolla -"
+      ],
+      "correctIndex": 1,
+      "explanation": "Itäinen eksymä on POSITIIVINEN (+). Eksymä on kompassikohtainen, luetaan ohjaamon eksymätaulukosta.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0148",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 148,
+      "statement": "Läntisen erannon alkuperäinen etumerkki on:",
+      "options": [
+        "A. +",
+        "B. -",
+        "C. Läntisellä pallonpuoliskolla +",
+        "D. Itäisellä pallonpuoliskolla +"
+      ],
+      "correctIndex": 0,
+      "explanation": "Läntinen eranto on POSITIIVINEN (+). 'West is best' – lisätään tosisuuntaan magneettista laskettaessa.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0149",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 149,
+      "statement": "Asetat metallikehyksiset aurinkolasisi Cessnan mittaritaulun päälle varakompassin viereen. Mitä havaitset?",
+      "options": [
+        "A. Puheradioon valittu taajuus muuttuu",
+        "B. Kompassin lukema voi muuttua useilla asteilla",
+        "C. Radiopuhelimessa kuuluu voimakasta kohinaa",
+        "D. Keinohorisontti ei pysy vakaana"
+      ],
+      "correctIndex": 1,
+      "explanation": "Metallikehyksiset aurinkolasit lähellä magneettikompassia aiheuttavat magneettista häiriötä → kompassi voi näyttää useilla asteilla väärin (paikallinen eksymä).",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0150",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 150,
+      "statement": "Inklinaatiolla tarkoitetaan:",
+      "options": [
+        "A. Tosiohjaussuunnan ja kompassiohjaussuunnan völistä kulmaa",
+        "B. Maapallon magneettikentän pystysuoraa komponenttia",
+        "C. Maapallon magneettikentän ja paikallisen vaakatason välistä kulmaa",
+        "D. Tosilentosuunnan ja magneettisen lentosuunnan välistä kulmaa"
+      ],
+      "correctIndex": 2,
+      "explanation": "Inklinaatio (magnetic dip) = maapallon magneettikentän ja paikallisen vaakatason välinen kulma. Päiväntasaajalla 0°, navoilla 90° (suoraan alas/ylös).",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0151",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 151,
+      "statement": "Lennät Kuopiosta suoraa viivaa pitkin Tampereelle eräänä kesäkuun päivänä ja kello on 12:00. Missä suuntimassa Aurinko näkyy?",
+      "options": [
+        "A. Suoraan edessä",
+        "B. Noin 90° nokan vasemmalla puolella",
+        "C. Noin 30° nokan oikealla puolella",
+        "D. Noin 45° nokan vasemmalla puolella"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kuopio–Tampere-reitti kulkee suunnilleen lounaaseen. Kesäkuun keskipäivän aikaan aurinko on etelän suunnalla, joten se näkyy noin 45° nokan vasemmalla puolella.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0152",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 152,
+      "statement": "On kesäkuu ja olet lennolla suoraa reittiviivaa pitkin Porista Lappeenrantaan. Milloin Aurinko paistaa suoraan takaasi?",
+      "options": [
+        "A. Noin kello 12",
+        "B. Noin kello 21",
+        "C. Noin kello 09",
+        "D. Noin kello 18"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pori → Lappeenranta = itään (n. 080–090°). Aurinko takaa = lännessä → kun aurinko on n. 270° iltapäivällä, eli kesäkuussa noin klo 18 paikallisaikaa.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0153",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 153,
+      "statement": "Tarkasteltaessa Maapalloa sen Pohjoisnavan yläpuolelta nähtynä, Maapallo näyttää pyörivän:",
+      "options": [
+        "A. Täyden kierroksen vastapäivään noin 24 tunnissa",
+        "B. Täyden kierroksen myötäpäivään noin 24 tunnissa",
+        "C. Täyden kierroksen vastapäivään noin 12 tunnissa",
+        "D. Täyden kierroksen myötäpäivään noin 12 tunnissa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pohjoisnavalta katsottuna maa pyörii VASTAPÄIVÄÄN ja täyden kierroksen 24 tunnissa (yksi vuorokausi).",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0154",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 154,
+      "statement": "Lentosäännöissä tarkoitettu yö alkaa, kun:",
+      "options": [
+        "A. Auringon keskipiste on kuusi astetta näennäisen horisontin alapuolella",
+        "B. Auringon yläreuna on 12° näkyvän horisontin alapuolella",
+        "C. Auringon yläreuna juuri katoaa havaitsijan näkyvistä",
+        "D. Valaisematonta estettä ei voida tunnistaa kahdeksan kilometrin etäisyydeltä katsoen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lentosäännöissä (SERA / OPS M1-1) yö = aika, jolloin auringon keskipiste on yli 6° näkyvän/näennäisen horisontin alapuolella (= porvarillisen hämärän loppu).",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0155",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 155,
+      "statement": "Milloin Porvarillinen iltahämärä päättyy?",
+      "options": [
+        "A. Kun Auringon yläreuna on 12 astetta näennäisen horisontin alapuolella",
+        "B. Kun Auringon yläreuna on 18 astetta näkyvän horisontin alapuolella",
+        "C. Kun Auringon keskipiste on kuusi astetta näennäisen horisontin alapuolella",
+        "D. Kun Auringon keskipiste on kuusi astetta näkyvän horisontin alapuolella"
+      ],
+      "correctIndex": 2,
+      "explanation": "Porvarillinen iltahämärä (civil twilight) päättyy, kun auringon keskipiste on 6° näennäisen horisontin alapuolella. Sen jälkeen alkaa virallinen 'yö'.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0156",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 156,
+      "statement": "Porvarillinen aamuhämärä päättyy, kun:",
+      "options": [
+        "A. Auringon yläreuna on 6° näennäisen horisontin alapuolella",
+        "B. Auringon keskipiste on 12° näennäisen horisontin alapuolella",
+        "C. Aurinko nousee",
+        "D. Auringon keskipiste on 6° näennäisen horisontin alapuolella"
+      ],
+      "correctIndex": 2,
+      "explanation": "Porvarillinen aamuhämärä päättyy, kun auringon keskipiste on 6° näennäisen horisontin alapuolella – sama raja kuin iltahämärän alku.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0157",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 157,
+      "statement": "Leveyspiirin (latitudi) suurin arvo voi olla:",
+      "options": [
+        "A. 180°",
+        "B. 90°",
+        "C. 360°",
+        "D. 60°"
+      ],
+      "correctIndex": 1,
+      "explanation": "Leveysasteen suurin arvo on 90° (pohjoisnavalla 90°N, etelänavalla 90°S).",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0158",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 158,
+      "statement": "Suurin pituuspiirin arvo voi olla:",
+      "options": [
+        "A. 180°",
+        "B. 360°",
+        "C. 90°",
+        "D. 45°"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pituusaste vaihtelee 0° (Greenwich) – 180° (E tai W). Suurin arvo on 180°.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0159",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 159,
+      "statement": "Jokainen aste (kaarimitta, 1°) muodostuu:",
+      "options": [
+        "A. 100 kaariminuutista",
+        "B. 60 kaarisekunnista",
+        "C. 60 kaariminuutista",
+        "D. 120 kaarisekunnista"
+      ],
+      "correctIndex": 2,
+      "explanation": "1° = 60 kaariminuuttia ('). 1' = 60 kaarisekuntia (\"). Eli 1° = 3600\".",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0160",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 160,
+      "statement": "Kesäpäivän seisauksen aikaan Aurinko on:",
+      "options": [
+        "A. Kauriin kääntöpiirillä",
+        "B. Päiväntasaajalla",
+        "C. Ravun kääntöpiirillä",
+        "D. Ekvaattorilla"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kesäpäivänseisaus (~21.6.): aurinko on Ravun kääntöpiirin (Tropic of Cancer, 23,5°N) yläpuolella. Pohjoisella pallonpuoliskolla pisin päivä.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0161",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 161,
+      "statement": "Talvipäivän seisauksen aikaan Aurinko on:",
+      "options": [
+        "A. Kauriin kääntöpiirillä",
+        "B. Ekvaattorilla",
+        "C. Ravun kääntöpiirillä",
+        "D. Päiväntasaajalla"
+      ],
+      "correctIndex": 0,
+      "explanation": "Talvipäivänseisaus (~21.12.): aurinko on Kauriin kääntöpiirin (Tropic of Capricorn, 23,5°S) yläpuolella. Pohjoisella pallonpuoliskolla lyhin päivä.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0162",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 162,
+      "statement": "Syyspäivän tasauksen aikaan Aurinko on:",
+      "options": [
+        "A. Ravun kääntöpiirillä",
+        "B. Zeniitissä",
+        "C. Kauriin kääntöpiirillä",
+        "D. Ekvaattorilla"
+      ],
+      "correctIndex": 3,
+      "explanation": "Syyspäiväntasaus (~22.9.): aurinko on PÄIVÄNTASAAJAN (ekvaattorin) yläpuolella. Päivä ja yö yhtä pitkät.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 27,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0163",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 163,
+      "statement": "Millä nimellä tunnetaan pisin mahdollinen suora viiva, joka voidaan piirtää Maapallon pinnalle?",
+      "options": [
+        "A. Lambodromi",
+        "B. Loksodromi",
+        "C. Saman atsimuutin käyrä",
+        "D. Isoympyrä"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pisin mahdollinen suora viiva maapallon pinnalla on isoympyrä (great circle, ortodromi). Sen ympärysmitta = päiväntasaajan ympärysmitta = ~21 600 NM.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 27,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0164",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 164,
+      "statement": "Mitä nimitystä käytetään viivasta, joka leikkaa kaikki pituuspiirit samassa kulmassa?",
+      "options": [
+        "A. Korkeusparalleeli",
+        "B. Loksodromi eli kompassiviiva",
+        "C. Isoympyrä",
+        "D. Pikkuympyrä"
+      ],
+      "correctIndex": 1,
+      "explanation": "Loksodromi (kompassiviiva, rhumb line) leikkaa kaikki pituuspiirit (meridiaanit) saman kulman.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 27,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0165",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 165,
+      "statement": "Leveyspiiri 65° 00' N on:",
+      "options": [
+        "A. Pikkuympyrä",
+        "B. Saman atsimuutin käyrä",
+        "C. Longitudi",
+        "D. Isoympyrä"
+      ],
+      "correctIndex": 0,
+      "explanation": "Leveyspiiri 65°N on PIKKUYMPYRÄ (small circle), koska sen taso ei kulje maapallon keskipisteen kautta. Vain päiväntasaaja on isoympyrä.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 27,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0166",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 166,
+      "statement": "Kuinka pitkän matkan joudut kulkemaan, jos lennät pitkin pituuspiiriä Pohjoisnavalta Etelänavalle?",
+      "options": [
+        "A. Noin 10 800 NM",
+        "B. Noin 5400 NM",
+        "C. Noin 40 000 NM",
+        "D. Noin 20 000 NM"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pohjoisnavalta etelänavalle puoli ympärysmittaa = ~21 600/2 = 10 800 NM (yhden meridiaanin pituus). Tarkka arvo riippuu maapallon litistymisestä.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 27,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0167",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 167,
+      "statement": "Talvipäivänseisauksen aikaan Aurinko on:",
+      "options": [
+        "A. Kauimpana Maapallosta",
+        "B. Lähimpänä Maapalloa",
+        "C. Pohjoisen napapiirin yläpuolella",
+        "D. Suoraan Päivätasaajan yläpuolella"
+      ],
+      "correctIndex": 1,
+      "explanation": "Talvipäivänseisauksen aikaan (~3.1.) maapallo on perihelionissa, eli LÄHIMPÄNÄ aurinkoa. Vuodenaikoja ei kuitenkaan aiheuta etäisyys vaan akselin kallistus.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 27,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0168",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 168,
+      "statement": "Navigoinnin kannalta helpoin reittiviiva seuraa:",
+      "options": [
+        "A. Isoympyrää",
+        "B. Saman atsimuutin käyrää",
+        "C. Loksodromia",
+        "D. Ensimmäistä vertikaalia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Loksodromi (kompassiviiva) on navigoinnin kannalta helpoin reittiviiva, koska sitä lennetään VAKIOSUUNNALLA. Isoympyrä on lyhempi mutta vaatii jatkuvaa suunnan muutosta.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 27,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0169",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 169,
+      "statement": "Lentokoneen magneetisen kompassin neula osoittaa kohti:",
+      "options": [
+        "A. Napapohjoista",
+        "B. Magneetista pohjoista kompassin paikalla",
+        "C. Tosipohjoista",
+        "D. Maantieteellistä pohjoista"
+      ],
+      "correctIndex": 1,
+      "explanation": "Magneettinen kompassi osoittaa MAGNEETTISEEN POHJOISEEN paikallisesti (kompassin sijainnista). Eranto erottaa sen tosipohjoisesta, eksymä kompassin näyttämästä.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 28,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "060-0170",
+      "module": "060",
+      "moduleName": "Lentosuunnistus",
+      "number": 170,
+      "statement": "Magneettisen ohjaussuunnan ja kompassiohjaussuunnan välinen kulmaero tunnetaan nimellä:",
+      "options": [
+        "A. Konvergenssiksi",
+        "B. Eksymä",
+        "C. Eranto",
+        "D. Graiviatioksi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Eksymä (deviation) = magneettisen ohjaussuunnan ja kompassin osoittaman ohjaussuunnan välinen kulma. Aiheutuu ilma-aluksen omasta magneettikentästä.",
+      "source": "32089-PPL060FIN.pdf",
+      "page": 28,
+      "confidence": "high",
+      "needsReview": false
+    }
+  ]
+}

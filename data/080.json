@@ -1,0 +1,2686 @@
+{
+  "module": "080",
+  "moduleName": "Lennonteoria",
+  "source": "PPL080FIN 11102018.pdf",
+  "questions": [
+    {
+      "id": "080-0001",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 1,
+      "statement": "Tiheys:",
+      "options": [
+        "A. Lämpötilalla ei ole vaikutusta.",
+        "B. Pienenee korkeuden kasvaessa.",
+        "C. Pienenee lämpötilan pienentyessä.",
+        "D. Kasvaa korkeuden kasvaessa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ilman tiheys ρ = p/(R·T) pienenee korkeuden mukaan, koska paine pienenee eksponentiaalisesti. Lämpötila myös laskee korkeuden mukaan, mutta paineen vaikutus dominoi.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0002",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 2,
+      "statement": "Paine, joka vaikuttaa kappaleen joka pinnalle yhtä voimakkaasti, on?",
+      "options": [
+        "A. Totaalipaine.",
+        "B. Staattinen paine.",
+        "C. Dynaaminen paine.",
+        "D. On suurempi korkealla kuin merenpinnalla."
+      ],
+      "correctIndex": 1,
+      "explanation": "Staattinen paine vaikuttaa kaikkiin pinnan suuntiin yhtä voimakkaasti (Pascalin laki). Dynaaminen paine vaikuttaa vain virtauksen suunnasta.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0003",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 3,
+      "statement": "Vesihöyry ilmakehässä:",
+      "options": [
+        "A. Pienentää ilmantiheyttä.",
+        "B. Kasvattaa moottoritehoja.",
+        "C. Suurentaa ilmantiheyttä.",
+        "D. Kasvattaa siiven tuottamaa nostovoimaa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Vesihöyry on KEVYEMPÄÄ kuin kuiva ilma (vesimolekyylin moolimassa 18 vs. ilman 29) → vesihöyryinen ilma on tiheydeltään PIENEMPI. Tämä heikentää suorituskykyä.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0004",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 4,
+      "statement": "Mikä seuraavista on oikein?",
+      "options": [
+        "A. Korkeuden kasvaessa pienentyvä paine aiheuttaa tiheyden laskun.",
+        "B. Korkeuden kasvaessa kasvava lämpötila aiheuttaa tiheyden kasvun.",
+        "C. Korkeuden kasvaessa laskeva lämpötila aiheuttaa tiheyden kasvun.",
+        "D. Korkeuden kasvaessa kasvava paine aiheuttaa tiheyden laskun."
+      ],
+      "correctIndex": 0,
+      "explanation": "Korkeuden kasvaessa paine pienenee → tiheys ρ = p/RT pienenee. Vaikka lämpötila laskeekin (mikä yksin lisäisi tiheyttä), paineen lasku dominoi.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0005",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 5,
+      "statement": "Oletetaan että ilmanpaine merenpinnalla on ISA, mutta lämpötila on 10°C korkeampi. Ilmantiheys on tällöin:",
+      "options": [
+        "A. Ei vaikutusta.",
+        "B. Pienempi kuin ISA.",
+        "C. Suurempi kuin ISA.",
+        "D. ISA."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lämpötila +10 °C ISA:n yläpuolella → ρ = p/(R·T), suurempi T → pienempi tiheys. Tämä heikentää lentoonlähdön suorituskykyä.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0006",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 6,
+      "statement": "Ilmanpaine:",
+      "options": [
+        "A. Vaikuttaa kaikkiin suuntiin tasaisesti.",
+        "B. Mitataan Pascaleina per neliö tuuma.",
+        "C. Kasvaa korkeuden kasvaessa.",
+        "D. Vaikuttaa vain alaspäin."
+      ],
+      "correctIndex": 0,
+      "explanation": "Staattinen ilmanpaine vaikuttaa joka suuntaan tasaisesti (Pascalin laki). Mitataan hPa:na (= mbar = 100 Pa). Pienenee korkeuden mukana, ei kasva.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0007",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 7,
+      "statement": "Suorassa vaakalennossa lentokoneeseen vaikuttavat voimat ovat:",
+      "options": [
+        "A. Työntövoima, vastus, paino ja nostovoima.",
+        "B. Työntövoima, nostovoima, paino.",
+        "C. Nostovoima, vastus, paino.",
+        "D. Työntövoima, nostovoima, vastus."
+      ],
+      "correctIndex": 0,
+      "explanation": "Suorassa vaakalennossa neljä voimaa: TYÖNTÖVOIMA, VASTUS, NOSTOVOIMA ja PAINO. Tasapainossa: T = D ja L = W.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0008",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 8,
+      "statement": "Mikä on voiman yksikkö?",
+      "options": [
+        "A. Newton.",
+        "B. Joule.",
+        "C. Massa-kilogramma.",
+        "D. Newtonmetri."
+      ],
+      "correctIndex": 0,
+      "explanation": "Voiman SI-yksikkö on Newton (N). 1 N = 1 kg·m/s². Joule on energian, kg on massan ja Nm on momentin yksikkö.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0009",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 9,
+      "statement": "Dynaaminen paine on yhtä suuri kuin:",
+      "options": [
+        "A. Puolet nopeudesta x tiheys potenssiin kaksi.",
+        "B. Puolet tiheydestä x mittarinopeus potenssiin kaksi.",
+        "C. Tiheys x nopeus potenssiin kaksi.",
+        "D. Puolet tiheydestä x nopeus potenssiin kaksi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Dynaaminen paine q = ½·ρ·V² (puolet tiheydestä kerrottuna NOPEUDEN NELIÖLLÄ). Tämä on Bernoullin yhtälön kineettinen termi.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0010",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 10,
+      "statement": "Suhteellinen virtaus on ja lentokoneen liikkeeseen nähden.",
+      "options": [
+        "A. Rinnakkainen / vastasuuntainen",
+        "B. Samansuuntainen / vastasuuntainen",
+        "C. Kohtisuora / vastasuuntainen",
+        "D. Rinnakkainen / samansuuntainen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Suhteellinen virtaus (relative wind) on RINNAKKAINEN ja VASTASUUNTAINEN lentokoneen liikkeelle. Eli jos kone lentää eteen, suhteellinen virtaus on takaisin koneen ohitse.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0011",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 11,
+      "statement": "Dynaamisen paineen symboli on:",
+      "options": [
+        "A. P.",
+        "B. D.",
+        "C. R.",
+        "D. Q."
+      ],
+      "correctIndex": 3,
+      "explanation": "Dynaamisen paineen symboli on Q (tai q). Käytetään aerodynamiikan kaavoissa: L = q·S·CL.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0012",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 12,
+      "statement": "Millainen ilmavirtaus on siiven yläpinnalla verrattuna siiven alapinnalla olevaan ilmavirtaukseen, suorassa vaakalennossa?",
+      "options": [
+        "A. Pienempi nopeus.",
+        "B. Sama nopeus.",
+        "C. Suurempi paine.",
+        "D. Suurempi nopeus."
+      ],
+      "correctIndex": 3,
+      "explanation": "Bernoullin lain mukaan siiven yläpinnalla ilmavirta on NOPEAMPI ja paine pienempi kuin alapinnalla. Tämä paine-ero synnyttää nostovoiman.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0013",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 13,
+      "statement": "Mikä vastauksista täydentää seuraavan lauseen: Kasvava nopeus kasvattaa myös nostovoimaa, koska:",
+      "options": [
+        "A. Suhteellisen virtauksen kasvanut nopeus voittaa kasvaneen vastuksen.",
+        "B. Nostovoima on suoraan verrannollinen nopeuteen.",
+        "C. Kasvanut nopeus pienentää vastusta.",
+        "D. Kasvanut nopeus aiheuttaa staattisen paineen laskun siiven yläpinnalla, joka aiheuttaa suuremman paine-eron ala-ja yläpinnan välillä."
+      ],
+      "correctIndex": 3,
+      "explanation": "Nopeuden kasvu → ilmavirta kiihtyy yläpinnalla → staattinen paine LASKEE → suurempi paine-ero ala-/yläpinnan välillä → suurempi nostovoima. L ∝ V².",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0014",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 14,
+      "statement": "Mikä seuraavista väittämistä on oikein koskien lentokoneeseen vaikuttavia voimia:",
+      "options": [
+        "A. Siipien kehittämä nostovoima vaikuttaa aina vastakkaiseen suuntaan kuin koneen massa.",
+        "B. Paino vaikuttaa aina suoraan alas kohti maan keskipistettä.",
+        "C. Nostovoima vaikuttaa kohtisuoraan siiven jänteeseen nähden ja on aina suurempi kuin paino.",
+        "D. Työntövoima vaikuttaa samansuuntaisesti vastuksen kanssa ja on aina suurempi kuin vastus."
+      ],
+      "correctIndex": 1,
+      "explanation": "PAINO vaikuttaa aina suoraan alas kohti maan keskipistettä (gravitaatio). Nostovoima vaikuttaa kohtisuoraan suhteelliseen virtaukseen, ei aina vastakkain painolle (esim. kaartoissa).",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0015",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 15,
+      "statement": "Millainen on vapaan ilmavirtauksen paine verrattuna siiven alapinnan virtaukseen suorassa vaakalennossa?",
+      "options": [
+        "A. Suurempi.",
+        "B. Pienempi.",
+        "C. Sama.",
+        "D. Sama paine, mutta suurempi nopeus."
+      ],
+      "correctIndex": 1,
+      "explanation": "Vapaan ilmavirran paine = ympäröivä staattinen paine. Siiven alapinnalla virtaus on hidastunut → staattinen paine on SUUREMPI alapinnalla kuin vapaassa virrassa. Vapaa virtaus on siten PIENEMPI.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0016",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 16,
+      "statement": "Jos ilmavirtauksen halkileikkauksen pinta-alaa pienennetään mekaanisesti:",
+      "options": [
+        "A. Virtausnopeus säilyy samana, mutta massavirtaus kasvaa.",
+        "B. Massavirtaus säilyy samansuuruisena, mutta virtausnopeus kasvaa.",
+        "C. Massavirtaus pysyy samana, mutta staattinen paine kasvaa.",
+        "D. Virtauksen nopeus kasvaa, mutta virtauksen kineettinen energia kasvaa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Jatkuvuusyhtälön mukaan ρ·A·V = vakio. Pienennetty pinta-ala → suurempi virtausnopeus, massavirta säilyy.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0017",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 17,
+      "statement": "Dynaaminen paine on:",
+      "options": [
+        "A. Se osuus kokonaispaineesta, jolla staattinen paine nousee pisteessä, jossa sen ilmavirtauksen nopeus laskee nollaan.",
+        "B. Paine, joka johtuu yläpuolella olevan ilmamassan painosta.",
+        "C. Kokonaispaine kohdassa, jossa ilmavirran nopeus on nolla.",
+        "D. Paineen muutos, joka aiheutuu lämmönnoususta, kun ilmavirta pysäytetään."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dynaaminen paine = se osa kokonaispaineesta, jolla staattinen paine nousee STAGNAATIOPISTEESSÄ (kun virtausnopeus laskee nollaan). Pitot-putki mittaa juuri tämän.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0018",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 18,
+      "statement": "Mikä tai mitkä seuraavista väittämistä on oikein? 1. Ilmalla on massaa. 2. Ilmaa ei voi tiivistää. 3. Ilma voi muuttaa virtaustaan tai muotoaan, jos siihen kohdistuu pienikin paine-ero. 4. Ilman viskositeetti on erittäin suuri. 5. Liikkuvalla ilmalla on kineettistä energiaa.",
+      "options": [
+        "A. 2, 3 ja 4.",
+        "B. 1, 3 ja 5.",
+        "C. 1 ja 4.",
+        "D. 1, 2, 3 ja 5."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ilmalla on massaa (1), se voi muuttaa virtaustaan pienissä paine-eroissa (3) ja liikkuvalla ilmalla on kineettistä energiaa (5). Ilmaa VOI tiivistää (2 väärä) ja sen viskositeetti on PIENI (4 väärä).",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0019",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 19,
+      "statement": "Minkä pisteen ympäri lentokone kääntyy?",
+      "options": [
+        "A. Siipien.",
+        "B. Massakeskiön.",
+        "C. Laskutelineen.",
+        "D. Sivuperäsimen."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lentokone kääntyy aina MASSAKESKIÖN (CG) ympäri kaikkien kolmen akselin suhteen. CG on ainoa piste, jonka ympärillä rotaation voi tapahtua momenttitasapainossa.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0020",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 20,
+      "statement": "Dynaaminen paine on yhtä suuri kuin:",
+      "options": [
+        "A. Kokonaispaine / staattinen paine.",
+        "B. Kokonaispaine - staattinen paine.",
+        "C. Staattinen paine - kokonaispaine.",
+        "D. Kokonaispaine + staattinen paine."
+      ],
+      "correctIndex": 1,
+      "explanation": "Bernoulli: kokonaispaine = staattinen + dynaaminen. Dynaaminen = kokonaispaine - staattinen paine. Pitot-putki mittaa kokonaisen, staattinen rengas mittaa staattisen, ero = dynaaminen → ASI.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0021",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 21,
+      "statement": "Mitä tapahtuu jos ilmamassan nopeutta kasvatetaan?",
+      "options": [
+        "A. Kineettinen energia kasvaa, dynaaminen paine kasvaa, staattinen paine pienenee.",
+        "B. Staattinen paine pysyy samana, kineettinen energia kasvaa.",
+        "C. Massavirtaus pysyy yhtä suurena, dynaaminen paine pienenee, staattinen paine kasvaa.",
+        "D. Dynaaminen paine pienenee, staattinen paine kasvaa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nopeuden kasvu → kineettinen energia kasvaa → dynaaminen paine kasvaa (q = ½ρV²) → Bernoullin lain mukaan staattinen paine PIENENEE.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0022",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 22,
+      "statement": "Rajakerroksessa on:",
+      "options": [
+        "A. Laminaarinen ja turbulenttinen virtausalue.",
+        "B. Turbulenttista virtausta vain matalilla nopeuksilla.",
+        "C. Laminaarista virtausta.",
+        "D. Turbulenttista virtausta."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rajakerros (boundary layer) sisältää sekä LAMINAARISEN (etuosa) että TURBULENTTISEN (takaosa) virtausalueen. Siirtymäpiste (transition point) erottaa ne.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0023",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 23,
+      "statement": "Millainen tulee koneeseen lennon aikana vaikuttavien voimien summan olla, jotta kone pysyy kiihtymättömässä vaakalennossa?",
+      "options": [
+        "A. Nostovoiman on oltava yhtä suuri kuin työntövoima ja massan on oltava yhtä suuri kuin vastuksen.",
+        "B. Nostovoiman on oltava yhtä suuri kuin työntövoima + vastus.",
+        "C. Nostovoiman on oltava yhtä suuri kuin massan ja työntövoiman on oltava yhtä suuri kuin vastuksen.",
+        "D. Nostovoiman on oltava yhtä suuri kuin vastuksen ja työntövoiman on oltava yhtä suuri kuin massan."
+      ],
+      "correctIndex": 2,
+      "explanation": "Vakaa vaakalento: nostovoima = paino (L = W) JA työntövoima = vastus (T = D). Kaikki neljä voimaa tasapainossa.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0024",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 24,
+      "statement": "Tasainen ilmavirtaus, jossa jokainen ilmamolekyyli seuraa edellistä, on:",
+      "options": [
+        "A. Laminaarista virtausta.",
+        "B. Vapaata virtausta.",
+        "C. Turbulenttista virtausta.",
+        "D. Tuulta."
+      ],
+      "correctIndex": 0,
+      "explanation": "Laminaarinen virtaus = tasainen, kerroksinen virtaus, jossa molekyylit seuraavat edellisiä. Vastakkainen turbulenttiselle virtaukselle, jossa molekyylit liikkuvat satunnaisesti.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0025",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 25,
+      "statement": "Kun alisooninen virtaus kulkee venturiputken läpi, massavirtaus ___, nopeus ___ ja staattinen paine ___:",
+      "options": [
+        "A. Pienenee ja sitten kasvaa / kasvaa ja sitten pienenee / kasvaa ja sitten pienenee.",
+        "B. Pysyy samana / kasvaa ja sitten pienenee / pienenee ja sitten kasvaa.",
+        "C. Pienenee ja sitten kasvaa / pysyy samana / kasvaa ja sitten pienenee.",
+        "D. Pysyy samana / kasvaa ja sitten pienenee / kasvaa ja sitten pienenee."
+      ],
+      "correctIndex": 1,
+      "explanation": "Venturiputkessa alisoonisessa virtauksessa massavirtaus pysyy samana. Kuristuskohdassa nopeus kasvaa ja sen jälkeen pienenee. Staattinen paine käyttäytyy päinvastoin: se pienenee kuristuskohdassa ja kasvaa sen jälkeen.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0026",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 26,
+      "statement": "Liikkuvalla ilmamassalla on kineettistä energiaa. Kappaleeseen, joka laitetaan sellaiseen ilmavirtaukseen, kohdistuu?",
+      "options": [
+        "A. Staattista painetta ja dynaamista painetta.",
+        "B. Dynaamista painetta.",
+        "C. Staattista painetta.",
+        "D. Dynaaminen paine miinus staattinen paine."
+      ],
+      "correctIndex": 0,
+      "explanation": "Liikkuvassa ilmavirrassa olevaan kappaleeseen kohdistuu sekä staattinen paine (ympäristön paine) että dynaaminen paine (virtauksen kineettinen energia).",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0027",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 27,
+      "statement": "Dynaaminen paine voidaan ilmaista kaavalla?",
+      "options": [
+        "A. Q = pV.",
+        "B. Q = 1/2pV².",
+        "C. Q = 1/3pV².",
+        "D. Q = 2pV."
+      ],
+      "correctIndex": 1,
+      "explanation": "Q = ½ρV² – dynaamisen paineen kaava. Puolet tiheydestä kerrottuna nopeuden neliöllä.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0028",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 28,
+      "statement": "Ilmanopeuden kasvaessa dynaaminen paine:",
+      "options": [
+        "A. Pienenee.",
+        "B. Riippuu koneen painosta.",
+        "C. Kasvaa.",
+        "D. Ei muutu."
+      ],
+      "correctIndex": 2,
+      "explanation": "Dynaaminen paine q = ½ρV² – kasvaa NELIÖLLISESTI nopeuden mukana. Kahta nopeampaa ilmaa = 4× dynaaminen paine.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0029",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 29,
+      "statement": "Mikäli ilmanopeutta pienennetään, mitä lentäjän on tehtävä, jotta korkeus säilyisi?",
+      "options": [
+        "A. Pienentää kohtauskulmaa pienentääkseen vastusta.",
+        "B. Kasvattaa kohtauskulmaa säilyttääkseen tarvittavan nostovoiman.",
+        "C. Avata ilmajarrut kasvattaakseen vastusta.",
+        "D. Pienentää työntövoimaa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Korkeuden säilyttämiseksi pienemmällä nopeudella tarvitaan SUUREMPI nostovoimakerroin → KASVATETAAN KOHTAUSKULMAA (L = ½ρV²·S·CL).",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0030",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 30,
+      "statement": "Sitä osuutta kokonaisvastuksesta, joka johtuu nostovoiman syntymisestä, kutsutaan:",
+      "options": [
+        "A. Loisvastukseksi, joka on riippuvainen ilmanopeudesta.",
+        "B. Indusoiduksi vastukseksi, joka on riippuvainen nostovoimakertoimesta ja ilmanopeudesta.",
+        "C. Loisvastukseksi, joka on riippuvainen ilmanopeudesta.",
+        "D. Indusoitua vastusta, joka on riippumaton ilmanopeudesta."
+      ],
+      "correctIndex": 1,
+      "explanation": "Indusoitu vastus (induced drag, lift-induced drag) on nostovoiman synnyn sivutuote (siiven kärjessä syntyvät pyörteet). Riippuu CL:stä ja siten käänteisesti ilmanopeudesta.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0031",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 31,
+      "statement": "Kun ilma-aluksen ilmanopeutta kasvatetaan 50 solmusta 100 solmuun, mitä tapahtuu loisvastukselle?",
+      "options": [
+        "A. Se on yksi neljäsosa.",
+        "B. Se on kuusi kertaa suurempi.",
+        "C. Se on neljä kertaa suurempi.",
+        "D. Se on kaksi kertaa suurempi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Loisvastus (parasite drag) ∝ V². 50 → 100 kt = 2× nopeus → 4× loisvastus.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0032",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 32,
+      "statement": "Kuvitteellinen viiva, joka kulkee siiven johtoreunasta siiven jättöreunaan, on nimeltään:",
+      "options": [
+        "A. Maksimipaksuus.",
+        "B. Keskijänne.",
+        "C. Jänne.",
+        "D. Siiven paksuus."
+      ],
+      "correctIndex": 2,
+      "explanation": "Jänne (chord line) = suora viiva siiven johtoreunasta jättöreunaan. Jänteen pituus on jänne (chord).",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0033",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 33,
+      "statement": "Epäsymmetrinen siipi alkaa tuottaa nostovoimaa jo noin ____ kohtauskulmalla.",
+      "options": [
+        "A. Neljästä kuuteen asteen.",
+        "B. 0 asteen.",
+        "C. 16 asteen.",
+        "D. -4 asteen."
+      ],
+      "correctIndex": 3,
+      "explanation": "Epäsymmetrinen siipi (camber) tuottaa nostovoimaa jo NEGATIIVISILLA kohtauskulmilla, tyypillisesti ~-4° asti. Symmetrinen siipi vaatii positiivisen kulman.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0034",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 34,
+      "statement": "Nostovoima vaikuttaa suorassa kulmassa ja vastus vaikuttaa samansuuntaisesti:",
+      "options": [
+        "A. Kantopinnan yläpinnan suhteen.",
+        "B. Lentoradan suhteen.",
+        "C. Pituusakselin suhteen.",
+        "D. Jänneviivan suhteen."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nostovoima vaikuttaa KOHTISUORASSA suhteellisen virtauksen (lentoradan) suuntaan. Vastus vaikuttaa SAMANSUUNTAISESTI (vastakkain) lentoradan kanssa. Eivät jänteen tai siiven yläpinnan suhteen.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0035",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 35,
+      "statement": "Kun ilmanopeus kasvaa, indusoitu vastus ____, loisvastus ____ ja kokonaisvastus____.",
+      "options": [
+        "A. Kasvaa / kasvaa / kasvaa",
+        "B. Pienenee / kasvaa / pienenee ja sitten kasvaa",
+        "C. Kasvaa / pienenee kasvaa ja sitten pienenee",
+        "D. Pienenee / pienenee / pienenee"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nopeuden kasvu: indusoitu vastus PIENENEE (∝ 1/V²), loisvastus KASVAA (∝ V²). Kokonaisvastus: ENSIN pienenee (Vmd-pisteeseen asti), SITTEN kasvaa.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0036",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 36,
+      "statement": "Mitä tapahtuu, jos suorassa vaakalennossa ilmanopeus pienenee alle maksimi liitoluvun antavan nopeuden?",
+      "options": [
+        "A. Kokonaisvastus pienenee pienentyneen loisvastuksen vuoksi.",
+        "B. Kokonaisvastus pienenee pienentyneen indusoidun vastuksen vuoksi.",
+        "C. Kokonaisvastus kasvaa, kasvaneen indusoidun vastuksen vuoksi.",
+        "D. Kokonaisvastus kasvaa kasvaneen loisvastuksen vuoksi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Vmd:n alapuolella (paras L/D) hidastuminen kasvattaa kohtauskulmaa → indusoitu vastus dominoi → KOKONAISVASTUS KASVAA. 'Wrong side of the drag curve.'",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0037",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 37,
+      "statement": "Kohtauskulma on:",
+      "options": [
+        "A. Jänneviivan ja vaakatason välinen kulma.",
+        "B. Jänneviivan ja koneen pituusakselin välinen kulma.",
+        "C. Keskijänteen ja vapaan virtauksen välinen kulma.",
+        "D. Jänneviivan ja vapaan virtauksen välinen kulma."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kohtauskulma (angle of attack, AoA) = jänteen ja vapaan virtauksen (suhteellisen virtauksen) välinen kulma. EI sama kuin lentokoneen pituuskallistus.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0038",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 38,
+      "statement": "Nostovoimakertoimen suurin arvo syntyy silloin, kun siiven kohtauskulma on noin:",
+      "options": [
+        "A. 0 astetta.",
+        "B. 16 astetta.",
+        "C. Neljästä kuuteen astetta.",
+        "D. -4 astetta."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nostovoimakertoimen CL maksimi (CLmax) saavutetaan KRIITTISELLÄ KOHTAUSKULMALLA, tyypillisesti n. 16°. Sen jälkeen tapahtuu sakkaus.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0039",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 39,
+      "statement": "Mitä tapahtuu, mikäli kohtauskulma on vakio ja ilmanopeus pienenee?",
+      "options": [
+        "A. Nostovoima ja vastus pienenevät.",
+        "B. Vastus kasvaa ja nostovoima pienenee.",
+        "C. Nostovoima kasvaa ja vastus pienenee.",
+        "D. Molemmat voivat kasvaa tai pienentyä riippuen nopeudesta."
+      ],
+      "correctIndex": 0,
+      "explanation": "Vakio kohtauskulma + nopeus pienenee → SEKÄ nostovoima ETTÄ vastus pienenevät (molemmat ∝ V²).",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0040",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 40,
+      "statement": "Mikäli kohtauskulma ja muut seikat pysyvät vakiona, mitä tapahtuu nostovoimalle, kun nopeus tuplataan?",
+      "options": [
+        "A. Se nelinkertaistuu.",
+        "B. Se pienenee neljännekseen.",
+        "C. Se ei muutu.",
+        "D. Se tuplaantuu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nostovoima L = ½ρV²·S·CL. Nopeus 2× → V² = 4× → nostovoima 4× (NELINKERTAISTUU). Sama pätee vastukseen.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0041",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 41,
+      "statement": "Nostovoiman määritelmä on:",
+      "options": [
+        "A. Aerodynaaminen voima, joka vaikuttaa kohtisuoraan siiven jänteeseen.",
+        "B. Aerodynaaminen voima, joka vaikuttaa kohtisuoraan siiven yläpintaan.",
+        "C. Aerodynaaminen voima, joka vaikuttaa suorassa kulmassa suhteelliseen virtaukseen.",
+        "D. Aerodynaaminen voima, joka johtuu siiven ylä-ja alapinnan paine-eroista."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nostovoima on aerodynaaminen voima, joka vaikuttaa SUORASSA KULMASSA (kohtisuoraan) suhteelliseen virtaukseen (free stream).",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0042",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 42,
+      "statement": "Siiven tuottama nostovoima on suoraan verrannollinen:",
+      "options": [
+        "A. Ilmantiheyteen.",
+        "B. Suhteellisen ilmavirtauksen nopeuden neliöjuureen.",
+        "C. Dynaamiseen paineeseen - staattiseen paineeseen.",
+        "D. Ilmanlämpöön."
+      ],
+      "correctIndex": 0,
+      "explanation": "L = ½ρV²·S·CL. Nostovoima on suoraan verrannollinen ILMAN TIHEYTEEN (ρ). Nopeuteen verrannollisuus on V², ei sen neliöjuureen.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0043",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 43,
+      "statement": "Suurin nostovoimakertoimen arvo saavutetaan:",
+      "options": [
+        "A. Negatiivisella kohtauskulmalla.",
+        "B. Jyrkkien kaartojen aikana.",
+        "C. Sakkauskohtauskulmalla.",
+        "D. Silloin, kun nostovoima on yhtä iso vastus."
+      ],
+      "correctIndex": 2,
+      "explanation": "CLmax saavutetaan SAKKAUSKOHTAUSKULMALLA (kriittisellä kohtauskulmalla). Sen yli kohtauskulma ei enää tuota lisää nostovoimaa, vaan tapahtuu sakkaus.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0044",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 44,
+      "statement": "Mikäli indikoitu ilmanopeus pysyy vakiona, mitä vaikutusta ilmantiheyden kasvulla on ilma-alukseesi?",
+      "options": [
+        "A. Nostovoima kasvaa mutta vastus pienenee.",
+        "B. Nostovoima ja vastus pysyvät samana.",
+        "C. Nostovoima ja vastus pienenevät.",
+        "D. Nostovoima ja vastus kasvavat."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kun IAS pidetään vakiona, dynaaminen paine q = ½ρV² säilyy vakiona (IAS perustuu juuri dynaamiseen paineeseen). Siten myös nostovoima JA vastus pysyvät samana.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0045",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 45,
+      "statement": "Laskusiivekkeet tulisi valita kokonaan alas:",
+      "options": [
+        "A. Ylösvedossa.",
+        "B. Kun aloittaa loppulähestymisen.",
+        "C. Kun laskeutumispäätös on tehty.",
+        "D. Kovaan vastatuuleen laskeutuessa."
+      ],
+      "correctIndex": 2,
+      "explanation": "Laskusiivekkeet kokonaan alas valitaan VASTA, kun laskeutumispäätös on tehty (pisteen ohi, jolloin ylösveto on epätodennäköinen). Ennen sitä keskimääräinen asetus.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0046",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 46,
+      "statement": "Mikäli siiven tyvi on korkeammalla kuin kärki, siivessä sanotaan olevan:",
+      "options": [
+        "A. Trapetsisuutta.",
+        "B. Aerodynaamista kiertoa.",
+        "C. Anhedraalia.",
+        "D. Nuolikulmaa."
+      ],
+      "correctIndex": 2,
+      "explanation": "Anhedraali (negative dihedral) = siipien tyvi korkeammalla kuin kärki. Vähentää poikittaiskallistusvakavuutta. Käytetään esim. lavennetuissa ja hävittäjäkoneissa.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0047",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 47,
+      "statement": "Mitä tapahtuu, kun massakeskiö on lähellä eturajaansa?",
+      "options": [
+        "A. Tarvittavat ohjainvoimat ovat hyvin pienet.",
+        "B. Tarvittavat ohjainvoimat ovat suuret ja lentokone on hyvin vakaa lentää.",
+        "C. Tarvittavat ohjainvoimat eivät muutu.",
+        "D. Pitkittäisstabiliteetti heikkenee."
+      ],
+      "correctIndex": 1,
+      "explanation": "CG eturajalla → SUURI pituusvakavuus (kone palaa lentotasaan vahvasti) ja SUURET ohjainvoimat (vakaaja vaatii voimakkaan trimmin). Helppo ja turvallinen lentää.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0048",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 48,
+      "statement": "Ilma-alus, joka on luonnostaan stabiili:",
+      "options": [
+        "A. Palaa luonnostaan takaisin alkuperäiseen lentotilaan.",
+        "B. On vaikea ajaa sakkaukseen.",
+        "C. Ei voi joutua syöksykierteeseen.",
+        "D. Vaatii vain pieniä ohjainvoimia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Stabiili ilma-alus PALAA itsestään alkuperäiseen lentotilaan häiriön jälkeen. Voi sakata ja syöksyä, mutta vakaus on häiriön jälkeinen palautumiskäyttäytyminen.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0049",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 49,
+      "statement": "Lentokonetta, joka kohtaa häiriön lentoradassaan ja jää sen jälkeen heilahtelemaan kasvavalla amplitudilla, kutsutaan:",
+      "options": [
+        "A. Sekä staattisesti sekä dynaamisesti epävakaaksi.",
+        "B. Sekä staattisesti sekä dynaamisesti vakaaksi.",
+        "C. Staattisesti epävakaaksi, mutta dynaamisesti vakaaksi.",
+        "D. Staattisesti vakaaksi, mutta dynaamisesti epävakaaksi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Jos lentokone häiriön jälkeen heilahtelee kasvavalla amplitudilla, se on staattisesti vakaa mutta dynaamisesti epävakaa. Staattinen vakaus näkyy palautumistaipumuksena, mutta dynaaminen epävakaus näkyy heilahtelujen kasvamisena.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0050",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 50,
+      "statement": "Kone on suunniteltu niin, että massakeskiö on nostovoimakeskiön edessä ja kone on pituusvakaa. Mikäli koneen lentorataan tulee esim. turbulenssin vuoksi häiriö, joka kääntää koneen nokkaa alas:",
+      "options": [
+        "A. Korkeusvakaimesta ei synny tasapainottavaa voimaa, koska kone on jo tasapainossa.",
+        "B. Koneen korkeusvakaimessa syntyy enemmän alaspäin vaikuttavaa voimaa.",
+        "C. Kone jää lentämään nokka-alas asentoon.",
+        "D. Koneen korkeusvakaimessa syntyy enemmän ylöspäin vaikuttavaa voimaa."
+      ],
+      "correctIndex": 1,
+      "explanation": "CG nostovoimakeskiön edessä → vakaajassa on trimmissä valmiiksi alaspaine, joka tasapainottaa siiven nostovoiman aiheuttaman nokka-alas-momentin. Kun nokka kääntyy alaspäin, kohtauskulma pienenee koko koneesta (myös vakaimesta) → vakaimen alaspäin vaikuttava voima KASVAA edelleen → tämä lisääntynyt alaspaine (joka vaikuttaa CG:n takana) synnyttää palauttavan nokka-ylös-momentin. Siksi oikea vastaus on B.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0051",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 51,
+      "statement": "Kun koneen lentorata häiriintyy esimerkiksi turbulenssin vuoksi, sen sanotaan olevan stabiili, mikäli:",
+      "options": [
+        "A. Se palaa entiselle lentoradalleen ilman ohjaajan toimenpiteitä.",
+        "B. Jatkaa häiriön kasvattamista.",
+        "C. Jatkaa häiriön kasvattamista, kunnes ohjaaja pysäyttää sen ohjaimillaan.",
+        "D. Säilyttää uuden lentoratansa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Stabiili = PALAA ITSESTÄÄN entiselle lentoradalle ilman ohjaajan toimenpiteitä. Häiriön jälkeen kone trendaa takaisin.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0052",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 52,
+      "statement": "Mitä voi tapahtua, jos kone kuormataan niin, että painopiste on sallitun rajan takana?",
+      "options": [
+        "A. Korkeusperäsin aiheuttaa liian suuren nostovoiman ja koneen nokka tippuu.",
+        "B. Koneen maksimi kuormituskerroin ylitetään kaarroissa.",
+        "C. Pituusvakavuuden heikkeneminen ja mahdollinen hallinnan menettäminen pienillä nopeuksilla.",
+        "D. Ohjainvoimat kasvavat liiallisiksi."
+      ],
+      "correctIndex": 2,
+      "explanation": "CG sallitun TAKARAJAN takana → pituusvakavuus heikkenee/häviää, vaarana ei-palautuva sakkaus tai syöksykierre. Mahdollinen hallinnan menetys, etenkin pienillä nopeuksilla.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0053",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 53,
+      "statement": "Mikä seuraavista väittämistä on totta koskien lentoonlähtöä lentokoneen valmistajan suosittelemalla laskusiivekeasetuksella?",
+      "options": [
+        "A. Helpompi nousta reunaesteiden yli.",
+        "B. Tällöin lentoonlähtömatka on lyhyempi verrattuna lentoonlähtöön ilman laskusiivekkeitä.",
+        "C. Suurempi nousukulma.",
+        "D. Tällöin lentoonlähtömatka on pidempi verrattuna laipattomaan lentoonlähtöön."
+      ],
+      "correctIndex": 1,
+      "explanation": "Valmistajan suosittelemilla TO-laskusiivekkeillä (yleensä 10–15°) lentoonlähtömatka on LYHYEMPI verrattuna ilman laskusiivekkeitä. Sakkausnopeus pienenee, irtoaminen tapahtuu nopeammin.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0054",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 54,
+      "statement": "Mitä tapahtuu sakkausnopeudelle, jos laskusiivekkeitä otetaan alas?",
+      "options": [
+        "A. Sakkausnopeus laskee.",
+        "B. Sakkausnopeus kasvaa.",
+        "C. Pysyy samana.",
+        "D. Sakkausnopeus kasvaa ja sakkaus tapahtuu suuremmalla kohtauskulmalla."
+      ],
+      "correctIndex": 0,
+      "explanation": "Laskusiivekkeet alas → CLmax kasvaa → SAKKAUSNOPEUS LASKEE (Vs ∝ 1/√CLmax). Tämä on laskusiivekkeiden päätarkoitus laskeutumisessa.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0055",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 55,
+      "statement": "Lentokone on stabiliteetiltaan neutraali ja sen lentotilaan tulee häiriö, miten lentokone jatkaa lentoaan?",
+      "options": [
+        "A. Palaa alkuperäiselle lentoradalle välittömästi.",
+        "B. Säilyttää uuden asennon.",
+        "C. Heilahtelee hieman, mutta palaa alkuperäiselle lentoradalleen.",
+        "D. Kasvattaa häiriöitä, ellei lentäjä korjaa lentorataa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Neutraalisti vakaa = häiriön jälkeen kone JÄÄ uuteen asentoon (ei palaa eikä kasvata häiriötä). Esim. trimmattu kone, jossa CG on tarkalleen neutraalipisteessä.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0056",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 56,
+      "statement": "Mikäli koneen massakeskiö on sallittujen rajojen sisällä lentoonlähdössä:",
+      "options": [
+        "A. Massakeskiö ei siirry lennon aikana.",
+        "B. Se on varmasti rajojen sisällä myös laskeutuessa.",
+        "C. Tulee varmistaa myös, että se on rajojen sisällä koneen laskeutuessa.",
+        "D. Miehistö pystyy siirtämään massakeskiötä lennon aikana ja siirtämään sen kohdalleen laskua varten."
+      ],
+      "correctIndex": 2,
+      "explanation": "CG SIIRTYY lennon aikana polttoaineen kulutuksen (siipisäiliöt) ja matkustajien liikkumisen takia. On varmistettava, että CG on rajoissa MYÖS LASKEUTUMISESSA, ei pelkästään lentoonlähdössä.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0057",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 57,
+      "statement": "Edessä oleva massakeskiö aiheuttaa:",
+      "options": [
+        "A. Lyhyempää lentoonlähtö matkaa.",
+        "B. Pienentynyttä pitkittäisstabiliteettia.",
+        "C. Heikentynyttä korkeusperäsimen tehokkuutta loppuvedon aikana.",
+        "D. Kevyempiä ohjainvoimia."
+      ],
+      "correctIndex": 2,
+      "explanation": "CG eturajalla → korkeusperäsimen tehokkuus HEIKKENEE loppuvedon aikana (pitkä vipuvarsi vaatii suuremman poikkeutuksen). Loppuveto vaatii enemmän voimaa ja matkaa.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0058",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 58,
+      "statement": "Pituusvakavuutta synnyttää:",
+      "options": [
+        "A. Siivekkeet.",
+        "B. Korkeusvakaaja.",
+        "C. V-kulma.",
+        "D. Evä."
+      ],
+      "correctIndex": 1,
+      "explanation": "Pituusvakavuus syntyy KORKEUSVAKAAJAN tasapainottavasta voimasta. Vakaajan nostovoima reagoi kohtauskulman muutoksiin ja palauttaa nokan.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0059",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 59,
+      "statement": "Takana oleva massakeskiö aiheuttaa?",
+      "options": [
+        "A. Lisääntynyttä korkeusperäsimen tehokkuutta loppuvedon aikana.",
+        "B. Lisääntynyttä pitkittäisstabiliteettia.",
+        "C. Pidentynyttä lentoonlähtömatkaa.",
+        "D. Ohjaimien muuttumista jäykemmiksi."
+      ],
+      "correctIndex": 0,
+      "explanation": "CG takarajalla → korkeusperäsin LISÄÄNTYNEEN tehokkuuden, koska vipuvarsi on lyhyempi ja vakaajan tasapainottava voima pienempi → pienempi vaadittu poikkeutus.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0060",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 60,
+      "statement": "Mikäli koneen lentorataan tulee häiriö, sen tendenssiä palata alkuperäiseen lentotilaan kutsutaan:",
+      "options": [
+        "A. Liikehtimiskyvyksi.",
+        "B. Instabiliteetiksi.",
+        "C. Stabiliteetiksi.",
+        "D. Ohjattavuudeksi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Stabiliteetti = häiriön jälkeen TAIPUMUS PALATA alkuperäiseen lentotilaan ilman ohjaintoimenpiteitä. Liikehtimiskyky ja stabiliteetti ovat usein vastakkaisia ominaisuuksia.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0061",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 61,
+      "statement": "Koneen stabiliteettia pystyakselin suhteen lisää:",
+      "options": [
+        "A. Pituus V-kulma.",
+        "B. V-kulman lisäys.",
+        "C. Jos vakauttavaa sivupinta-alaa lisätään massakeskiön takana.",
+        "D. Nuolikulman pienentäminen."
+      ],
+      "correctIndex": 2,
+      "explanation": "Suuntavakavuus (yaw stability) syntyy CG:n TAKANA olevasta sivuvakaajan PINTA-ALASTA (pyrstöevä). Pinta-alan lisääminen pyrstöön kasvattaa vakavuutta.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0062",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 62,
+      "statement": "Pisin liitomatka, jonka lentokone saavuttaa sileänä 6.000 jalan korkeudesta liitosuhteella 8:1 on noin 8 merimailia. Jos laskusiivekkeitä avataan:",
+      "options": [
+        "A. Pisin saavutettava liitomatka lyhenee.",
+        "B. Liitosuhde ei muutu, mutta se saavutetaan pienemmällä ilmanopeudella.",
+        "C. Pisin saavutettava liitomatka ei muutu.",
+        "D. Pisin saavutettava liitomatka kasvaa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Laskusiivekkeet alas → CL kasvaa, mutta vastus kasvaa enemmän → L/D-suhde HEIKKENEE → liitomatka LYHENEE. Laskusiivekkeet ovat nopeuden ja korkeuden hallintaa, ei pidempi liitomatka.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0063",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 63,
+      "statement": "Lentäjä avaa laskusiivekkeitä ja pitää ilmanopeuden samalla muuttumattomana. Säilyttääkseen vaakalennon kohtauskulmaa on:",
+      "options": [
+        "A. Kasvatettava.",
+        "B. Pidettävä muuttumattomana, jolloin tehoa ei tarvitse muuttaa.",
+        "C. Pidettävä muuttumattomana, mutta samalla on lisättävä tehoa.",
+        "D. Pienennettävä."
+      ],
+      "correctIndex": 3,
+      "explanation": "Laskusiivekkeet alas + sama nopeus → CL on suurempi flapsilla → tarvitaan PIENEMPI kohtauskulma saman nostovoiman tuottamiseen. Kone laskee nokkaa.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0064",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 64,
+      "statement": "Lentokoneen siipiin suunnitellaan positiivinen V -kulma, jotta:",
+      "options": [
+        "A. Parannetaan suuntavakavuutta pystyakselin ympäri.",
+        "B. Parannetaan pituuskallistusvakavuutta poikittaisakselin ympäri.",
+        "C. Parannetaan poikittaiskallistusvakavuutta pystyakselin ympäri.",
+        "D. Parannetaan poikittaiskallistusvakavuutta pituusakselin ympäri."
+      ],
+      "correctIndex": 3,
+      "explanation": "Positiivinen V-kulma (dihedral) parantaa POIKITTAISKALLISTUSVAKAVUUTTA pituusakselin ympäri (roll). Sivuluiskaa kohti tuulta → tuulen puoleinen siipi näkee suuremman kohtauskulman → kone palautuu suoraksi.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0065",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 65,
+      "statement": "Tuulenpuuska heilauttaa lentokonetta. Stabiliteetti on neutraali, mikäli lentokone ilman ohjaajan vaikutusta:",
+      "options": [
+        "A. Palautuu alkuperäiseen asentoonsa ja suuntaansa ilman ylimääräisiä heilahduksia.",
+        "B. Jatkaa ajautumista poispäin alkuperäiseltä lentoradalta ja alkuperäisestä lentoasennosta.",
+        "C. Säilyttää uuden lentoradan.",
+        "D. Palautuu alkuperäiseen asentoonsa ja suuntaansa ylimääräisten heilahdusten jälkeen."
+      ],
+      "correctIndex": 2,
+      "explanation": "Neutraali stabiliteetti = häiriön jälkeen kone JÄÄ UUDELLE LENTORADALLE (ei palaa eikä kasvata). Vakaa palaa, epävakaa kasvattaa häiriötä.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0066",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 66,
+      "statement": "Laskusiivekettä avattaessa siiven sakkauskohtauskulma:",
+      "options": [
+        "A. Pienenee, mutta CL MAX ei muutu.",
+        "B. Pysyy samana, mutta CL MAX kasvaa.",
+        "C. Kasvaa ja CL MAX kasvaa.",
+        "D. Pienenee, mutta CL MAX kasvaa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Laskusiivekkeet alas: SAKKAUSKOHTAUSKULMA PIENENEE (n. 16° → 12°), mutta CLmax KASVAA. Tästä syystä sakkausnopeus laskee, vaikka kohtauskulma jolla sakkaus tapahtuu on pienempi.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0067",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 67,
+      "statement": "Ylätaso ilman V -kulmaa verrattuna alatasoon ilman V -kulmaa:",
+      "options": [
+        "A. Antaa suuremman poikittaiskallistusvakavuuden.",
+        "B. Antaa vähemmän poikittaiskallistusvakavuutta.",
+        "C. Aiheuttaa saman pituuskallistusvakavuuden, kuin mikä tahansa siiven sijainti, koska V-kulma parantaa pituusvakavuutta.",
+        "D. Antaa suuremman pituuskallistusvakavuuden."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ylätaso (high wing) tuo lisää poikittaiskallistusvakavuutta verrattuna alatasoon, koska CG on siiven alla → 'pendulum effect'. Tästä syystä monilla ylätasokoneilla EI ole V-kulmaa (eikä tarvitse).",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0068",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 68,
+      "statement": "Mikäli puuska heilauttaa lentokoneen pois alkuperäiseltä lentoradaltaan, mutta lentokone palautuu siihen itsestään ilman ohjaajan toimenpiteitä, sen sanotaan olevan:",
+      "options": [
+        "A. Negatiivisen dynaamisen stabiliteetin omaava.",
+        "B. Neutraalin dynaamisen stabiliteetin omaava.",
+        "C. Positiivisen dynaamisen stabiliteetin omaava.",
+        "D. Epästabiili."
+      ],
+      "correctIndex": 2,
+      "explanation": "Itsestään palautuminen alkuperäiseen tilaan = POSITIIVINEN dynaaminen stabiliteetti (heilahtelut vaimenevat). Negatiivinen = kasvavat, neutraali = säilyvät.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0069",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 69,
+      "statement": "Nostovoimaa kasvattavat laitteet siiven johtoreunassa, kuten solakot, suunniteltiin mahdollistamaan lento suuremmilla kohtauskulmilla, siten että:",
+      "options": [
+        "A. Se tuo lisäenergiaa siiven yläpinnalla olevaan virtaukseen ja siirtää virtauksen irtoamista suuremmalle kohtauskulmalle.",
+        "B. Muutetaan siipiprofiilin muotoa ja siten vaikutetaan siiven nostovoiman ominaisuuksiin.",
+        "C. Pienennetään nostovoimaa ja siten vaikutetaan indisoituun vastukseen.",
+        "D. Lisää nostovoimaa tuottavaa pinta-alaa ja siten lisää nostovoimaa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Solakot (slats) johtoreunassa lisäävät virtaukselle energiaa siiven yläpinnalla → siirtävät virtauksen irtoamista myöhemmäksi → SUUREMMAT KOHTAUSKULMAT mahdollisia ennen sakkausta.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0070",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 70,
+      "statement": "Osa, josta lentokoneen suuntavakavuus riippuu eniten, on nimeltään:",
+      "options": [
+        "A. Sivuvakaaja.",
+        "B. Sivuperäsimen trimmilaippa.",
+        "C. Sivuperäsin.",
+        "D. Korkeusvakaaja ja -peräsin."
+      ],
+      "correctIndex": 0,
+      "explanation": "Suuntavakavuus (directional stability, yaw stability) riippuu pääosin SIVUVAKAAJASTA (vertical stabilizer / fin). Sivuperäsin on liikkuva osa, mutta vakaaja antaa stabiilisuuden.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0071",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 71,
+      "statement": "Laskeuduttaessa ilman laskusiivekettä, istumisnopeutta:",
+      "options": [
+        "A. Ei muuteta.",
+        "B. On pienennettävä.",
+        "C. On kasvatettava.",
+        "D. Ei muuteta, mutta lentorata pidetään jyrkempänä."
+      ],
+      "correctIndex": 2,
+      "explanation": "Ilman laskusiivekkeitä Vs on suurempi → istumisnopeutta (Vref ≈ 1,3 × Vs) on KASVATETTAVA. Sileänä koneena CLmax on pienempi.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0072",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 72,
+      "statement": "Suurimmasta ilmanopeudesta, jolla voidaan lentää laskusiiveke avattuna, käytetään lyhennettä:",
+      "options": [
+        "A. VNO.",
+        "B. VFE.",
+        "C. VYSE.",
+        "D. VNE."
+      ],
+      "correctIndex": 1,
+      "explanation": "VFE (Velocity Flap Extended) = suurin sallittu nopeus laskusiivekkeet ulkona. Mittarissa valkoisen kaaren yläraja. Yli sen flapsit voivat vaurioitua.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0073",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 73,
+      "statement": "Suuntaliike (viippaus) on lentokoneen liikettä ____ akselin suhteen:",
+      "options": [
+        "A. Pysty-",
+        "B. Poikittais-",
+        "C. Vaaka-",
+        "D. Pituus-"
+      ],
+      "correctIndex": 0,
+      "explanation": "Suuntaliike (yaw, viippaus) on liike PYSTYAKSELIN (normaaliakselin) suhteen. Sivuperäsimellä ohjataan. Pituuskallistus = poikittaisakseli, kallistus = pituusakseli.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0074",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 74,
+      "statement": "Poikittaisakseliksi kutsutaan linjaa, joka:",
+      "options": [
+        "A. Kulkee painekeskiön kautta, kohtisuorassa ilmavirtaan nähden.",
+        "B. Kulkee siivenkärkien kautta.",
+        "C. On samansuuntainen linjan kanssa, joka kulkee painopisteen ja siipien kärkien kautta.",
+        "D. Kulkee neljäsosa jänteen kautta siiven tyvessä ja on kohtisuorassa pituusakseliin nähden."
+      ],
+      "correctIndex": 3,
+      "explanation": "Poikittaisakseli kulkee neljäsosajänteen kautta siiven tyvessä (CG-linja) ja on KOHTISUORASSA pituusakseliin nähden. Sen ympäri tapahtuu pituuskallistus (pitch).",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0075",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 75,
+      "statement": "Laskusiivekkeen avaaminen lähestymisen aikana:",
+      "options": [
+        "A. Eliminoi maavaikutuksen synnyttämää pintakantoa.",
+        "B. Loiventaa liukukulmaa ilman, että tehoa on lisättävä.",
+        "C. Jyrkentää liukukulmaa ilman, että ilmanopeus kasvaa.",
+        "D. Mahdollistaa lähestymiset suuremmalla indikoidulla ilmanopeudella."
+      ],
+      "correctIndex": 2,
+      "explanation": "Laskusiivekkeet lähestymisessä → KASVANUT vastus → liukukulma JYRKKENEE (jos teho ei muutu). Ilmanopeutta ei tarvitse kasvattaa, kunhan teho säilyy.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0076",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 76,
+      "statement": "Siivekkeitä poikkeutetaan ja ne palautetaan neutraaliin asentoon, kun lentokone on hieman kallistunut. Jos lentokone oikaisee kallistuksen itsestään ilman ohjainliikkeitä, sitä sanotaan:",
+      "options": [
+        "A. Neutraalisti vakaaksi.",
+        "B. Staattisesti ja dynaamisesti vakaaksi.",
+        "C. Staattisesti vakaaksi.",
+        "D. Staattisesti vakaaksi, mutta dynaamiselta vakavuudeltaan neutraaliksi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Häiriön jälkeen kone palautuu itsestään → STAATTISESTI VAKAA. Jos heilahtelut ovat olemassa mutta ei kerrota dynaamisesta vakaudesta → vain staattinen vakaus.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0077",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 77,
+      "statement": "Ohjainvoimia kasvattavan levyn (Anti-Balance Tab) tehtävänä on:",
+      "options": [
+        "A. Trimmata, eli poistaa ohjainvoimat lentokoneesta.",
+        "B. Varmistaa, että tarvittava ohjainvoima kasvaa ohjainpinnan poikkeutuksen kasvaessa.",
+        "C. Pienentää tarvittavaa ohjainvoimaa vain suurilla nopeuksilla.",
+        "D. Pienentää ohjanvoimia kaikilla nopeuksilla."
+      ],
+      "correctIndex": 1,
+      "explanation": "Anti-balance tab = KASVATTAA tarvittavaa ohjainvoimaa, kun ohjainpinta poikkeutuu. Antaa lentäjälle tuntumaa ja estää liian suurten poikkeutusten tahattoman tekemisen.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0078",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 78,
+      "statement": "Ilmiönä aeromekaanista värähtelyä eli flutteria voidaan kuvailla:",
+      "options": [
+        "A. Nopea värähtelyliike, joka syntyy moottorin aiheuttamasta värinästä.",
+        "B. Nopea värähtelyliike, joka sisältää vain ohjainpintojen liikettä, ja joka johtuu tiivistysaallon syntymisestä ohjanpinnan ympärille.",
+        "C. Lentokoneen osan tai osien värähtelyä suhteessa muuhun rakenteeseen.",
+        "D. Kaartosiivekkeiden käänteinen vaikutus, joka aiheutuu siiven huonosta kiertojäykkyydestä."
+      ],
+      "correctIndex": 2,
+      "explanation": "Flutter = aeromekaaninen värähtely, jossa lentokoneen rakenneosa (yleensä siipi tai ohjainpinta) värähtelee suhteessa muuhun rakenteeseen. Voi nopeasti rikkoa rakenteen Vne:n yläpuolella.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0079",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 79,
+      "statement": "Kaartosiivekkeiden aerodynaaminen kevitys voidaan tehdä:",
+      "options": [
+        "A. Asettamalla ohjainpinnan saranalinja ohjainpinnan johtoreunaa taaemmaksi.",
+        "B. Asettamalla ylöspäin liikkuvan kaartosiivekkeen kääntymiskulma suuremmaksi, kuin alaspäin kääntyvän kaartosiivekkeen.",
+        "C. Asettamalla paino ohjainpinnan saranalinjan etupuolelle.",
+        "D. Asettamalla jousia ohjainjärjestelmään kevittämään liikettä."
+      ],
+      "correctIndex": 0,
+      "explanation": "Aerodynaaminen kevitys (aerodynamic balance): sarana siirretty taaksepäin ohjainpinnan johtoreunasta → osa pinnasta jää saranan eteen → ilmavirta auttaa kääntämään ohjainpintaa.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0080",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 80,
+      "statement": "Kun ohjainta työnnetään eteenpäin, korkeusperäsimen kevitinlaippa:",
+      "options": [
+        "A. Kääntyy ylöspäin verrattuna korkeusperäsimen pintaan.",
+        "B. Liikkuu neutraaliasentoon.",
+        "C. Liikkuu alaspäin verrattuna korkeusperäsimen pintaan.",
+        "D. Liikkuu vain kun trimmipyörää käytetään."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kun ohjainta työnnetään eteenpäin, korkeusperäsin liikkuu alaspäin. Kevitinlaippa eli balance tab liikkuu suhteessa korkeusperäsimeen vastakkaiseen suuntaan eli ylöspäin, jolloin ilmavirta auttaa ohjainpinnan liikuttamisessa.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0081",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 81,
+      "statement": "Liikkuvaan ohjainpintaan kiinnitetty yksinkertainen trimmilevy pysyy paikallaan suhteessa:",
+      "options": [
+        "A. Ohjainpintaan.",
+        "B. Suhteelliseen ilmavirtaukseen.",
+        "C. Lentokoneen horisonttitasoon.",
+        "D. Rajakerroksen ilmavirtaukseen."
+      ],
+      "correctIndex": 0,
+      "explanation": "Yksinkertainen TRIMMILEVY (fixed trim tab) on kiinnitetty ohjainpintaan ja pysyy paikallaan SUHTEESSA OHJAINPINTAAN. Lentäjä asettaa sen ja se liikkuu ohjainpinnan mukana.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0082",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 82,
+      "statement": "Mikä ohjainpinta (-pinnat) vaikuttavat lentokoneen normaaliakselin (pystyakselin) ympäri?",
+      "options": [
+        "A. Korkeusperäsin.",
+        "B. Laskusiivekkeet.",
+        "C. Kaartosiivekkeet.",
+        "D. Sivuperäsin."
+      ],
+      "correctIndex": 3,
+      "explanation": "Pystyakselin (normaaliakselin) ympäri ohjaus: SIVUPERÄSIN (rudder). Suuntaliike (yaw).",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0083",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 83,
+      "statement": "Primäärinen ja sekundäärinen vaikutus painamalla ainoastaan vasenta poljinta on:",
+      "options": [
+        "A. Suuntaliike vasemmalle ja kallistuminen oikealle.",
+        "B. Suuntaliike oikealle ja kallistuminen oikealle.",
+        "C. Suuntaliike oikealle ja kallistuminen vasemmalle.",
+        "D. Suuntaliike vasemmalle ja kallistuminen vasemmalle."
+      ],
+      "correctIndex": 3,
+      "explanation": "Vasen poljin painettuna: nokka kääntyy vasemmalle (PRIMÄÄRINEN, yaw left) → oikea siipi etenee nopeammin → tuottaa enemmän nostovoimaa → SEKUNDÄÄRINEN vaikutus on KALLISTUS VASEMMALLE (roll left).",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0084",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 84,
+      "statement": "Poikkeuttamalla kaartosiivekkeitä neutraaliasennosta:",
+      "options": [
+        "A. Ylöspäin kääntyvä kaartosiiveke lisää indusoitua vastusta (nostovoimasta aiheutuvaa vastusta).",
+        "B. Molemmat kasvattavat indusoitua vastusta.",
+        "C. Indisoitu (nostovoimasta riippuva) vastus pysyy samana. Ylöspäin kääntyvä kaartosiiveke aiheuttaa pienemmän profiilivastuksen, kuin alaspäin kääntyvä kaartosiiveke.",
+        "D. Alaspäin kääntyvä kaartosiiveke lisää indisoitua vastusta (nostovoimasta aiheutuvaa vastusta)."
+      ],
+      "correctIndex": 3,
+      "explanation": "Alaspäin kääntyvä siiveke kasvattaa siiven CL:ää → enemmän nostovoimaa → enemmän indusoitua vastusta. Tästä syystä 'adverse yaw' (kallistuksen vastainen suuntaheilahdus).",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0085",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 85,
+      "statement": "Lentokoneen sivuperäsimeen on asennettu kevityslevy. Oikeanpuoleisen polkimen painaminen aiheuttaa suuntaliikkeen oikealle, jolloin kevityslevy kääntyy:",
+      "options": [
+        "A. Oikealle ja sivuperäsin kääntyy oikealle.",
+        "B. Vasemmalle ja sivuperäsin kääntyy vasemmalle.",
+        "C. Oikealle ja sivuperäsin kääntyy vasemmalle.",
+        "D. Vasemmalle ja sivuperäsin kääntyy oikealle."
+      ],
+      "correctIndex": 3,
+      "explanation": "Servo-tab / kevityslevy: lentäjän voima liikuttaa LEVYÄ, levy aerodynaamisesti liikuttaa ohjainpintaa vastakkaiseen suuntaan. Oikea poljin → sivuperäsin oikealle → KEVITYSLEVY VASEMMALLE.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0086",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 86,
+      "statement": "Lentokoneella on taipumus lentää oikea siipi alhaalla, kun ohjaimiin ei kosketa. Vasemman kaartosiivekkeen trimmilevyä pitää:",
+      "options": [
+        "A. Liikuttaa alas, jotta vasen kaartosiiveke liikkuu ylös ja oikea kaartosiiveke pysyy neutraalissa.",
+        "B. Liikuttaa alas, jotta vasen kaartosiiveke nousee ylös ja oikea kaartosiiveke liikkuu alas.",
+        "C. Liikutetaan ylös aiheuttaen vasemman siiven liikkeen alas, kaartosiivekkeet pysyy neutraalissa.",
+        "D. Liikuttaa ylös, jotta vasen kaartosiiveke liikkuu ylös ja oikea kaartosiiveke alas."
+      ],
+      "correctIndex": 0,
+      "explanation": "Oikea siipi alhaalla → tarvitaan kallistus vasemmalle → vasen siiveke alas, oikea ylös. Vasemman siivekkeen TRIMMILEVY ALAS aiheuttaa siivekkeen liikkumisen YLÖS (servo-toiminta).",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0087",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 87,
+      "statement": "Kaartosiivekkeet aiheuttavat:",
+      "options": [
+        "A. Pituuskallistuksen poikittaisakselin ympäri.",
+        "B. Poikittaiskallistuksen poikittaisakselin ympäri.",
+        "C. Poikittaiskallistuksen pituusakselin ympäri.",
+        "D. Suuntaohjauksen normaaliakselin ympäri (pystyakseli)."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kaartosiivekkeet (siivekkeet, ailerons) aiheuttavat KALLISTUKSEN PITUUSAKSELIN ympäri (roll). Korkeusperäsin = pitch, sivuperäsin = yaw.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0088",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 88,
+      "statement": "Vaakalentoon trimmatun lentokoneen, jonka painopiste on lähellä sallittua etureunaa ja jonka korkeusperäsin on varustettu tavallisella trimmilevyllä:",
+      "options": [
+        "A. Nokkaylös -vaikutus on heikentynyt.",
+        "B. Pituus stabiliteetti heikentyy.",
+        "C. Peräsimen alaspäin vaikuttava voima pienenee.",
+        "D. Nokka-alas -vaikutus on heikentynyt."
+      ],
+      "correctIndex": 3,
+      "explanation": "CG eturajalla → vakaajan tasapainottava ALASPÄINPAINE on suuri. Trimmilevy on tällöin asennossa, joka aiheuttaa korkeusperäsimen YLÖSPÄIN. Nokka-alas-vaikutus on heikentynyt → kone vakaampi nokka ylös.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0089",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 89,
+      "statement": "Ohjainpinnat ovat massatasapainotettuja, koska:",
+      "options": [
+        "A. Sillä siirretään ohjainpintojen aeromekaanisen värähtelyn (flutteri) syntyminen suuremmalle ilmanopeudelle.",
+        "B. Sillä mahdollistetaan samansuuruisilta tuntuvat ohjainvoimat kaikkiin kolmeen ohjaimeen.",
+        "C. Tarkoituksena on palauttaa ohjainpinnan neutraaliasentoon, kun ohjain vapautetaan.",
+        "D. Sillä autetaan aerodynaamisesti lentäjää liikuttamaan ohjainpintoja."
+      ],
+      "correctIndex": 0,
+      "explanation": "Massatasapainotus (mass balancing): paino saranalinjan etupuolella siirtää ohjainpinnan luonnollisen värähtelytaajuuden korkeammaksi → flutter siirtyy korkeammalle nopeudelle Vne yli.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0090",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 90,
+      "statement": "Jousikevitteisen trimmilevyn tehtävänä on:",
+      "options": [
+        "A. Kompensoida lämpötilan muutoksista aiheutuvaa vaijereiden kireyden muutosta.",
+        "B. Ylläpitää vakio jännitystä trimmilaippajärjestelmässä.",
+        "C. Poistaa lentäjän tarvitsema ohjainvoima ohjaimen liikuttamisen jälkeen.",
+        "D. Lisätä ohjaintuntumaa ohjainjärjestelmässä."
+      ],
+      "correctIndex": 2,
+      "explanation": "Jousikevitteinen trimmi (spring-loaded trim): asetetaan kerran, kone lentää 'kädet irti'. Jousi pitää tasapainon ja poistaa lentäjän tarvitsevan ohjainvoiman. Klassinen trimmin tarkoitus.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0091",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 91,
+      "statement": "Ohjainpinnalla voi olla massatasapaino siitä syystä, että:",
+      "options": [
+        "A. Sillä autetaan ehkäisemään aeromekaanisen värähtelyn (flutteri) syntyä.",
+        "B. Se parantaa ohjaintuntumaa.",
+        "C. Se pitää ohjainpinnan vaakatasossa.",
+        "D. Sillä kevennetään ohjainpinnan liikuttamiseen tarvittavia voimia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Massatasapaino siirtää CG-saranan suhteen, mikä siirtää aeroelastisen flutter-kynnyksen suuremmalle nopeudelle. Estää flutterin syntyä lentokäytössä.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0092",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 92,
+      "statement": "Ohjainpinta voidaan massatasapainottaa:",
+      "options": [
+        "A. Asettamalla painoa saranalinjan takapuolelle.",
+        "B. Asettamalla painoa saranalinjan etupuolelle.",
+        "C. Asentamalla ohjainvoimia lisäävä levy.",
+        "D. Asentamalla kevityslevy."
+      ],
+      "correctIndex": 1,
+      "explanation": "Massatasapainotus: paino saranalinjan ETUPUOLELLA – ohjaa CG:n saranan kohdalle tai sen etupuolelle. Tämä poistaa aeroelastisen kytkennän (flutter).",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0093",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 93,
+      "statement": "Kaartosiivekkeiden kiinteät trimmilevyt:",
+      "options": [
+        "A. Säädetään maassa testilentojen jälkeen vaakalennon helpottamiseksi.",
+        "B. Ovat säädettävissä lennon aikana.",
+        "C. Säädetään maassa testilentojen jälkeen kaartamisen helpottamiseksi.",
+        "D. Niitä ei tulisi koskaan säätää."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kaartosiivekkeiden KIINTEÄT trimmilevyt (fixed trim tabs) säädetään MAASSA testilentojen perusteella. Eivät säädettävissä lennon aikana – auttavat tasapainottamaan koneen vaakalentoon.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0094",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 94,
+      "statement": "Mitkä ohjainpinnat mahdollistavat pituuskallistuksen muuttamisen?",
+      "options": [
+        "A. Sivuperäsimet.",
+        "B. Korkeusperäsimet.",
+        "C. Laskusiivekkeet.",
+        "D. Kaartosiivekkeet."
+      ],
+      "correctIndex": 1,
+      "explanation": "Pituuskallistuksen muuttaminen = KORKEUSPERÄSIMET (elevators). Aiheuttaa rotaation poikittaisakselin ympäri (pitch).",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0095",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 95,
+      "statement": "Trimmilevyn tarkoitus on:",
+      "options": [
+        "A. Parantaa ohjaintuntumaa suurilla nopeuksilla.",
+        "B. Parantaa ohjainten tehokkuutta.",
+        "C. Auttaa lentäjää ohjainpintojen liikuttamisessa.",
+        "D. Poistaa ohjainvoimat, joita tarvitaan lentokoneen asennon säilyttämiseksi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Trimmilevyn (trim tab) tarkoitus on POISTAA LENTÄJÄLTÄ TARVITTAVA OHJAINVOIMA, jotta kone lentää 'käsillä irti' halutussa lentotilassa. Ei lisää tehokkuutta vaan helpottaa lentäjää.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0096",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 96,
+      "statement": "Jos ohjaussauvaa liikutetaan eteen ja vasemmalle, niin:",
+      "options": [
+        "A. Vasen kaartosiiveke liikkuu alas ja oikea ylös sekä korkeusperäsin liikkuu ylös.",
+        "B. Vasen kaartosiiveke liikkuu ylös ja oikea alas sekä korkeusperäsin liikkuu ylös.",
+        "C. Vasen kaartosiiveke liikkuu alas ja oikea ylös sekä korkeusperäsin liikkuu alas.",
+        "D. Vasen kaartosiiveke liikkuu ylös ja oikea alas sekä korkeusperäsin liikkuu alas."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sauva ETEEN ja VASEMMALLE: korkeusperäsin ALAS (nokka alas), VASEN siiveke YLÖS (vasen siipi alas, kallistuu vasemmalle), oikea siiveke ALAS.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0097",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 97,
+      "statement": "Jos ohjainta liikutetaan oikealle, vasemman kaartosiivekkeen ohjaimen kevitinlevy:",
+      "options": [
+        "A. Liikkuu alas suhteessa kaartosiivekkeeseen.",
+        "B. Ei liiku ennen kuin kaartosiivekkeen trimmipyörää on pyöritetty.",
+        "C. Liikkuu ylös suhteessa kaartosiivekkeeseen.",
+        "D. Liikkuu neutraali asentoon."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sauva oikealle → vasen siiveke alas (vasen siipi nousee). Vasen siivekkeen kevitinlevy LIIKKUU YLÖS suhteessa siivekkeeseen (servo-tab vastasuuntaan: liikuttaa siivekettä alaspäin aerodynaamisesti).",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0098",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 98,
+      "statement": "Epäsymmetrisesti kääntyvät (differential) kaartosiivekkeet on suunniteltu kumoamaan:",
+      "options": [
+        "A. Kaarron vastakkainen suuntaheilahdus.",
+        "B. Lentokoneen positiivisen stabiliteetin.",
+        "C. Stabiliteetin pituusakselin ympäri.",
+        "D. Vastakkaissuuntainen kallistus."
+      ],
+      "correctIndex": 0,
+      "explanation": "Differentiaali-siivekkeet: ylöspäin kääntyvä siiveke poikkeaa enemmän kuin alaspäin kääntyvä. Tämä TASAPAINOTTAA INDUSOIDUN VASTUKSEN epätasaisuuden ja minimoi 'adverse yaw' (kallistuksen vastainen suuntaheilahdus).",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0099",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 99,
+      "statement": "Jos kohtauskulmaa on kasvatettu suuremmaksi, kuin sakkauskohtauskulma:",
+      "options": [
+        "A. Nostovoima ja vastus pienenevät.",
+        "B. Nostovoima kasvaa ja vastus kasvaa.",
+        "C. Nostovoima ja vastus pienenee.",
+        "D. Nostovoima pienenee ja vastus kasvaa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kriittisen kohtauskulman ylittyessä SIIPI SAKKAA: nostovoima PUTOAA äkillisesti, vastus KASVAA voimakkaasti. Tämä on stalin määritelmä.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0100",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 100,
+      "statement": "Jos kohtauskulmaa kasvatetaan yli kriittisen kohtauskulman, jonka jälkeen siipi sakkaa:",
+      "options": [
+        "A. Ellei ilmanopeus ole suurempi kuin normaali sakkausnopeus.",
+        "B. Ilmanopeudesta ja pituuskallistuksesta huolimatta.",
+        "C. Ellei pituuskallistus ole horisontissa tai sen alapuolella.",
+        "D. Missä tapauksessa ohjain olisi vedettävä välittömästi taakse."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sakkaus tapahtuu KOHTAUSKULMASTA (ei nopeudesta) – ilmanopeudesta JA pituuskallistuksesta riippumatta. Voit sakata jyrkässä kaarrossa korkealla nopeudella ('accelerated stall').",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0101",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 101,
+      "statement": "Lentokoneen siipi sakkaa, kun:",
+      "options": [
+        "A. Laminaarinen ilmavirtaus muuttuu turbulenttiseksi.",
+        "B. Siihen kohdistuu poikkeuksellisen suuria G-voimia.",
+        "C. Indikoitu ilmanopeus on liian pieni.",
+        "D. Kriittinen kohtauskulma ylitetään."
+      ],
+      "correctIndex": 3,
+      "explanation": "Siipi sakkaa, kun KRIITTINEN KOHTAUSKULMA YLITETÄÄN. Ei riippuvainen nopeudesta sinänsä, vaan ainoastaan kohtauskulmasta. Virtaus irtoaa siiven yläpinnasta.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0102",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 102,
+      "statement": "Jos sakkausnopeus suorassa vaakalennossa on 60 solmua, IAS. Mikä se on 60 asteen kallistuksella suoritetussa vaakakaarrossa?",
+      "options": [
+        "A. 60 kt.",
+        "B. 43 kt.",
+        "C. 85 kt.",
+        "D. 120 kt."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kaartosakkausnopeus: Vs(kallistettu) = Vs × √(1/cos φ) = 60 × √(1/cos 60°) = 60 × √2 = 84,8 ≈ 85 kt. Kuormituskerroin 60° kaarrossa on 2g.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0103",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 103,
+      "statement": "Kun lentokone nousee vakio ilmanopeudella, aerodynaaminen nostovoima on:",
+      "options": [
+        "A. Pienempi kuin lentokoneen paino.",
+        "B. Suurempi kuin lentokoneen paino.",
+        "C. Yhtä suuri kuin lentokoneen paino.",
+        "D. Tasapainotettu vain lentokoneen painoon."
+      ],
+      "correctIndex": 0,
+      "explanation": "Vakiintuneessa nousussa vakionopeudella nostovoima on pienempi kuin lentokoneen paino: L = W × cos(nousukulma). Osa painosta vaikuttaa lentoradan suuntaisesti ja se täytyy voittaa työntövoimaylijäämällä.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0104",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 104,
+      "statement": "Tyypillinen lentokoneen siiven sakkauskohtauskulma on:",
+      "options": [
+        "A. 16°.",
+        "B. 4°.",
+        "C. 45°.",
+        "D. 30°."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tyypillisten siipiprofiilien sakkauskohtauskulma on noin 16° (vaihtelu 14–18°). Yli sen virtaus irtoaa yläpinnasta ja kone sakkaa.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0105",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 105,
+      "statement": "Lentokoneen jyrkimmän nousukulman määrittelee:",
+      "options": [
+        "A. Nopeusylijäämä.",
+        "B. Lentokoneen paino.",
+        "C. Tuulen nopeus.",
+        "D. Moottorin työntövoiman ylijäämä."
+      ],
+      "correctIndex": 3,
+      "explanation": "Jyrkin nousukulma (Vx) saavutetaan TYÖNTÖVOIMAYLIJÄÄMÄLLÄ (T - D maksimi). Suurin kohoamisnopeus (Vy) saavutetaan tehoylijäämällä.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0106",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 106,
+      "statement": "Kohtauskulma, jolla lentokone sakkaa:",
+      "options": [
+        "A. On riippuvainen nopeudesta ja tiheyskorkeudesta.",
+        "B. On riippuvainen ilmanvirtauksen nopeudesta siiven ympärillä.",
+        "C. On vakio ja painosta riippumaton.",
+        "D. On pienempi, kun lennetään myötätuuleen kuin lennettäessä vastatuuleen."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sakkauskohtauskulma on PROFIILIN OMINAISUUS – riippumaton painosta, ilmanopeudesta tai tiheydestä. Kone sakkaa aina samalla kohtauskulmalla, mutta eri NOPEUKSILLA painon mukaan.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0107",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 107,
+      "statement": "Kun lentokone on syöksykierteessä, syöksykierteen suunta voidaan luotettavimmin päätellä:",
+      "options": [
+        "A. Luisumittarista.",
+        "B. Kaartomittarin neulasta (viisarista).",
+        "C. Keinohorisontista.",
+        "D. Suuntahyrrästä."
+      ],
+      "correctIndex": 1,
+      "explanation": "Syöksykierteessä luotettavin suuntatieto on KAARTOMITTARIN VIISARI/NEULA – se osoittaa pyörimisen suunnan, vaikka muut mittarit (suuntahyrrä, keinohorisontti) saattavat olla 'caged' tai vääristyneet.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0108",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 108,
+      "statement": "Siiven kierron tarkoituksena on:",
+      "options": [
+        "A. Aiheuttaa sakkaus ensin siiven tyvessä.",
+        "B. Parantaa laskusiivekkeiden tehoa.",
+        "C. Aiheuttaa sakkaus ensin siiven kärjessä.",
+        "D. Pienentää kaartosiivekkeiden tehokkuutta."
+      ],
+      "correctIndex": 0,
+      "explanation": "Siiven kierto (washout) = siiven kärki on negatiivisemmalla kohtauskulmalla kuin tyvi. Sakkaus alkaa ENSIN TYVESTÄ → siivekkeet (kärjessä) toimivat vielä → ohjattavuus säilyy sakkaukseen asti.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0109",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 109,
+      "statement": "Suurin sallittu nopeus laskusiivekkeet ulkona (VFE) on yleensä pienempi, kuin matkalentonopeus, koska:",
+      "options": [
+        "A. Suuremmat nopeudet kuin VFE ylikuormittavat laskusiivekkeitä ja siiven rakenteita.",
+        "B. Laskusiivekkeet sakkaavat, jos ne otetaan ulos liian suurella nopeudella.",
+        "C. Vastusta on kertynyt liian paljon.",
+        "D. Laskusiivekkeet on tarkoitettu käytettäväsi vain kun valmistaudutaan laskeutumaan."
+      ],
+      "correctIndex": 0,
+      "explanation": "VFE on alhaisempi kuin matkalentonopeus, koska suuremmilla nopeuksilla LASKUSIIVEKKEET ja siiven rakenteet ylikuormittuvat. Aerodynaamiset voimat kasvaa V²:lla.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0110",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 110,
+      "statement": "Lentokäsikirjan mukainen sakkausnopeus on 80 solmua. 45 asteen kallistuksella vaakakaarrossa sakkausnopeus on:",
+      "options": [
+        "A. 33 solmua.",
+        "B. 86 solmua.",
+        "C. 95 solmua.",
+        "D. 113 solmua."
+      ],
+      "correctIndex": 2,
+      "explanation": "Vs(kallistettu) = Vs × √(1/cos φ) = 80 × √(1/cos 45°) = 80 × √(1,414) = 80 × 1,189 = 95,1 kt. Kuormituskerroin 45° kaarrossa on 1,41g.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0111",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 111,
+      "statement": "Sakkauksessa painekeskiö (CP) liikkuu taaksepäin ja aiheuttaa nokan ____ ja pienentynyt nostovoima aiheuttaa lentokoneen ____.",
+      "options": [
+        "A. Suunnan muutoksen (nokan heilahduksen) / nopeuden pienenemisen.",
+        "B. Putoamisen / korkeuden menetyksen.",
+        "C. Putoamisen / nopeuden pienenemisen.",
+        "D. Nousun / vajoamisen."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sakkauksessa painekeskiö (CP) liikkuu TAAKSEPÄIN (negatiivisempi pituuskallistusmomentti) → nokka putoaa, ja nostovoima vähenee → kone PUTOAA korkeudesta.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0112",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 112,
+      "statement": "VNE on:",
+      "options": [
+        "A. Suurin ilmanopeus, jota ei saa ylittää syöksyä lukuun ottamatta.",
+        "B. Suurin ilmanopeus, jolla lentokonetta saa lentää.",
+        "C. Suurin nopeus, jolla laskusiivekkeet voi vielä avata.",
+        "D. Suurin ilmanopeus, jolla voidaan liikehtiä joutumatta sakkaukseen."
+      ],
+      "correctIndex": 1,
+      "explanation": "VNE (Velocity Never Exceed) = ehdottomasti suurin sallittu nopeus, jota ei saa ylittää MISSÄÄN OLOSUHTEISSA (myöskään syöksyssä). Punaisella merkitty viiva mittarissa.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0113",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 113,
+      "statement": "Vakiintuneessa nousussa vakionopeudella, työntövoima on:",
+      "options": [
+        "A. Yhtä suuri kuin painon lentoradan suuntainen komponentti.",
+        "B. Yhtä suuri kuin aerodynaaminen vastus.",
+        "C. Pienempi kuin aerodynaaminen vastus.",
+        "D. Suurempi kuin aerodynaaminen vastus."
+      ],
+      "correctIndex": 3,
+      "explanation": "Vakaantuneessa nousussa: T = D + W·sin γ (paino-vektorin lentoradan suuntainen komponentti). Siten T > D nousussa. Tästä erotuksesta 'tehoylijäämä' antaa nousutehon.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0114",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 114,
+      "statement": "Mikä merkitys on VNO nopeudella?",
+      "options": [
+        "A. Se on normaalioperoinnin nopeusalueen maksiminopeus.",
+        "B. On nopeus, jota ei saa koskaan ylittää.",
+        "C. Sen nopeuden yläpuolella syntyy rakenteellisia vaurioita ilma-aluksen rakenteisiin.",
+        "D. Se on maksiminopeus, joka mahdollistaa ohjainten äkillisen täyden poikkeutuksen ja kone sakkaa ennen kuin sallittu positiivinen kuormituskerroin ylittyy."
+      ],
+      "correctIndex": 0,
+      "explanation": "VNO (Velocity Normal Operations) = NORMAALITOIMINNAN nopeusalueen MAKSIMI. Vihreän kaaren yläraja. Yli sen (keltainen kaari) vain tyynessä ilmassa varovaisilla ohjausliikkeillä.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0115",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 115,
+      "statement": "Oletetaan, että lentokoneen massa on vakio, jolloin sakkausnopeus on riippuvainen:",
+      "options": [
+        "A. Kuormituskertoimen neliöjuuresta.",
+        "B. Indikoidusta ilmanopeudesta.",
+        "C. Painon neliöjuuresta.",
+        "D. Käänteisesti kuormituskertoimesta."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sakkausnopeus (kuormituskerroin n suhteen): Vs(n) = Vs × √n. Eli sakkausnopeus on verrannollinen KUORMITUSKERTOIMEN NELIÖJUUREEN.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0116",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 116,
+      "statement": "Nousukulma on riippuvainen:",
+      "options": [
+        "A. Painon ylittävästä nostovoima ylijäämästä.",
+        "B. Vastuksen ylittävästä työntövoimasta.",
+        "C. Painon ylittävästä työntövoimaylijäämästä.",
+        "D. Siiven kohtauskulmasta."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nousukulma riippuu työntövoimaylijäämästä suhteessa painoon: sin(nousukulma) ≈ (T − D) / W. Siksi ratkaisevaa on se, kuinka paljon työntövoima ylittää vastuksen.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0117",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 117,
+      "statement": "Jos lentokone lentää suunniteltua liikehtimisnopeutta VA:",
+      "options": [
+        "A. Niin ilmanopeutta on heti vähennettävä kohdattaessa turbulenssia.",
+        "B. Niin maksimi kuormitusta ei ole mahdollista ylittää positiivista kuormitusta vaativilla liikkeillä.",
+        "C. On mahdollista aikaan saada sallittua suurempi kuormitus suurien kuormitusmonikertojen liikkeissä.",
+        "D. Ainoa mahdollisuus aikaan saada sallittua suurempi kuormitus, on lisätä äkillisesti siiven kohtauskulmaa, esimerkiksi käyttämällä paljon voimaa ohjaussauvasta vetämiseen syöksystä oikaistaessa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Va (manoeuvring speed) on määritelty siten, että täysi ohjainpoikkeutus aiheuttaa siiven SAKKAUKSEN ennen kuin sallittu kuormituskerroin ylittyy. Se on rakenteellinen suoja.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0118",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 118,
+      "statement": "Jos lentokoneen massaa kasvatetaan painopisteen sijaintia muuttamatta, sakkauskohtauskulma:",
+      "options": [
+        "A. Pienenee.",
+        "B. Pysyy samana. Painopisteen asema ei vaikuta sakkausnopeuteen.",
+        "C. Kasvaa.",
+        "D. Ei muutu."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sakkauskohtauskulma ei muutu, vaikka massa kasvaisi, jos siipiprofiili ja kokoonpano pysyvät samoina. Painon kasvu nostaa sakkausnopeutta, mutta ei muuta kriittistä kohtauskulmaa.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0119",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 119,
+      "statement": "Kriittinen kohtauskulma on merkitty siiven polaarikuvaajaan numerolla (katso LAPL/PPL 080-02):",
+      "options": [
+        "A. 4.",
+        "B. 5.",
+        "C. 6.",
+        "D. 1."
+      ],
+      "correctIndex": 2,
+      "explanation": "Liitteen LAPL/PPL 080-02 polaarikuvaajassa kriittinen kohtauskulma vastaa suurinta nostovoimakerrointa eli CLmax-kohtaa. Kuvassa tämä on merkitty numerolla 6.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0120",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 120,
+      "statement": "Minimivastuksen kohtauskulma on merkitty polaarikuvaajaan numerolla (katso LAPL/PPL 080-02):",
+      "options": [
+        "A. 5.",
+        "B. 4.",
+        "C. 7.",
+        "D. 3."
+      ],
+      "correctIndex": 3,
+      "explanation": "Liitteen LAPL/PPL 080-02 polaarikuvaajassa minimivastuksen kohtauskulma on pienimmän Cx-arvon kohdalla. Kuvassa tämä on merkitty numerolla 3. Numero 5 liittyy paremmin parhaan L/D-suhteen tangenttipisteeseen, ei varsinaiseen minimivastukseen.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0121",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 121,
+      "statement": "Millä siipimuodolla on suurin indusoitu vastus?",
+      "options": [
+        "A. Kaksoistrapetsisella.",
+        "B. Elliptisellä.",
+        "C. Trapetsisella.",
+        "D. Suorakulmaisella."
+      ],
+      "correctIndex": 3,
+      "explanation": "Suorakulmaisella siivellä on SUURIN INDUSOITU VASTUS. Elliptisellä siivellä on PIENIN (ideaalinen jakauma). Trapetsinen on lähellä elliptistä.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0122",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 122,
+      "statement": "Jos ilmavirtauksen nopeus kaksinkertaistuu, niin vastuskerroin:",
+      "options": [
+        "A. Nelinkertaistuu.",
+        "B. Kaksinkertaistuu.",
+        "C. Pysyy samana.",
+        "D. Kuusinkertaistuu."
+      ],
+      "correctIndex": 2,
+      "explanation": "Vastus-/nostovoimakerroin (CD, CL) ovat KOHTAUSKULMAN funktioita – riippumattomia nopeudesta itsestään. Vain dynaaminen paine q (= ½ρV²) muuttuu nopeuden mukana.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0123",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 123,
+      "statement": "Kuinka monta prosenttia sakkausnopeus suunnilleen kasvaa, jos siipikuormitus kasvaa 15%?",
+      "options": [
+        "A. 0%.",
+        "B. 7%.",
+        "C. 20%.",
+        "D. 15%."
+      ],
+      "correctIndex": 1,
+      "explanation": "Vs ∝ √(W/S). Siipikuormitus +15 % → Vs muutos = √1,15 = 1,072 → +7,2 % ≈ 7 %.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0124",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 124,
+      "statement": "Kuinka paljon suunnilleen kasvaa miniminopeus (sakkausnopeus), jos massa lisääntyy 20%?",
+      "options": [
+        "A. 120%.",
+        "B. 0%.",
+        "C. 20%.",
+        "D. 10%."
+      ],
+      "correctIndex": 3,
+      "explanation": "Vs ∝ √W. Massa +20 % → √1,2 = 1,095 → Vs +9,5 % ≈ 10 %.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0125",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 125,
+      "statement": "Jos lentokoneen massa on 3000 naulaa, niin kuinka paljon rakenteiden pitää kantaa kuormaa, jos kallistuskulma vaakalennossa on 20 astetta? (Katso LAPL/PPL 080-01)",
+      "options": [
+        "A. 4.000 lbs.",
+        "B. 3.000 lbs.",
+        "C. 3.350 lbs.",
+        "D. 3.180 lbs."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kuormituskerroin vaakakaarrossa on n = 1 / cos(kallistuskulma). Kallistuksella 20° n ≈ 1,064. Rakenteiden kantama kuorma = 3000 lb × 1,064 ≈ 3190 lb, eli lähin vaihtoehto on 3180 lb.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0126",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 126,
+      "statement": "Jos lentokoneen massa on 4.600 naulaa, niin kuinka paljon rakenteiden pitää kantaa kuormaa, jos kallistuskulma on 50 astetta? (Katso LAPL/PPL 080-01)",
+      "options": [
+        "A. 9.200 lbs.",
+        "B. 8.180 lbs.",
+        "C. 7.160 lbs.",
+        "D. 5.400 lbs."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kuormituskerroin vaakakaarrossa on n = 1 / cos(kallistuskulma). Kallistuksella 50° n ≈ 1,56. Rakenteiden kantama kuorma = 4600 lb × 1,56 ≈ 7160 lb.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0127",
+      "module": "080",
+      "moduleName": "Lentomekaniikka",
+      "number": 127,
+      "statement": "Mikä on suurin sallittu kallistuskulma vaakalennossa, jos lentokoneen maksimikuormituskerroin on 2.5G? (Katso LAPL/PPL 080-01)",
+      "options": [
+        "A. 60°.",
+        "B. 50°.",
+        "C. 66°.",
+        "D. 55°."
+      ],
+      "correctIndex": 2,
+      "explanation": "Vaakakaarrossa n = 1 / cos(kallistuskulma). Kun maksimikuormituskerroin on 2,5G, cos(kallistuskulma) = 1 / 2,5 = 0,4. Tästä kallistuskulmaksi saadaan noin 66°.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0128",
+      "module": "080",
+      "moduleName": "Lentomekaniikka",
+      "number": 128,
+      "statement": "Mikä on suurin sallittu kallistuskulma, jos rajoittava kuormitusmonikerta on +3,8 G? (Katso LAPL/PPL 080-01)",
+      "options": [
+        "A. 70°.",
+        "B. 53°.",
+        "C. 67°.",
+        "D. 75°."
+      ],
+      "correctIndex": 3,
+      "explanation": "Vaakakaarrossa n = 1 / cos(kallistuskulma). Kun rajoittava kuormitusmonikerta on 3,8G, cos(kallistuskulma) = 1 / 3,8 ≈ 0,263. Tästä kallistuskulmaksi saadaan noin 75°.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0129",
+      "module": "080",
+      "moduleName": "Lentomekaniikka",
+      "number": 129,
+      "statement": "Mikä on kuormitusmonikerta vaakakaarrossa 60° kallistuksella? (Katso LAPL/PPL 080-01)",
+      "options": [
+        "A. 1.5 G.",
+        "B. 1 G.",
+        "C. 0.5 G.",
+        "D. 2.0 G."
+      ],
+      "correctIndex": 3,
+      "explanation": "Vaakakaarrossa kuormituskerroin on n = 1 / cos(kallistuskulma). Kallistuksella 60° cos 60° = 0,5, joten n = 2,0G.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0130",
+      "module": "080",
+      "moduleName": "Lentomekaniikka",
+      "number": 130,
+      "statement": "Suurimmasta ilmanopeudesta, jolla lentäjä voi hetkellisesti vetää ohjaussauvan täysin taakse vaurioittamatta lentokoneen rakenteita, käytetään lyhennettä:",
+      "options": [
+        "A. VFE.",
+        "B. VB.",
+        "C. VA.",
+        "D. VS."
+      ],
+      "correctIndex": 2,
+      "explanation": "VA on suunniteltu liikehtimisnopeus. Se on suurin nopeus, jolla täysi tai äkillinen ohjainpoikkeutus ei normaalisti ylikuormita rakennetta, koska siipi sakkaa ennen raja-kuormitusmonikerran ylittymistä.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0131",
+      "module": "080",
+      "moduleName": "Lentomekaniikka",
+      "number": 131,
+      "statement": "Nousuvipu muuttaa työntövoimavektorin:",
+      "options": [
+        "A. Pituutta.",
+        "B. Suuntaa.",
+        "C. Pitkittäiskallistusta.",
+        "D. Ei vaikuta työntövoimavektoriin."
+      ],
+      "correctIndex": 0,
+      "explanation": "Helikopterin nousuvipu eli kollektiivi muuttaa kaikkien lapojen lapakulmaa samanaikaisesti. Tämä muuttaa roottorin tuottaman voiman suuruutta eli työntövoimavektorin pituutta.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0132",
+      "module": "080",
+      "moduleName": "Lentomekaniikka",
+      "number": 132,
+      "statement": "Helikopterin ohjaaja vaikuttaa helikopterin vapausasteisiin:",
+      "options": [
+        "A. Kaikilla ohjaimilla.",
+        "B. Vain ohjaussauvalla.",
+        "C. Ei voi vaikuttaa mitenkään.",
+        "D. Vain kiertokaasulla."
+      ],
+      "correctIndex": 0,
+      "explanation": "Helikopterin ohjaaja vaikuttaa helikopterin vapausasteisiin kaikkien ohjainten yhteiskäytöllä: syklinen ohjaussauva, kollektiivi, polkimet ja tarvittaessa kiertokaasu.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0133",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 133,
+      "statement": "Taantuvan lavan sakkaus tapahtuu todennäköisimmin:",
+      "options": [
+        "A. Leijuttaessa kovassa myötätuulessa",
+        "B. Pienellä lentonopeudella",
+        "C. Suurella vajoamisnopeudella (autorotaatio)",
+        "D. Suurella lentonopeudella"
+      ],
+      "correctIndex": 3,
+      "explanation": "Helikopterin TAANTUVAN LAVAN sakkaus tapahtuu SUURELLA ETENEMISNOPEUDELLA: taantuvan lavan suhteellinen nopeus on niin pieni, että lapaa joudutaan kallistamaan suuremmalle kohtauskulmalle, mikä voi aiheuttaa sakkauksen.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0134",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 134,
+      "statement": "Lentonopeuden kasvaessa etenevän lavan lepatus:",
+      "options": [
+        "A. Suurenee",
+        "B. Pienenee",
+        "C. Etenevä lapa ei lepata",
+        "D. Ei muutu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lentonopeuden kasvaessa ETENEVÄN lavan lepatus SUURENEE: etenevän lavan kohtauskulmaa pienennetään lepattamalla ylöspäin (nostovoima vakio kierroksen aikana).",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0135",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 135,
+      "statement": "Lapojen kärkiuran säätämisen päätarkoitus on:",
+      "options": [
+        "A. Minimoida pystysuora 1/kierros värähtely",
+        "B. Saada helikopterin ohjattavuus paremmaksi",
+        "C. Lisätä staattista pituusvakavuutta",
+        "D. Pienentää tehontarvetta"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lapojen kärkiuran säätämisen tarkoitus on MINIMOIDA PYSTYSUORA 1/kierros VÄRÄHTELY (track and balance). Eri korkeudella olevat kärjet aiheuttavat 1/rev-värinää.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0136",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 136,
+      "statement": "Helikopteri on dynaamisesti vakaa, jos:",
+      "options": [
+        "A. Se hyvin trimmattuna pitää lentotilansa koko ajan",
+        "B. Lavat ovat hyvin \"urassa\"",
+        "C. Se poikkeuduttuaan trimmatusta lentotilasta pyrkii takaisin sitä kohti",
+        "D. Paluu tasapainotilaan tapahtuu aperiodisesti tai suppenevalla heilahtelulla"
+      ],
+      "correctIndex": 3,
+      "explanation": "Helikopteri on dynaamisesti vakaa, kun se palaa tasapainoon APERIODISESTI (ilman heilahteluja) tai SUPPENEVALLA HEILAHTELULLA. Oskillaation kasvu = epävakaa.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0137",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 137,
+      "statement": "Coriolisvoiman haitallista VAIKUTUSTA (ei syntymistä) pyritään pienentämään:",
+      "options": [
+        "A. Heilunta-eli vastusnivelillä",
+        "B. Sulkanivelillä",
+        "C. Tekemällä roottori mahdollisimman jäykäksi",
+        "D. Lepatusnivelillä"
+      ],
+      "correctIndex": 0,
+      "explanation": "Coriolisvoiman vaikutusta (lapojen kiihdytys/hidastus pyörimissuunnassa lepattaessa) pienennetään HEILUNTA-/VASTUSNIVELILLÄ (drag/lag hinges), jotka sallivat lavan liikkumisen pyörimissuunnassa.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0138",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 138,
+      "statement": "Helikopterin suurin liukumatka autorotaatiossa saavutetaan yhdistelmällä:",
+      "options": [
+        "A. Suuri nopeus-suuret roottorin kierrokset",
+        "B. Suuri nopeus-pienet roottorin kierrokset",
+        "C. Pieni nopeus-pienet roottorin kierrokset",
+        "D. Pieni nopeus-suuret roottorin kierrokset"
+      ],
+      "correctIndex": 3,
+      "explanation": "Helikopterin autorotaation paras liukumatka on tyyppikohtainen ja määräytyy valmistajan määrittelemän autorotaationopeuden ja roottorin kierroslukualueen mukaan. Nykyinen vastaus pidetään toistaiseksi vanhan kysymyspankin mukaisena, mutta kohta merkitään tarkistettavaksi, koska yleinen helikopteriteoria ei tue yksiselitteistä vastausta ilman tyyppikohtaista tietoa.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "medium",
+      "needsReview": true
+    },
+    {
+      "id": "080-0139",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 139,
+      "statement": "Mihin suuntaan ohjauslevy normaalisti liikkuu kun kollektiivia nostetaan?",
+      "options": [
+        "A. Vasemmalle",
+        "B. Alas",
+        "C. Oikealle",
+        "D. Ylös"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kollektiivin nostaminen → kaikkien lapojen lapakulma kasvaa → roottori tuottaa enemmän nostovoimaa → ohjauslevy nousee YLÖS (kollektiivi 'kollektiivisesti' nostaa lapoja).",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0140",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 140,
+      "statement": "Profiilijänteen ja pyörimistason välinen kulma on nimeltään:",
+      "options": [
+        "A. Asetuskulma",
+        "B. Taittokulma",
+        "C. Kohtauskulma",
+        "D. Lapakulma"
+      ],
+      "correctIndex": 3,
+      "explanation": "LAPAKULMA (blade pitch angle) = profiilijänteen ja pyörimistason välinen kulma. KOHTAUSKULMA on vapaan virtauksen ja jänteen välinen kulma (joka muuttuu lennon aikana).",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "080-0141",
+      "module": "080",
+      "moduleName": "Lennonteoria",
+      "number": 141,
+      "statement": "Roottorin pyörintätason kallistamisen helikopterin haluttuun liikesuuntaan tekee mahdolliseksi:",
+      "options": [
+        "A. Noususauvan ja jalkapolkimien yhteiskäyttö",
+        "B. Noususauvan hyväksikäyttö",
+        "C. Coriolis-voiman hyväksikäyttö",
+        "D. Ohjauslevyn kallistaminen ohjaussauvaa hyväksikäyttäen"
+      ],
+      "correctIndex": 3,
+      "explanation": "Helikopterin liikesuunta määräytyy ROOTTORIN PYÖRINTÄTASON KALLISTUKSESTA, joka tehdään OHJAUSLEVYÄ (swashplate) kallistamalla SYKLISEN OHJAUSSAUVAN avulla.",
+      "source": "PPL080FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    }
+  ]
+}

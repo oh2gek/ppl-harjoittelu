@@ -1,0 +1,2610 @@
+{
+  "module": "090",
+  "moduleName": "Radiopuhelinliikenne",
+  "source": "PPL090FIN 11102018.pdf",
+  "questions": [
+    {
+      "id": "090-0001",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 1,
+      "statement": "Lähiliikenne on:",
+      "options": [
+        "A. Kaikki liikenne kenttäalueella.",
+        "B. Kaikki liikenne lentopaikan liikennealueella ja kaikki lentopaikan läheisyydessä lentävät ilma-alukset.",
+        "C. Kaikki lentopaikalla olevat ajoneuvot.",
+        "D. Kaikki lentopaikalla olevat ilma-alukset."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lähiliikenne (aerodrome traffic) = kaikki ilma-alukset lentopaikan liikennealueella SEKÄ kaikki sen läheisyydessä lentävät ilma-alukset, jotka voivat olla osana laskukierrosliikennettä.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0002",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 2,
+      "statement": "Radioliikenteessä käytettävät VHF taajuudet ovat alueella:",
+      "options": [
+        "A. 118,0 - 135,975 mhz.",
+        "B. 118,0 - 121,5 mhz.",
+        "C. 118,0 - 135,975 khz.",
+        "D. 118,0 - 121,5 khz."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ilmailun VHF-radiotaajuusalue on 118,000 – 136,975 MHz (kysymyksessä mainitaan 135,975, lähellä). Yli 136 MHz on kansallisesti varattua lisäaluetta. Kanavaväli 25 kHz tai 8,33 kHz.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0003",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 3,
+      "statement": "Ilma-alus on lentopinnalla FL 100. Pisin odotettavissa oleva teoreettinen radion kantama on:",
+      "options": [
+        "A. 1200nm.",
+        "B. 100nm.",
+        "C. 150nm.",
+        "D. 120nm."
+      ],
+      "correctIndex": 3,
+      "explanation": "VHF-radio toimii 'näköyhteyden' välityksellä (line of sight). Teoreettinen kantama (NM) ≈ 1,23 × √h(ft). 10 000 ft → 1,23 × 100 = 123 NM ≈ 120 NM.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0004",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 4,
+      "statement": "Ilma-alus saavuttaa parhaan yhteysetäisyyden VHF-liikenteessä, jos ilma-alus on:",
+      "options": [
+        "A. Korkealla ja kaukana.",
+        "B. Meren pinnan korkeudella lentokentän lähellä.",
+        "C. Korkealla lentokentän läheisyydessä.",
+        "D. Matalalla ja kaukana."
+      ],
+      "correctIndex": 2,
+      "explanation": "Paras VHF-yhteys: KORKEALLA (suora näköyhteys) ja LÄHELLÄ asemaa. Pelkkä korkeus auttaa, mutta etäisyyden kasvaessa signaali heikkenee.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0005",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 5,
+      "statement": "Mitä tarkoittaa lyhenne \"IMC\"?",
+      "options": [
+        "A. Näkösääolosuhteet.",
+        "B. Mittarisääolosuhteet.",
+        "C. Lento mittarilentosääntöjen mukaisesti.",
+        "D. Lento näkölentosääntöjen mukaisesti."
+      ],
+      "correctIndex": 1,
+      "explanation": "IMC = Instrument Meteorological Conditions = mittarisääolosuhteet (= ei VFR-minimiä). Ei sama asia kuin IFR (mittarilentosäännöt).",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0006",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 6,
+      "statement": "Termi \"erityis-VFR-lento\" tarkoittaa:",
+      "options": [
+        "A. VFR-lentoa, jonka lennonjohto on selvittänyt suoritettavaksi lähialueella näkösääolosuhteita huonommissa sääolosuhteissa.",
+        "B. Lentoa, johon ei vaikuta sääolosuhteet.",
+        "C. VFR-lentoa, jonka lennonjohto on selvittänyt suoritettavaksi lähialueen ulkopuolella näkösääolosuhteita huonommissa sääolosuhteissa.",
+        "D. IFR-lentoa, jonka lennonjohto on selvittänyt suoritettavaksi lähialueella näkösääolosuhteita huonommissa sääolosuhteissa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Erityis-VFR (Special VFR) = lennonjohdon selvittämä VFR-lento LÄHIALUEELLA (CTR), kun yleiset VMC-minimit eivät täyty mutta lentokelpoiset olosuhteet vallitsevat.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0007",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 7,
+      "statement": "Mitä tarkoittaa termi \"VMC\"?",
+      "options": [
+        "A. Lento näkölentosääntöjen mukaisesti.",
+        "B. Näkölentosäännöt.",
+        "C. Mittarilentosäännöt.",
+        "D. Näkösääolosuhteet."
+      ],
+      "correctIndex": 3,
+      "explanation": "VMC = Visual Meteorological Conditions = näkösääolosuhteet (näkyvyys, pilvietäisyydet). Ei sama kuin VFR (näkölentosäännöt).",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0008",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 8,
+      "statement": "Mitä tarkoittaa termi \"VFR-lento\"?",
+      "options": [
+        "A. Lento ilman matkustajia.",
+        "B. Koululento.",
+        "C. Lento mittarilentosääntöjen mukaisesti.",
+        "D. Lento näkölentosääntöjen mukaisesti."
+      ],
+      "correctIndex": 3,
+      "explanation": "VFR = Visual Flight Rules = näkölentosäännöt. Lentäjä navigoi visuaalisesti ja säilyttää porrastuksen näköhavainnoin.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0009",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 9,
+      "statement": "Mitä tarkoittaa menetelmäsana \"WILCO\"?",
+      "options": [
+        "A. Kuulin viimeisimmän sanomasi kokonaan.",
+        "B. Lupa myönnetty.",
+        "C. Lopetin sanomani ja odotan vastausta.",
+        "D. Ymmärsin sanomasi ja noudatan sitä."
+      ],
+      "correctIndex": 3,
+      "explanation": "WILCO = 'Will Comply' = ymmärsin sanoman ja noudatan sitä. Käytetään selvityksien hyväksymisen yhteydessä.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0010",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 10,
+      "statement": "Mitä tarkoittaa menetelmäsana \"SELVÄ\"?",
+      "options": [
+        "A. Ymmärsin sanomasi ja noudatan sitä.",
+        "B. Lupa myönnetty.",
+        "C. Olen vastaanottanut viimeisen lähetyksesi.",
+        "D. Lopetin sanomani ja odotan vastausta."
+      ],
+      "correctIndex": 2,
+      "explanation": "SELVÄ eli ROGER tarkoittaa: olen vastaanottanut viimeisen lähetyksesi. Se ei tarkoita \"lupa myönnetty\" eikä \"ymmärsin ja noudatan\". \"Ymmärsin ja noudatan\" on WILCO.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0011",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 11,
+      "statement": "Mitä tarkoittaa menetelmäsana \"KUITTAA\"?",
+      "options": [
+        "A. Sano uudelleen kaikki tai seuraava osa lähetyksestäsi.",
+        "B. Lopetin sanomani ja odotan vastausta.",
+        "C. Olen vastaanottanut viimeisen lähetyksesi.",
+        "D. Ilmoita, että olet vastaanottanut ja ymmärtänyt sanoman."
+      ],
+      "correctIndex": 3,
+      "explanation": "KUITTAA (ACKNOWLEDGE) = ilmoita että olet vastaanottanut JA ymmärtänyt sanoman. Vahvempi kuin pelkkä 'Roger'.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0012",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 12,
+      "statement": "\"VAPAUTA OIKEALLE\" tarkoittaa:",
+      "options": [
+        "A. Poistu kiitotieltä välittömästi.",
+        "B. Lentoonlähdön jälkeen kaarra oikealle.",
+        "C. Seuraava rullaustien risteys on oikealla puolella.",
+        "D. Käänny oikealle pois kiitotieltä."
+      ],
+      "correctIndex": 3,
+      "explanation": "VAPAUTA OIKEALLE (vacate to the right) = käänny oikealle pois kiitotieltä lähimmälle rullaustielle. Lasku jälkeinen ohje.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0013",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 13,
+      "statement": "\"TEE YLÖSVETO\" tarkoittaa:",
+      "options": [
+        "A. Tee 360 asteen kaarto.",
+        "B. Rullaa odotuspaikalla olevan lentokoneen ohi.",
+        "C. Suorita keskeytetty lähestyminen.",
+        "D. Ohita edessäsi oleva ilma-alus."
+      ],
+      "correctIndex": 2,
+      "explanation": "TEE YLÖSVETO (go around) = suorita keskeytetty lähestyminen, lisää teho ja nouse uudelle lähestymiselle.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0014",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 14,
+      "statement": "\"ODOTA\" tarkoittaa:",
+      "options": [
+        "A. Odota, kutsun sinua uudelleen.",
+        "B. Valitse transponderiin \"STANDBY\".",
+        "C. Jatka nykyisellä suunnalla ja kuuntele.",
+        "D. Pysy nykyisessä paikassa."
+      ],
+      "correctIndex": 0,
+      "explanation": "ODOTA (STAND BY) = odota, kutsun sinua uudelleen. Ei sama kuin pidätä paikallasi. Hetkellinen 'pieni hetki' radiossa.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0015",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 15,
+      "statement": "\"KUUNTELE\" tarkoittaa:",
+      "options": [
+        "A. Kuuntele moottorin ääntä.",
+        "B. Kuuntele… taajuutta.",
+        "C. Ota yhteys taajuudella...",
+        "D. Toistan selvyyden tai tärkeyden vuoksi."
+      ],
+      "correctIndex": 1,
+      "explanation": "KUUNTELE eli MONITOR tarkoittaa, että ilma-alus kuuntelee määrättyä taajuutta. Se ei tarkoita varsinaista yhteydenottoa; \"ota yhteys\" vastaa CONTACT-sanontaa.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0016",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 16,
+      "statement": "\"ILMOITA\" tarkoittaa:",
+      "options": [
+        "A. Sano uudelleen.",
+        "B. Välitä viestisi.",
+        "C. Ilmoita seuraava tieto.",
+        "D. Jatka viestiäsi."
+      ],
+      "correctIndex": 2,
+      "explanation": "ILMOITA (REPORT) = ilmoita seuraava tieto pyydetyssä muodossa, esim. 'ILMOITA MYÖTÄTUULELLA', 'ILMOITA POISTUNUT'.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0017",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 17,
+      "statement": "\"TEE YMPYRÄÄ OIKEALLE\" tarkoittaa:",
+      "options": [
+        "A. Kaarra oikeaan väistääksesi muuta liikennettä.",
+        "B. Kaarra oikeaan ja jatka sitä kunnes toisin ohjeistetaan.",
+        "C. Tee 360 asteen kaarros oikealle.",
+        "D. Käytössä on oikeanpuoleinen laskukierros."
+      ],
+      "correctIndex": 2,
+      "explanation": "TEE YMPYRÄÄ OIKEALLE (ORBIT RIGHT / MAKE A 360) = tee 360 asteen kaarros oikealle. Käytetään porrastukseen.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0018",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 18,
+      "statement": "Mitä tarkoittaa termi \"KORKEUS\"?",
+      "options": [
+        "A. Standardikorkeutta.",
+        "B. Lentopintaa.",
+        "C. Korkeutta lentokentästä.",
+        "D. Korkeutta keskimääräisestä merenpinnan tasosta."
+      ],
+      "correctIndex": 3,
+      "explanation": "KORKEUS (ALTITUDE) = pystysuora etäisyys MERENPINNAN tasosta (MSL). KÄYTÖSSÄ kun korkeusmittari on QNH-asetuksessa.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0019",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 19,
+      "statement": "Mitä tarkoittaa termi \"LENTOPINTA (Flight Level)\"?",
+      "options": [
+        "A. Tasoa ilmakehässä, joka on luotu porrastustarkoituksessa ja määritelty korkeusmittarin paikalliseen QFE-asetukseen perustuen.",
+        "B. Painetaso joka perustuu paikalliseen QNH:hon.",
+        "C. Tasoa ilmakehässä, joka on luotu porrastustarkoituksessa ja määritelty korkeusmittarin standardiasetukseen 1013,2 hpa perustuen.",
+        "D. Tasoa ilmakehässä, joka on luotu porrastustarkoituksessa ja määritelty korkeusmittarin paikalliseen QNH-asetukseen perustuen."
+      ],
+      "correctIndex": 2,
+      "explanation": "Lentopinta (Flight Level, FL) = porrastustaso ilmakehässä, joka perustuu STANDARDIPAINEEN ASETUKSEEN 1013,2 hPa. Esim. FL100 = 10 000 ft 1013-asetuksella.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0020",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 20,
+      "statement": "Kun lentäjä ilmoittaa \"VIISI TUHATTA JALKAA\":",
+      "options": [
+        "A. Ilma-aluksen korkeus on 5 000ft kentän pinnasta.",
+        "B. Ilma-aluksen korkeusmittari on asetettu standardipaineelle 1012,2 hpa.",
+        "C. Ilma-aluksen korkeusmittari on asetettu paikalliselle QFE:lle.",
+        "D. Ilma-aluksen korkeus on 5 000ft keskimerenpinnasta."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kun ilmoitetaan 'jalkoja' (feet), se viittaa MSL-korkeuteen QNH-asetuksella. 'Lentopinta xx' viittaa standardipaineeseen. Tämä on standardi-ICAOn käyttö.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0021",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 21,
+      "statement": "Korkeus 4 500ft QNH luetaan:",
+      "options": [
+        "A. NELJÄ VIISI SATAA JALKAA MEREN PINNAN YLÄPUOLELLA.",
+        "B. NELJÄ TUHATTA VIISI SATAA JALKAA.",
+        "C. NELJÄ VIISI TUHATTA JALKAA.",
+        "D. NELJÄ PISTE VIISI."
+      ],
+      "correctIndex": 1,
+      "explanation": "Korkeus 4500 ft luetaan: 'NELJÄ TUHATTA VIISI SATAA JALKAA' (four thousand five hundred feet). Yksittäiset numerot ja sanat 'tuhatta' ja 'sataa'.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0022",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 22,
+      "statement": "Korkeus 5 000ft luetaan:",
+      "options": [
+        "A. VIISI ZERO ZERO ZERO.",
+        "B. VIISI NOLLA NOLLA NOLLA JALKAA.",
+        "C. VIISI TUHATTA JALKAA.",
+        "D. VIISI KYMMENTÄ SATAA."
+      ],
+      "correctIndex": 2,
+      "explanation": "5000 ft = 'VIISI TUHATTA JALKAA' (five thousand feet). Pyöreät tuhannet luetaan 'X tuhatta'.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0023",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 23,
+      "statement": "Korkeus 11 000ft luetaan:",
+      "options": [
+        "A. YKSI YKSI NOLLA NOLLA NOLLA JALKAA.",
+        "B. YKSITOISTA TUHATTA NOLLA JALKAA.",
+        "C. YKSITOISTA TUHATTA JALKAA.",
+        "D. YKSI YKSI TUHATTA JALKAA."
+      ],
+      "correctIndex": 3,
+      "explanation": "11 000 ft = 'YKSI YKSI TUHATTA JALKAA' (one one thousand feet). Numerot luetaan yksitellen, sitten 'tuhatta'.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0024",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 24,
+      "statement": "Korkeus 10 500ft luetaan:",
+      "options": [
+        "A. KYMMENEN PISTE VIISI.",
+        "B. YKSI NOLLA VIISI SATAA JALKAA MEREN PINNAN YLÄPUOLELLA.",
+        "C. YKSI NOLLA TUHATTA VIISI SATAA JALKAA.",
+        "D. KYMMENEN TUHATTA VIISI SATAA JALKAA."
+      ],
+      "correctIndex": 2,
+      "explanation": "10 500 ft = 'YKSI NOLLA TUHATTA VIISI SATAA JALKAA' (one zero thousand five hundred feet).",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0025",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 25,
+      "statement": "Taajuus 118.125 mhz luetaan:",
+      "options": [
+        "A. YKSI SATAA KAHDEKSANTOISTA YKSI KAKSI VIISI.",
+        "B. YKSI YKSI KAHDEKSAN YKSI KAKSI VIISI.",
+        "C. YKSI YKSI KAHDEKSAN DESIMAALI YKSI KAKSI VIISI.",
+        "D. YKSI YKSI KAHDEKSAN PISTE YKSI KAKSI VIISI."
+      ],
+      "correctIndex": 2,
+      "explanation": "118.125 MHz = 'YKSI YKSI KAHDEKSAN DESIMAALI YKSI KAKSI VIISI' (one one eight DECIMAL one two five). Käytetään 'desimaali', ei 'piste'.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0026",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 26,
+      "statement": "Kun luetaan numeroita radioon, 583 sanotaan näin:",
+      "options": [
+        "A. VIISI KYMMENTÄ KAHDEKSAN KOLME.",
+        "B. VIISI SATAA KAHDEKSAN KOLME.",
+        "C. VIISI KAHDEKSAN KOLME.",
+        "D. VIISI SATAA KAHDEKSAN KYMMENTÄ KOLME."
+      ],
+      "correctIndex": 2,
+      "explanation": "Radiopuhelinliikenteessä 583 luetaan numero kerrallaan: 'VIISI KAHDEKSAN KOLME'. Luku 583 ei ole kokonainen sata, joten sitä ei lueta muodossa 'VIISI SATAA KAHDEKSAN KOLME'. Kokonaiset sadat luetaan sanalla SATAA, esimerkiksi 600 = 'KUUSI SATAA'.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0027",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 27,
+      "statement": "Kun luetaan numeroita radioon, 496 sanotaan näin:",
+      "options": [
+        "A. NELJÄ YHDEKSÄNKYMMENTÄ KUUSI.",
+        "B. NELJÄ YHDEKSÄN KUUSI",
+        "C. NELJÄ SATAA YHDEKSÄNKYMMENTÄ KUUSI.",
+        "D. NELJÄ SATAA YHDEKSÄN KUUSI."
+      ],
+      "correctIndex": 1,
+      "explanation": "Radiopuhelinliikenteessä 496 luetaan numero kerrallaan: 'NELJÄ YHDEKSÄN KUUSI'. Luku 496 ei ole kokonainen sata, joten sitä ei lueta muodossa 'NELJÄ SATAA YHDEKSÄN KUUSI'. Kokonaiset sadat luetaan sanalla SATAA, esimerkiksi 600 = 'KUUSI SATAA'.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0028",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 28,
+      "statement": "Kun luetaan numeroita radioon, 4501 sanotaan näin:",
+      "options": [
+        "A. NELJÄKYMMENTÄ VIISI SATAA YKSI.",
+        "B. NELJÄ TUHATTA VIISI SATAA YKSI.",
+        "C. NELJÄ VIISI NOLLA PISTE YKSI.",
+        "D. NELJÄ VIISI NOLLA YKSI."
+      ],
+      "correctIndex": 3,
+      "explanation": "Heading/transponder/koodi tyyppisille luvuille luetaan numero numerolta: 4501 = 'NELJÄ VIISI NOLLA YKSI' (four five zero one).",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0029",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 29,
+      "statement": "Kun luetaan numeroita radioon, 600 sanotaan näin:",
+      "options": [
+        "A. KUUS NOL NOL.",
+        "B. KUUSI TUPLA NOLLA.",
+        "C. KUUSIKYMMENTÄ NOLLA.",
+        "D. KUUSI SATAA."
+      ],
+      "correctIndex": 3,
+      "explanation": "600 = 'KUUSI SATAA' (six hundred). Pyöreät satat luetaan kerran 'sataa'.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0030",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 30,
+      "statement": "Taajuus 118.0 Mhz tulee lausua radioon näin:",
+      "options": [
+        "A. YKSI YKSI KAHDEKSAN PISTE NOLLA.",
+        "B. SATA KAHDEKSANTOISTA PISTE NOLLA.",
+        "C. YKSI YKSI KAHDEKSAN DESIMAALI NOLLA.",
+        "D. YKSI YKSI KAHDEKSAN."
+      ],
+      "correctIndex": 2,
+      "explanation": "118.0 MHz = 'YKSI YKSI KAHDEKSAN DESIMAALI NOLLA' (one one eight decimal zero). 'Desimaali' on standardi, ei 'piste'.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0031",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 31,
+      "statement": "Miten lausutaan taajuus 118.1 MHz ilmailun radioliikenteessä?",
+      "options": [
+        "A. YKSI SATAA YKSITOISTA PISTE YKSI.",
+        "B. YKSI YKSI KAHDEKSAN DESIMAALI YKSI.",
+        "C. YKSI YKSI KAHDEKSAN YKSI.",
+        "D. YKSI YKSI KAHDEKSAN PISTE YKSI."
+      ],
+      "correctIndex": 1,
+      "explanation": "Taajuus 118.1 MHz lausutaan 'YKSI YKSI KAHDEKSAN DESIMAALI YKSI'. Radiotaajuuksissa käytetään standardisanontaa 'desimaali'.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0032",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 32,
+      "statement": "Miten lausutaan taajuus 118.150 MHz ilmailun radioliikenteessä?",
+      "options": [
+        "A. YKSI YKSI KAHDEKSAN DESIMAALI YKSI VIISI.",
+        "B. YKSI YKSI KAHDEKSAN PISTE YKSI VIISI.",
+        "C. YKSI YKSI KAHDEKSAN VÄLI YKSI VIISI NOLLA.",
+        "D. YKSI YKSI KAHDEKSAN DESIMAALI YKSI VIISI NOLLA."
+      ],
+      "correctIndex": 3,
+      "explanation": "8,33 kHz kanavaväli: 118.150 MHz = 'YKSI YKSI KAHDEKSAN DESIMAALI YKSI VIISI NOLLA' (kaikki kolme desimaalia luetaan).",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0033",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 33,
+      "statement": "Taajuus 121.725 Mhz tulee lausua radioon näin:",
+      "options": [
+        "A. YKSI KAKSI YKSI PISTE SEITSEMÄN KAKSI VIISI.",
+        "B. YKSI KAKSIKYMMENTÄ YKSI DESIMAALI SEITSEMÄN KAKSIKYMMENTÄ VIISI.",
+        "C. YKSI KAKSI YKSI PISTE SEITSEMÄN KAKSI.",
+        "D. YKSI KAKSI YKSI DESIMAALI SEITSEMÄN KAKSI VIISI."
+      ],
+      "correctIndex": 3,
+      "explanation": "121.725 MHz = 'YKSI KAKSI YKSI DESIMAALI SEITSEMÄN KAKSI VIISI'.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0034",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 34,
+      "statement": "Lentäjä voi lyhentää ilma-aluksensa radiokutsun:",
+      "options": [
+        "A. Ei lainkaan.",
+        "B. Kun yhteys maa-asemaan on saatu.",
+        "C. Oman harkintansa mukaan.",
+        "D. Vasta, kun maa-asema on käyttänyt lyhennettyä kutsutunnusta."
+      ],
+      "correctIndex": 3,
+      "explanation": "Lentäjä saa lyhentää kutsutunnustaan VASTA SEN JÄLKEEN, kun maa-asema on käyttänyt lyhennettyä muotoa. OH-ABC → O-BC vasta vahvistuksen jälkeen.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0035",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 35,
+      "statement": "Aika 10:20 lähetetään:",
+      "options": [
+        "A. KELLO KYMMENEN KAKSIKYMMENTÄ",
+        "B. KYMMENEN KAKSI NOLLA",
+        "C. YKSI NOLLA KAKSIKYMMENTÄ",
+        "D. YKSI NOLLA KAKSI NOLLA tai KAKSI NOLLA"
+      ],
+      "correctIndex": 3,
+      "explanation": "Aika 10:20 lähetetään 'YKSI NOLLA KAKSI NOLLA' (one zero two zero) tai vain 'KAKSI NOLLA' jos tunti on selvä asiayhteydestä.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0036",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 36,
+      "statement": "Kello on 9:10. Haluat sanoa ajan 10:20. Miten muotoilet sanoman?",
+      "options": [
+        "A. KELLO KYMMENEN KAKSIKYMMENTÄ",
+        "B. KAKSI NOLLA",
+        "C. KYMMENEN KAKSI NOLLA",
+        "D. YKSI NOLLA KAKSI NOLLA"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vaihteleva tunti (kello on 9:10, mutta kerrotaan 10:20) → täytyy ilmoittaa MYÖS TUNTI: 'YKSI NOLLA KAKSI NOLLA' (UTC-aika).",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0037",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 37,
+      "statement": "Tunnus 70-VEL lausutaan radioon:",
+      "options": [
+        "A. SEITSEMÄN NOLLA LIMA",
+        "B. SEITSEMÄN NOLLA VICTOR ECHO LIMA",
+        "C. SEITSEMÄN NOLLA WHISKEY ECHO LIMA",
+        "D. SEITSEMÄNKYMMENTÄ VICTOR ECHO LIMA"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tunnus 70-VEL luetaan: SEITSEMÄN NOLLA VICTOR ECHO LIMA. V-kirjain on ICAO-aakkosissa VICTOR; WHISKEY tarkoittaisi W-kirjainta.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0038",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 38,
+      "statement": "Tunnus EXTRA lausutaan radioon:",
+      "options": [
+        "A. ECHO EX TORONTO ROMEO ALFA",
+        "B. ECHO X-RAY TORONTO ROMEO ALFA",
+        "C. ECHO X-RAY TANGO ROMEO ALFA",
+        "D. EXTRA"
+      ],
+      "correctIndex": 2,
+      "explanation": "EXTRA = 'ECHO X-RAY TANGO ROMEO ALFA' (E-X-T-R-A). ICAO-aakkoset jokaiselle kirjaimelle.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0039",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 39,
+      "statement": "Tunnus C-MNXY lausutaan radioon:",
+      "options": [
+        "A. CHARLIE MIKE NOVEMBER EXTRA YANKEE",
+        "B. CHARLIE METRO NOVEMBER EXTRA YANKEE",
+        "C. CHARLIE MIKE NOVEMBER X-RAY YANKEE",
+        "D. CHARLIE MIKE NECTAR X-RAY YANKEE"
+      ],
+      "correctIndex": 2,
+      "explanation": "C-MNXY = 'CHARLIE MIKE NOVEMBER X-RAY YANKEE' (C = Charlie, M = Mike, N = November, X = X-ray, Y = Yankee).",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0040",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 40,
+      "statement": "Tunnus B9-DFF lausutaan radioon:",
+      "options": [
+        "A. BRAVO YSI DELTA FOXTROT FOXTROT",
+        "B. BRAVO YSI DELTA FOX FOX",
+        "C. BRAVO YHDEKSÄN DELTA FOXTROT FOXTROT",
+        "D. BRAVO YHDEKSÄN DELTA KAKSI FOXTROT"
+      ],
+      "correctIndex": 2,
+      "explanation": "B9-DFF = 'BRAVO YHDEKSÄN DELTA FOXTROT FOXTROT'. Numero 9 = 'YHDEKSÄN' suomeksi (englanniksi NINER).",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0041",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 41,
+      "statement": "Lentäjä kysyy QFE:tä seuraavasti:",
+      "options": [
+        "A. PYYDÄN QUEBEQ FOXTROT ECHO.",
+        "B. PYYDÄN QUEBEQ FOX ECHO.",
+        "C. PYYDÄN QFE.",
+        "D. PYYDÄN QUEEN FOX EASY."
+      ],
+      "correctIndex": 2,
+      "explanation": "Q-koodit luetaan kirjain kirjaimelta käyttämättä foneettisia merkintöjä: 'PYYDÄN QFE'. (Verrataan QNH:hon ja QFE:hen.)",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0042",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 42,
+      "statement": "Mikä on oikea tapa lausua FRI-VOR radioon?",
+      "options": [
+        "A. FOXTROT ROMEO INDIA VICTOR OSCAR ROMEO.",
+        "B. FRIDAY VOR.",
+        "C. FOX ROMEO INDIA VOR.",
+        "D. FOXTROT ROMEO INDIA VOR."
+      ],
+      "correctIndex": 3,
+      "explanation": "FRI-VOR = 'FOXTROT ROMEO INDIA VOR'. VOR luetaan sanana, ei kirjain kerrallaan.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0043",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 43,
+      "statement": "Lähialueen lyhenne on:",
+      "options": [
+        "A. MATZ.",
+        "B. CTR.",
+        "C. CTZ.",
+        "D. CTA."
+      ],
+      "correctIndex": 1,
+      "explanation": "CTR = Control Zone = lähialue (lennonjohdon valvoma kontrollivyöhyke lentokentän ympärillä). CTA = Control Area, MATZ = Military Aerodrome Traffic Zone.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0044",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 44,
+      "statement": "Mikä seuraavista lyhenteistä tulee lausua kirjain kirjaimelta ICAOn aakkosin?",
+      "options": [
+        "A. ILS.",
+        "B. RVR.",
+        "C. CAVOK.",
+        "D. Y-BC."
+      ],
+      "correctIndex": 3,
+      "explanation": "Vanhan kysymyspankin logiikassa Y-BC on tunnus/lyhenne, joka lausutaan ICAO-aakkosin: YANKEE BRAVO CHARLIE. CAVOK lausutaan sanana. ILS ja RVR voidaan käytännössä lausua kirjainlyhenteinä, joten tämä kohta kannattaa tarvittaessa tarkistaa paikallisen fraseologiamateriaalin mukaan.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0045",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 45,
+      "statement": "Mitä paineasetusta käytetään suhteellisen korkeuden määrittämiseen lentokentän pinnasta mitattuna?",
+      "options": [
+        "A. QNH",
+        "B. QBA",
+        "C. ELT",
+        "D. QFE"
+      ],
+      "correctIndex": 3,
+      "explanation": "QFE = paine LENTOPAIKAN PINNALLA. Korkeusmittari QFE:llä → näyttää korkeuden lentopaikan PINNASTA (= 0 lentopaikalla).",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0046",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 46,
+      "statement": "Mikä koodi kertoo magneettisen suunnan lentokoneesta jollekin asemalle?",
+      "options": [
+        "A. QNH",
+        "B. QDR",
+        "C. QGH",
+        "D. QDM"
+      ],
+      "correctIndex": 3,
+      "explanation": "QDM = magneettinen suunta lentokoneesta ASEMALLE (DM = direction magnetic to station). 'Steer to' = QDM.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0047",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 47,
+      "statement": "Mikä koodi kertoo magneettisen suunnan jostakin asemasta ilma-alukseen?",
+      "options": [
+        "A. QDR",
+        "B. QGH",
+        "C. QDM",
+        "D. QNH"
+      ],
+      "correctIndex": 0,
+      "explanation": "QDR tarkoittaa magneettista suuntaa asemalta ilma-alukseen. QDM taas tarkoittaa magneettista suuntaa ilma-aluksesta asemalle eli ohjaussuuntaa asemalle.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0048",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 48,
+      "statement": "Mikä koodi kertoo tosisuunnan jostakin asemasta lentokoneeseen?",
+      "options": [
+        "A. QFE",
+        "B. QDR",
+        "C. QNH",
+        "D. QTE"
+      ],
+      "correctIndex": 3,
+      "explanation": "QTE = TOSIsuunta ASEMALTA ilma-alukseen (true bearing FROM station). QDR on magneettinen, QTE tosisuuntainen.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0049",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 49,
+      "statement": "Mitä tarkoittaa lyhenne \"QDM\"?",
+      "options": [
+        "A. Ilmakehän paine lentokentän korkeudessa.",
+        "B. Magneettinen lentosuunta lentokoneesta mittausasemalle.",
+        "C. Ilmakehän paine lentokentän korkeudessa, muunnettuna vastaamaan meren pinnalla vallitsevaa painetta.",
+        "D. Vallitseva sää lentokentällä."
+      ],
+      "correctIndex": 1,
+      "explanation": "QDM = magneettinen lentosuunta lentokoneesta MITTAUSASEMALLE (eli 'kohti asemaa'). Käytetään radiosuunnistuksessa.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0050",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 50,
+      "statement": "Mitä tarkoittaa lyhenne \"QNH\"?",
+      "options": [
+        "A. Korkeusmittarin paineasteikon asetus, jolla korkeusmittari näyttää korkeutta meren pinnasta.",
+        "B. Ilmakehän paine lentokentän korkeudessa.",
+        "C. Tosisuunta joltakin asemalta.",
+        "D. Magneettinen suunta joltakin asemalta."
+      ],
+      "correctIndex": 0,
+      "explanation": "QNH = paineasetus, jolla korkeusmittari näyttää korkeuden MERENPINNASTA. Lentopaikalla QNH = lentopaikan korkeus mittarissa.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0051",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 51,
+      "statement": "Mikä seuraavista listoista on sellainen, jossa kaikki kohdat tulee lukea takaisin lennonjohdolle?",
+      "options": [
+        "A. Lentopintaa koskevat ohjeet, korkeusmittariasetus, pintatuuli, kiitotieinformaatio.",
+        "B. VOR tieto, taajuuksien muutokset, tutkapalvelun tyyppi.",
+        "C. Selvitys kiitotielle, laskuun, lentoonlähtöön, rullaukseen takaisinpäin, ylittää tai odottaa kiitotielle pääsyä.",
+        "D. Lennonjohdon reittiselvitykset, kiitotieselvitykset, vallitsevat säätiedot."
+      ],
+      "correctIndex": 2,
+      "explanation": "Pakolliset takaisin luettavat (read-back): kiitotieselvitykset (laskuun, lentoonlähtöön), rullausselvitys, korkeudet, taajuudet, transponder-koodit. Ne ovat turvallisuuskriittisiä.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0052",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 52,
+      "statement": "Lentäjän tulee lukea takaisin vähintään:",
+      "options": [
+        "A. Korkeusmittariasetus, rullausohjeet, määränpään sää, kiitotieselvitykset, lähestymisen apuvälineiden tilannetiedotukset.",
+        "B. Reittiselvitykset, nopeusohjeet, säätiedot, rullausselvitys, kiitotien kuntotiedot.",
+        "C. Toisiotutkakoodi, lentoonlähtöselvitys, korkeusmittariasetus, radiotaajuudet.",
+        "D. Lennonjohdon reittiselvitykset, kiitotieselvitykset, vallitsevat säätiedot."
+      ],
+      "correctIndex": 2,
+      "explanation": "Lentäjän on luettava takaisin: lennonjohdon SELVITYKSET (reitti, kiitotie, korkeus), TRANSPONDER-koodit, KORKEUSMITTARIASETUS, RADIOTAAJUUDET, lentoonlähtöselvitys.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0053",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 53,
+      "statement": "Mikä seuraavista väittämistä on oikein? \"Maasta ilmaan kommunikoinnissa lennonjohtaja aina…\":",
+      "options": [
+        "A. Sanoo kutsumerkkisi vain avauskutsussa.",
+        "B. Sanoo viimeiseksi kutsumerkkisi.",
+        "C. Sanoo kutsumerkkisi ensiksi tai viimeiseksi, riippuen asiasta.",
+        "D. Sanoo ensiksi kutsumerkkisi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Lennonjohtaja ilmoittaa AINA ENSIN ilma-aluksen kutsutunnuksen, sitten viestin. Esim. 'OH-ABC, KIITOTIELLÄ ODOTA'.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0054",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 54,
+      "statement": "Haluat rullata lähtöpaikalle. Käytät sanontaa:",
+      "options": [
+        "A. PYYDÄN LUPAA RULLATA.",
+        "B. PYYDÄN RULLAUSSELVITYSTÄ.",
+        "C. PYYDÄN RULLATA.",
+        "D. MIKÄ ON RULLAUSSELVITYKSENI."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nykyisen Traficom GEN T1-10 revisio 5 -fraseologian mukaan rullauspyyntö annetaan sanonnalla 'PYYDÄN RULLATA [aikeet]'. Siksi oikea vastaus on 'PYYDÄN RULLATA', ei 'PYYDÄN RULLAUSSELVITYSTÄ'.",
+      "source": "Traficom GEN T1-10 revisio 5",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0055",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 55,
+      "statement": "Kun torni pyytää \"ILMOITA MYÖTÄTUULI\", lentäjän tulee ilmoittaa:",
+      "options": [
+        "A. Arvioitu tuulen nopeus ja suunta lentokorkeudella.",
+        "B. Suurin sallittu myötätuulikomponentti laskussa.",
+        "C. Kun lentokone on laskukierroksen loppuosalla.",
+        "D. Kun lentokone on laskukierroksessa, toisen ja kolmannen kaarron välissä."
+      ],
+      "correctIndex": 3,
+      "explanation": "ILMOITA MYÖTÄTUULI = ilmoita kun olet myötätuuliosalla = 2. ja 3. kaarron välissä laskukierroksella.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0056",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 56,
+      "statement": "Lennonjohtaja haluaa tiedon siitä, millä korkeudella ilma-alus on. Hän käyttää sanontaa:",
+      "options": [
+        "A. ILMOITA KORKEUS",
+        "B. LÄHETÄ KORKEUS",
+        "C. MIKÄ ON KORKEUTESI",
+        "D. PYYDÄN KORKEUS"
+      ],
+      "correctIndex": 0,
+      "explanation": "ILMOITA KORKEUS (Report altitude) on standardisanonta. Ei 'lähetä' tai 'pyydän'.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0057",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 57,
+      "statement": "Mitä sanontaa lennojohto käyttää kun ilmoittaa lentäjälle, että paikkailmoitusta ei tarvitse tehdä pakollisen ilmoittautumispisteen X päällä?",
+      "options": [
+        "A. PERUUTA PAIKKAILMOITUS X",
+        "B. ÄLÄ KERRO PAIKKAA X",
+        "C. EI PAIKKAILMOITUSTA X:SSÄ",
+        "D. JÄTÄ POIS PAIKKAILMOITUS X"
+      ],
+      "correctIndex": 3,
+      "explanation": "Standardisanonta on 'JÄTÄ POIS PAIKKAILMOITUS X', joka vastaa englannin sanontaa 'OMIT POSITION REPORT OVER X'. Se tarkoittaa, ettei kyseistä paikkailmoitusta tarvitse antaa.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0058",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 58,
+      "statement": "Mikäli lentäjä ei kykene noudattamaan selvitystä, tulee lentäjän käyttää sanontaa:",
+      "options": [
+        "A. EI VOI HYVÄKSYÄ",
+        "B. EN PYSTY",
+        "C. EN KYKENE",
+        "D. PYYDÄN UUTTA SELVITYSTÄ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Traficom GEN T1-10 käyttää UNABLE-sanonnan suomenkielisenä vastineena muotoa 'EN PYSTY'. Sitä käytetään, kun ilma-alus ei pysty toimimaan pyynnön, selvityksen tai ohjeen mukaan.",
+      "source": "Traficom GEN T1-10",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0059",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 59,
+      "statement": "Miten pyydät toistamaan sanoman?",
+      "options": [
+        "A. OLE HYVÄ JA SANO UUDELLEEN",
+        "B. SANO KAIKKI UUDELLEEN",
+        "C. SANO UUDELLEEN",
+        "D. TOISTA VIESTI"
+      ],
+      "correctIndex": 2,
+      "explanation": "SANO UUDELLEEN (SAY AGAIN) on standardi pyyntö viestin toistamiseksi. Ei 'toista', ei 'sano kaikki uudelleen' yleisellä tasolla.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0060",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 60,
+      "statement": "Mikä seuraavista viesteistä saa korkeimman prioriteetin?",
+      "options": [
+        "A. RULLAA POUSARILLE.",
+        "B. HUOMIOI KUNNOSSAPITOTYÖ RULLAUSTIELLÄ.",
+        "C. PYYDÄN QDM.",
+        "D. ILMOITA LOPPUOSA NUMERO YKSI."
+      ],
+      "correctIndex": 2,
+      "explanation": "PYYDÄN QDM (radiosuuntiminen) on lentoturvallisuusviesti, joka voi liittyä eksyneen lentäjän paikantamiseen. Korkeampi prioriteetti kuin tavalliset rullaus- ja paikkaviestit.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0061",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 61,
+      "statement": "Jos lennonjohtaja lähettää ohjeen jonka ymmärrät ja aiot noudattaa, vakiovastaus on:",
+      "options": [
+        "A. WILCO.",
+        "B. VAHVISTAN.",
+        "C. TARKISTA.",
+        "D. SELVÄ."
+      ],
+      "correctIndex": 0,
+      "explanation": "WILCO = 'Will Comply' on vakiovastaus selvitykseen jonka ymmärrät ja aiot noudattaa. Lyhyt ja standardi.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0062",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 62,
+      "statement": "Jos lentäjä ei kykene saamaan yhteyttä asemaan määrätyllä taajuudella, hänen tulee:",
+      "options": [
+        "A. Lähettää sokeasti.",
+        "B. Lähettää taajuudella 121.5.",
+        "C. Yrittää toisella, asiaan liittyvällä taajuudella.",
+        "D. Lähettää lausuen sanat kahdesti."
+      ],
+      "correctIndex": 2,
+      "explanation": "Yhteyden katketessa: yritä TOISELLA, asiaan liittyvällä taajuudella (esim. APP, ACC, naapurikenttä, edellinen taajuus). Vasta sen jälkeen 121,5 MHz.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0063",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 63,
+      "statement": "Kun ilma-alus lähettää viestin aloittaen sanonnalla \"Lähetän sokeasti, koska vastaanotin on rikki\", pitäisi lisäksi:",
+      "options": [
+        "A. Odottaa viisi minuuttia sen hetkisessä paikassa.",
+        "B. Informoida muuta liikennettä kaartamalla 360 astetta oikealle.",
+        "C. Ilmoittaa seuraavan aiotun lähetyksen aika.",
+        "D. Jatkaa varakentälle."
+      ],
+      "correctIndex": 2,
+      "explanation": "TX BLIND (lähetän sokeasti, vastaanotin rikki) -viestiin sisällytetään SEURAAVAN AIOTUN LÄHETYKSEN AIKA, jotta vastaanottaja tietää milloin kuunnella seuraavaa viestiä.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0064",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 64,
+      "statement": "Olet odotuspaikalla, olet suorittanut lentoonlähtötarkistuksen, ja olet valmiina rullaamaan kiitotielle lentoonlähtöä varten. Miten ilmoitat lennonjohdolle olevasi valmis?",
+      "options": [
+        "A. (KUTSUMERKKI) VALMIS.",
+        "B. (KUTSUMERKKI) (SIJAINTI) VALMIS RULLAAMAAN KIITOTIELLE.",
+        "C. (KUTSUMERKKI) (SIJAINTI) VALMIS JATKAMAAN.",
+        "D. (KUTSUMERKKI) VALMIS LENTOONLÄHTÖÖN."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kun ilma-alus on odotuspaikalla ja valmis lentoonlähtöön, ilmoitus tehdään lyhyesti sanonnalla 'VALMIS'. GEN T1-10:n fraseologiassa lennonjohto voi pyytää ilmoittamaan, kun ilma-alus on valmis, ja ohjaajan vastaus on 'VALMIS'.",
+      "source": "Traficom GEN T1-10",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0065",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 65,
+      "statement": "\"EN PYSTY\" sanonta tarkoittaa:",
+      "options": [
+        "A. En pysty toimimaan pyyntösi, selvityksen tai ohjeen mukaan ja pyydän uutta selvitystä.",
+        "B. En pysty toimimaan pyyntösi, selvityksen tai ohjeen mukaan.",
+        "C. En halua toimia pyyntösi, selvityksen tai ohjeen mukaan.",
+        "D. Toista edellinen lähetyksesi."
+      ],
+      "correctIndex": 1,
+      "explanation": "EN PYSTY (UNABLE) = en pysty toimimaan pyyntösi mukaan. Käytetään, kun selvitystä EI VOIDA noudattaa (suorituskyky, sää, tekninen syy).",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0066",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 66,
+      "statement": "Lennät Etelä-Suomessa koneella OH-ABC. Korkeusmittariasetus on standardi. Kun lennonjohto kysyy korkeuttasi, mikä on oikea vastaus?",
+      "options": [
+        "A. SÄILYTÄN LENTOPINTA VIISI NOLLA, O-BC",
+        "B. LENTOPINNALLA VIISI NOLLA, O-BC",
+        "C. O-BC, LENTOPINTA VIISI NOLLA",
+        "D. LENTOPINTA VIISI NOLLA, O-BC"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kun korkeus on FL (standardipaine), lausutaan 'LENTOPINTA xx': 'LENTOPINTA VIISI NOLLA, O-BC'. Lyhennetty kutsumerkki O-BC luetaan foneettisesti OSCAR BRAVO CHARLIE.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0067",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 67,
+      "statement": "Lennät koilliseen 2 500 jalassa. Ilmoitat suuntasi ja korkeutesi näin:",
+      "options": [
+        "A. LENNÄN KORKEUS KAKSI VIISI SATAA JALKAA OHJAUSSUUNTA 045.",
+        "B. OHJAUSSUUNTA 045 KORKEUS KAKSI VIISI NOLLA NOLLA JALKAA.",
+        "C. OHJAUSSUUNTA 045 KORKEUS KAKSI VIISI SATAA JALKAA.",
+        "D. OHJAUSSUUNTA 045 KORKEUS KAKSI TUHATTA VIISI SATAA JALKAA."
+      ],
+      "correctIndex": 3,
+      "explanation": "QNH-korkeus < FL siirtokorkeuden alapuolella, lausutaan 'KORKEUS xx JALKAA': '...KORKEUS KAKSI TUHATTA VIISI SATAA JALKAA'. (2500 = kaksi tuhatta viisi sataa.)",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0068",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 68,
+      "statement": "Mikä on oikea vastaus lennonjohdon kehotukseen \"O-CD, OTA YHTEYS MALMIN TORNIIN 131.250\"",
+      "options": [
+        "A. OSCAR CHARLIE DELTA, YKSI KOLME YKSI DESIMAALI KAKSI VIISI NOLLA.",
+        "B. VAIHDAN MALMIN TORNI YKSI KOLME YKSI DESIMAALI KAKSI VIISI NOLLA, OSCAR CHARLIE DELTA.",
+        "C. YKSI KOLME YKSI DESIMAALI KAKSI VIISI NOLLA, OSCAR CHARLIE DELTA.",
+        "D. WILCO OSCAR CHARLIE DELTA."
+      ],
+      "correctIndex": 2,
+      "explanation": "Taajuudenvaihto-ohje luetaan takaisin ilmoittamalla taajuus ja kutsutunnus: 'YKSI KOLME YKSI DESIMAALI KAKSI VIISI NOLLA, OSCAR CHARLIE DELTA'. Tämä vastaa CONTACT-ohjeen normaalia takaisinlukua.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0069",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 69,
+      "statement": "Lennonjohto antaa kehotuksen laskeutumiseen käyttäen sanontaa:",
+      "options": [
+        "A. SELVÄ...",
+        "B. JÄTÄ XX YY VARTEN",
+        "C. SÄILYTÄ...",
+        "D. LASKEUDU..."
+      ],
+      "correctIndex": 3,
+      "explanation": "Laskeutumisohje eli descent instruction annetaan sanonnalla 'LASKEUDU...' / 'DESCEND TO...'. 'SELVÄ...' liittyy selvitykseen tai lupaan, kuten laskuselvitykseen, mutta ei ole tässä oikea descent-ohje.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0070",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 70,
+      "statement": "Lennonjohtaja antaa lentäjälle selvityksen nousta tiettyyn korkeuteen käyttäen sanontaa:",
+      "options": [
+        "A. SÄILYTÄ...",
+        "B. JÄTÄ XX YY VARTEN",
+        "C. NOUSE...",
+        "D. SELVÄ..."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nousuohje annetaan sanonnalla 'NOUSE...' / 'CLIMB TO...'. 'SELVÄ...' on selvityssana, mutta ei tässä paras vastaus varsinaiseen climb instruction -sanontaan.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0071",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 71,
+      "statement": "Ilma-alus on aluksi selvitetty nousemaan pinnalle FL100. Porrastussyistä ilma-alus pitää pysäyttää vaakalentoon pinnalle FL80 muutamaksi minuutiksi. Lennonjohto antaa tämän ohjeen sanomalla:",
+      "options": [
+        "A. OIKAISE LENTOPINNALLE 80",
+        "B. SELVÄ LENTOPINNALLE 80",
+        "C. SÄILYTÄ LENTOPINTA 80",
+        "D. PYSÄYTÄ NOUSU LENTOPINNALLA 80"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pysäyttäminen vaakalentoon: 'SÄILYTÄ LENTOPINTA 80' (MAINTAIN FL 80). Ohje pysäyttää nousun tai laskun tietyssä korkeudessa.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0072",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 72,
+      "statement": "Kun lennonjohto kysyy \"Pystytkö säilyttämään lentopinnan 40\", oikea vastaus kuuluu:",
+      "options": [
+        "A. KYLLÄ tai EI.",
+        "B. ROGER tai MOORE.",
+        "C. WILCO tai EI.",
+        "D. EI ONNISTU / KYLLÄ ONNISTUU."
+      ],
+      "correctIndex": 3,
+      "explanation": "Englanninkielisessä fraseologiassa vastaus on käytännössä AFFIRM tai UNABLE/NEGATIVE tilanteesta riippuen. Suomenkielisessä kysymyspankissa vaihtoehto D 'EI ONNISTU / KYLLÄ ONNISTUU' on annetuista vaihtoehdoista tarkoitettu oikeaksi.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0073",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 73,
+      "statement": "Olet juuri laskeutunut kentälle jolla on lennonjohtotorni. Torni kehottaa sinua ottamaan yhteyttä kun olet poistunut kiitotieltä. Sinä olet poistunut kiitotieltä kun:",
+      "options": [
+        "A. Kaikki ilma-aluksen osat ovat ylittäneet odotusviivan",
+        "B. Ilma-aluksen pyrstö on kiitotien reunalla",
+        "C. Ilma-alus alkaa kääntyä pois kiitotieltä",
+        "D. Ilma-aluksen ohjaamo on ylittänyt odotusviivan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kiitotieltä on POISTUTTU vasta, kun KAIKKI ilma-aluksen osat (myös pyrstö) ovat ylittäneet odotusviivan rullaustien suuntaan. Pyrstön kärki kiitotien reunalla EI vielä ole 'poistunut'.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0074",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 74,
+      "statement": "Mikäli torni pyytää ilmoittamaan kun kiitotie on ylitetty, ilmoitus tapahtuu sanomalla:",
+      "options": [
+        "A. OLEN JÄTTÄNYT KIITOTIEN.",
+        "B. OLEN KIITOTIEN TOISELLA PUOLEN.",
+        "C. KIITOTIE VAPAUTETTU.",
+        "D. OLEN YLITTÄNYT KIITOTIEN."
+      ],
+      "correctIndex": 2,
+      "explanation": "Oikea standardisanonta on 'KIITOTIE VAPAUTETTU' (RUNWAY VACATED). Ilmoitus tehdään pyydettäessä, kun koko ilma-alus on ohittanut kyseistä kiitotietä koskevan odotuspaikan. 'OLEN YLITTÄNYT KIITOTIEN' kuvaa tilannetta yleiskielellä, mutta se ei ole tässä käytettävä virallinen radiopuhelinsanonta.",
+      "source": "Traficom GEN T1-10; EASA/ICAO phraseology",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0075",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 75,
+      "statement": "Paikkailmoitus perusosalla tehdään:",
+      "options": [
+        "A. Aina.",
+        "B. Vain auringonlaskun jälkeen.",
+        "C. Vain kun on käsketty lennonjohtajan toimesta.",
+        "D. Vain lentäjän niin harkitessa."
+      ],
+      "correctIndex": 2,
+      "explanation": "Paikkailmoitus perusosalla (base leg) tehdään VAIN kun lennonjohtaja sitä pyytää. Pakollisia paikkailmoituksia laskukierroksella ovat myötätuuli ja loppuosa.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0076",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 76,
+      "statement": "Loppuosa ilmoitetaan:",
+      "options": [
+        "A. O-BC LOPPUOSALLA.",
+        "B. LOPPULÄHESTYMINEN, O-BC.",
+        "C. LÄHESTYN LOPPUOSAA, O-BC.",
+        "D. MALMIN TORNI, LOPPUOSA, O-BC."
+      ],
+      "correctIndex": 0,
+      "explanation": "Traficom GEN T1-10:n mukaisessa fraseologiassa loppuosa ilmoitetaan ilmoittamalla kutsumerkki ja 'LOPPUOSALLA'.",
+      "source": "Traficom GEN T1-10",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0077",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 77,
+      "statement": "Minkä niminen laskukierrosen osa on merkitty kirjaimella \"E\"? (Katso liite LAPL/PPL 090-1)",
+      "options": [
+        "A. PERUSOSA.",
+        "B. KIITOTIE.",
+        "C. SIVUTUULI.",
+        "D. MYÖTÄTUULI."
+      ],
+      "correctIndex": 3,
+      "explanation": "Vakiolaskukierrossymbolit (LAPL/PPL 090-1): 'E' = MYÖTÄTUULI (downwind leg, 2.–3. kaarto välissä, kiitotien suuntaisesti vastakkain).",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0078",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 78,
+      "statement": "Mikä kirjain osoittaa \"Perusosaa\"? (Katso liite LAPL/PPL 090-1)",
+      "options": [
+        "A. G",
+        "B. D",
+        "C. E",
+        "D. F"
+      ],
+      "correctIndex": 3,
+      "explanation": "Perusosa (base leg) merkitty kuvassa kirjaimella F – kierroksen 3.–4. kaarto välissä, kohtisuoraan kiitotielle.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0079",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 79,
+      "statement": "Mikä kirjain osoittaa \"Loppuosaa\"? (Katso liite LAPL/PPL 090-1)",
+      "options": [
+        "A. E",
+        "B. C",
+        "C. G",
+        "D. F"
+      ],
+      "correctIndex": 2,
+      "explanation": "Loppuosa (final leg) merkitty kuvassa kirjaimella G – 4. kaarron jälkeen kiitotien linjassa.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0080",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 80,
+      "statement": "Mikä on radiokielessä nimeltään paikka, jota osoittaa kirjain A? (Katso liite LAPL/PPL 090-1)",
+      "options": [
+        "A. ASEMATASO",
+        "B. RULLAUSTIE",
+        "C. PERUSOSA",
+        "D. KIITOTIE"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kuvan kirjain A osoittaa asematasoa (APRON).",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0081",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 81,
+      "statement": "Mikä on radiokielessä nimeltään paikka, jota osoittaa kirjain B? (Katso liite LAPL/PPL 090-1)",
+      "options": [
+        "A. ASEMATASO",
+        "B. LÄHTÖPAIKKA",
+        "C. SIVUTUULIOSA",
+        "D. ODOTUSPAIKKA"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kuvan kirjain B osoittaa odotuspaikkaa (HOLDING POINT) – paikka, jossa odotetaan kiitotieselvitystä.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0082",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 82,
+      "statement": "Mikä seuraavista on ehdollinen selvitys?",
+      "options": [
+        "A. JAT 737, RULLAA KIITOTIELLE JA ODOTA.",
+        "B. OH-ABC, JAT 737:N JÄLKEEN RULLAA ODOTUSPAIKALLE D KIITOTIE 26.",
+        "C. O-BC, KERRO LOPPUOSA, OLET VUOROLLA KOLME.",
+        "D. OH-ABC, LENTOONLÄHTÖ HARKINTASI MUKAAN."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ehdollinen selvitys (conditional clearance): 'XXX:N JÄLKEEN ...'. Esim. 'JAT 737:N JÄLKEEN RULLAA ODOTUSPAIKALLE D'. Selvitys on voimassa vain ehdon täyttyessä.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0083",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 83,
+      "statement": "Mitä termiä käytetään, kun halutaan peruuttaa aikaisemmin lähetetty sanoma?",
+      "options": [
+        "A. ÄLÄ HUOMIOI",
+        "B. PERUUTAN",
+        "C. UUDELLEENSELVITYS",
+        "D. EI"
+      ],
+      "correctIndex": 0,
+      "explanation": "Oikea menetelmäsana aikaisemmin lähetetyn sanoman peruuttamiseen tai sivuuttamiseen on 'ÄLÄ HUOMIOI' (DISREGARD), eli edellinen lähetys jätetään huomiotta. 'UUDELLEENSELVITYS' (RECLEARED) tarkoittaa uuden selvityksen antamista siten, että aiempi selvitys tai sen osa muuttuu, eikä se ole tässä kysytty yleinen sanoman peruuttamistermi.",
+      "source": "SERA.14045; Traficom SERA suomennos",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0084",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 84,
+      "statement": "Lupa rullata odotuspaikalta lentoonlähtöpaikalle sanotaan:",
+      "options": [
+        "A. SIIRRY KIITOTIELLE.",
+        "B. SELVÄ KIITOTIELLE, ODOTA.",
+        "C. SELVÄ LENTOONLÄHTÖPAIKALLE, ODOTA.",
+        "D. SIIRRY LÄHTÖPAIKALLE."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nykyisen Traficom GEN T1-10 -fraseologian mukaan LINE UP [AND WAIT] on suomeksi 'SIIRRY KIITOTIELLE [JA ODOTA]'. Siksi oikea vastaus on 'SIIRRY KIITOTIELLE', ei vanha tai epästandardi muoto 'SIIRRY LÄHTÖPAIKALLE'.",
+      "source": "Traficom GEN T1-10 revisio 5",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0085",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 85,
+      "statement": "Kun ohjajaa pyydetään valitsemaan uudelleen määrätty moodi ja koodi 6620 lennonjohtaja käyttää sanontaa:",
+      "options": [
+        "A. KOODAA UUDELLEEN 6620",
+        "B. KYTKE 6620",
+        "C. VAHVISTA KOODI 6620",
+        "D. VALITSE UUDELLEEN KOODI 6620"
+      ],
+      "correctIndex": 3,
+      "explanation": "VALITSE UUDELLEEN KOODI (RESET squawk) = aseta sama transponder-koodi uudelleen. Käytetään esim. tutkasignaalin häiriön jälkeen.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0086",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 86,
+      "statement": "Kuulet viestin \"OH-ABC KOODAA IDENT\". Sinun tulee:",
+      "options": [
+        "A. Valita transponderiin ALT-korkeuden ilmaisin (moodi C).",
+        "B. Vastata tunnuksellasi.",
+        "C. Valita transponderiin \"STANDBY\".",
+        "D. Käyttää tunnistuspulssia tutkavastaajassa."
+      ],
+      "correctIndex": 3,
+      "explanation": "KOODAA IDENT (SQUAWK IDENT) = paina transponderin IDENT-painiketta → tutkanäytöllä lentokoneesi 'kirkastuu' tai blinkaa, ja lennonjohto tunnistaa sinut.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0087",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 87,
+      "statement": "Sanonta \"KOODAA CHARLIE\" tarkoittaa:",
+      "options": [
+        "A. Varmista, että transponderi on kytketty päälle.",
+        "B. Koodaa transponderiin 7700.",
+        "C. Transponderi.",
+        "D. Valitse transponderiin \"ALT\"."
+      ],
+      "correctIndex": 3,
+      "explanation": "KOODAA CHARLIE (SQUAWK CHARLIE) = valitse transponderiin Mode C eli ALT-asento, joka lähettää korkeustietoa.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0088",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 88,
+      "statement": "Lennonjohto ilmoittaa \"OH-ABC, VAHVISTA KAHDEKSAN PISTE KOLME KOLME\". Miten ilmoitat lennonjohdolle, että ilma-aluksessa on käytössä radio, jolla mahdollista käyttää 8.33 kHz kanavaväliä?",
+      "options": [
+        "A. \"KYLLÄ, OH-ABC\"",
+        "B. \"EI KAHDEKSAN PISTE KOLME KOLME, OH-ABC\"",
+        "C. \"VAHVISTAN, OH-ABC\"",
+        "D. \"VAHVISTAN KAHDEKSAN PISTE KOLME KOLME, OH-ABC\""
+      ],
+      "correctIndex": 3,
+      "explanation": "8,33 kHz radioväli: 'VAHVISTAN KAHDEKSAN PISTE KOLME KOLME, OH-ABC' (AFFIRM 8.33). Vahvistaa, että koneessa on vaadittava radio.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0089",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 89,
+      "statement": "Tutkaympäristössä lennonjohdon antamat suuntaohjeet ovat:",
+      "options": [
+        "A. Magneettisia lentosuuntia.",
+        "B. Absoluuttisia lentosuuntia.",
+        "C. Tosilentosuuntia.",
+        "D. Magneettisia ohjaussuuntia."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tutkaympäristössä lennonjohto antaa MAGNEETTISIA OHJAUSSUUNTIA (magnetic headings). 'Turn left heading 270' tarkoittaa magneettista heading 270.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0090",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 90,
+      "statement": "Mikäli radio ei toimi, transponderiin tulee koodata:",
+      "options": [
+        "A. 7700",
+        "B. 7500",
+        "C. 7000",
+        "D. 7600"
+      ],
+      "correctIndex": 3,
+      "explanation": "Radiokatkos transponderiin: koodi 7600 (Communications failure). 7700 = hätä, 7500 = kaappaus, 7000 = VFR-yleiskoodi.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0091",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 91,
+      "statement": "Lentäjä, joka koodaa A7700 ilmoittaa maa-asemalle, että:",
+      "options": [
+        "A. Hänen koneensa on hädässä",
+        "B. Hänen lentonsa on kaapattu",
+        "C. Hänen radionsa ei toimi",
+        "D. Hänen matkustajansa on sairas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Transponder 7700 (squawk 7700) = HÄTÄTILA. Lentokone on hädässä ja vaatii välitöntä apua.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0092",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 92,
+      "statement": "Mikä transponderin moodi antaa korkeustiedon:",
+      "options": [
+        "A. Mod B",
+        "B. Mod C",
+        "C. Mod A",
+        "D. Mod D"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mode C = transponder lähettää korkeustietoa (altitude reporting). Mode A = vain koodi (4-numeroinen squawk). Mode S = laajennettu data.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0093",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 93,
+      "statement": "Jos lennät konetta, jossa ei ole transponderia, mitä vastaat jos lennonjohtaja sanoo sinulle \"ILMOITA TRANSPONDERISI TYYPPI\"?",
+      "options": [
+        "A. EN VOI.",
+        "B. EN VOI KOODATA.",
+        "C. MINULLA EI OLE TRANSPONDERIA.",
+        "D. EI TRANSPONDERIA."
+      ],
+      "correctIndex": 3,
+      "explanation": "Lennonjohdon kysyessä transponderista, kun konetta ei ole varustettu: 'EI TRANSPONDERIA' (NEGATIVE TRANSPONDER). Lyhyt vakiosanonta.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0094",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 94,
+      "statement": "Mikäli ilma-aluksen lentoon puututaan ilmassa, millä sanonnalla tunnistava ilma-alus antaa tunnistettavan ilma-aluksen jatkaa lentoa?",
+      "options": [
+        "A. EXPEDITE",
+        "B. PROCEED",
+        "C. MAY CONTINUE",
+        "D. YOU LAND"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sotilasilma-aluksen tunnistuksen jälkeen 'PROCEED' tarkoittaa, että tunnistettava saa jatkaa lentoaan suunnitelman mukaan.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0095",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 95,
+      "statement": "Sanonta \"CALL SIGN\", tunnistavan ilma-aluksen lentäjältä tunnistettavan ilma-aluksen lentäjälle, tarkoittaa:",
+      "options": [
+        "A. Ilmoita päällikön nimi!",
+        "B. Palaa lähtökentällesi!",
+        "C. Mikä on kutsumerkkisi?",
+        "D. Lähetä hätäkutsu!"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sotilasilmavalvonnan signalointi 'CALL SIGN' = Mikä on kutsumerkkisi? Tunnistettavan koneen on vastattava kutsumerkillään.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0096",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 96,
+      "statement": "Sanonta \"YOU LAND\", tunnistavan ilma-aluksen lentäjältä tunnistettavan ilma-aluksen lentäjälle, tarkoittaa:",
+      "options": [
+        "A. Voit jatkaa",
+        "B. Laske seuraavalle lentopaikalle",
+        "C. Laske tälle lentopaikalle",
+        "D. Seuraa minua"
+      ],
+      "correctIndex": 2,
+      "explanation": "'YOU LAND' = laske TÄLLE lentopaikalle (intersepter ohjaa tunnistettavan kentälle). Hyvä huomata erona 'follow me'.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0097",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 97,
+      "statement": "Mitä sanontaa tunnistettavan ilma-aluksen lentäjän tulee käyttää tunnistavan aluksen lentäjälle, jos hän ei pysty noudattamaan saatuja kehotuksia?",
+      "options": [
+        "A. CAN NOT",
+        "B. UNABLE",
+        "C. NO",
+        "D. WILCO"
+      ],
+      "correctIndex": 0,
+      "explanation": "Intercept-menettelyssä tunnistettavan ilma-aluksen sanonta, kun se ei kykene noudattamaan ohjetta, on 'CAN NOT'. Tavallisessa ATC-radiopuhelinliikenteessä käytetään usein UNABLE/EN PYSTY, mutta tässä kysymys koskee tunnistavan ja tunnistettavan ilma-aluksen välistä sanastoa.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0098",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 98,
+      "statement": "Tunnistettavan koneen lentäjä kertoo tunnistavan koneen lentäjälle olevansa eksyksissä seuraavalla sanonnalla:",
+      "options": [
+        "A. HIJACK",
+        "B. AM LOST",
+        "C. WILCO",
+        "D. MAYDAY"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tunnistettavan ilma-aluksen sanonta 'AM LOST' = olen eksyksissä, en tiedä paikkaani. Pyytää opastusta.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0099",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 99,
+      "statement": "Mitä taajuutta tunnistavan ja tunnistettavan konen tulee käyttää keskinäisessä radiokeskustelussaan?",
+      "options": [
+        "A. Paikallista hätätaajuutta",
+        "B. Paikallista ilmavoimien taajuutta",
+        "C. Kansainvälistä hätätaajuutta 121.5 mhz",
+        "D. Ilmasta-ilmaan taajuutta"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tunnistus tapahtuu kansainvälisellä HÄTÄTAAJUUDELLA 121,5 MHz, jolla kaikki ilma-alukset osaavat lähettää.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0100",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 100,
+      "statement": "Mikäli ilma-aluksen lentoon puututaan ilmassa, millä sanonnalla tunnistava ilma-alus kehottaa tunnistettavan ilma-aluksen seuraamaan itseään?",
+      "options": [
+        "A. FOLLOW",
+        "B. FOLLOW UP",
+        "C. DECEND",
+        "D. WILCO"
+      ],
+      "correctIndex": 0,
+      "explanation": "FOLLOW = seuraa minua. Tunnistavan koneen kehotus tunnistettavalle, että se seuraa interceptoria määrättyyn paikkaan.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0101",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 101,
+      "statement": "Mitkä ovat hätäviestin kaksi luokkaa?",
+      "options": [
+        "A. Hätätila ja pakkotila",
+        "B. Hätätila ja PAN PAN",
+        "C. Hätätila ja varmistus",
+        "D. MAYDAY ja PAN PAN"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hätäviestien kaksi luokkaa ovat hätätila ja pakkotila eli distress and urgency. MAYDAY ja PAN PAN ovat näiden luokkien radiopuhelinsanontoja, eivät varsinaiset luokkien nimet.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0102",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 102,
+      "statement": "Hätätilan määritelmä:",
+      "options": [
+        "A. Tilanne, joka uhkaa tulla vakavaksi tai välittömäksi vaaraksi mutta johon ei tarvita välitöntä apua.",
+        "B. Tilanne, jossa vakava ja/tai välitön vaara uhkaa ja tarvitaan välitöntä apua.",
+        "C. Tilanne, joka vaikuttaa ilma-aluksen tai siinä olevan henkilön, tai jonkin ulkopuolisen tahon turvallisuuteen, mutta johon ei tarvita välitöntä apua.",
+        "D. Tilanne, joka vaikuttaa ilma-aluksen tai siinä olevan henkilön, tai jonkin ulkopuolisen tahon turvallisuuteen, ja johon tarvitaan välitöntä apua."
+      ],
+      "correctIndex": 1,
+      "explanation": "HÄTÄTILA (distress) = vakava ja/tai välitön vaara, tarvitaan VÄLITÖNTÄ APUA. Aloitetaan 'MAYDAY MAYDAY MAYDAY'.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0103",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 103,
+      "statement": "Pakkotilan määritelmä:",
+      "options": [
+        "A. Tilanne koskien ilma-aluksen tai siinä olevan henkilön, tai jonkin ulkopuolisen tahon turvallisuutta, ja johon tarvitaan välitöntä apua.",
+        "B. Tilanne, joka uhkaa tulla vakavaksi tai välittömäksi vaaraksi ja johon tarvitaan välitöntä apua.",
+        "C. Tilanne, joka uhkaa tulla vakavaksi tai välittömäksi vaaraksi mutta johon ei tarvita välitöntä apua.",
+        "D. Tilanne koskien ilma-aluksen tai muun kulkuneuvon ja niissä olevien tai muualla havaittujen henkilöiden turvallisuutta, mutta joka ei vaadi välittömiä avustustoimenpiteitä."
+      ],
+      "correctIndex": 3,
+      "explanation": "PAKKOTILA (urgency) = tilanne, joka koskee turvallisuutta MUTTA EI VAADI VÄLITÖNTÄ APUA. Esim. teknisiä ongelmia, sairas matkustaja. 'PAN PAN PAN PAN PAN PAN'.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0104",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 104,
+      "statement": "Lentäjä haluaa lähettää sanoman, joka koskee toisen ilma-aluksen turvallisuutta. Tämä toinen ilma-alus ei kuitenkaan ole välittömässä vaarassa. Tällöin lentäjän tulee aloittaa sanomansa:",
+      "options": [
+        "A. Morsekoodilla \"XXX\"",
+        "B. Sanalla \"MAYDAY\"",
+        "C. Morsekoodilla \"MAYDAY\"",
+        "D. Sanalla \"PANPAN\""
+      ],
+      "correctIndex": 3,
+      "explanation": "Toisen ilma-aluksen turvallisuuteen liittyvä viesti, ei välitön vaara → PAN PAN (pakkotila). Esim. havainto vihreästä lasersäteestä, toisesta koneesta, joka näyttää vajoavan.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0105",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 105,
+      "statement": "Matkalennolla huomaat että pienkone on tehnyt pakkolaskun niitylle. Kone näyttää vahingoittumattomalta ja lentäjä on kunnossa. Millä sanonnalla aloitat viestin, jolla kerrot lennonjohdolle tapahtumasta?",
+      "options": [
+        "A. HÄTÄTILA, HÄTÄTILA, HÄTÄTILA",
+        "B. MAYDAY, MAYDAY, MAYDAY",
+        "C. PANPAN, PANPAN, PANPAN",
+        "D. APUA-APUA, APUA-APUA, APUA-APUA"
+      ],
+      "correctIndex": 2,
+      "explanation": "Toisen ilma-aluksen pakkolasku, ei välitön hätä → PAN PAN (urgency, pakkotila). Lentäjä on kunnossa, ei välitöntä apua, mutta ilmoitettava lennonjohdolle.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0106",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 106,
+      "statement": "Mikä radiopuhelinliikenteen sanonta tarkoitta. \"OLEMME SUURESSA VÄLITTÖMÄSSÄ VAARASSA JA TARVITSEMME VÄLITÖNTÄ APUA\"?",
+      "options": [
+        "A. Sana \"MAYDAY\" lähetettynä morseaakkosin.",
+        "B. Puhuttu sana \"VARMISTUS\".",
+        "C. Puhuttu sana \"MAYDAY\".",
+        "D. Puhuttu sana \"PANPAN\"."
+      ],
+      "correctIndex": 2,
+      "explanation": "MAYDAY = puhuttu sana 'MAYDAY' lähetettynä KOLME KERTAA = suuri välitön vaara, vaaditaan välitöntä apua (alkuperin ranskan 'M'aidez' = auttakaa minua).",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0107",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 107,
+      "statement": "Sanonta, jolla hätäkutsu alkaa radioliikenteessä, on:",
+      "options": [
+        "A. PANPAN, PANPAN, PANPAN",
+        "B. HÄTÄTILA, HÄTÄTILA, HÄTÄTILA",
+        "C. MAYDAY, MAYDAY, MAYDAY",
+        "D. APUA, APUA, APUA"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hätäkutsu aloitetaan: 'MAYDAY, MAYDAY, MAYDAY' – kolme kertaa, jotta varmistetaan vastaanotto ja ettei sanaa pidetä häiriönä.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0108",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 108,
+      "statement": "Teet pakkolaskun. Vaurioitat ilma-alustasi ja loukkaannut. Lähistöllä ei ole ketään joka voisi auttaa. Millä sanonnalla sinun tulisi aloittaa radiosanoma, jolla kutsut apua?",
+      "options": [
+        "A. PANPAN, PANPAN, PANPAN",
+        "B. HÄTÄTILA, HÄTÄTILA, HÄTÄTILA",
+        "C. MAYDAY, MAYDAY, MAYDAY",
+        "D. MEDICAL, MEDICAL, MEDICAL"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pakkolasku ja loukkaantuminen → henkilön elämä uhattuna → MAYDAY (hätätila). Kolme kertaa toistaen.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0109",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 109,
+      "statement": "Mikä seuraavista taajuuksista on kansainvälinen hätätaajuus?",
+      "options": [
+        "A. 121.050 MHz",
+        "B. 121.500 MHz",
+        "C. 122.500 MHz",
+        "D. 122.050 MHz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kansainvälinen hätätaajuus VHF-kaistalla on 121,500 MHz (GUARD). Kaikkien ilma-alusten on kuunneltava sitä mahdollisuuksien mukaan.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0110",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 110,
+      "statement": "Taajuus 121.5 MHz on:",
+      "options": [
+        "A. Kansainvälinen hätätaajuus",
+        "B. Taajuus ilmasta-ilmaan kommunikaatiota varten",
+        "C. Paikallinen valvontataajuus",
+        "D. Paikallinen hätätaajuus"
+      ],
+      "correctIndex": 0,
+      "explanation": "121,5 MHz = kansainvälinen hätätaajuus (Aeronautical Emergency Frequency). Kuunneltava VHF-radiolla aina, kun sopiva.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0111",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 111,
+      "statement": "Kun ilma-alus ei kykene muodostamaan keskusteluyhteyttä toisen maa-tai ilma-aseman kanssa, ilma-aluksen tulee lähettää sanomansa kahdesti ja aloittaa sanoma termillä:",
+      "options": [
+        "A. SANAT KAHDESTI",
+        "B. LÄHETÄN SOKEASTI",
+        "C. PANPAN",
+        "D. MAYDAY"
+      ],
+      "correctIndex": 1,
+      "explanation": "LÄHETÄN SOKEASTI (TRANSMITTING BLIND) = vastaanotin on rikki tai et saa yhteyttä, mutta yrität silti välittää viestin. Sanoma lähetetään kahdesti varmuuden vuoksi.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0112",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 112,
+      "statement": "Radiokokeilusanoman tulee olla seuraavan muotoinen:",
+      "options": [
+        "A. TURUN TORNI OH-ABC KUULUVUUSKOKEILU 119.7",
+        "B. TURUN TORNI OH-ABC RADIOKOKEILU 119.7",
+        "C. TURUN TORNI OH-ABC RADIOKOKEILU 119.7, KUULUUKO?",
+        "D. TURUN TORNI OH-ABC MITEN KUULUU"
+      ],
+      "correctIndex": 1,
+      "explanation": "Radiokokeilu: 'TURUN TORNI, OH-ABC, RADIOKOKEILU 119.7' (radio check). Vakiomuoto.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0113",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 113,
+      "statement": "Tehdäksesi radioliikenteestäsi tehokkaamman, sinun tulee:",
+      "options": [
+        "A. Sanoa lauseiden väliin sana EROTUS",
+        "B. Moduloida ääntäsi",
+        "C. Sanoa sanat kahdesti",
+        "D. Käyttää vakio äänenvoimakkuutta"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tehokkaan radioliikenteen perusta: SELKEÄ ja VAKIO ÄÄNENVOIMAKKUUS, normaali puhetempo, lyhyet selkeät sanomat. Ei kuiskausta eikä huutamista.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0114",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 114,
+      "statement": "Kuuluvuusasteikolla \"kuuluvuus 5\" tarkoittaa:",
+      "options": [
+        "A. Ei saa selvää",
+        "B. Kuuluu tyydyttävästi",
+        "C. Kuuluu hyvin",
+        "D. Kuuluu, mutta huonosti"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kuuluvuusasteikko (1–5): 5 = kuuluu hyvin (loud and clear), 4 = kuuluu tyydyttävästi, 3 = kuuluu mutta huonosti, 2 = saa selvää silloin tällöin, 1 = ei saa selvää.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0115",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 115,
+      "statement": "Kuuluvuusasteikolla \"kuuluvuus 4\" tarkoittaa:",
+      "options": [
+        "A. Ei saa selvää",
+        "B. Kuuluu, mutta huonosti",
+        "C. Kuuluu tyydyttävästi",
+        "D. Kuuluu taustamelua"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kuuluvuus 4 = KUULUU TYYDYTTÄVÄSTI (readable). Hyvä mutta ei täydellinen.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0116",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 116,
+      "statement": "Kuuluvuusasteikolla \"kuuluvuus 3\" tarkoittaa:",
+      "options": [
+        "A. Ei saa selvää",
+        "B. Kuuluu hyvin",
+        "C. Kuuluu taustamelua",
+        "D. Kuuluu, mutta huonosti"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kuuluvuus 3 = KUULUU MUTTA HUONOSTI (readable but with difficulty).",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0117",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 117,
+      "statement": "Kuuluvuusasteikolla \"kuuluvuus 2\" tarkoittaa:",
+      "options": [
+        "A. Saa selvää silloin tällöin",
+        "B. Kuuluu hyvin",
+        "C. Ei saa selvää",
+        "D. Kuuluu taustamelua"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kuuluvuus 2 = SAA SELVÄÄ SILLOIN TÄLLÖIN (readable now and then).",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0118",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 118,
+      "statement": "Kuuluvuusasteikolla \"kuuluvuus 1\" tarkoittaa:",
+      "options": [
+        "A. Ei saa selvää",
+        "B. Kuuluu taustamelua",
+        "C. Kuuluu hyvin",
+        "D. Kuuluu, mutta huonosti"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kuuluvuus 1 = EI SAA SELVÄÄ (unreadable).",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0119",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 119,
+      "statement": "Mikä ilmaliikennepalvelu tuottaa automaattista tietoa lentokentästä ja säästä lähtevää ja saapuvaa liikennettä varten?",
+      "options": [
+        "A. ATIS",
+        "B. FIS",
+        "C. LARS",
+        "D. AFIS"
+      ],
+      "correctIndex": 0,
+      "explanation": "ATIS (Automatic Terminal Information Service) = automaattinen jatkuva radiolähetys lentokentän tiedoista (kiitotie, sää, NOTAMit) saapuvalle ja lähtevälle liikenteelle.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0120",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 120,
+      "statement": "Millä seuraavista sanomaluokista on etuoikeus radiopuhelinliikenteessä muihin nähden:",
+      "options": [
+        "A. Pakkotilannesanomat sisältäen myös sanomat, joita edeltää lääkintäkuljetustunnus.",
+        "B. Hätäkutsut, hätäsanomat ja hätäliikenne.",
+        "C. Lentoturvallisuussanomat.",
+        "D. Radiosuuntimisliikenne."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hätäkutsut, hätäsanomat ja hätäliikenne (MAYDAY) ovat ENSIMMÄISELLÄ ETUOIKEUDELLA radioliikenteessä – ohittavat kaikki muut viestit.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0121",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 121,
+      "statement": "Jos ATIS-järjestelmä ei ole käytettävissä, lentäjä pyytää lähtöön tarvittavia tietoja seuraavalla sanonnalla:",
+      "options": [
+        "A. KERRO LÄHTÖTIEDOT",
+        "B. SAANKO LÄHTÖTIEDOT",
+        "C. PYYDÄN LÄHTÖOHJEITA",
+        "D. HALUAISIN SAADA LÄHTÖTIEDOT"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kun ATIS-lähetystä ei ole saatavissa, Traficom GEN T1-10 revisio 5 kohdan 1.4.6 mukainen suomenkielinen sanonta on 'SAANKO LÄHTÖTIEDOT'. 'PYYDÄN LÄHTÖOHJEITA' kuuluu eri tilanteeseen eli lähtöohjeiden pyytämiseen, eikä se ole tässä kysytty lentopaikkatietojen pyyntö.",
+      "source": "Traficom GEN T1-10 revisio 5, kohta 1.4.6",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0122",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 122,
+      "statement": "Lyhenne ATIS tarkoittaa:",
+      "options": [
+        "A. Lentokentän liikennetiedotus.",
+        "B. Lentopaikan automaattinen tiedotuspalvelu.",
+        "C. Ilma-aluksen tekninen tietopalvelu.",
+        "D. Lentoliikenteen tiedotuspalvelu."
+      ],
+      "correctIndex": 1,
+      "explanation": "ATIS = Automatic Terminal Information Service = lentopaikan automaattinen tiedotuspalvelu. Lähetetään VHF-taajuudella jatkuvasti.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0123",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 123,
+      "statement": "ATIS löytyy:",
+      "options": [
+        "A. Tornin taajuudelta",
+        "B. Lähestymisen taajuudelta",
+        "C. VHF-tai VOR-taajuudelta",
+        "D. Taajuudelta \"MAA\""
+      ],
+      "correctIndex": 2,
+      "explanation": "ATIS-lähetys löytyy joko erilliseltä VHF-taajuudelta tai joskus VOR-aseman äänikanavalta. Riippuu kentästä.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0124",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 124,
+      "statement": "Lähestyn matkalennolla Pirkkalan kenttää ja olen kuunnellut ATIS -tiedotuksen. Tällöin:",
+      "options": [
+        "A. Ottaessani yhteyttä torniin kerron tiedotuksen kirjaimen ja QNH:n ja tuulen",
+        "B. Ottaessani yhteyttä torniin kerron tiedotuksen kirjaimen ja QNH:n",
+        "C. Ottaessani yhteyttä torniin kerron tiedotuksen kirjaimen ja QNH:n ja siirtopinnan",
+        "D. Ei tarvitse erikseen mainita mitään tiedotuksesta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Saapuessa ATIS kuunnellaan ennen yhteyden ottoa, ja ensimmäisellä yhteydellä kerrotaan TIEDOTUKSEN KIRJAIN ja QNH (vahvistus). Jos QNH on muuttunut tai erilainen kuin ATISissa, se voidaan korjata.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0125",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 125,
+      "statement": "Sen aseman kutsutunnus, joka antaa lentotiedotuspalvelua, on:",
+      "options": [
+        "A. KOTI",
+        "B. RADIO",
+        "C. JOHTO",
+        "D. TIEDOTUS"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lentotiedotuspalvelua antavan aseman kutsulisä on 'TIEDOTUS' eli englanniksi INFORMATION. ICAO Doc 9432 erottaa nämä: Flight information service = INFORMATION ja Aeronautical station = RADIO. Siksi oikea vastaus on 'TIEDOTUS', ei 'RADIO'.",
+      "source": "ICAO Doc 9432 Manual of Radiotelephony; EASA/Traficom radiopuhelinfraseologian mukainen tulkinta",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0126",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 126,
+      "statement": "Mitä seuraavista ATS-elimen käyttämistä sanoista sinun ei tule lukea takaisin?",
+      "options": [
+        "A. \"Odota\"",
+        "B. \"Älä kuittaa\"",
+        "C. \"Kaikki asemat\"",
+        "D. Ei mitään näistä"
+      ],
+      "correctIndex": 2,
+      "explanation": "Oikea vastaus on C. Perustelu on GM2 SERA.14001 Yleistä: yleiskutsu 'KAIKKI ASEMAT' tarkoittaa, että kutsu on suunnattu kaikille asemille, jotka todennäköisesti kuulevat lähetyksen. Tällöin ei odoteta vastausta, ellei yksittäistä asemaa myöhemmin erikseen pyydetä kuittaamaan vastaanottoa.",
+      "source": "GM2 SERA.14001 Yleistä",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0127",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 127,
+      "statement": "\"Uudelleen selvitetty\" tarkoittaa:",
+      "options": [
+        "A. Edelliseen selvitykseen on tehty muutos",
+        "B. Voin käyttää aikaisempaa tai tarvittaessa uutta selvitystä",
+        "C. Aikaisemmassa selvityksessä on ollut virhe",
+        "D. Ei vaikuta varsinaiseen toimintaan"
+      ],
+      "correctIndex": 0,
+      "explanation": "UUDELLEEN SELVITETTY (RECLEARED) = aikaisempaa selvitystä on muutettu. Lentäjän on noudatettava UUTTA selvitystä, ei vanhaa.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0128",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 128,
+      "statement": "Mikä seuraavista EI ole ICAO:n aakkonen:",
+      "options": [
+        "A. X-ray",
+        "B. Roma",
+        "C. Zulu",
+        "D. Alfa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Roma EI ole ICAO-aakkonen. Oikea on ROMEO. X-ray, Zulu ja Alfa ovat oikein.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0129",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 129,
+      "statement": "ICAO:n puheaakkosissa E on:",
+      "options": [
+        "A. Ego",
+        "B. Experimental",
+        "C. Echo",
+        "D. Eksrei"
+      ],
+      "correctIndex": 2,
+      "explanation": "ICAO-aakkosissa E = ECHO (lausutaan 'ek-oh').",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0130",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 130,
+      "statement": "ICAO:n puheaakkosissa A on:",
+      "options": [
+        "A. Adolf",
+        "B. Alex",
+        "C. Audi",
+        "D. Alfa"
+      ],
+      "correctIndex": 3,
+      "explanation": "ICAO-aakkosissa A = ALFA (huom: kirjoitetaan 'Alfa', ei 'Alpha' – ICAO käyttää 'Alfa' kansainvälisten erojen takia).",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0131",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 131,
+      "statement": "ICAO:n puheaakkosissa K:",
+      "options": [
+        "A. Kevin",
+        "B. Kilo",
+        "C. Kenneth",
+        "D. Kolf"
+      ],
+      "correctIndex": 1,
+      "explanation": "ICAO-aakkosissa K = KILO (lausutaan 'kee-lo').",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0132",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 132,
+      "statement": "Mitkä seuraavista pitää kuitata:",
+      "options": [
+        "A. Liikenne ja tuuli",
+        "B. QNH ja liikenne",
+        "C. Kaikki",
+        "D. QNH ja tuulitiedot"
+      ],
+      "correctIndex": 1,
+      "explanation": "QNH eli korkeusmittariasetus pitää lukea takaisin. Liikennetieto kuitataan tarvittaessa esimerkiksi ilmoittamalla 'LIIKENNE NÄKYVISSÄ' tai 'ETSIN LIIKENNETTÄ'. Tuulitietoa ei normaalisti kuitata eikä lueta takaisin. Siksi vaihtoehto 'Kaikki' on väärä, koska se sisältäisi myös tuulen.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0133",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 133,
+      "statement": "QDM on:",
+      "options": [
+        "A. Magneettinen suunta koneelta VDF:lle",
+        "B. Magneettinen suunta VDF:ltä koneelle",
+        "C. Tosisuunta koneelta VDF:lle",
+        "D. Tosisuunta VDF:ltä koneelle"
+      ],
+      "correctIndex": 0,
+      "explanation": "QDM = Magneettinen suunta KONEELTA VDF-asemalle ('M' = Magnetic, 'D' = Direction, koneelta asemalle). 'Steer to' = QDM.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0134",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 134,
+      "statement": "Lennonjohto ilmoittaa radion kuuluvuudeksi 2. Tämä tarkoittaa, että torni:",
+      "options": [
+        "A. Kuulee, mutta huonosti",
+        "B. Kuulee tyydyttävästi",
+        "C. Saa lähetyksestä selvää silloin tällöin",
+        "D. Ei saa lähetyksestä selvää"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kuuluvuusasteikolla 2 tarkoittaa, että lähetyksestä saa selvää silloin tällöin. Kuuluvuus 3 tarkoittaa 'kuuluu, mutta huonosti'.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0135",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 135,
+      "statement": "Kuinka monta asemaa voi lähettää yhtä aikaa yhdellä ilmailun VHF-puhetaajuudella?",
+      "options": [
+        "A. Kolme asemaa",
+        "B. Kaksi asemaa",
+        "C. Yksi asema",
+        "D. Määrä on rajaton"
+      ],
+      "correctIndex": 2,
+      "explanation": "VHF-radio toimii puolikaksisuuntaisesti (half-duplex): vain YKSI asema voi lähettää kerralla samalla taajuudella. Jos kaksi yrittää, syntyy 'heterodyne' (vinkuva ääni), eikä kumpaakaan kuule.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0136",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 136,
+      "statement": "Olet lähestymässä määränpäätäsi ja vähentämässä korkeutta. Läpäistessäsi siirtopinnan asetat korkeusmittariin:",
+      "options": [
+        "A. Lentopaikan QNH:n.",
+        "B. 101 hPa.",
+        "C. SWC-sääkartan ilmoittaman QNH:n.",
+        "D. Lentopaikan QFE:n."
+      ],
+      "correctIndex": 0,
+      "explanation": "Siirtopinnan (transition level) ALAPUOLELLE laskeuduttaessa korkeusmittari asetetaan LENTOPAIKAN QNH:lle. Yläpuolella käytetään 1013.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "090-0137",
+      "module": "090",
+      "moduleName": "Radiopuhelinliikenne",
+      "number": 137,
+      "statement": "Mikäli lentäjä haluaa ilmoittaa hätä-tai pakkotilanteesta radiolla, millä radiotaajuudella hänen tulisi ensisijaisesti ilmoittaa tilanteesta kansainvälisen hätätaajuuden 121.500 MHz lisäksi?",
+      "options": [
+        "A. Sen hetkisellä käytössä olevalla radiotaajuudella.",
+        "B. Lentäjän tai koneen kotikentän taajuudella.",
+        "C. Hänen tulisi aina ensisijaisesti vaihtaa kansainväliselle hätätaajuudelle 121.500 MHz",
+        "D. Lähimmän lentokentän taajuudelle, jolla on saatavilla täysi lennonjohtopalvelu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hätä/pakkotilanteesta ilmoitetaan ENSIN nykyisellä käytössä olevalla taajuudella (jolla on yhteys lennonjohtoon). Vasta jos yhteyttä ei saada, vaihdetaan 121,5 MHz:lle.",
+      "source": "PPL090FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    }
+  ]
+}

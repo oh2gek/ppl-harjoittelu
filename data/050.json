@@ -1,0 +1,2742 @@
+{
+  "module": "050",
+  "moduleName": "Sääoppi",
+  "source": "PPL050FIN 11102018.pdf",
+  "questions": [
+    {
+      "id": "050-0001",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 1,
+      "statement": "Troposfäärissä ICAO:n standardi-ilmakehän (ISA) mukaan:",
+      "options": [
+        "A. Ilmanpaine merenpinnan tasolla on 1225g/m3, lämpötila on 15 °C ja lämpötila laske 2 °C / 1000ft 36.090ft:n korkeuteen asti.",
+        "B. Ilmanpaine merenpinnan tasolla on 1013,25 hPa, lämpötila on 15 °C ja lämpötila laskee 1,98 °C / 1000ft, kunnes saavuttaa absoluuttisen nollapisteen.",
+        "C. Ilmanpaine merenpinnan tasolla on 1013,25 hPa, lämpötila on 15 °C ja lämpötila laskee 1,98 °C / 1000ft 36.090 ft:n korkeuteen asti.",
+        "D. Ilmanpaine merenpinnan tasolla on 1013,25 hPa, lämpötila on 15 °C ja lämpötila laskee 2 °C / 1000ft, kunnes saavuttaa lämpötilan -65,6°C 36.060ft:n korkeudessa."
+      ],
+      "correctIndex": 2,
+      "explanation": "ICAO ISA: ilmanpaine merenpinnalla 1013,25 hPa, lämpötila +15 °C, lapse rate 1,98 °C / 1000 ft tropopaussiin (36 090 ft) saakka, jossa T = -56,5 °C ja pysyy vakiona.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0002",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 2,
+      "statement": "Missä suurin osa ilmakehän vesihöyrystä sijaitsee?",
+      "options": [
+        "A. Tropopaussissa.",
+        "B. Troposfäärissä.",
+        "C. Stratosfäärissä.",
+        "D. Stratopaussissa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lähes kaikki ilmakehän vesihöyry (~99 %) sijaitsee troposfäärissä, koska vesihöyry on raskaampaa kuin kuiva ilma ja tropopaussi muodostaa sen ylärajan.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0003",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 3,
+      "statement": "Mikä on ilmakehän kaasujen suhteelliset osuudet?",
+      "options": [
+        "A. Typpeä 21%, argonia 78%, happea 1%.",
+        "B. Typpeä 21%, happea 78%, vetyä 1%.",
+        "C. Happea 21%, typpeä 78%, muut kaasut 1%."
+      ],
+      "correctIndex": 2,
+      "explanation": "Ilmakehän kuivan ilman pääkoostumus on noin happi 21 %, typpi 78 % ja muut kaasut noin 1 %. Tämä vastaa kysymyksen vaihtoehtoa C.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0004",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 4,
+      "statement": "Mikä on ilmakehän kerroksen nimi, joka on lähinnä maanpintaa?",
+      "options": [
+        "A. Troposfääri.",
+        "B. Stratosfääri.",
+        "C. Tropopaussi.",
+        "D. Stratopaussi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Troposfääri on alin ilmakehän kerros, joka ulottuu maanpinnasta tropopaussiin (n. 8–18 km riippuen leveysasteesta). Kaikki säätilat tapahtuvat troposfäärissä.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0005",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 5,
+      "statement": "Ennustettu lämpötila 2000 ft:n korkeudessa on 5°C; ICAO:n standardi-ilmakehään (ISA) verrattuna tämä on:",
+      "options": [
+        "A. ISA -6.",
+        "B. IAS +6.",
+        "C. IAS -6.",
+        "D. ISA +5."
+      ],
+      "correctIndex": 0,
+      "explanation": "ISA-lämpötila 2000 ft:ssä = 15 - 2 × 1,98 ≈ 11 °C. Mitattu 5 °C → ISA - 6 (kylmempi kuin standardi).",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0006",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 6,
+      "statement": "Miksi kutsutaan ilmanpaineen piirturia?",
+      "options": [
+        "A. Anemografi.",
+        "B. Barometri.",
+        "C. Barografi.",
+        "D. Hygrometri."
+      ],
+      "correctIndex": 2,
+      "explanation": "Barografi on jatkuvasti piirtävä barometri (nostaa kynää tai digitaalisen tallenteen). Anemografi mittaa tuulta, hygrometri kosteutta.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0007",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 7,
+      "statement": "Ilmakehän ilmanpaine:",
+      "options": [
+        "A. Pienenee tasaisesti korkeuden kasvaessa.",
+        "B. Pienenee hitaammin korkeuden kasvaessa.",
+        "C. Pienenee tasaisesti tropopaussiin asti, jonka jälkeen pysyy vakiona.",
+        "D. Pienenee kasvavalla nopeudella korkeuden kasvaessa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ilmanpaine pienenee korkeuden mukaan EKSPONENTIAALISESTI – matalalla nopeammin (n. 1 hPa / 27 ft) ja korkeammalla hitaammin. Ei lineaarinen.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0008",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 8,
+      "statement": "Mitä toisiaan lähellä olevat isobaarit tarkoittavat?",
+      "options": [
+        "A. Heikkoa paine-erovoimaa ja heikkoja tuulia.",
+        "B. Suurta paine-erovoimaa ja voimakkaita tuulia.",
+        "C. Heikkoa paine-erovoimaa ja voimakkaita tuulia.",
+        "D. Suurta paine-erovoimaa ja heikkoja tuulia."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tiheät isobaarit = jyrkkä paineen gradientti = voimakas paine-erovoima → voimakkaat tuulet. Harvat isobaarit = heikot tuulet.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0009",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 9,
+      "statement": "Viiva kartalla, joka yhdistää pisteitä/paikkoja, joilla on sama ilmanpaine samalla tasolla ja samaan aikaan, on:",
+      "options": [
+        "A. Isotermi.",
+        "B. Isohypsi.",
+        "C. Isallobaari.",
+        "D. Isobaari."
+      ],
+      "correctIndex": 3,
+      "explanation": "Isobaari = saman ilmanpaineen viiva. Isotermi = lämpötila, isohypsi = saman korkeuden viiva, isallobaari = paineen muutosnopeus.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0010",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 10,
+      "statement": "Miten standardia lämpimämpi ilma vaikuttaa korkeudenmuutokseen, joka vastaa 1hPa painemuutosta ISA:ssa?",
+      "options": [
+        "A. Kasvattaa.",
+        "B. Ei vaikutusta.",
+        "C. Mahdotonta päätellä.",
+        "D. Pienentää."
+      ],
+      "correctIndex": 0,
+      "explanation": "Lämpimässä ilmassa pylväs on harvempi → 1 hPa muutos vastaa SUUREMPAA korkeuseroa kuin standardi-ilmakehässä (~27 ft). Tästä syystä kylmä ilma 'maa lähestyy' ja lämmin 'maa kaukana'.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0011",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 11,
+      "statement": "Mikä on ilman tiheys merenpinnan tasolla standardi-ilmakehässä?",
+      "options": [
+        "A. 122,5 g/m³.",
+        "B. 1,225 g/m³.",
+        "C. 12,25 g/m³.",
+        "D. 1225 g/m³."
+      ],
+      "correctIndex": 3,
+      "explanation": "ISA: ilman tiheys merenpinnalla on 1,225 kg/m³ = 1225 g/m³.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0012",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 12,
+      "statement": "Ilman tiheys lähellä maanpintaa on pieni kun:",
+      "options": [
+        "A. Ilmanpaine on korkea ja lämpötila korkea.",
+        "B. Ilmanpaine on korkea ja lämpötila on matala.",
+        "C. Ilmanpaine on matala ja lämpötila korkea.",
+        "D. Ilmanpaine on matala ja lämpötila on matala."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tiheys ρ = p/(R·T). Tiheys on PIENI, kun paine on matala (osoittaja pieni) JA lämpötila korkea (nimittäjä suuri). Tämä on 'high & hot' = pieni tiheys.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0013",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 13,
+      "statement": "Yleensä korkeuden kasvaessa:",
+      "options": [
+        "A. Lämpötila sekä ilmanpaine kasvaa, ja tiheys pienenee.",
+        "B. Lämpötila, ilmanpaine ja ilmantiheys pienenee.",
+        "C. Lämpötila pienenee, ja ilmanpaine sekä tiheys kasvaa.",
+        "D. Lämpötila pienenee ja tiheys kasvaa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Troposfäärissä korkeuden mukana lämpötila, ilmanpaine JA tiheys kaikki pienenevät.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0014",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 14,
+      "statement": "Miten tiheys määritellään?",
+      "options": [
+        "A. Massa tilavuusyksikköä kohden.",
+        "B. Massa pinta-alayksikköä kohden.",
+        "C. Paino pinta-alayksikköä kohden.",
+        "D. Tilavuus jaettuna massalla."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tiheys (ρ) = massa / tilavuus. Yksikkö kg/m³.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0015",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 15,
+      "statement": "Koska tiheys on pienimmillään missä tahansa paikassa?",
+      "options": [
+        "A. Kun on korkea korkeus, korkea lämpötila ja korkea ilmankosteus.",
+        "B. Kun on korkea korkeus, korkea lämpötila ja matala ilmankosteus.",
+        "C. Kun on matala korkeus, korkea lämpötila ja korkea ilmankosteus.",
+        "D. Kun on korkea korkeus, matala lämpötila ja matala ilmankosteus."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pienin tiheys: korkea korkeus + korkea lämpötila + korkea kosteus (vesihöyry kevyempää kuin kuiva ilma). 'Hot, high & humid' = pahin lentosuoritus.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0016",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 16,
+      "statement": "Mikä seuraavista väittämistä on oikein koskien ilman tiheyttä:",
+      "options": [
+        "A. Ilman tiheys pienenee korkeuden kasvaessa standardi-ilmakehässä (ISA).",
+        "B. Millä tahansa annetulla lämpötilalla ilman tiheys on suurempi korkeapaineessa kuin matalapaineessa.",
+        "C. Lämpötilan muutoksella on suurempi vaikutus ilman tiheyteen kuin ilmanpaineen muutoksella.",
+        "D. Ilman tiheys kasvaa kun ilman kosteus kasvaa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ilman tiheys pienenee korkeuden mukana ISA:ssa eksponentiaalisesti. Kosteus pienentää, ei lisää, tiheyttä.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0017",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 17,
+      "statement": "Lämpötilan vuorokautinen vaihtelu:",
+      "options": [
+        "A. Pienenee pilvien vaikutuksesta.",
+        "B. On pienempi aavikkoalueella kuin keskileveysasteiden niityillä.",
+        "C. Kasvaa kaikkialla, kun tuulen nopeus kasvaa.",
+        "D. On suurempi merellä kuin mantereella."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pilvet pienentävät vuorokautista lämpötilavaihtelua: päivällä ne heijastavat auringon säteilyä, yöllä estävät maan lämpösäteilyn karkaamista.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0018",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 18,
+      "statement": "Kun lämpötila pysyy muuttumattomana korkeuden kasvaessa, on kyseessä:",
+      "options": [
+        "A. Isohypsi.",
+        "B. Inversio.",
+        "C. Pienentynyt lämpötilavähete.",
+        "D. Isoterminen kerros."
+      ],
+      "correctIndex": 3,
+      "explanation": "Isoterminen kerros = lämpötila pysyy vakiona korkeuden kasvaessa. Inversiossa lämpötila NOUSEE korkeuden mukana.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0019",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 19,
+      "statement": "Matalapaineen solaan liittyy yleensä pinnassa:",
+      "options": [
+        "A. Subsidenssi, joka vähentää pilvisyyttä ja sadetta.",
+        "B. Divergenssi, joka lisää pilvisyyttä ja sadetta.",
+        "C. Konvergenssi, joka lisää pilvisyyttä ja sadetta.",
+        "D. Subsidenssi, joka lisää pilvisyyttä ja sadetta."
+      ],
+      "correctIndex": 2,
+      "explanation": "Matalapaineessa (sola, vaihteluja) pinnan lähellä ilma KONVERGOI sisäänpäin → nousee → adiabaattinen jäähtyminen → tiivistyminen → pilvisyys ja sade.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0020",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 20,
+      "statement": "Mikä seuraavista säätilanteista olisi todennäköisin korkeapaineen alueella talvella?",
+      "options": [
+        "A. Laaja alainen subsidenssi, jossa adiabaattista lämpenemistä, pilvetön taivas ja inversio.",
+        "B. Päivällä pinnan lämpeneminen voi synnyttää epävakaan ilmakehän ja konvektiivistä pilvisyyttä.",
+        "C. Yöllä, kun maanpinta jäähtyy, pilvisyys kasvattaa korkeutta.",
+        "D. Subsidenssiä johtuen pinnan jäähtymisestä, joka lisää pilvisyyttä ja sadetta."
+      ],
+      "correctIndex": 0,
+      "explanation": "Talvella korkeapaineessa (antisykloni) ilma laskeutuu (subsidence) → adiabaattinen lämpeneminen → pilvettömyys ja inversio (lämmin ilma kylmän pinnan yllä).",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0021",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 21,
+      "statement": "Pintalämpötilan vuorokautinen vaihtelu:",
+      "options": [
+        "A. Pienenee tuulen voimakkuuden kasvaessa.",
+        "B. On pienimmillään tyynessä tilanteessa.",
+        "C. Ei muutu tuulen vaikutuksesta.",
+        "D. Kasvaa tuulen voimakkuuden kasvaessa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pintalämpötilan vuorokautinen vaihtelu pienenee tuulen voimakkuuden kasvaessa, koska tuuli sekoittaa maanpinnan läheistä ilmaa. Tyynessä ja kirkkaassa säässä vuorokautinen vaihtelu on suurimmillaan.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0022",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 22,
+      "statement": "Kahden matalapaineen ja kahden korkeapaineen välissä olevaa määrittelemätöntä paine-aluetta kutsutaan:",
+      "options": [
+        "A. Solaksi.",
+        "B. Satulapinnaksi.",
+        "C. Satulaksi.",
+        "D. Selänteeksi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Satula on alue kahden korkeapaineen ja kahden matalapaineen välissä. Sola on matalapaineen jatke. Selänne on korkeapaineen jatke.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0023",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 23,
+      "statement": "Miksi kutsutaan tapaa, jolla energia siirtyy kappaleesta toiseen suoran kosketuksen avulla?",
+      "options": [
+        "A. Johtuminen.",
+        "B. Säteily.",
+        "C. Konvektio.",
+        "D. Latentti lämpö."
+      ],
+      "correctIndex": 0,
+      "explanation": "Johtuminen (konduktio) = energia siirtyy suoran kosketuksen kautta. Konvektio = ilmamassan liikkeen kautta. Säteily = sähkömagneettisilla aalloilla (ei tarvitse väliainetta).",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0024",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 24,
+      "statement": "Aurinko säteilee ____ määriä energiaa ____ aallonpituuksilla. Maanpinta säteilee suhteellisesti ____ määriä energia suhteellisen ____ aallonpituuksilla.",
+      "options": [
+        "A. pieniä / pienillä / suuria / suurilla.",
+        "B. suuria / suurilla / pieniä / pienillä.",
+        "C. suuria / suurilla / pieniä / suurilla.",
+        "D. suuria / pienillä / pieniä / suurilla."
+      ],
+      "correctIndex": 3,
+      "explanation": "Aurinko säteilee suuria energiamääriä lyhyillä aallonpituuksilla. Maanpinta säteilee suhteellisesti pienempiä energiamääriä pitkillä aallonpituuksilla eli infrapunasäteilynä.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0025",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 25,
+      "statement": "On kyse inversiosta, kun:",
+      "options": [
+        "A. Lämpötila kasvaa korkeuden kasvaessa.",
+        "B. Lämpötila ei muutu horisontaalisuunnassa.",
+        "C. Lämpötila ei muutu korkeuden kasvaessa.",
+        "D. Lämpötila laskee korkeuden kasvaessa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Inversio = lämpötila KASVAA korkeuden kasvaessa, vastoin normaalia ilmakehää. Stabiloi ilmaa, voi aiheuttaa sumua, savua ja huonoa näkyvyyttä.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0026",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 26,
+      "statement": "Mikä seuraavista kuvaa satulapintaa?",
+      "options": [
+        "A. Alue kahden korkeapaineen välissä jossa isobaarit ovat lähellä toisiaan.",
+        "B. Matalapaineesta venymä isobaareissa.",
+        "C. Korkeapaineen alueesta venymä isobaareissa.",
+        "D. Alue kahden matalapaineen ja korkeapaineen välissä, jossa isobaarit ovat etäällä toisistaan."
+      ],
+      "correctIndex": 3,
+      "explanation": "Satula = alue kahden korkeapaineen ja kahden matalapaineen välissä, jossa isobaarit ovat etäällä toisistaan (heikot tuulet).",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0027",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 27,
+      "statement": "Korkeapaineen selänteeseen liittyy yleensä:",
+      "options": [
+        "A. Pinnassa konvergenssia, joka lisää pilvisyyttä ja sadetta.",
+        "B. Ensin subsidenssia ja sitten pinnassa divergenssiä, joka aiheuttaa pilvisyyden vähenemisen ja sateen voimistumisen.",
+        "C. Pinnassa konvergenssia, joka parantaa näkyvyyttä.",
+        "D. Ilman subsidenssia ja pinnan lähellä divergenssiä, joka aiheuttaa pilvettömän taivaan ja heikkoa näkyvyyttä."
+      ],
+      "correctIndex": 3,
+      "explanation": "Korkeapaineen selänne: ilma laskeutuu (subsidence) → divergenssi pinnassa → adiabaattinen lämpeneminen → pilvet hajoavat. Kuitenkin näkyvyys voi olla huono saastuneessa subsidence-inversiossa.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0028",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 28,
+      "statement": "Lennettäessä kohti matalampaa painetta, kun korkeusmittarin asetuksia ei muuteta, tosikorkeus on:",
+      "options": [
+        "A. Alussa alempana ja myöhemmin sama kuin mittarin näyttämä.",
+        "B. Alempana kuin mittari näyttämä.",
+        "C. Sama kuin mittarin näyttämä.",
+        "D. Ylempänä kuin mittari näyttämä."
+      ],
+      "correctIndex": 1,
+      "explanation": "'High to low, look out below.' Korkeammasta paineesta matalampaan lentäessä ilma harvenee → korkeusmittari näyttää LIIKAA → tosikorkeus on PIENEMPI kuin mittarin näyttämä.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0029",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 29,
+      "statement": "Kun korkeusmittarin paineasetuksena laitetaan QFE, niin mittari näyttää:",
+      "options": [
+        "A. Lentokentän korkeutta merenpinnasta.",
+        "B. Nollakorkeutta lentokentän virallisella korkeudella.",
+        "C. Ilma-aluksen senhetkisen korkeuden merenpinnasta.",
+        "D. Painekorkeutta lentokentän virallisella korkeudella."
+      ],
+      "correctIndex": 1,
+      "explanation": "QFE = lentokentän tason paine. Mittari näyttää nollan kentällä, eli korkeus kentästä ylöspäin (AGL). QNH = MSL-tason paine.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0030",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 30,
+      "statement": "Korkeusmittari näyttää:",
+      "options": [
+        "A. 1013 asetuksella korkeuden merenpinnasta.",
+        "B. Lentokentän QNH arvolla korkeuden lentokentän referenssipisteestä.",
+        "C. Oikean lentopinnan, kun korkeusmittariin on asetettu alueellinen QFE.",
+        "D. Korkeuden painepintaan, joka on asetettu mittarin asteikolle."
+      ],
+      "correctIndex": 3,
+      "explanation": "Korkeusmittari näyttää AINA korkeuden siihen painepintaan, joka on asetettu asteikolle. QNH → MSL, QFE → kenttä, 1013 hPa → painepinta (FL).",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0031",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 31,
+      "statement": "Ilma-alus lentää samaa mittarikorkeutta lentokentältä A (QNH 1009 hPa) lentokentälle B (QNH 1019 hPa) muuttamatta asetuksia. Tässä tilanteessa lentokentällä B:",
+      "options": [
+        "A. Korkeusmittarin näyttämä korkeus on pienempi kuin todellinen lentokorkeus.",
+        "B. Korkeusmittarin näyttämä korkeus on suurempi kuin todellinen lentokorkeus.",
+        "C. Korkeusmittarin näyttämä korkeus on joko suurempi tai pienempi kuin todellinen lentokorkeus, riippuen lentokentän korkeudesta merenpinnasta.",
+        "D. Korkeusmittarin näyttämä korkeus on sama kuin todellinen lentokorkeus."
+      ],
+      "correctIndex": 0,
+      "explanation": "QNH 1009 → 1019 (paine kasvaa) ja mittariin jäänyt vanha 1009 → uudessa kentässä mittari näyttää LIIAN PIENTÄ korkeutta = mittarikorkeus < tosikorkeus. (Korkeampi paine 'painaa' ilmaa lähemmäksi maata.)",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0032",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 32,
+      "statement": "Lento suoritetaan lentokentältä A, jossa QNH on 1020 hPa, lentokentälle B, jossa QNH on 999hPa. Lentokenttä A on 800ft ja lentokenttä B 500ft merenpinnan yläpuolella. Jos korkeusmittariin asetettu arvo 1020 hPa ei muuteta, niin mitä mittari näyttää ilma-aluksen laskeutuessa kentälle B? (oleta että 1 hPa= 30 ft)",
+      "options": [
+        "A. 1.430ft.",
+        "B. 100ft.",
+        "C. 130ft.",
+        "D. 1.130ft."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kohdekentän QNH on 999 hPa, mutta mittariin jää asetukseksi 1020 hPa. Ero on 21 hPa. Oletuksella 1 hPa = 30 ft tämä vastaa 630 ft. Kohdekentän korkeus on 500 ft MSL, joten mittari näyttää laskussa 500 + 630 = 1130 ft.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0033",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 33,
+      "statement": "Lennettäessä Euroopassa koet sortumaa oikealle. Korkeusmittarin näyttäessä koko ajan samaa lukemaa eikä painelukemaa muuteta, niin:",
+      "options": [
+        "A. Lennetään yhä korkeammalla tosikorkeudella.",
+        "B. Lennetään yhä korkeammalla mittarikorkeudella.",
+        "C. Lennetään yhä matalammalla tosikorkeudella.",
+        "D. Lennetään yhä matalammalla mittarikorkeudella."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sortuma oikealle (drift right) Pohjoisella pallonpuoliskolla → tuuli vasemmalta = lentää matalaan paineeseen päin → ilma harvenee → mittari valehtelee korkeammasta. Tosikorkeus laskee. 'Pressure low → real height low.'",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0034",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 34,
+      "statement": "Lennät samalla korkeusmittarin näyttämää korkeutta ja mittariin on asetettu QNH 1015, kun huomaat että ulkolämpötila on jatkuvasti pudonnut. Mitä voit olettaa tapahtuvan tosikorkeudelle?",
+      "options": [
+        "A. Kasvaa.",
+        "B. Pienenee.",
+        "C. Kasvaa jonka jälkeen pienenee.",
+        "D. Pysyy samana."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lämpötilan lasku → ilma tihenee → painepylväs lyhenee → sama mittarikorkeus = pienempi tosikorkeus. 'From hot to cold, look out below.'",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0035",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 35,
+      "statement": "Väline, jolla mitataan ilman kosteutta, kutsutaan nimellä:",
+      "options": [
+        "A. Kostealämpötilamittari.",
+        "B. Hygroskooppi.",
+        "C. Hygrometri.",
+        "D. Hydrometri."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hygrometri mittaa ilman kosteutta (suhteellista kosteutta). Hydrometri mittaa nesteen tiheyttä. Hygroskooppi ei ole sääväline.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0036",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 36,
+      "statement": "Tiivistymistä tapahtuessa pätee seuraava: Mitä korkeampi lämpötila, sitä ___ määrä latenttia lämpöä ___.",
+      "options": [
+        "A. suurempi / sitoutuu.",
+        "B. pienempi / vapautuu.",
+        "C. pienempi / sitoutuu.",
+        "D. suurempi / vapautuu."
+      ],
+      "correctIndex": 3,
+      "explanation": "Latentti lämpö on lämpöä, joka SITOUTUU haihduttamiseen ja VAPAUTUU tiivistyessä. Mitä korkeampi lämpötila, sitä SUUREMPI määrä vesihöyryä → suurempi vapautuva latenttilämpö.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0037",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 37,
+      "statement": "Kostealämpötila on yleensä alempi kuin lämpötila, koska:",
+      "options": [
+        "A. Haihdunta jäähdyttää kostealämpötilamittaria.",
+        "B. Tiivistyminen vapauttaa latenttia lämpöä.",
+        "C. Tiivistymistä tapahtuu mittarin puuvillasukan kohdalla.",
+        "D. Latenttia lämpöä sitoutuu kostealämpötilamittariin."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kostealämpötilamittarin (märkäkuula) puuvillasukasta haihtuva vesi sitoo latenttia lämpöä → mittari jäähtyy. Mitä kuivempi ilma, sitä enemmän haihtuminen ja sitä suurempi ero kuiva-/märkälämpötilan välillä.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0038",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 38,
+      "statement": "Olomuodon muutos, jossa höyry muuttuu nestemäiseksi, kutsutaan:",
+      "options": [
+        "A. Haihdunnaksi, jossa latenttia lämpöä sitoutuu.",
+        "B. Tiivistymiseksi, jossa latenttia lämpöä vapautuu.",
+        "C. Tiivistymiseksi, jossa latenttia lämpöä sitoutuu.",
+        "D. Haihdunnaksi, jossa latenttia lämpöä vapautuu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tiivistyminen (kondensaatio) = höyry → neste, jolloin VAPAUTUU latenttia lämpöä (n. 2260 J/g vettä). Päinvastainen prosessi (haihtuminen) sitoo lämpöä.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0039",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 39,
+      "statement": "Olomuodon muutos kiinteästä aineesta kaasuksi kutsutaan:",
+      "options": [
+        "A. Haihtumiseksi.",
+        "B. Säteilyksi.",
+        "C. Sublimaatioksi.",
+        "D. Tiivistymiseksi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sublimaatio = aine siirtyy suoraan kiinteästä kaasuksi (tai päinvastoin, depositio). Esim. lumen haihtuminen pakkasella tai kuuran muodostuminen kostean ilman jäätyessä.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0040",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 40,
+      "statement": "Yöllä, kun on kirkas taivas, pintalämpötila ____, suhteellinen kosteus ____ ja kastepistelämpötila ____.",
+      "options": [
+        "A. nousee / kasvaa / laskee.",
+        "B. laskee / kasvaa / pysyy muuttomattomana.",
+        "C. laskee / kasvaa / nousee.",
+        "D. laskee / pienenee / pysyy muuttumattomana."
+      ],
+      "correctIndex": 1,
+      "explanation": "Selkeänä yönä maanpinta jäähtyy säteilyllä, joten pintalämpötila laskee. Kun lämpötila lähestyy kastepistettä, suhteellinen kosteus kasvaa. Kastepistelämpötila pysyy yleensä muuttumattomana, ellei ilman vesihöyryn määrä muutu.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0041",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 41,
+      "statement": "Mikä seuraavista prosesseista voi johtaa ilman kyllästymiseen?",
+      "options": [
+        "A. Tiivistyminen.",
+        "B. Lämpeneminen.",
+        "C. Höyrystyminen.",
+        "D. Sulaminen."
+      ],
+      "correctIndex": 2,
+      "explanation": "Ilma voi tulla kylläiseksi, kun siihen lisätään vesihöyryä höyrystymisen tai haihtumisen kautta. Tiivistyminen tapahtuu yleensä sen jälkeen, kun ilma on saavuttanut kyllästymisen.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0042",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 42,
+      "statement": "Tilanteessa, jossa suhteellinen kosteus on 60% ja ympäristön lämpötilavähete (lapse rate) on pienempi kuin kostea-adiabaattinen lämpötilavähete, ilmapaketti joutuu pakotettuun nousevaan liikkeeseen. Tällöin tilanne on:",
+      "options": [
+        "A. Epävakaa ja ilmapaketti jatkaa nousevaa liikettään.",
+        "B. Vakaa ja ilmapaketti jatkaa nousevaa liikettään.",
+        "C. Epävakaa ja ilmapaketti pyrkii palautumaan lähtötasolleen.",
+        "D. Vakaa ja ilmapaketti pyrkii palautumaan lähtötasolleen."
+      ],
+      "correctIndex": 3,
+      "explanation": "Ympäristön lapse rate < kostea-adiabaattinen → VAKAA ilma. Pakotetussa nousussa ilmapaketti palaa lähtötasolleen kun pakottavaa voimaa ei enää ole.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0043",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 43,
+      "statement": "Ilma-aluksen lentäjä lähestyy vuoristoa tuulen suojan puolelta muutama sata jalkaa huipun yläpuolella ja havaitsee mantelinmuotoisia pilviä. Mikä seuraavista lento-olosuhteista on odotettavissa?",
+      "options": [
+        "A. Voimakkaita katabaattisia alaspäin suuntautuneita virtauksia vuoren huipun kohdalla.",
+        "B. Voimakkaita alaspäin suuntautuneita virtauksia ennen vuoren huippua ja voimakkaita ylöspäin suuntautuneita virtauksia huipun ylityksen jälkeen vuoren tuulen puolella.",
+        "C. Voimakkaita katabaattisia alaspäin suuntautuneita virtauksia ja turbulenssia vuoren huipun ylityksen jälkeen.",
+        "D. Voimakkaita ylöspäinsuuntautuneita virtauksia ennen vuoren huippua ja voimakkaita alaspäinsuuntautuneita virtauksia vuoren huipun ylityksen jälkeen."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kun vuorta lähestytään tuulen suojan puolelta, vuoristoaaltoihin liittyen ennen harjannetta voi esiintyä voimakkaita alaspäin suuntautuvia virtauksia. Harjanteen ylityksen jälkeen vuoren tuulen puolella voidaan kohdata voimakkaita ylöspäin suuntautuvia virtauksia.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0044",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 44,
+      "statement": "Todellista lämpötilanmuutosta korkeuden kasvaessa kutsutaan:",
+      "options": [
+        "A. Adiabaattiseksi lämpötilaväheteeksi (adiabatic lapse rate).",
+        "B. Diagrammiksi.",
+        "C. Lämpötilakäyräksi.",
+        "D. Ympäristön lämpötilavähetteeksi (enviromental lapse rate)."
+      ],
+      "correctIndex": 3,
+      "explanation": "Ympäristön lapse rate (environmental lapse rate, ELR) = todellinen lämpötilan muutos korkeuden mukana mitattuna. Adiabaattinen lapse rate on teoreettinen ilmapaketin oma jäähtymisnopeus.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0045",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 45,
+      "statement": "Mikä seuraavista väittämistä on tosi koskien alimman kerroksen tuuliväännettä (wind shear)?",
+      "options": [
+        "A. Voidaan kokea 15 - 20 mailia nopeasti liikkuvan ukkosen edellä.",
+        "B. Löytyy vain mikropurkauksen reuna-alueilta.",
+        "C. Löytyy vain ukkospilven alasimen-muotoisen yläosan alapuolella.",
+        "D. On harvinainen kun on voimakas inversio maanpinnan lähellä."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tuuliväännettä (low-level wind shear) voi olla 15–20 mailia voimakkaan ukkosen edellä (gust front, outflow boundary). Mikropurkaukset, etu- ja takarintamat ovat klassisia LLWS-paikkoja.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0046",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 46,
+      "statement": "Ilma-alus lentää vuoriston läheisyydessä. Vuoristo on pohjois-eteläsuuntainen ja tuuli on lännestä itään. Mikä seuraavista tilanteista voi johtaa siihen että ilma-alus kohtaa vaarallisia alaspäin suuntautuneita virtauksia?",
+      "options": [
+        "A. Lennettäessä pohjoisesta etelään kohti vuoristoa.",
+        "B. Lennettäessä lännestä itään kohti vuoristoa.",
+        "C. Lennettäessä etelästä pohjoiseen kohti vuoristoa.",
+        "D. Lennettäessä idästä länteen kohti vuoristoa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tuuli on lännestä itään, joten pohjois-eteläsuuntaisen vuoriston itäpuoli on suojan puoli eli lee-puoli. Vuoristoaaltoihin ja roottorivirtauksiin liittyvät vaaralliset alasvirtaukset esiintyvät tyypillisesti lee-puolella. Kun ilma-alus lähestyy vuoristoa idästä länteen, se lähestyy sitä suojan puolelta, missä alasvirtaukset voivat olla vaarallisia.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0047",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 47,
+      "statement": "Vuoristoaaltoja esiintyessä, voimakkain turbulenssi löytyy todennäköisemmin lennettäessä:",
+      "options": [
+        "A. Vuoren huipun peittävässä pilvessä.",
+        "B. Roottoripilvessä tai sen alapuolelta.",
+        "C. Keskikorkeuksissa, mantelinmuotoisten-ja roottoripilvien välistä.",
+        "D. Mantelinmuotoisessa pilvessä."
+      ],
+      "correctIndex": 1,
+      "explanation": "Vuoristoaaltojen voimakkain turbulenssi on roottoripilvessä (rotor cloud) tai sen alapuolella – pyörre on irronnut päävirtauksesta ja sisältää voimakkaita kierteisiä virtauksia.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0048",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 48,
+      "statement": "Kevyt ilma-alus lentää matalalla lähellä vuoristoa. Vuoristoa kohti on kova tuuli, joka voi aiheuttaa: 1. Kovaa turbulenssia roottorivirtauksessa tai sen alapuolella. 2. Alaspäin suuntautuneita ilmanvirtauksia, joiden nopeus voi ylittää ilma-aluksen nousunopeuden. 3. Normaalia suuremman jäätämisen todennäköisyyden vuoren peittävässä pilvessä. 4. Mantelinmuotoisia pilviä.",
+      "options": [
+        "A. 1, 2, 3 ja 4 ovat oikein.",
+        "B. Vain 1 ja 2 ovat oikein.",
+        "C. Vain 1, 2 ja 3 ovat oikein.",
+        "D. Vain 1 ja 3 ovat oikein."
+      ],
+      "correctIndex": 0,
+      "explanation": "Vuoriston tuulen puolella matalalla: kova turbulenssi, vahvat alasvirtaukset (voivat ylittää koneen kohoamisnopeuden), jäätämisriski pilvessä, mantelinmuotoiset pilvet ovat aaltojen merkki. Kaikki oikein.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0049",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 49,
+      "statement": "Mihin alla mainittuihin pilvisyyksiin valokehä auringon tai kuun ympärillä viittaa?",
+      "options": [
+        "A. Cirrocumulus tai cumulus.",
+        "B. Korkea pilvisyys.",
+        "C. Altostratus tai cirrostratus.",
+        "D. Cumulus tai stratocumulus."
+      ],
+      "correctIndex": 2,
+      "explanation": "Halo (valokehä) auringon/kuun ympärillä syntyy pelkästään korkean pilvisyyden (cirrostratus, altostratus) jääkiteissä. Klassinen merkki lämpimän rintaman lähestymisestä 24 h kuluessa.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0050",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 50,
+      "statement": "Pintalämpötila on +21°C ja kastepiste +7°C. Mille korkeudelle kumpupilven alaraja muodostuu?",
+      "options": [
+        "A. 560 ft.",
+        "B. 5.600 ft.",
+        "C. 4.000 ft.",
+        "D. 56.000 ft."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kumpupilven alarajan kaava: h (ft) = (T - Td) × 400 = (21 - 7) × 400 = 5600 ft. Vastaava metrinen kaava: (T-Td) × 122 m.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0051",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 51,
+      "statement": "Mistä pilvestä rakeita sataa todennäköisimmin?",
+      "options": [
+        "A. NS.",
+        "B. AC.",
+        "C. AS.",
+        "D. CB."
+      ],
+      "correctIndex": 3,
+      "explanation": "Rakeita (GR) syntyy vain CB-pilvissä (cumulonimbus), joissa voimakkaat ylösvirtaukset kuljettavat vesipisaroita pakkasrajan ylä- ja alapuolelle, jolloin ne kasvavat kerroksellisina.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0052",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 52,
+      "statement": "Valitse seuraavista oikea vaihtoehto järjestyksessä: ala-, keski-ja yläpilvi.",
+      "options": [
+        "A. Nimbostratus, Cumulonimbus, Cirrus.",
+        "B. Stratus, Altocumulus, Cirrus.",
+        "C. Altostratus, Altocumulus, Cirrus.",
+        "D. Cirrus, Cumulonimbus, Stratus."
+      ],
+      "correctIndex": 1,
+      "explanation": "Pilviluokat: ALA (< 6500 ft) = stratus, stratocumulus, nimbostratus. KESKI (6500–20 000 ft) = altocumulus, altostratus. YLÄ (> 20 000 ft) = cirrus, cirrostratus, cirrocumulus.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0053",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 53,
+      "statement": "Mitä liitteet \"nimbus\" tai \"nimbo\" tarkoittavat?",
+      "options": [
+        "A. Keskipilveä.",
+        "B. Tumma ja uhkaava.",
+        "C. Sadetta tai sadetta tuova.",
+        "D. Hattara, irrallaan oleva tai kuitumainen."
+      ],
+      "correctIndex": 2,
+      "explanation": "Liite 'nimbus / nimbo' = sade, sadepilvi (latinaksi). Esim. nimbostratus = jatkuvasti satava stratuspilvi, cumulonimbus = sateinen kumupilvi.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0054",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 54,
+      "statement": "Yleensä stratukseen liittyvä sade on:",
+      "options": [
+        "A. Kova sadekuuro.",
+        "B. Kova sade.",
+        "C. Tihkusadetta.",
+        "D. Heikko sadekuuro."
+      ],
+      "correctIndex": 2,
+      "explanation": "Stratus = paksuhko sadepilvi → tihkusade tai heikko jatkuva sade. Sadekuurot tulevat cumulus-tyyppisistä pilvistä (CB, TCU).",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0055",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 55,
+      "statement": "Epävakaa ilma joutuu vuoriston yhteydessä pakotettuun nousevaan liikkeeseen. Millaista säätä on odotettavissa vuoriston tuulen puolella?",
+      "options": [
+        "A. Paksuja stratusmaisia pilviä, todennäköisesti nimbostratusta.",
+        "B. Ei pilvisyyttä, sillä ilma vajoaa alaspäin ja lämpiää adiabaattisesti vuoren huipun ylityksen jälkeen.",
+        "C. Korkeaksi kasvavia pilviä.",
+        "D. Vuoren huippua peittävä pilvisyys ja mahdollisesti altocumulus lenticularis."
+      ],
+      "correctIndex": 2,
+      "explanation": "Epävakaa ilma + pakotettu nousu → konvektio jatkuu pakottavan voiman jälkeenkin → KORKEAKSI KASVAVAT (cumuliform) pilvet, mahdollisesti CB.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0056",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 56,
+      "statement": "Suotuisat olosuhteet ukkosen kehitykselle ovat:",
+      "options": [
+        "A. Kehitystä laukaiseva tekijä, riittävä kosteus ja vakaa ilmakehä.",
+        "B. Riittävä määrä kosteutta ja jyrkkä lämpötilavähete (lapse rate) riittävän paksussa ilmakerroksessa sekä kehitystä laukaisevaa tekijä.",
+        "C. Jyrkkä lämpötilavähete (lapse rate), vakaa ilma paksussa kerroksessa ja riittävä kosteus.",
+        "D. Jyrkkä lämpötilavähete (lapse rate) paksussa kerroksessa, pieni suhteellinen kosteus ja kehitystä laukaiseva tekijä."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ukkosen kolme edellytystä: 1) riittävä kosteus, 2) jyrkkä ympäristön lapse rate (epävakaa ilma) paksussa kerroksessa, 3) laukaiseva tekijä (lämpö, rintama, orografia).",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0057",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 57,
+      "statement": "Mikä seuraavista sää-tilanteista synnyttää todennäköisemmin kumpupilviä, hyvää näkyvyyttä, kuuroittaista sadetta ja mahdollisesti silojään muodostumista pilvessä?",
+      "options": [
+        "A. Vakaa, kostea ilma ja orografinen noste.",
+        "B. Vakaa, kuiva ilma ja orografinen noste.",
+        "C. Epävakainen kostea ilma ilman nostetta aiheuttavaa tekijää.",
+        "D. Epävakainen kostea ilma ja orografinen noste."
+      ],
+      "correctIndex": 3,
+      "explanation": "Epävakaa kostea ilma + orografinen noste (vuoriston pakottama nousu) → kumupilvet, kuuroittainen sade, hyvä näkyvyys (ei stratusta), silojää pilvessä.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0058",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 58,
+      "statement": "Ukkosen ____ vaiheessa pilvessä on ____. Täydennä lause oikealla vaihtoehdolla.",
+      "options": [
+        "A. kehitys / ylös-ja alaspäin suuntautuneita ilmanvirtauksia.",
+        "B. kypsässä / ylös-ja alaspäin suuntautuneita ilmanvirtauksia.",
+        "C. häviämis / ylös-ja alaspäin suuntautuneita ilmanvirtauksia.",
+        "D. kehitys / vain alaspäin suuntautuneita ilmanvirtauksia."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ukkosen KYPSÄSSÄ vaiheessa pilvi sisältää SEKÄ ylös- että alasvirtauksia → voimakas turbulenssi, salamat, sade. Kehitysvaiheessa vain ylös, häviämisvaiheessa vain alas.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0059",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 59,
+      "statement": "Missä ukkosen kehitysvaiheessa pilven sisällä on enimmäkseen alaspäin suuntautuneita virtauksia?",
+      "options": [
+        "A. Kypsässä vaiheessa.",
+        "B. Kehitysvaiheessa.",
+        "C. Häviämisvaiheessa.",
+        "D. Kumpupilvivaiheessa."
+      ],
+      "correctIndex": 2,
+      "explanation": "Häviämisvaiheessa (dissipating stage) sateen jäähdyttämä ilma laskeutuu ja pilvi hajoaa. Vain alasvirtauksia jäljellä.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0060",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 60,
+      "statement": "Cumulonimbus-pilven kehittymiselle tarvitaan:",
+      "options": [
+        "A. Matala kerros erittäin epävakaista ja kosteaa ilmaa.",
+        "B. Matala kerros erittäin epävakaista ilmaa ja jyrkkä suuri lämpötilavähete (lapse rate).",
+        "C. Paksu kerros epävakaista ja kosteaa ilmaa.",
+        "D. Paksu kerros erittäin epävakaista kosteaa ilmaa ja pieni lämpötilavähete (lapse rate)."
+      ],
+      "correctIndex": 2,
+      "explanation": "Cumulonimbus-pilven kehittyminen edellyttää paksua kerrosta epävakaata ja kosteaa ilmaa sekä yleensä laukaisevaa nostemekanismia. Pieni lämpötilavähete viittaa vakaampaan ilmaan, joten se ei ole hyvä CB-kehityksen ehto.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0061",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 61,
+      "statement": "Missä vaiheessa ukkospilven kehityksessä pilvessä on vain ylöspäin suuntautuneita virtauksia?",
+      "options": [
+        "A. Kypsässä vaiheessa.",
+        "B. Kumpupilvivaiheessa.",
+        "C. Loppuvaiheessa.",
+        "D. Häviämisvaiheessa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kumpupilvivaihe (cumulus / developing stage): vain ylösvirtauksia. Pilvi kasvaa nopeasti, ei vielä sadetta tai salamia.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0062",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 62,
+      "statement": "Mikä seuraavista olosuhteista kehittää todennäköisemmin ukkosta:",
+      "options": [
+        "A. Pieni kosteus ja pieni lämpötilavähete (lapse rate).",
+        "B. Pieni kosteus ja jyrkkä lämpötilavähete (lapse rate).",
+        "C. Suuri kosteus ja jyrkkä lämpötilavähete (lapse rate).",
+        "D. Suuri kosteus ja pieni lämpötilavähete (lapse rate)."
+      ],
+      "correctIndex": 2,
+      "explanation": "Suuri kosteus + jyrkkä lapse rate (epävakaa) → ukkosen suotuisat olosuhteet. Lämpö tai rintama laukaisee.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0063",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 63,
+      "statement": "Ilma-alukselle vaarallisia CB-pilvisyyteen liittyviä ilmiöitä voidaan kokea:",
+      "options": [
+        "A. CB-pilven läheisyydessä.",
+        "B. Vain kun ilma-alus on pilven ulkopuolella.",
+        "C. Vain kun ilma-alus on pilven sisällä.",
+        "D. Vain kun ilma alus on pilven sisällä tai alapuolella."
+      ],
+      "correctIndex": 0,
+      "explanation": "CB-pilven vaarat ulottuvat KAUAS ympäristöön: turbulenssi, jäätäminen, mikropurkaus, tuuliväänne, salamat. Suositus: 20+ NM kierto CB:n ympäri.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0064",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 64,
+      "statement": "Ukkospilven kypsään vaiheeseen liittyvät vaaralliset ilmiöt ovat salamointi, turbulenssi sekä:",
+      "options": [
+        "A. Jäätäminen, tihkusade ja mikropurkaus.",
+        "B. Mikropurkaus, tuuliväänne (windshear) ja alasimen muotoinen yläosa.",
+        "C. Jäätäminen, mikropurkaus ja tuuliväänne (wind shear).",
+        "D. Tuuliväänne, rakeet ja sumu."
+      ],
+      "correctIndex": 2,
+      "explanation": "Ukkospilven kypsään vaiheen vaarat: salamat, turbulenssi, jäätäminen, mikropurkaus, tuuliväänne (windshear), rakeet.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0065",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 65,
+      "statement": "Tuuli 2000 ft:n korkeudella lentokentän kohdalla on 330/15kt. Peukalosääntöä käyttäen, mikä olisi odotettavissa oleva pintatuuli?",
+      "options": [
+        "A. 355/30kt.",
+        "B. 305/30kt.",
+        "C. 300/07kt.",
+        "D. 315/30kt."
+      ],
+      "correctIndex": 2,
+      "explanation": "2000 ft = ~ 'free air' -tuuli. Pinnassa kitka kääntää tuulta vasemmalle (Pohj.pp.) ~30° ja hidastaa ~50 %. 330° - 30° = 300°, 15 × 0,5 ≈ 7 kt → 300°/07 kt.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0066",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 66,
+      "statement": "Pohjoisella pallonpuoliskolla coriolisvoima kääntää liikkuvan ilman:",
+      "options": [
+        "A. Oikealle, ja siten geostrofinen tuuli virtaa isobaarien suuntaisesti n. 2000ft agl korkeudella.",
+        "B. Oikealle, ja siten tuuli virtaa hiukan isobaarien poikki n. 2000ft agl korkeudella.",
+        "C. Vasemmalle, ja siten geostrofinen tuuli virtaa isobaarien suuntaisesti n. 2000ft agl korkeudella.",
+        "D. Vasemmalle, ja siten tuuli virtaa hiukan isobaarien poikki n. 2000ft agl korkeudella."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pohj.pp:llä Coriolis kääntää oikealle. Vapaassa ilmakehässä (yli kitkakerroksen, ~2000 ft) tuuli virtaa isobaarien suuntaisesti = geostrofinen tuuli.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0067",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 67,
+      "statement": "Pohjoisella pallonpuoliskolla, tuulet antisyklonin (korkeapaineen) ympärillä pintakartassa virtaavat:",
+      "options": [
+        "A. Vastapäivään.",
+        "B. Syklonaalisesti.",
+        "C. Myötäpäivään.",
+        "D. Myötäpäivään, jos on lämmin ilma ja vastapäivään, jos on kylmä ilma."
+      ],
+      "correctIndex": 2,
+      "explanation": "Pohj.pp:llä korkeapaineen (antisykloni) ympäri tuuli virtaa MYÖTÄPÄIVÄÄN. Matalapaineen ympäri vastapäivään. Et.pp:llä päinvastoin.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0068",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 68,
+      "statement": "Pintakartassa pohjoisen pallonpuoliskon alatuulet virtaavat matalapaineen ympäri:",
+      "options": [
+        "A. Myötäpäivään.",
+        "B. Antisyklonaalisesti.",
+        "C. Joko myötä-tai vastapäivään riippuen siitä, onko matalapaine syklonaalinen vai antisyklonaalinen.",
+        "D. Vastapäivään."
+      ],
+      "correctIndex": 3,
+      "explanation": "Pohj.pp:llä matalapaineen ympäri tuuli kiertää VASTAPÄIVÄÄN (cyclonic). Pinnassa lievä konvergenssi sisäänpäin.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0069",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 69,
+      "statement": "Advektiosumu (siirtymäsumu) muodostuu useimmiten, kun:",
+      "options": [
+        "A. On kova tuuli, lämmin kostea ilmamassa ja kirkas pilvetön yö.",
+        "B. On lähes tyyntä ja lämmin kostea ilmamassa virtaa kylmemmän alustan yli jäähtyen kastepisteen alapuolelle.",
+        "C. On kohtalainen tuuli ja lämmin kostea ilmamassa virtaa lämpimän alustan yli ja lämpiää kastepisteen alapuolelle.",
+        "D. On kohtalainen tuuli ja lämmin kostea ilmamassa virtaa kylmemmän alustan yli jäähtyen kastepisteen alapuolelle."
+      ],
+      "correctIndex": 3,
+      "explanation": "Advektiosumu (siirtymäsumu): kohtalainen tuuli kuljettaa lämpimän kostean ilman kylmemmän pinnan yli, jossa se jäähtyy kastepisteen alle. Esim. meri-ilma rannikolle.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0070",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 70,
+      "statement": "Matalalla oleva utu huonontaa näkyvyyttä lennettäessä 2000ft:n korkeudessa. Jotta näkyvyys parantuisi, sinun pitää:",
+      "options": [
+        "A. Lentää korkeammalla.",
+        "B. Lentää juuri utukerroksen yläreunalla.",
+        "C. Sytyttää laskeutumisvalot ja strobe-valot.",
+        "D. Lentää matalammalla."
+      ],
+      "correctIndex": 3,
+      "explanation": "Utukerroksessa lentäessä näkyvyys on usein PAREMPI ALASPÄIN katsoessa kuin sivulle (utukerros on ohut). Lentämällä matalammalle utun alle näkyvyys paranee. Kts. erityisesti maastolentäjä.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0071",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 71,
+      "statement": "Mitkä seuraavista olosuhteista ovat suotuisia säteilysumun muodostumista varten?",
+      "options": [
+        "A. Korkea suhteellinen kosteus, heikko tuuli ja pilvetön taivas.",
+        "B. Matala suhteellinen kosteus, heikko tuuli ja pilvetön taivas.",
+        "C. Korkea suhteellinen kosteus, heikko tuuli ja pilviä.",
+        "D. Korkea suhteellinen kosteus, kohtalainen tuuli ja pilviä."
+      ],
+      "correctIndex": 0,
+      "explanation": "Säteilysumu (radiation fog) muodostuu: korkea suhteellinen kosteus, HEIKKO tuuli (1–4 kt), pilvetön taivas (säteilyjäähtyminen tehokas), pitkä yö.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0072",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 72,
+      "statement": "Aamulla, sisämaassa olevalla lentokentällä, havaitaan säteilysumua. Kun tuuli voimistuu 10 solmuun, mitä on odotettavissa?",
+      "options": [
+        "A. Sekoittumisen määrä kasvaa, joka lisää sumun muodostumista.",
+        "B. Sumu sakenee.",
+        "C. Sumu nousee ja muodostaa matalaa stratus-pilvisyyttä.",
+        "D. Sumu leviää."
+      ],
+      "correctIndex": 2,
+      "explanation": "Säteilysumussa tuulen voimistuminen 10 kt:hen → sekoittaa pinnan ja yläpuolisen ilman → sumu nousee → muodostuu MATALAA STRATUSTA. Ei vielä hajota kokonaan.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0073",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 73,
+      "statement": "Mitä on odotettavissa kylmän rintaman ylityksen yhteydessä?",
+      "options": [
+        "A. Kastepiste nousee, lämpötila laskee ja tuuli kääntyy vastapäivään.",
+        "B. Kastepiste laskee, lämpötila laskee ja tuuli kääntyy myötäpäivään.",
+        "C. Kastepiste ja lämpötila pysyy matalana, tuuli kääntyy voimakkaasti vastapäivään.",
+        "D. Kastepiste nousee, lämpötila laskee ja tuuli kääntyy myötäpäivään."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kylmän rintaman ylityksen jälkeen: kastepiste laskee (kuivempi ilmamassa), lämpötila laskee, tuuli kääntyy MYÖTÄPÄIVÄÄN (Pohj.pp.) – esim. lounaastaan luoteeseen.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0074",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 74,
+      "statement": "Jos muhkurainen jäätyyppi kerääntyy ja kasvaa ilma-aluksen johtoreunasta eteenpäin, mikä jäätämistyyppi voisi olla kyseessä?",
+      "options": [
+        "A. Kuura.",
+        "B. Silojää.",
+        "C. Jäätävä sade.",
+        "D. Rosojää."
+      ],
+      "correctIndex": 3,
+      "explanation": "Rosojää (rime ice) = muhkurainen, opaakki, kasvaa eteenpäin koneen johtoreunasta. Alijäähtyneet PIENET pisarat jäätyvät heti ennen kuin leviävät. Stratus-tyyppisissä pilvissä.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0075",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 75,
+      "statement": "Lämpimän rintaman ylityksen yhteydessä pintatuuli:",
+      "options": [
+        "A. Pysyy vakiona.",
+        "B. Kääntyy vastapäivään.",
+        "C. Kääntyy myötäpäivään.",
+        "D. Kääntyy ensin myötäpäivään ja sen jälkeen vastapäivään."
+      ],
+      "correctIndex": 2,
+      "explanation": "Lämpimän rintaman ylityksen jälkeen tuuli kääntyy MYÖTÄPÄIVÄÄN (Pohj.pp.). Sama kuin kylmässä rintamassa – kaikki rintamat aiheuttavat 'veering' Pohj.pp:lla.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0076",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 76,
+      "statement": "Sadealue lämpimän rintaman yhteydessä voi ulottua jopa:",
+      "options": [
+        "A. 200 mailia pintarintaman edelle.",
+        "B. 500 mailia pintarintaman edelle.",
+        "C. 2 mailia pintarintaman edelle.",
+        "D. 50 mailia pintarintaman edelle."
+      ],
+      "correctIndex": 0,
+      "explanation": "Lämpimän rintaman edellä sade voi ulottua jopa 200–300 NM rintaman pintaprojektion edelle (matalat kerrospilvet ja jatkuva sade).",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0077",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 77,
+      "statement": "Mihin seuraavista rintamista liittyy todennäköisemmin ukkosta?",
+      "options": [
+        "A. Kylmä rintama.",
+        "B. Paikallaan pysyvä (stationäärinen) rintama.",
+        "C. Lämmin rintama.",
+        "D. Korkeapaineen selänne."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kylmä rintama → terävä nousu → CB-pilvet, ukkonen, sadekuurot, raekuurot. Lämpimän rintaman noste on loiva, harvoin riittää CB:hen (ellei epävakaa ilmamassa).",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0078",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 78,
+      "statement": "Silojää muodostuu, kun:",
+      "options": [
+        "A. Jääjyväset osuvat ilma-alukseen.",
+        "B. Vesihöyry jäätyy ilma-alukseen.",
+        "C. Isot alijäähtyneet pisarat leviävät jäätymisen yhteydessä.",
+        "D. Pienet alijäähtyneet pisarat osuvat ilma-alukseen."
+      ],
+      "correctIndex": 2,
+      "explanation": "Silojää (clear ice / glaze ice) = kirkasta, kovaa, kovasti tarttuvaa. Muodostuu, kun ISOT alijäähtyneet pisarat osuvat siipeen ja LEVIÄVÄT ennen jäätymistä → tasainen jääpinta.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0079",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 79,
+      "statement": "Mikä muutos säähän on odotettavissa tyypillisen lämpimän rintaman ylityksen yhteydessä?",
+      "options": [
+        "A. Ilmanpaine laskee, 8/8 pilvisyyttä, pilven alaraja pienenee ja huono näkyvyys.",
+        "B. Ilmanpaineen lasku pysähtyy, 4/8 pilvisyyttä jossa matala alaraja ja nopeasti paraneva näkyvyys.",
+        "C. Ilmanpaine laskee, 8/8 pilvisyyttä, pilven alaraja pienenee ja näkyvyys paranee.",
+        "D. Ilmanpaine kasvaa tasaisesti, korkeintaan 4/8 pilvisyyttä ja hyvä näkyvyys."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tyypillisen lämpimän rintaman ylityksen jälkeen paineen lasku pysähtyy ja näkyvyys alkaa usein parantua. Ennen rintamaa paine laskee, pilvisyys lisääntyy ja pilven alaraja madaltuu.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0080",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 80,
+      "statement": "Mikä on pääsyy sille, että vesi voi olla nestemäisessä muodossa, vaikka lämpötila on pakkasen puolella?",
+      "options": [
+        "A. Vedellä menee jonkin aikaa jäähtyä pakkasen puolelle.",
+        "B. Siinä ei ole jäätymisytimiä.",
+        "C. Vesi on hygroskooppista.",
+        "D. Siinä ei ole tiivistymisytimiä."
+      ],
+      "correctIndex": 1,
+      "explanation": "Alijäähtynyt vesi (supercooled water) on nestemäisenä alle 0 °C, koska siltä puuttuu JÄÄTYMISYTIMIÄ (freezing nuclei). Pisara voi olla nestemäisenä jopa -40 °C asti puhtaassa ilmassa.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0081",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 81,
+      "statement": "Lennät pakkasen puolella kylmässä ilmamassassa juuri ennen lämmintä rintamaa. Jos alueella sataa, niin minkä tyyppistä jäätämistä voisi olla kyseessä?",
+      "options": [
+        "A. Rosojää.",
+        "B. Kuura.",
+        "C. Kaasuttimen jäätyminen.",
+        "D. Jäätävä sade tai silojää."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kylmässä ilmamassassa lämpimän rintaman edellä: lämpimämpi ilma yläpuolella → sade jäätyy laskeutuessaan kylmään pinta-ilmaan → JÄÄTÄVÄ SADE tai silojää (clear ice) koneeseen.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0082",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 82,
+      "statement": "Mikä seuraavista on oikea tulkinta alla olevasta METARista? METAR EGKL 130350Z 32005KT 0900 0400N DZ BCFG VV002=",
+      "options": [
+        "A. Voimassa kuukauden 13. päivä klo 0300 - 1500Z, pintatuuli 320° T/05kt, vallitseva näkyvyys 900m, huonoin näkyvyys 400m pohjoiseen, kohtalaista tihkusadetta, sumuhattaroita ja vertikaalinäkyvyys 200ft.",
+        "B. Ilmoitettu kuukauden 13. päivä klo 0350Z, pintatuuli 320° magneettinen suunta, 05kt, vallitseva näkyvyys 900m, huonoin näkyvyys 400m pohjoiseen, kohtalaista tihkusadetta, sumuhattaroita ja vertikaalinäkyvyys 200ft.",
+        "C. Havaittu kuukauden 13. päivä klo 0350Z, pintatuuli 320° tosisuunta, 05kt, vallitseva näkyvyys 900m, huonoin näkyvyys 400m pohjoiseen, kohtalaista tihkusadetta, sumuhattaroita ja vertikaalinäkyvyys 200ft.",
+        "D. Voimassa klo 1300Z - 1350Z, pintatuuli 320° T/05kt, vallitseva näkyvyys 900m, huonoin näkyvyys 400m pohjoiseen, kohtalaista tihkusadetta, sumuhattaroita ja vertikaalinäkyvyys 200ft."
+      ],
+      "correctIndex": 2,
+      "explanation": "METAR EGKL 130350Z = havaittu 13. päivä klo 0350Z. 32005KT = pintatuuli 320° tosisuunnasta 5 kt. 0900 = vallitseva näk. 900 m, 0400N = min. 400 m pohjoisessa. DZ = tihkusade, BCFG = sumuhattaroita, VV002 = vertikaalinäkyvyys 200 ft.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0083",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 83,
+      "statement": "Kun TREND on liitetty METARiin, TRENDin voimassaoloaika on:",
+      "options": [
+        "A. 1 tunti havainnon jälkeen.",
+        "B. 1 tunti laatimisen jälkeen.",
+        "C. 2 tuntia havainnon jälkeen.",
+        "D. 30 minuuttia laatimisen jälkeen."
+      ],
+      "correctIndex": 2,
+      "explanation": "TREND-ennuste METARin perässä on voimassa 2 TUNTIA havaintoajan jälkeen. Sisältää muutosryhmät BECMG, TEMPO, NOSIG.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0084",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 84,
+      "statement": "METARin näkyvyysryhmässä R20/0050 tarkoittaa:",
+      "options": [
+        "A. Kiitotiellä 20, näkyvyys alle 5000 metriä.",
+        "B. Kiitotiellä 20, näkyvyys 500 metriä mitattuna kiitotien näkyvyysmittareilla.",
+        "C. Ilmoitettu kiitotien näkyvyys 50 metriä, mitattuna kiitotien näkyvyysmittareilla viimeisen 20 minuutin aikana.",
+        "D. Mitattuna kiitotien 20 mittauslaitteistolla, näkyvyys on 50 metriä."
+      ],
+      "correctIndex": 3,
+      "explanation": "METARin RVR-ryhmä R20/0050 tarkoittaa, että kiitotien 20 mittauslaitteistolla mitattu kiitotienäkyvyys on 50 metriä. Jos näkyvyys olisi 500 metriä, ryhmä olisi R20/0500.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0085",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 85,
+      "statement": "Sanoma \"BECMG FM 1100 -SHRA\" METARissa tarkoittaa:",
+      "options": [
+        "A. Klo 1100 UTC sadekuurojen loppuminen.",
+        "B. Alkaen klo 1100 UTC, kohtalaista kuuroittaista sadetta.",
+        "C. Alkaen klo 1100 UTC, heikkoa kuuroittaista sadetta.",
+        "D. Alkaen klo 1100 UTC ja klo 0000 UTC asti, heikkoja sadekuuroja."
+      ],
+      "correctIndex": 2,
+      "explanation": "BECMG FM 1100 -SHRA = becoming alkaen 11:00Z, heikkoa kuuroittaista sadetta. Tarkennukset: '-' = heikko, 'SH' = kuuro, 'RA' = sade.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0086",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 86,
+      "statement": "METARissa lämpötilaryhmässä 28/24 tarkoittaa:",
+      "options": [
+        "A. Lämpötila 28°C ja kastepiste 24°C.",
+        "B. Kuivalämpötila 28°C ja kostealämpötila 24°C.",
+        "C. Kastepiste 28°C ja lämpötila 24°C.",
+        "D. Lämpötila on 28°C havaintohetkellä, mutta odotettavissa muuttuvan 24°C asteeseen TREND ilmoituksen jälkeen."
+      ],
+      "correctIndex": 0,
+      "explanation": "METARissa lämpötilaryhmä 28/24 = lämpötila 28 °C / kastepiste 24 °C. Suuri arvo aina ensin (lämpötila), pieni jälkeen (kastepiste).",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0087",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 87,
+      "statement": "Alla olevassa METARissa puutuu pilvenkorkeus. Millä korkeudella voisit odottaa pilven pohjan olevan, jos kyseessä olisi kumpupilviä? 28005KT 9999 SCT??? 12/05 Q1020 NOSIG",
+      "options": [
+        "A. SCT042.",
+        "B. SCT020.",
+        "C. SCT028.",
+        "D. SCT280."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kumpupilven alarajan nyrkkikaava on (T - Td) × 400 ft. Lämpötila on 12 °C ja kastepiste 5 °C, joten ero on 7 °C. Pilven alaraja on noin 7 × 400 = 2800 ft, eli SCT028.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0088",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 88,
+      "statement": "Jos \"minimum sector altitude\" ei ole määräävä tekijä, niin CAVOK TAFissa tai METARissa tarkoittaa:",
+      "options": [
+        "A. Vallitseva näkyvyys 10NM tai enemmän, ei hajanaisia pilviä alle 5000ft.",
+        "B. Vallitseva näkyvyys 10km tai enemmän, 1/8 tai 2/8 pilviä alle 5000ft.",
+        "C. Vallitseva näkyvyys 10km tai enemmän, ei pilviä alle 5000ft.",
+        "D. Vallitseva näkyvyys 10NM tai enemmän, ei pilviä alle 5000ft."
+      ],
+      "correctIndex": 2,
+      "explanation": "CAVOK = Cloud and Visibility OK: vallitseva näkyvyys ≥ 10 km, ei pilviä alle 5000 ft (tai MSA, kumpi suurempi), ei merkityksellistä säätä.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0089",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 89,
+      "statement": "Mikä seuraavista on oikea tulkinta seuraavasta TAFista: LYBE 161100Z 1612/1712 VRB08KT 9999 SCT025?",
+      "options": [
+        "A. Havaittu 1612 UTC; pintatuuli vaihteleva suunnaltaan ja voimakkuudeltaan; vallitseva näkyvyys 10km; pilven alaraja 2500ft maanpinnan yläpuolella.",
+        "B. Voimassa kuukauden 16. päivänä klo 1200 ja kuukauden 17. päivänä klo 1200 välisenä aikana; pintatuuli vaihteleva suunta 8kt; vallitseva näkyvyys 10km tai enemmän; 3/8 tai 4/8 pilvisyyttä, alaraja 2500ft lentokentän yläpuolella.",
+        "C. Voimassa 1612 ja 1712 UTC välisenä aikana; pintatuuli vaihteleva suunta 8kt; vallitseva näkyvyys 10NM tai enemmän; pilven alaraja 2500ft keskimääräisen merenpinnan yläpuolella.",
+        "D. Havaittu 1611UTC; pintatuuli vaihteleva suunnaltaan ja voimakkuudeltaan; keskimääräinen voimakkuus 8kt; vallitseva näkyvyys 10km tai enemmän; pilven alaraja 2500ft lentokentän yläpuolella."
+      ],
+      "correctIndex": 1,
+      "explanation": "TAF: voimassaoloaika 1612/1712 = 16. päivä 12 UTC – 17. päivä 12 UTC. VRB08KT = vaihteleva tuuli 8 kt. SCT025 = 3/8–4/8 pilvisyyttä 2500 ft.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0090",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 90,
+      "statement": "BECMG 1621/1701 BKN030 TAFissa tarkoittaa:",
+      "options": [
+        "A. Tulossa 1621 UTC ja 1701 UTC välisenä aikana 3/8-4/8 pilvisyyttä 300 ft maanpinnan yläpuolella.",
+        "B. Tulossa alkaen 1621 UTC 5/8-7/8 pilvisyyttä 3000ft maanpinnan yläpuolella.",
+        "C. Tulossa alkaen 1621 UTC 3/8-4/8 pilvisyyttä 300ft maanpinnan yläpuolella.",
+        "D. Tulossa 16. päivä klo 2100UTC ja 17. päivä klo 0100UTC välisenä aikana 5/8-7/8 pilvisyyttä 3000ft maanpinnan yläpuolella."
+      ],
+      "correctIndex": 3,
+      "explanation": "BECMG 1621/1701 BKN030 = becoming 16. päivä klo 21Z – 17. päivä klo 01Z välisenä aikana, BKN (5/8–7/8) pilvisyyttä 3000 ft maanpinnan (lentokentän) yläpuolella.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0091",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 91,
+      "statement": "Mitä tämä merkki sääkartassa tarkoittaa? (Liite LAPL/PPL 050-03)",
+      "options": [
+        "A. Ukkosta.",
+        "B. Kovaa turbulenssia.",
+        "C. Kovaa jäätämistä.",
+        "D. Voimakkaita vuoristoaaltoja."
+      ],
+      "correctIndex": 0,
+      "explanation": "Liitteen LAPL/PPL 050-03 merkki on sääkartassa ukkosalueen tunnus (cumulonimbus pilvi).",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0092",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 92,
+      "statement": "Mitä tämä merkki sääkartassa tarkoittaa? (Liite LAPL/PPL 050-04)",
+      "options": [
+        "A. Kovaa jäätämistä.",
+        "B. Ukkosta.",
+        "C. Voimakkaita vuoristoaaltoja.",
+        "D. Kovaa turbulenssia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Liitteen LAPL/PPL 050-04 merkki tarkoittaa kovaa jäätämistä.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0093",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 93,
+      "statement": "Mikä on se ajallinen jakso, joka on kuvattu SWC kartassa? (Liite LAPL/PPL 050-01)",
+      "options": [
+        "A. 3 tuntia.",
+        "B. Aika on yhden ennalta määritellyn hetken ennustettu tilanne.",
+        "C. 6 tuntia.",
+        "D. 30 minuuttia."
+      ],
+      "correctIndex": 1,
+      "explanation": "SWC eli Significant Weather Chart kuvaa ennustettua tilannetta tiettynä ennalta määriteltynä voimassaolohetkenä, ei koko ajanjakson säätä.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0094",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 94,
+      "statement": "Mitä SWC kartassa kirjainyhdistelmä 'CB' sisältää? (Liite LAPL/PPL 050-02)",
+      "options": [
+        "A. Kohtalaista jäätämistä ja turbulenssia.",
+        "B. Kohtalaista tai kovaa jäätämistä ja turbulenssia sekä rakeita.",
+        "C. Kohtalaista tai kovaa jäätämistä ja turbulenssia.",
+        "D. Kovaa jäätämistä ja turbulenssia."
+      ],
+      "correctIndex": 1,
+      "explanation": "SWC-kartassa CB tarkoittaa cumulonimbus-pilviä, joihin liittyy kohtalaista tai kovaa jäätämistä ja turbulenssia sekä rakeita.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0095",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 95,
+      "statement": "Alue-ennuste ulottuu mihin asti maanpinnasta?",
+      "options": [
+        "A. FL010.",
+        "B. FL100.",
+        "C. FL240.",
+        "D. FL180."
+      ],
+      "correctIndex": 1,
+      "explanation": "Alue-ennuste ulottuu maanpinnasta FL100:aan.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0096",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 96,
+      "statement": "Koska VOLMET päivitetään?",
+      "options": [
+        "A. 2 kertaa päivässä.",
+        "B. Kerran puolessa tunnissa.",
+        "C. Joka tunti.",
+        "D. 4 kertaa päivässä."
+      ],
+      "correctIndex": 1,
+      "explanation": "VOLMET päivitetään tyypillisesti kerran puolessa tunnissa.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0097",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 97,
+      "statement": "VOLMETin määritelmä:",
+      "options": [
+        "A. Jatkuva radiolähetys säähavainnoista ja ennusteista valikoiduista lentokentistä.",
+        "B. Tekstiviesti METAReista valikoiduista lentokentistä.",
+        "C. Faxilla saatavissa oleva viesti TAF ja METAR-sanomista valikoiduista lentokentistä.",
+        "D. Radiolähetys ennusteista valikoiduista lentokentistä."
+      ],
+      "correctIndex": 0,
+      "explanation": "VOLMET on jatkuva radiolähetys valikoitujen lentopaikkojen säähavainnoista ja ennusteista.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0098",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 98,
+      "statement": "Mikä on VOLMET?",
+      "options": [
+        "A. Ilmasta maahan radiolähetys HF ja VHF alueilla.",
+        "B. Maasta ilmaan radiolähetys HF ja VHF alueilla.",
+        "C. Ilmasta maahan radiolähetys HF ja SVHF alueilla.",
+        "D. Maasta ilmaan radiolähetys LF ja VHF alueilla."
+      ],
+      "correctIndex": 1,
+      "explanation": "VOLMET = lentosääsanomien JATKUVA RADIOLÄHETYS maasta ilmaan HF- ja VHF-taajuuksilla. Sisältää METAR/TAF-sanomia tärkeimmiltä kentiltä.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0099",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 99,
+      "statement": "Koska ATIS päivitetään?",
+      "options": [
+        "A. Joka tunti.",
+        "B. Vain kun lentokentän tiedot muuttuvat.",
+        "C. Aina kun säätiedot muuttuvat.",
+        "D. Kerran puolessa tunnissa."
+      ],
+      "correctIndex": 1,
+      "explanation": "ATIS päivitetään, kun lentopaikan tai sään kannalta olennaiset tiedot muuttuvat. Vastaus 'vain kun lentokentän tiedot muuttuvat' on liian suppea, koska myös säämuutokset voivat edellyttää uuden ATIS-tiedotteen julkaisemista.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "low",
+      "needsReview": true
+    },
+    {
+      "id": "050-0100",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 100,
+      "statement": "Mikä on ATIS?",
+      "options": [
+        "A. Jatkuva lähetys säätiedoista.",
+        "B. Tulostettu teksti ajankohtaisesta lentokenttä-ja säätiedoista.",
+        "C. Jatkuva lähetys lentokenttä-ja säätiedoista.",
+        "D. Kartta ajankohtaisesta lentokenttä-ja säätiedoista."
+      ],
+      "correctIndex": 2,
+      "explanation": "ATIS = Automatic Terminal Information Service – jatkuva radiolähetys lentokentän ja sään tiedoista. Vapauttaa lennonjohdon toistuvasta tiedonannosta.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0101",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 101,
+      "statement": "Mikä on ajankohtaisen ATIS sanoman tunniste?",
+      "options": [
+        "A. Laadinta-aika.",
+        "B. Voimassaoloaika.",
+        "C. Numero.",
+        "D. Aakkosesta kirjain."
+      ],
+      "correctIndex": 3,
+      "explanation": "ATIS-sanoman tunniste on aakkostunnus (Alfa, Bravo, Charlie...). Lentäjä toistaa tunnisteen ensimmäisellä yhteydenotolla → 'with information Bravo'.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0102",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 102,
+      "statement": "Millä taajuudella ATIS yleensä lähetetään?",
+      "options": [
+        "A. HF.",
+        "B. ADR.",
+        "C. LF.",
+        "D. VHF."
+      ],
+      "correctIndex": 3,
+      "explanation": "ATIS lähetetään yleensä VHF-taajuudella (ja joskus VOR-aseman äänikanavalla). HF on pitkien matkojen taajuus (esim. valtamerillä).",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0103",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 103,
+      "statement": "Mikä olisi odotettavissa oleva lämpötila 7000ft:n korkeudessa, jos ilman lämpötila 1500ft:n korkeudella on 15°C?",
+      "options": [
+        "A. +3°C.",
+        "B. -2°C.",
+        "C. +4°C.",
+        "D. 0°C."
+      ],
+      "correctIndex": 2,
+      "explanation": "Standardilämpötilavähete on noin 2 °C / 1000 ft. Nousua 1500 ft:stä 7000 ft:iin on 5500 ft, joten lämpötila laskee noin 11 °C. 15 °C − 11 °C = noin +4 °C.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0104",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 104,
+      "statement": "Mitä tuulta sääkartasta otettu symboli esittää? (Liite LAPL/PPL 050-05)",
+      "options": [
+        "A. Itätuulta 15 solmua.",
+        "B. Länsituulta 60 solmua.",
+        "C. Pohjoistuulta 15 solmua.",
+        "D. Etelätuulta 15 solmua."
+      ],
+      "correctIndex": 1,
+      "explanation": "Liitteen LAPL/PPL 050-05 tuuliviiri osoittaa länsituulta. Tuulimerkin pennantti ja viiva osoittavat yhteensä 60 solmun nopeutta.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0105",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 105,
+      "statement": "Säähän liittyviin fysikaalisiin prosesseihin liittyy aina jollain tavalla:",
+      "options": [
+        "A. Ilman liike.",
+        "B. Kosteuden ero.",
+        "C. Lämmön vaihto.",
+        "D. Paine-ero."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sää syntyy aina LÄMMÖN VAIHDOSTA (säteily, johtuminen, konvektio, latentti lämpö). Painevoimat, kosteus ja liike ovat seurauksia, eivät syitä.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0106",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 106,
+      "statement": "Mikä sääilmiö liittyy lämpötilainversioon?",
+      "options": [
+        "A. Vakaa ilmakerros.",
+        "B. Epävakaa ilmakerros.",
+        "C. Ukkoset ilmamassassa.",
+        "D. Laskevat ilmanvirtaukset vuorenrinnettä pitkin."
+      ],
+      "correctIndex": 0,
+      "explanation": "Lämpötilainversio = lämmin ilma kylmän päällä → voimakkaasti VAKAA kerros. Estää konvektion, sumun/savun kerääntymisen pinnalle.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0107",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 107,
+      "statement": "Tavallisin syntytapa pinnan lähellä esiintyvälle inversiolle on:",
+      "options": [
+        "A. Kylmemmän ilman liikkuessa lämpimämmän ilman alle tai lämpimän ilman liikkuessa kylmemmän ilman päälle.",
+        "B. Maapallon ulossäteily kirkkaana heikkotuulisena yönä.",
+        "C. Lämpimän ilman voimakkaan nousun johdosta vuoriston läheisyydessä.",
+        "D. Maapallon ulossäteily pilvisellä ja suhteellisen tuulisena yönä."
+      ],
+      "correctIndex": 1,
+      "explanation": "Säteilyinversio (radiation inversion): kirkkaana heikkotuulisena yönä maa säteilee lämpöä avaruuteen → pinta jäähtyy nopeasti → muodostuu kylmä ilmakerros lämpimämmän alle.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0108",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 108,
+      "statement": "Ilmassa olevan vesihöyryn määrä on riippuvainen:",
+      "options": [
+        "A. Ilmanpaineesta.",
+        "B. Kastepisteestä.",
+        "C. Ilman lämpötilasta.",
+        "D. Ilman stabiilisuudesta."
+      ],
+      "correctIndex": 2,
+      "explanation": "Ilman kykenevä kuljettamaan vesihöyryä on suoraan riippuvainen LÄMPÖTILASTA – kuumempi ilma voi sisältää enemmän vesihöyryä (eksponentiaalisesti, Clausius-Clapeyron).",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0109",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 109,
+      "statement": "Mikä on lentokentän kastepiste, jos lämpötila on 20°C ja kumpupilvien alaraja on 1100m lentokentän yläpuolella?",
+      "options": [
+        "A. 5°C.",
+        "B. -3°C.",
+        "C. 7°C.",
+        "D. 11°C."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kumpupilven alaraja metreinä: h (m) = (T - Td) × 122. 1100 m / 122 ≈ 9 °C ero → kastepiste = 20 - 9 = 11 °C.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0110",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 110,
+      "statement": "Mitä ovat epävakaan ilmamassan ominaisuudet?",
+      "options": [
+        "A. Nimbostratus-pilvisyyttä ja hyvä näkyvyys.",
+        "B. Turbulenssia ja hyvä näkyvyys.",
+        "C. Turbulenssia ja huono näkyvyys.",
+        "D. Stratus-tyyppistä pilvisyyttä ja huono näkyvyys."
+      ],
+      "correctIndex": 1,
+      "explanation": "Epävakaa ilma → konvektio sekoittaa ilmakerrokset → turbulenssia, kumupilvisyyttä, kuuroittaista sadetta, mutta HYVÄ näkyvyys (epäpuhtaudet leviävät).",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0111",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 111,
+      "statement": "Mitkä pilvet liittyvät tyypillisen lämpimän rintaman ylitykseen?",
+      "options": [
+        "A. CC, AC, CU, CB.",
+        "B. CI, CS, AS, NS.",
+        "C. CC, SC, ST, NS.",
+        "D. CI, CC, NS, CB."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lämpimän rintaman pilvet järjestyksessä lähestyvistä: cirrus (CI) → cirrostratus (CS) → altostratus (AS) → nimbostratus (NS, sateinen).",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0112",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 112,
+      "statement": "Mitkä sääolosuhteet ovat odotettavissa, jos pinnan lähellä esiintyy inversio ja suhteellinen kosteus on korkea?",
+      "options": [
+        "A. Tasainen ilma, huono näkyvyys, sumua, matalaa stratus-pilvisyyttä ja kuurottaista sadetta.",
+        "B. Nimbostratus pilvisyyttä ja hyvä näkyvyys.",
+        "C. Turbulenttista ilmaa ja hyvä näkyvyys.",
+        "D. Heikko tuuliväänne (windshear), huono näkyvyys, auerta ja heikkoa sadetta."
+      ],
+      "correctIndex": 3,
+      "explanation": "Pinnan inversio + korkea kosteus → vakaa ilma, sumua/utua/auerta, huono näkyvyys, mahdollisesti heikkoa sadetta tai tihkusadetta. Heikko tuuliväänne inversion ylä-/alapuolella.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0113",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 113,
+      "statement": "Mitä voidaan laskea seuraavalla kaavalla? (Lämpötila - kastepiste) x 123 = ?",
+      "options": [
+        "A. Suhteellinen kosteus.",
+        "B. Stratuspilvien toppi metreinä.",
+        "C. Kumpupilvien pilvikorkeus metreinä.",
+        "D. Yläpuolinen lämpötila."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kumpupilven alaraja metreinä: h = (T - Td) × 122. (Toisinaan kerroin on 125 tai 123.) 'Espy method.'",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0114",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 114,
+      "statement": "Mikä on arvio kumpupilvien alarajasta, kun pinnan lämpötila on 27°C ja kastepiste on 15°C?",
+      "options": [
+        "A. 2000m",
+        "B. 2700m",
+        "C. 1500m",
+        "D. 1000m"
+      ],
+      "correctIndex": 2,
+      "explanation": "h = (T - Td) × 122 = (27 - 15) × 122 = 12 × 122 ≈ 1464 m ≈ 1500 m.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0115",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 115,
+      "statement": "Mikä on arvio kumpupilvien alarajasta, kun kastepiste on 5°C ja päivän ennustettu maksimilämpötila on 25°C?",
+      "options": [
+        "A. 2500m",
+        "B. 2000m",
+        "C. 2800m",
+        "D. 1500m"
+      ],
+      "correctIndex": 0,
+      "explanation": "h = (Tmax - Td) × 122 = (25 - 5) × 122 = 20 × 122 = 2440 m → ~2500 m.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0116",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 116,
+      "statement": "Mihin pilvisyyteen kuuroittaiset sateet liittyvät?",
+      "options": [
+        "A. ST",
+        "B. NS",
+        "C. CB",
+        "D. CI"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kuuroittainen sade ('showers') tulee VAIN kumpu-tyyppisistä (cumuliform) pilvistä – CB ja TCU. Stratus → tihkusade, NS → jatkuva sade.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0117",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 117,
+      "statement": "Ukkonen on voimakkaimmillaan:",
+      "options": [
+        "A. Alasvirtausvaiheessa.",
+        "B. Häviämisvaiheessa.",
+        "C. Kumpupilvivaiheessa.",
+        "D. Kypsässä vaiheessa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Ukkonen voimakkaimmillaan KYPSÄSSÄ vaiheessa: voimakkaimmat ylös- ja alasvirtaukset, salamat, rakeet, mikropurkaukset. Vaihe kestää tyypillisesti 15–30 min.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0118",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 118,
+      "statement": "Lentokentän läheisyydessä on ukkosta. Mikä vaarallinen ilmiö voisi esiintyä lähestyessä kenttää laskua varten?",
+      "options": [
+        "A. Staattista sadetta.",
+        "B. Heikkoja sadekuuroja.",
+        "C. Tasainen sade.",
+        "D. Tuuliväännettä (Windshear)."
+      ],
+      "correctIndex": 3,
+      "explanation": "Ukkosen lähestyessä kenttää suurin riski lähestymisessä on TUULIVÄÄNNE (windshear) ja mikropurkaus (microburst), jotka voivat aiheuttaa äkillisen sakkauksen ja törmäyksen maahan.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0119",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 119,
+      "statement": "Missä tuuliväännettä (windshear) voi esiintyä?",
+      "options": [
+        "A. Vain matalilla korkeuksilla.",
+        "B. Vain korkeilla korkeuksilla.",
+        "C. Vain sateen aikana.",
+        "D. Kaikilla korkeuksilla, kaikissa suunnissa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tuuliväännettä voi olla KAIKILLA korkeuksilla ja kaikissa olosuhteissa: rintamat, ukkosrintamat, vuoristoaallot, jet stream, inversiot, mikropurkaukset.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0120",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 120,
+      "statement": "Miksi lentotoiminnassa kuura koetaan vaaralliseksi ilmiöksi?",
+      "options": [
+        "A. Kuura lisää lentokoneen painoa.",
+        "B. Kuura hidastaa virtausta profiilin yli ja siten kasvattaa tehokkuutta.",
+        "C. Kuura muuttaa siiven profiilin muotoa ja lisää siten nostetta.",
+        "D. Kuura rikkoo tasaisen virtauksen siiven yli ja siten pienentää nostetta."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kuura siiven päällä rikkoo virtauksen → laminaarivirtaus muuttuu turbulenttiseksi → NOSTOVOIMAN lasku jopa 30–40 % JA vastuksen kasvu. Voi aiheuttaa sakkauksen lentoonlähdössä.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0121",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 121,
+      "statement": "Missä ympäristössä ilma-alus kerää eniten jäätä rakenteisiin?",
+      "options": [
+        "A. Jäätävässä sateessa.",
+        "B. Sumussa, kun pakkasta on -25 astetta.",
+        "C. Cumulus-pilvessä pakkasen puolella.",
+        "D. Jäätävässä tihkusateessa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Eniten jäätä rakentuu JÄÄTÄVÄSSÄ SATEESSA (freezing rain): suuret alijäähtyneet pisarat tarttuvat ja jäätyvät paksuksi silojääkerrokseksi. Vaarallisin jäätämismuoto.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0122",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 122,
+      "statement": "Minkä tyyppistä sadetta on havaittu METARin mukaan? METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL 1700 0800 FG BECMG AT1800 9999 NSW=",
+      "options": [
+        "A. Rakeita.",
+        "B. Jatkuva ja heikko sade.",
+        "C. Sadekuuroja.",
+        "D. Kohtalainen tihkusade."
+      ],
+      "correctIndex": 3,
+      "explanation": "METAR ... DZ ... = drizzle = tihkusade. Ei tarkennusta '-' tai '+' → kohtalainen tihkusade.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0123",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 123,
+      "statement": "Mikä on alimman pilvisyyden korkeus seuraavassa METARissa: METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL 1700 0800 FG BECMG AT1800 9999 NSW=",
+      "options": [
+        "A. 10ft.",
+        "B. 100ft.",
+        "C. 300ft.",
+        "D. 1000m."
+      ],
+      "correctIndex": 2,
+      "explanation": "FEW003 = harvaa pilvisyyttä 300 ft yläpuolella maan / lentokentän. SCT010 = 1000 ft, OVC020 = 2000 ft. Alin = 300 ft.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0124",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 124,
+      "statement": "Mikä seuraavista METAReista voitaisiin lyhentää osittain käyttämällä CAVOK koodia? (Minimi sektorikorkeus 4000ft)",
+      "options": [
+        "A. 00000KT 0100 FG VV001 11/11 Q1025 BECMG 0500=",
+        "B. 34004KT 7000 MIFG SCT260 09/08 Q1019 NOSIG=",
+        "C. 26012KT 8000 -SHRA BKN025TCU 16/12 Q1018 NOSIG=",
+        "D. 27019G37KT 9999 BKN050 18/14 Q1016 NOSIG="
+      ],
+      "correctIndex": 3,
+      "explanation": "CAVOK edellyttää: näkyvyys ≥ 10 km, ei pilviä alle 5000 ft / MSA, ei merkityksellistä säätä, ei CB tai TCU. Vaihtoehto D (BKN050 = 5000 ft → MSA 4000 ft täyttyy, ei säätä) → voi käyttää CAVOK.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0125",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 125,
+      "statement": "Mitä säätä on ennustettu olevan klo 12.00 UTC:n jälkeen? TAF LYBE 160500Z 1606/1706 13010KT 9000 BKN020 BECMG 1606/1608 SCT015CB BKN020 TEMPO 1608/1612 17012G22KT 1000 TSRA SCT010CB BKN020 FM161200 15006KT 9999 BKN020 BKN100=",
+      "options": [
+        "A. Kaakon puoleista heikkoa tuulta, näkyvyys paranee vähintään 10km:iin, sade loppuu, pilvisyyden määrä lisääntyy ja pilvikorkeus on 600m.",
+        "B. Näkyvyys paranee 5km:ista 10km:iin ja pilvisyys vähenee 1/8 osaan 600m korkeudella ja 1/8 osaan 3000m korkeudella.",
+        "C. Sateista säätä ja sadekuuroja, puuskainen tuuli ja näkyvyys alle 10km.",
+        "D. Kaakon puoleista tuulta 6 solmua, näkyvyys on sopiva VFR lentoa varten ja taivas on täysin pilvien peitossa 600m korkeudella."
+      ],
+      "correctIndex": 0,
+      "explanation": "FM161200 = alkaen 16. päivä klo 12Z. 15006KT = etelätuuli 6 kt (kaakko = 130–140°). 9999 = näk. ≥ 10 km. BKN020 = 2000 ft, BKN100 = 10 000 ft.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0126",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 126,
+      "statement": "Miten sumu ja utu ilmoitetaan sääsanomassa?",
+      "options": [
+        "A. FG ja MZ",
+        "B. FO ja MZ",
+        "C. FG ja PR",
+        "D. FG ja BR"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sumu = FG (fog), utu = BR (mist, ranskaksi 'brume'). Näkyvyys: FG < 1000 m, BR 1000–5000 m.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0127",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 127,
+      "statement": "Milloin sääsanomissa ilmoitetaan puuskat?",
+      "options": [
+        "A. kun ne ovat yli 20 solmua keskituulesta",
+        "B. kun ne ovat yli 5 solmua keskituulesta",
+        "C. kun ne ovat yli 10 solmua keskituulesta",
+        "D. kun ne ovat yli 15 solmua keskituulesta"
+      ],
+      "correctIndex": 2,
+      "explanation": "Puuskat ilmoitetaan METARissa (Gxx), kun puuskan ja keskituulen ero on vähintään 10 kt. Esim. 27015G27KT = 270° / 15 kt, puuskissa 27 kt.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0128",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 128,
+      "statement": "Cumulonimbus pilvestä löytyy suuria alijäähtyneitä vesipisaroita, jotka muodostavat:",
+      "options": [
+        "A. Huurrejäätä",
+        "B. Teräsjäätä",
+        "C. Silojäätä",
+        "D. Rosojäätä"
+      ],
+      "correctIndex": 2,
+      "explanation": "CB-pilvessä on suuria alijäähtyneitä pisaroita ja voimakkaat ylösvirtaukset → SILOJÄÄ (clear ice) muodostuu nopeasti ja paksuna. Tappavin jäätämispaikka.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0129",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 129,
+      "statement": "SWC-kartan nimi on lyhennys sanoista:",
+      "options": [
+        "A. Special weather chart",
+        "B. Surface weather chart",
+        "C. Significant weather chart",
+        "D. Space weather chart"
+      ],
+      "correctIndex": 2,
+      "explanation": "SWC = Significant Weather Chart = merkittävien sääilmiöiden kartta. Sisältää CB:t, jet streamit, jäätämisen, turbulenssin, rintamat.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0130",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 130,
+      "statement": "Mikä aiheuttaa tuulen?",
+      "options": [
+        "A. Ilmanpaine-erot",
+        "B. Coriolis-voima",
+        "C. Ilman tiheys",
+        "D. Lämpötilaerot"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tuulen perussyy on ILMANPAINE-ERO (paine-erovoima, pressure gradient force). Coriolis ja kitka muokkaavat tuulen suuntaa, lämpötilaerot synnyttävät paineerot.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0131",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 131,
+      "statement": "Rakeita tarkoittava lyhenne on:",
+      "options": [
+        "A. HA",
+        "B. RA",
+        "C. SG",
+        "D. GR"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rakeet = GR (grêle). SG = lumijyväset (snow grains), RA = sade (rain), HA ei ole METAR-koodi.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0132",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 132,
+      "statement": "Matalapaine pyörii pohjoisella pallonpuoliskolla:",
+      "options": [
+        "A. Vastapäivään",
+        "B. Myötäpäivään",
+        "C. Pyörii sekä myötä-että vastapäivään",
+        "D. Riippuu vuodenajasta"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pohj.pp:llä matalapaine pyörii VASTAPÄIVÄÄN (cyclonic). Korkeapaine myötäpäivään. Et.pp:llä kaikki päinvastoin.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0133",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 133,
+      "statement": "Miten lyhennetään tihkusade sääsanomissa?",
+      "options": [
+        "A. SN",
+        "B. DR",
+        "C. DZ",
+        "D. TS"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tihkusade = DZ (drizzle). SN = lumi (snow), TS = ukkonen (thunderstorm).",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0134",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 134,
+      "statement": "Miten merkitään sääsanomaan \"lentokentän ympäristössä\":",
+      "options": [
+        "A. CV",
+        "B. VC",
+        "C. YM",
+        "D. CL"
+      ],
+      "correctIndex": 1,
+      "explanation": "VC (vicinity) = lentokentän ympäristössä, 8–16 km säteellä lentokentästä. Esim. VCSH = sadekuuroja lähistöllä.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0135",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 135,
+      "statement": "Saman ilmanpaineen käyrää kutsutaan nimellä:",
+      "options": [
+        "A. Isobaari",
+        "B. Rintama",
+        "C. Millibaari",
+        "D. Isotaksi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Isobaari = saman ilmanpaineen viiva (kreikan iso = sama, baros = paino/paine). Painekartoissa nämä viivat osoittavat tuulta ja paine-erovoimaa.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0136",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 136,
+      "statement": "Ilmanpaineena (QNH) ilmoitetaan METAR - sanomissa:",
+      "options": [
+        "A. Lentopaikan korkeuden tasoon korjattu ilmanpaine",
+        "B. Keskimääräisen merenpinnan tasoon korjattu ilmanpaine",
+        "C. Käytössä olevan siirtopinnan tasoon korjattu ilmanpaine",
+        "D. Referenssikorkeuteen korjattu ilmanpaine"
+      ],
+      "correctIndex": 1,
+      "explanation": "QNH = MSL-tasoon korjattu ilmanpaine. Mittarista asetettuna se näyttää korkeuden merenpinnasta. METARin ilmoittama Q1018 = QNH 1018 hPa.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0137",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 137,
+      "statement": "Siirtokorkeus on Suomessa:",
+      "options": [
+        "A. 5000 FT (AGL)",
+        "B. sama kuin siirtokerros",
+        "C. 5000 FT (QNH)",
+        "D. sama kuin siirtopinta"
+      ],
+      "correctIndex": 2,
+      "explanation": "Suomessa siirtokorkeus (transition altitude, TA) on 5000 ft QNH. Sen yläpuolella käytetään lentopintoja (FL, 1013 hPa). Siirtopinta vaihtelee QNH:n mukaan.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0138",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 138,
+      "statement": "Muutosryhmä TEMPO tarkoittaa sääsanomassa sitä, että:",
+      "options": [
+        "A. Ajoittainen ilmiön esiintymistodennäköisyys on yli 30%",
+        "B. Esiintyy alle tunnin kestoisia muutoksia yhteensä alle puolet koko muutosryhmän kestosta",
+        "C. Esiintyy nopeita, enintään puolen tunnin kestoisia muutoksia",
+        "D. Sää heilahtelee taajaan annetuissa rajoissa"
+      ],
+      "correctIndex": 1,
+      "explanation": "TEMPO (temporary) = tilapäisiä, alle tunnin kestoisia muutoksia, joiden yhteenlaskettu kesto on alle puolet muutosryhmän voimassaoloajasta.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0139",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 139,
+      "statement": "PILVIKORKEUS on:",
+      "options": [
+        "A. CB tai TCU pilvikerroksen alarajan korkeus",
+        "B. Alimman pilven korkeus riippumatta määrästä",
+        "C. Yli puoli taivasta peittävän kerroksen alarajan korkeus maan tai veden pinnasta",
+        "D. Pilven alarajan ja huipun välinen pystyetäisyys"
+      ],
+      "correctIndex": 2,
+      "explanation": "PILVIKORKEUS (ceiling) = alimman BKN/OVC-kerroksen alarajan korkeus maan/veden pinnasta (yli 4/8 peittävä). Eri asia kuin pilven 'alaraja'.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0140",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 140,
+      "statement": "Koodisanaa CAVOK käytetään sääsanomissa, kun:",
+      "options": [
+        "A. Näkyvyys on vähintään 10 km, pilvenkorkeus on vähintään 1500 FT eikä esiinny mitään sääilmiöitä",
+        "B. Näkyvyys on enintään 10 km, pilvenkorkeus on enintään 5000 FT eikä esiinny mitään sääilmiöitä",
+        "C. Näkyvyys on vähintään 10 km, pilvenkorkeus on vähintään 5000 FT eikä esiinny mitään sääilmiöitä",
+        "D. Näkyvyys on enintään 10 km, pilvenkorkeus on enintään 1500 FT eikä esiinny mitään sääilmiöitä"
+      ],
+      "correctIndex": 2,
+      "explanation": "CAVOK: vallitseva näkyvyys ≥ 10 km, ei pilviä alle 5000 ft (tai MSA, kumpi suurempi), ei CB/TCU, ei merkityksellistä säätä.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0141",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 141,
+      "statement": "Mitä tarkoittaa sääsanomassa \"FEW\":",
+      "options": [
+        "A. 3-4/8 taivaasta pilvien peitossa",
+        "B. 1-2/8 taivaasta pilvien peitossa",
+        "C. 4-7/8 taivaasta pilvien peitossa",
+        "D. 8/8 taivaasta pilvien peitossa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pilvipeitto-koodit: FEW = 1–2/8, SCT (scattered) = 3–4/8, BKN (broken) = 5–7/8, OVC (overcast) = 8/8.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0142",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 142,
+      "statement": "Inversio on sellainen kerros ilmakehässä, jossa:",
+      "options": [
+        "A. Lämpötila laskee ylöspäin mentäessä",
+        "B. Ilman kosteus pienenee ylöspäin mentäessä",
+        "C. Lämpötila kohoaa ylöspäin mentäessä",
+        "D. Ilman kosteus suurenee ylöspäin mentäessä"
+      ],
+      "correctIndex": 2,
+      "explanation": "Inversio = lämpötila NOUSEE korkeuden mukana, vastoin normaalia ilmakehää. Erittäin vakaa kerros, estää konvektion, sumua ja saastumisen kerääntymistä pinnalle.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0143",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 143,
+      "statement": "Ukkospilven nimi on:",
+      "options": [
+        "A. Cirrostratus",
+        "B. Altocumulus",
+        "C. Nimbostratus",
+        "D. Cumulonimbus"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cumulonimbus (CB) = ukkospilvi. Ainoa pilvi, joka tuottaa salamia, rakeita, mikropurkauksia ja pahimman turbulenssin. Voi kasvaa tropopaussiin asti.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "050-0144",
+      "module": "050",
+      "moduleName": "Sääoppi",
+      "number": 144,
+      "statement": "Jatkuva vesi-tai lumisade tulee yleensä:",
+      "options": [
+        "A. Nimbostratuspilvestä",
+        "B. Stratuspilvestä",
+        "C. Stratocumuluspilvestä",
+        "D. Cumuluspilvestä"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jatkuva (ei kuuroittainen) vesi-/lumisade tulee tyypillisesti NIMBOSTRATUS-pilvestä (NS). Lämpimän rintaman alla. Stratus tuottaa tihkusadetta.",
+      "source": "PPL050FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    }
+  ]
+}

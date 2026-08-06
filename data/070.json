@@ -1,0 +1,1622 @@
+{
+  "module": "070",
+  "moduleName": "Lentotoiminta",
+  "source": "PPL070FIN 01062018.pdf",
+  "questions": [
+    {
+      "id": "070-0001",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 1,
+      "statement": "Ilma-aluksen päällikön tulee varmistua, että lentokone on asianmukaisilla laitteilla varustettu ennen lennon aloittamista. Epäselvissä tilanteissa lentäjä voi varmistaa asian:",
+      "options": [
+        "A. Vain lentokelpoisuustodistuksesta.",
+        "B. Vain koneen huoltotodistuksesta.",
+        "C. Vain lentokoneen käsikirjasta.",
+        "D. Minimivarusteluettelosta (MEL), jos käytettävissä."
+      ],
+      "correctIndex": 3,
+      "explanation": "Minimivarusteluettelo (MEL, Minimum Equipment List) kertoo, millä ehdoilla ja rajoituksilla lento voidaan suorittaa, vaikka jokin varuste tai järjestelmä olisi epäkunnossa. Jos MEL on käytettävissä, sitä käytetään epäselvissä varustetilanteissa.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0002",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 2,
+      "statement": "Ennen lennon aloittamista päällikön tulee varmistua, että lentokone on rekisteröity, lentokelpoinen ja huollettu asianmukaisesti. Mikä seuraavista ei ole pakollinen tarkistettava asiakirja:",
+      "options": [
+        "A. Minimivarusteluettelo (MEL).",
+        "B. Lentokelpoisuustodistus.",
+        "C. Lentokoneen tekninen päiväkirja.",
+        "D. Vakuutustodistus."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pakollisia mukana pidettäviä asiakirjoja ovat lentokelpoisuustodistus, rekisteröintitodistus, vakuutustodistus, tekninen päiväkirja, miehistön lupakirjat ja radiolupa. MEL ei ole aina pakollinen (etenkin yksityiskoneissa).",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0003",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 3,
+      "statement": "Mitä seuraavista valoista käytetään osoittamaan ilma-aluksen moottorien olevan käynnissä lentoaseman liikennealueella?",
+      "options": [
+        "A. Punaisia huomiovaloja.",
+        "B. Laskuvalonheitintä.",
+        "C. Perävaloa.",
+        "D. Purjehdusvaloja."
+      ],
+      "correctIndex": 0,
+      "explanation": "Punaiset huomiovalot (anti-collision lights, beacon) sytytetään, kun moottoria aiotaan käynnistää, ja sammutetaan vasta moottorien sammuttua. Ilmoittaa muille, että kone on 'live' eli moottorit voivat olla käynnissä.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0004",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 4,
+      "statement": "Yölentotoimintaa varten lentokoneiden ja liitimien tulee olla varustettu seuraavilla valoilla:",
+      "options": [
+        "A. Oikea siipi: valkoinen, Vasen siipi: valkoinen, Pyrstö: oranssi.",
+        "B. Oikea siipi: vihreä, Vasen siipi: punainen, Pyrstö: valkoinen.",
+        "C. Oikea siipi: punainen, Vasen siipi: vihreä, Pyrstö: valkoinen.",
+        "D. Oikea siipi: valkoinen, Vasen siipi: valkoinen, Pyrstö: punainen."
+      ],
+      "correctIndex": 1,
+      "explanation": "Yölentotoimintaa varten sivu-/purjehdusvalot ovat: oikea siipi vihreä, vasen siipi punainen ja pyrstö valkoinen. Muistisääntö: red on the left, green on the right.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0005",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 5,
+      "statement": "Ilma-aluksen päällikkö huomaa punaisten huomiovalojen olevan epäkunnossa päivällä suoritettavan lennon aikana. Miten hänen tulee toimia?",
+      "options": [
+        "A. Hänen tulee välittömästi laskeutua ensimmäiselle sopivalle lentopaikalle.",
+        "B. Hänen tulee palata lähtölentopaikalle ja merkitä kone lentokelvottomaksi odottamaan huoltoa.",
+        "C. Lento voidaan suorittaa loppuun päivän vallitessa ja valo tulee huollattaa seuraavassa mahdollisessa huollossa.",
+        "D. Hänen tulee laskeutua ensimmäiselle sopivalle lentopaikalle."
+      ],
+      "correctIndex": 2,
+      "explanation": "Päiväsaikaan punaisten huomiovalojen ('beacon') vikaantuminen ei ole turvallisuuskriittistä – lentoa voi jatkaa loppuun ja vika korjataan seuraavassa huollossa. Yöllä tilanne on toinen.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0006",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 6,
+      "statement": "Milloin koneeseen asennettua punaista huomiovaloa tulee käyttää?",
+      "options": [
+        "A. Valo tulee sytyttää hetki ennen lentoonlähtöä ja se tulee sammuttaa laskun jälkeen poistuttaessa kiitotieltä.",
+        "B. Valon tulee olla päällä aina moottorin käydessä.",
+        "C. Valon tulee olla päällä aina kun kone on ilmassa.",
+        "D. Valo tulee sytyttää moottorin käynnistyksen jälkeen ja se tulee sammuttaa juuri ennen moottorin sammuttamista."
+      ],
+      "correctIndex": 1,
+      "explanation": "Punaisen huomiovalon eli anti-collision beaconin tulee olla päällä aina moottorin käydessä. Käytännössä se sytytetään ennen moottorin käynnistystä tai viimeistään käynnistyksen yhteydessä ja sammutetaan vasta moottorin sammuttamisen jälkeen.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0007",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 7,
+      "statement": "Viralliset tiedot ilma-aluksen rajoituksista ja sallituista painorajoista löytyvät:",
+      "options": [
+        "A. Lentokelpoisuus-ja rekisteröintitodistuksista.",
+        "B. Huoltopäiväkirjasta.",
+        "C. Ilmailuviranomaisen virallisesta tietokannasta.",
+        "D. Ilma-aluksen käsikirjasta."
+      ],
+      "correctIndex": 3,
+      "explanation": "Ilma-aluksen rajoitukset, painorajat, suoritusarvot ja menettelyt löytyvät ilma-aluksen käsikirjasta (POH / AFM, Pilot's Operating Handbook / Aircraft Flight Manual).",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0008",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 8,
+      "statement": "Mitä radiotaajuutta tulee kuunnella suoritettaessa lentoonlähtö Suomen ilmatilassa sijaitsevalta valvomattomalta lentopaikalta, ottaen huomioon hyvän lentotavan?",
+      "options": [
+        "A. EFHK APP.",
+        "B. Aluelennonjohdon taajuutta (ACC).",
+        "C. 121.1 MHz.",
+        "D. 117.8 MHz."
+      ],
+      "correctIndex": 1,
+      "explanation": "Valvomattoman lentopaikan paikallisliikenne hoidetaan kyseisen lentopaikan julkaistulla taajuudella, mutta sitä ei ole vastausvaihtoehdoissa. Annetuista vaihtoehdoista hyvän lentotavan mukainen yleinen kuunneltava taajuus on aluelennonjohdon taajuus (ACC). 121.1 MHz ei ole yleispätevä taajuus Suomen valvomattomille lentopaikoille.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0009",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 9,
+      "statement": "Mitkä tuuliolosuhteet ovat kriittisimmät rullattaessa nokkapyörällä varustetulla ylätasokoneella?",
+      "options": [
+        "A. Tuuli vasemmalta etuviistosta",
+        "B. Tuuli etuviistosta",
+        "C. Suora sivutuuli",
+        "D. Tuuli takaviistosta"
+      ],
+      "correctIndex": 3,
+      "explanation": "Takaviistosta puhaltava tuuli on kriittisin ylätasokoneella, koska se yrittää nostaa pyrstöä ja kaataa konetta nokalleen. Erityisesti rullatessa ja vasten kovaa myötätuulta.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0010",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 10,
+      "statement": "Kuinka ohjainten tulisi olla poikkeutettuna rullattaessa myötätuulessa kannuspyöräkoneella?",
+      "options": [
+        "A. Ylös.",
+        "B. Alas.",
+        "C. Täysin ylös.",
+        "D. Neutraalit."
+      ],
+      "correctIndex": 1,
+      "explanation": "Myötätuulessa rullattaessa kannuspyöräkoneella korkeusperäsin pidetään ALAS (= ohjaussauva ETEEN), jotta tuuli ei pääse nostamaan pyrstöä. 'Dive away from the wind.'",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0011",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 11,
+      "statement": "Mikä seuraavista aiheuttaa todennäköisimmin koneen kaatumisen / keikahtamisen rullatessa voimakkaissa tuuliolosuhteissa?",
+      "options": [
+        "A. Jarruttamalla äkisti ja voimakkaasti.",
+        "B. Voimakas ja nopea kääntyminen, joka johtaa ylätuulen puoleisen siiven nousemiseen.",
+        "C. Rullaaminen nokkapyörä ilmassa.",
+        "D. Kiihdyttämällä nopeasti."
+      ],
+      "correctIndex": 1,
+      "explanation": "Voimakkaassa tuulessa nopea kääntyminen voi aiheuttaa ylätuulen siiven nousemisen → kone keikahtaa alatuulen siipi alas. Tästä syystä kaarrot tehdään hitaasti ja ylätuulen siiveke pidetään ALAS.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0012",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 12,
+      "statement": "Kuinka ohjainten tulisi olla poikkeutettuna rullattaessa tuulen puhaltaessa takavasemmalta?",
+      "options": [
+        "A. Oikea siiveke alhaalla, korkeusperäsin neutraali.",
+        "B. Vasen siiveke alhaalla, korkeusperäsin alhaalla.",
+        "C. Vasen siiveke ylhäällä, korkeusperäsin alhaalla.",
+        "D. Vasen siiveke alhaalla, korkeusperäsin neutraali."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tuuli takavasemmalta on quartering tailwind -tilanne. Ohjaimet pidetään poikkeutettuna pois myötätuulen suunnasta: vasen siiveke alas ja korkeusperäsin alas. Näin estetään tuulta nostamasta siipeä tai pyrstöä.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0013",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 13,
+      "statement": "Kuinka ohjainten tulisi olla poikkeutettuna rullattaessa kannuspyöräkoneella tuulen puhaltaessa takavasemmalta?",
+      "options": [
+        "A. Vasen siiveke alhaalla, korkeusperäsin alhaalla",
+        "B. Vasen siiveke alhaalla, korkeusperäsin neutraali",
+        "C. Vasen siiveke ylhäällä, korkeusperäsin ylhäällä",
+        "D. Vasen siiveke ylhäällä, korkeusperäsin neutraali"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kannuspyöräkone + tuuli takavasemmalta: vasen siiveke ALAS, korkeusperäsin myös ALAS (kaikki neljä asentoa erilainen kuin nokkapyöräkoneella, koska kannuspyöräkoneessa pyrstöriski on korostunut).",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0014",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 14,
+      "statement": "Miten ohjainten tulisi olla normaalisti asetettuna rullattaessa voimakkaassa vastatuulessa etuviistosta?",
+      "options": [
+        "A. Ohjaussiivekkeet neutraalit.",
+        "B. Siiveke ylhäällä tuulen puoleisessa siivessä.",
+        "C. Siiveke alhaalla tuulen puoleisessa siivessä.",
+        "D. Ohjaussiivekkeiden asennolla ei ole merkitystä."
+      ],
+      "correctIndex": 1,
+      "explanation": "Voimakas vastatuuli etuviistosta (quartering headwind): nostaminen estetään pitämällä SIIVEKE YLHÄÄLLÄ tuulen puoleisessa siivessä = sauva tuulta kohti.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0015",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 15,
+      "statement": "Miten ohjainten tulisi olla normaalisti asetettuna rullattaessa voimakkaassa vastatuulessa etuvasemmalta?",
+      "options": [
+        "A. Vasen siiveke alhaalla, korkeusperäsin neutraali",
+        "B. Vasen siiveke alhaalla, korkeusperäsin ylhäällä",
+        "C. Vasen siiveke ylhäällä, korkeusperäsin alhaalla",
+        "D. Vasen siiveke ylhäällä, korkeusperäsin neutraali"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vastatuuli etuvasemmalta: vasen siiveke YLHÄÄLLÄ (sauva vasemmalle), korkeusperäsin NEUTRAALI nokkapyöräkoneella. Etumuistisääntö: 'Dive away from tailwinds, climb into headwinds.'",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0016",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 16,
+      "statement": "Minimoidakseen laskutelineisiin kohdistuvat sivuttaissuuntaiset voimat kosketuksessa, lentäjän tulisi pitää:",
+      "options": [
+        "A. Koneen lentorata samansuuntaisena kiitotien kanssa.",
+        "B. Alatuulen puoleinen siipi alaspäin kallistettuna eliminoidakseen tuulen sortamisen sivuun kiitotieltä.",
+        "C. Koneen pituusakseli yhdensuuntaisena koneen lentoradan kanssa.",
+        "D. Ylätuulen puoleinen siipi alaspäin kallistettuna eliminoidakseen tuulen sortamisen sivuun kiitotieltä."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kosketuksessa lentokoneen pituusakselin tulee olla SAMASSA SUUNNASSA kuin lentoradan (track) ja kiitotien. Sivuluisu kiitotielle aiheuttaa sivuvoimia laskutelineisiin (riski rikkoutua).",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0017",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 17,
+      "statement": "Jättöpyörteitä syntyy vain kun ilma-alus:",
+      "options": [
+        "A. Toimii suurilla nopeuksilla.",
+        "B. Tuottaa nostovoimaa.",
+        "C. On ottanut laskusiivekkeet ja laskutelineet ulos.",
+        "D. On raskaasti kuormattu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Jättöpyörteet (wake turbulence, wingtip vortices) syntyvät VAIN siiven tuottaessa nostovoimaa. Suurin ja painavin kone hitaasti lentäessä → voimakkain pyörre.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0018",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 18,
+      "statement": "Voivatko raskaan ilma-aluksen jättöpyörteiden synnyttämät laskevat ilmavirtaukset ylittää kevyen ilma-aluksen nousukyvyn?",
+      "options": [
+        "A. Eivät.",
+        "B. Kyllä, erityisesti suuren ja raskaan liikennekoneen takana.",
+        "C. Eivät tavallisesti.",
+        "D. Satunnaisesti, erityisesti ilmakuoppien läheisyydessä."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kyllä – raskaan suihkukoneen jättöpyörteissä alasvirtausnopeus voi ylittää 1500 ft/min, mikä helposti ylittää kevyen koneen kohoamiskyvyn. Vakava vaara erityisesti laskeutumisessa ja lentoonlähdössä.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0019",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 19,
+      "statement": "Mikä on todennäköisin syy vaaralliselle turbulenssille raskaan ilma-aluksen takana?",
+      "options": [
+        "A. Potkurivirtaus.",
+        "B. Syöksyvirtaus.",
+        "C. Jättöpyörteet.",
+        "D. Moottorin suihkuvirtaus."
+      ],
+      "correctIndex": 2,
+      "explanation": "Jättöpyörteet (wake turbulence) ovat raskaiden koneiden takana suurin turbulenssin aiheuttaja. Pyörteet ovat suurimmillaan kun kone on raskas, hidas ja pysyy puhtaassa konfiguraatiossa (laskutelineet ja flapsit ylhäällä).",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0020",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 20,
+      "statement": "Mitkä varotoimenpiteet ovat tarpeen pysähdyttäessä kevyellä ilma-aluksella liikennealueelle pysähtyneen suuren ilma-aluksen taakse?",
+      "options": [
+        "A. Kevyen ilma-aluksen tulee pysähtyä nokat vastakkain suuren ilma-aluksen kanssa.",
+        "B. Kevyen ilma-aluksen tulee pysähtyä nokka poispäin suuresta ilma-aluksesta.",
+        "C. Kevyen ilma-aluksen tulisi pysähtyä vähintään 125 metrin etäisyydelle suuremman ilma-aluksen taakse.",
+        "D. Kevyt ilma-alus tulisi pysäyttää suuremman ilma-aluksen moottoreiden suihkuvirtauksen vaara-alueen ulkopuolelle."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kevyt kone pysäytetään riittävän kauas suuremman koneen TAAKSE moottoreiden suihkuvirtauksen (jet blast) ulkopuolelle. Suihkuvirta voi nostaa kevyen koneen ilmaan tai työntää sitä.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0021",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 21,
+      "statement": "Tehtäessä lentoonlähtöä suuren suihkukoneen lentoonlähdön jälkeen lentäjä voi minimoida jättöpyörteeseen joutumista:",
+      "options": [
+        "A. Nousemalla ilmaan ennen suihkukoneen irtoamiskohtaa ja pysymällä sen lentoradan yläpuolella kunnes on turvallista kääntyä poispäin.",
+        "B. Säilyttämällä suurempaa nopeutta lentoonlähdössä ja alkunousussa.",
+        "C. Venyttämällä nousukiitoa ja nousemalla ilmaan reilusti suihkukoneen irtoamiskohdan jälkeen.",
+        "D. Pyytämällä risteyslentoonlähtöä, mikäli suihkukone tekee lentoonlähdön kiitotien päästä."
+      ],
+      "correctIndex": 0,
+      "explanation": "Lentoonlähtö raskaan koneen jälkeen: nouse ilmaan ENNEN edellisen koneen irtoamiskohtaa ja pysy sen LENTORADAN YLÄPUOLELLA. Pyörteet vajoavat noin 300–500 ft/min, joten yläpuolella ollaan turvassa.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0022",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 22,
+      "statement": "Laskeuduttaessa suuren ilma-aluksen jälkeen lentäjän tulisi välttää jättöpyörrettä:",
+      "options": [
+        "A. Pysyttelemällä suuren ilma-aluksen liukupolun yläpuolella ja laskeutumalla ennen sen kosketuskohtaa.",
+        "B. Pysyttelemällä suuren ilma-aluksen liukupolun alapuolella ja laskeutumalla ennen sen kosketuskohtaa.",
+        "C. Pysyttelemällä suuren ilma-aluksen liukupolun alapuolella ja laskeutumalla sen kosketuskohdan jälkeen.",
+        "D. Pysyttelemällä suuren ilma-aluksen liukupolun yläpuolella ja laskeutumalla sen kosketuskohdan jälkeen."
+      ],
+      "correctIndex": 3,
+      "explanation": "Lasku raskaan koneen jälkeen: pysy LIUKUPOLUN YLÄPUOLELLA ja laskeudu sen KOSKETUSKOHDAN JÄLKEEN. Pyörteet ovat sen liukupolun alapuolella ja ennen kosketusta.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0023",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 23,
+      "statement": "Miten voit välttää jättöpyörrettä, jos luokaltaan suuremman ilma-aluksen lentorata risteää omaasi vasemmalta oikealle mailin verran edessäsi samalla korkeudella?",
+      "options": [
+        "A. Varmistamalla, että lennät hieman suihkukoneen lentoradan alapuolella ja kohtisuoraan sen lentorataan nähden.",
+        "B. Hidastamalla ilmanopeutesi liikehdintänopeuteen (VA) ja säilyttämällä korkeuden ja lentosuunnan.",
+        "C. Varmistamalla, että olet hieman suihkukoneen lentoradan yläpuolella.",
+        "D. Pyörit ympyrää vähintään viisi minuuttia ja jatkat sen jälkeen lentoasi hieman alemmalla korkeudella."
+      ],
+      "correctIndex": 2,
+      "explanation": "Risteävän edessä olevan raskaan koneen alta lentäminen on vaarallista. Pysy SEN LENTORADAN YLÄPUOLELLA, koska pyörteet vajoavat alaspäin (~500 ft/min).",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0024",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 24,
+      "statement": "Kuinka kauan jättöpyörre säilyy suuren ilma-aluksen lennettyä ohi?",
+      "options": [
+        "A. Viisi minuuttia tai pidempään; lennonjohdon porrastus on kaksi tai kolme minuuttia.",
+        "B. Alle neljä minuuttia.",
+        "C. Kaksi minuuttia.",
+        "D. Kolme minuuttia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jättöpyörteet voivat säilyä 5 minuuttia tai pidempään tyynessä ilmassa. Lennonjohdon vakioporrastus raskaan koneen perään on 2–3 minuuttia (riippuen kategorioista).",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0025",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 25,
+      "statement": "Minkä painekorkeuden jälkeen paineistamattomilla ilma-aluksilla on oltava käytössä lisähappea?",
+      "options": [
+        "A. 8000 ft.",
+        "B. 10 000 ft.",
+        "C. 9900 ft.",
+        "D. 13 000 ft."
+      ],
+      "correctIndex": 1,
+      "explanation": "Paineistamattomassa ilma-aluksessa lisähapen tarve alkaa vanhan PPL-kysymyspankin mukaisesti 10 000 ft painekorkeuden jälkeen. Nykyisessä EASA Part-NCO -logiikassa huomioidaan myös altistuksen kesto: yli 10 000 ft yli 30 minuutin ajan ja yli 13 000 ft koko ajan.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0026",
+      "module": "070",
+      "moduleName": "Lentotekniikka",
+      "number": 26,
+      "statement": "Kirjaimella A merkittyä kiitotien osaa voi käyttää (ks. LAPL/PPL 070-01):",
+      "options": [
+        "A. Laskeutumiseen.",
+        "B. Rullaamiseen ja lentoonlähtöön.",
+        "C. Rullaamiseen ja laskeutumiseen.",
+        "D. Vain rullaamiseen."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kirjaimella A merkitty siirrettyä kynnystä edeltävä kiitotieosa on käytettävissä rullaamiseen ja lentoonlähtöön, mutta sitä ei saa käyttää laskuun.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0027",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 27,
+      "statement": "Mikä seuraavista väittämistä on tosi koskien kuvan lentokenttää (ks. LAPL/PPL 070-01)?",
+      "options": [
+        "A. Kiitotiellä 12 lentoonlähdön voi aloittaa kohdasta A ja laskukelpoinen alue alkaa kohdasta B.",
+        "B. Kiitotie 30 on kohdassa E varustettu pysäytysvaijerilla, jota voidaan käyttää sotilasilma-alusten pysäyttämiseen.",
+        "C. Kiitotiellä 30 laskuun voi tulla alueelle E ja lentoonlähdön voi aloittaa kohdasta D.",
+        "D. Kiitotiellä 12 lentoonlähtöön ja laskuun käytettävä alue alkaa kohdasta B."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kiitotien merkinnät: kynnys (threshold) merkitään valkoisilla raidoilla. Siirretty kynnys (displaced threshold): siitä alkavalle alueelle EI saa laskeutua, mutta siltä saa lähteä.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0028",
+      "module": "070",
+      "moduleName": "Lentotekniikka",
+      "number": 28,
+      "statement": "Mitä eroa on lentokentän alueilla A ja E? (ks. LAPL/PPL 070-01)",
+      "options": [
+        "A. Aluetta A voi käyttää ainoastaan rullaamiseen, aluetta E voi käyttää kaikkeen muuhun liikehtimiseen paitsi laskeutumiseen.",
+        "B. Aluetta A voi käyttää kaikkeen muuhun toimintaan paitsi raskaiden ilma-alusten laskeutumiseen, aluetta E voi käyttää ainoastaan maakiidon mennessä pitkäksi.",
+        "C. Aluetta A voi käyttää rullaamiseen ja lentoonlähtöön, aluetta E voi käyttää ainoastaan maakiidon mennessä pitkäksi.",
+        "D. Alueilla ei ole toiminnallista eroa, alue A on tilapäinen ja alue E pysyvä."
+      ],
+      "correctIndex": 2,
+      "explanation": "Alue A on siirrettyä kynnystä edeltävä kiitotieosa, jota voi käyttää rullaamiseen ja lentoonlähtöön. Alue E on ylijuoksu-/pysäytysalue, jota käytetään vain maakiidon mennessä pitkäksi.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0029",
+      "module": "070",
+      "moduleName": "Lentotekniikka",
+      "number": 29,
+      "statement": "Kuvan lentokentässä alue C on luokiteltu (ks. LAPL/PPL 070-01):",
+      "options": [
+        "A. Suljetuksi kiitotieksi.",
+        "B. Useiden helikopterien laskeutumispaikaksi.",
+        "C. Ilma-alusten pysäköintialueeksi.",
+        "D. Vakautetuksi alueeksi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kuvan alue C on X-merkinnöillä osoitettu suljettu kiitotie tai suljettu liikehtimisalue. Suljettua kiitotietä/rullaustietä osoitetaan X-merkinnöillä, joten oikea vastaus on A: Suljetuksi kiitotieksi.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0030",
+      "module": "070",
+      "moduleName": "Lentotekniikka",
+      "number": 30,
+      "statement": "Mitä etelä-pohjoissuuntaisen kiitotien päässä olevat nuolet tarkoittavat (ks. LAPL/PPL 070-02)?",
+      "options": [
+        "A. Aluetta ei voi käyttää mihinkään ilma-aluksella suoritettavaan liikehtimiseen.",
+        "B. Voi käyttää vain rullaamiseen.",
+        "C. Käytettävissä rullaamiseen, lentoonlähtöön ja laskeutumiseen.",
+        "D. Kyseistä aluetta ei voi käyttää laskeutumiseen, mutta lentoonlähtö ja rullaaminen ovat sallittuja."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kiitotien päässä olevat nuolet osoittavat siirrettyä kynnystä edeltävää aluetta. Tätä aluetta ei saa käyttää laskeutumiseen, mutta rullaaminen ja lentoonlähtö ovat sallittuja.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0031",
+      "module": "070",
+      "moduleName": "Lentotekniikka",
+      "number": 31,
+      "statement": "Kiitotiellä olevat numerot 04 ja 22 tarkoittavat, että kiitotien suunta on noin (ks. LAPL/PPL 070-02):",
+      "options": [
+        "A. 040° ja 220° (tosisuunta).",
+        "B. 004° ja 022° (magneettinen suunta).",
+        "C. 004° ja 022° (tosisuunta).",
+        "D. 040° ja 220° (magneettinen suunta)."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kiitotien numerot perustuvat magneettiseen suuntaan pyöristettynä lähimpään kymmeneen asteeseen. Numerot 04 ja 22 tarkoittavat noin 040° ja 220° magneettista suuntaa.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0032",
+      "module": "070",
+      "moduleName": "Lentotekniikka",
+      "number": 32,
+      "statement": "Kuka tai mikä on vastuussa siitä, että ilma-alusta käytetään niiden lakien ja sääntöjen mukaan, mitkä ovat voimassa ilmatilassa, jossa sillä lennetään?",
+      "options": [
+        "A. Se valtio, jossa ilma-alus on rekisteröity.",
+        "B. Se valtio, joka on myöntänyt lentäjän lupakirjan.",
+        "C. Se valtio, joka on myöntänyt ilma-aluksen voimassaolevan lentokelpoisuustodistuksen.",
+        "D. Ilma-aluksen päällikkö."
+      ],
+      "correctIndex": 3,
+      "explanation": "Ilma-aluksen päällikkö vastaa siitä, että ilma-alusta käytetään sen ilmatilan sääntöjen ja määräysten mukaisesti, jossa lennetään.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0033",
+      "module": "070",
+      "moduleName": "Lentotekniikka",
+      "number": 33,
+      "statement": "ICAO:n jättöpyörreluokat ovat:",
+      "options": [
+        "A. Super Raskas, Raskas, Keskiraskas, Kevyt",
+        "B. Super Raskas, Raskas, Keskiraskas, Pieni",
+        "C. Valtava, Raskas, Keskiraskas, Kevyt",
+        "D. Valtava, Raskas, Kevyt"
+      ],
+      "correctIndex": 0,
+      "explanation": "ICAO:n jättöpyörreluokat ovat kysymyspankin mukaisesti Super Raskas, Raskas, Keskiraskas ja Kevyt.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0034",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 34,
+      "statement": "Missä ilma-aluksen rekisteröintitodistusta tulee säilyttää, kun kone on matkalennolla?",
+      "options": [
+        "A. Lentoonlähtöpaikalla.",
+        "B. Ilma-aluksessa.",
+        "C. Omistajan kotona.",
+        "D. Rekisteröintivaltion viranomaisella."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ilma-aluksen rekisteröintitodistus (Certificate of Registration) on pidettävä KONEESSA kaikilla lennoilla – yksi pakollisista mukana pidettävistä asiakirjoista (ARROW).",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0035",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 35,
+      "statement": "Kenen vastuulla on varmistaa kaikkien tarpeellisten ilma-aluksen asiakirjojen mukanaolo kansainvälisellä lennolla?",
+      "options": [
+        "A. Ilmaliikenne palveluyksikön, jolle lentosuunnitelma lähetetään.",
+        "B. Lähtökentällä olevan lennonvalvojan.",
+        "C. Ilma-alusta vuokraavan organisaation.",
+        "D. Ilma-aluksen päällikön."
+      ],
+      "correctIndex": 3,
+      "explanation": "Ilma-aluksen päällikkö (PIC) on aina vastuussa kaikkien tarvittavien asiakirjojen mukanaolosta lennolla. Tämä on Chicago Convention -periaate ja EASA Part-NCO.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0036",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 36,
+      "statement": "Minkälainen vastuu koneen päälliköllä on koskien turvavöiden käyttöä, jos ilma-aluksessa on matkustajia?",
+      "options": [
+        "A. Päällikön täytyy ohjeistaa matkustajia pitämään turvavyöt kiinnitettyinä koko lennon ajan.",
+        "B. Päällikön täytyy kertoa matkustajille turvavöiden sijainti ja käyttö.",
+        "C. Päällikkö voi ohjeistaa turvavöiden sijainnin ja käytön jos hän haluaa.",
+        "D. Päälliköllä ei ole vastuuta matkustajien turvavöiden käytöstä."
+      ],
+      "correctIndex": 1,
+      "explanation": "Päällikön vastuu turvallisuusbriefauksessa: matkustajille KERROTAAN turvavöiden sijainti ja käyttö. Päällikkö ei voi PAKOTTAA matkustajia pitämään turvavöitä koko ajan, mutta ohjeistaa heitä.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0037",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 37,
+      "statement": "Mikä kuvastaa parhaiten vaatimusta lentäjien turvavöiden käytöstä?",
+      "options": [
+        "A. Lanne-ja olkavyöt kytkettyinä lentoonlähdössä ja laskussa.",
+        "B. Lannevyö päällä koko lennon ajan; myös olkavyöt päällä lentoonlähdössä ja laskussa.",
+        "C. Lannevyöt päällä lentoonlähdössä ja laskussa; olkavyö lentoonlähdössä.",
+        "D. Olkavyöt päällä koko lennon ajan, lannevyöt lentoonlähdössä ja laskussa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lentäjien vyöt: LANNEVYÖ päällä KOKO LENNON AJAN, OLKAVYÖT lentoonlähdössä, laskussa ja muussa kriittisessä lentovaiheessa (jos asennettu).",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0038",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 38,
+      "statement": "Kenen vastuulla on tarkastaa ennen lentoa ilma-aluksen olevan sellaisessa kunnossa, että sillä voidaan suorittaa lento turvallisesti?",
+      "options": [
+        "A. Matkustaja.",
+        "B. Päällikkö.",
+        "C. Sertifioitu lentokonemekaanikko.",
+        "D. Omistaja."
+      ],
+      "correctIndex": 1,
+      "explanation": "Päällikkö (PIC) on vastuussa lentokoneen lentokuntoisuuden tarkastuksesta ennen lentoa (preflight inspection). Mekaanikko vastaa huoltotyöstä, mutta lentokunnosta vastaa lentäjä.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0039",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 39,
+      "statement": "Henkilö, joka on suoraan vastuussa matkustajien turvallisuuden briiffauksesta lennolle on:",
+      "options": [
+        "A. Päällikkö.",
+        "B. Lennonjohto.",
+        "C. Maahenkilökunta.",
+        "D. Turvallisuusvirkailija."
+      ],
+      "correctIndex": 0,
+      "explanation": "Päällikkö (PIC) on vastuussa matkustajien turvallisuusbriefauksesta ennen jokaista lentoa. Briefaus voidaan delegoida matkustajavastaavalle isoissa koneissa, mutta vastuu on PIC:llä.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0040",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 40,
+      "statement": "Minkälainen varustus minimissään on oltava ei-kaupalliselle lennolle yksimoottorisella maa ilma-aluksella, jos lennetään vesialueen päällä, jolloin liitomatka ei riitä saavuttamaan maata?",
+      "options": [
+        "A. Riittävä määrä pelastuslauttoja kaikkia ilma-aluksessa olevia henkilöitä varten.",
+        "B. Pelastusliivit tai vastaavat kelluntalaitteet jokaiselle ilma-aluksessa olevalle henkilölle.",
+        "C. Pelastusliivit jokaiselle ilma-aluksessa olevalle henkilölle.",
+        "D. Pelastuslauttoja riittävästi, jotta jokainen ilma-aluksessa oleva henkilö mahtuu lautalle, sekä pelastusliivit jokaiselle."
+      ],
+      "correctIndex": 1,
+      "explanation": "Yksimoottorinen kone vesialueen yllä (kauempana kuin liitomatka maahan): pelastusliivi tai vastaava kelluntalaite jokaiselle henkilölle. Pelastuslautta vaaditaan vain kaupallisessa lentotoiminnassa tai pidemmillä matkoilla.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0041",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 41,
+      "statement": "Minkä tyyppisellä käsikäyttöisellä sammuttimella tulee sammuttaa sähköpalo ilma-aluksen ohjaamossa?",
+      "options": [
+        "A. Vesi",
+        "B. Halon",
+        "C. Öljy",
+        "D. Pulveri"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sähköpalon sammuttamiseen ohjaamossa käytetään HALON-sammutinta (BCF/BTF). Vesi olisi vaarallinen sähkölaitteissa, pulveri sotkee mittaristoa.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0042",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 42,
+      "statement": "Kuinka monta käsisammutinta on oltava EASA-maahan rekisteröidyssä yleisimailun ilma-aluksessa, jossa ei ole erillistä matkustajaosastoa?",
+      "options": [
+        "A. 1",
+        "B. 0",
+        "C. 2",
+        "D. 3"
+      ],
+      "correctIndex": 0,
+      "explanation": "EASA Part-NCO.IDE.A.160: yleisilmailukoneessa, jossa ei ole erillistä matkustajaosastoa, vaaditaan vähintään 1 käsisammutin (yleensä halon).",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0043",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 43,
+      "statement": "Yksimoottorisissa maalentokoneissa on oltava pelastusliivi tai henkilökohtainen kelluntaväline jokaista lentokoneessa olevaa henkilöä varten, kun:",
+      "options": [
+        "A. Lennetään liitoetäisyydellä maasta",
+        "B. Tehdään rullausharjoituksia",
+        "C. Lennetään veden yllä kauempana kuin liitoetäisyydellä maasta",
+        "D. Lennetään maan päällä"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yksimoottorinen kone veden yllä KAUEMPANA KUIN LIITOETÄISYYS maasta → pelastusliivi vaaditaan jokaiselle. Liitoetäisyydellä riittää maastolasku.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0044",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 44,
+      "statement": "Mikä seuraavista väittämistä on mahdollisuuksien mukaan suositeltavin vaihtoehto laskeuduttaessa maastoon?",
+      "options": [
+        "A. Laskusuunta aina suoraan vastatuuleen.",
+        "B. Laskusuunta aina suoraan myötätuuleen.",
+        "C. Lasku aina matalimman reunaesteen kohdalta.",
+        "D. Laskusuunta mahdollisimman vastatuuleen esteet huomioiden."
+      ],
+      "correctIndex": 3,
+      "explanation": "Pakkolasku maastoon: laskusuunta MAHDOLLISIMMAN VASTATUULEEN, mutta esteet huomioiden. Joskus alamäen suuntainen tai pellon pituuden suuntainen on parempi kuin täysi vastatuuli.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0045",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 45,
+      "statement": "EASA ilma-aluksessa olevan ensiapupakkauksen on:",
+      "options": [
+        "A. Oltava merkattu oranssilla värillä havaitsemisen helpottamiseksi.",
+        "B. Oltava helposti saatavilla.",
+        "C. Oltava helposti saatavilla sekä säännöllisesti tarkistettu ja täydennetty.",
+        "D. Oltava merkattu sinisellä värillä havaitsemisen helpottamiseksi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Ensiapupakkauksen on oltava helposti saatavilla, säännöllisesti tarkastettu ja täydennetty. Värimerkintä ei ole pakollinen EASA-säädöksissä.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0046",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 46,
+      "statement": "Whiteout-ilmiössä:",
+      "options": [
+        "A. Kaikki näyttää pimeältä ja tarvitaan lisävalaistusta.",
+        "B. Joudutaan turvautumaan pimeännäkölaitteisiin.",
+        "C. On varjokato-olosuhteet, jolloin lumisessa ympäristössä pilvisellä säällä ei synny näkyviä varjoja eikä ääriviivoja.",
+        "D. On varjokato-olosuhteet, sillä taivas on pilvetön ja varjoja ei synny."
+      ],
+      "correctIndex": 2,
+      "explanation": "Whiteout = varjokato-olosuhde: lumiseen ympäristöön yhdistettynä pilvinen taivas → kaikki valo hajaantuu, ei varjoja, ei horisonttia. Erittäin vaarallinen lennon ja laskun aikana.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0047",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 47,
+      "statement": "ICAO Annex 6 käsittelee:",
+      "options": [
+        "A. Pelastusvälineitä",
+        "B. Ilma-aluksen operointiin liittyviä asioita",
+        "C. Kansallisia lakeja",
+        "D. Droneja"
+      ],
+      "correctIndex": 1,
+      "explanation": "ICAO Annex 6 = Operation of Aircraft – käsittelee ilma-aluksen operointiin liittyviä asioita: lentotoiminta, lupakirjat, asiakirjat, varustus, miehistö.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0048",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 48,
+      "statement": "Miten suoritat näkölähestymisen Turkuun (raskaan) MD11-koneen perässä?",
+      "options": [
+        "A. Pyrit lentämään edellä menevän liukupolun alapuolella.",
+        "B. Pyrit lentämään edellä menevän liukupolun yläpuolella istuttaen ilma-aluksesi mahdollisimman lähelle kynnystä.",
+        "C. Ei vaikuta lähestymisen suunnitteluun.",
+        "D. Pyrit lentämään edellä menevän liukupolun yläpuolella istuttaen ilma-aluksesi MD11:n kosketuskohdan jälkeen."
+      ],
+      "correctIndex": 3,
+      "explanation": "Raskaan MD-11:n perässä laskeutuminen: pysy SEN LIUKUPOLUN YLÄPUOLELLA ja laskeudu MD-11:n kosketuskohdan jälkeen. Pyörteet vajoavat sen alapuolelle ja ovat sen kosketuskohdassa.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0049",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 49,
+      "statement": "Ilma-aluksen evakuoinnissa pakkolaskun jälkeen kannattaa huomioida tuuli. Ilma-aluksesta kannattaa välittömästi poistua:",
+      "options": [
+        "A. Tuulen yläpuolelle ja palata koneelle vasta kun riittävä aika onnettomuudesta on kulunut.",
+        "B. Tuulen alapuolelle ja palata koneelle vasta kun riittävä aika onnettomuudesta on kulunut.",
+        "C. Tuulen yläpuolelle ja palata heti koneelle tarkastamaan vauriot.",
+        "D. Tuulen alapuolelle ja palata heti koneelle tarkastamaan vauriot."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pakkolaskun jälkeen evakuointi tuulen YLÄPUOLELLE (ylätuulen suuntaan), pois moottoritilasta jossa polttoaine ja palovaara. Palaa koneelle vasta kun palovaara on ohi.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0050",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 50,
+      "statement": "Windshearilla tarkoitetaan:",
+      "options": [
+        "A. Nopeaa tuulen suunnan ja/tai nopeuden muutosta.",
+        "B. Mekaanista turbulenssia.",
+        "C. Nopeaa tuulen nopeuden muutosta.",
+        "D. Nopeaa tuulen suunnan muutosta."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tuuliväänne (windshear) = nopea tuulen SUUNNAN ja/tai NOPEUDEN muutos lyhyellä matkalla. Voi olla pystysuoraa tai vaakasuoraa. Vaarallisin lähestymisessä ja lentoonlähdössä.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0051",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 51,
+      "statement": "Mikä seuraavista ohjeista meluhaitan pienentämiseksi on oikein?",
+      "options": [
+        "A. Käytä oikoreittiä lähestymisen aikana.",
+        "B. Lennä yli 100 KIAS:n nopeutta lähestymisen loppuvaiheessa.",
+        "C. Lennä julkaistuja reittejä.",
+        "D. Suorita voimakkaita liikkeitä lentäessäsi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Meluhaitan vähentämiseksi: NOUDATA JULKAISTUJA REITTEJÄ, käytä loivempia profiilieja ja vältä turhaa moottoritehoa asutuksen yli. Standardimenettelyt suunniteltu meluvaikutus minimoiden.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0052",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 52,
+      "statement": "Mitä ohjeita tulee sisältyä lentoa edeltäviin matkustajille annettaviin turvallisuusohjeisiin?",
+      "options": [
+        "A. Sammuttimen sijanti",
+        "B. Lentokoneen ovien toiminta ja käyttö",
+        "C. Istuinvöiden toiminta ja käyttö",
+        "D. Kaikki vaihtoehdot oikein"
+      ],
+      "correctIndex": 3,
+      "explanation": "Matkustajien turvallisuusbriefaus sisältää: turvavyöt, ovet, hätäuloskäynnit, sammuttimen sijainti, pelastusliivit (vesilennot), tupakointikielto. Kaikki vaihtoehdot oikein.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0053",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 53,
+      "statement": "Valitse oikea yhdistelmä. Suurimmat jättöpyörteet muodostuvat lentokoneesta, joka: 1. On massaltaan suuri 2. On massaltaan pieni 3. Lentää suurella nopeudella 4. Lentää pienellä nopeudella 5. Lentää suurella kohtauskulmalla 6. Lentää pienellä kohtauskulmalla",
+      "options": [
+        "A. 1+3+5",
+        "B. 1+4+5",
+        "C. 2+4+5",
+        "D. 1+4+6"
+      ],
+      "correctIndex": 1,
+      "explanation": "Suurimmat jättöpyörteet: PAINAVA + HIDAS + SUURI KOHTAUSKULMA (= 'heavy, slow, clean'). Lentoonlähdön ja lähestymisen aikana, kun kone on flaps/laskutelineet ylhäällä.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0054",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 54,
+      "statement": "Lennettäessä alueella, jossa pelastusliivien mukanaolo on pakollista, tulee matkustajille ohjeistaa ennen lentoa, että:",
+      "options": [
+        "A. Matkustajia ei tarvitse ohjeistaa pelastusliiveistä tai niiden käytöstä.",
+        "B. Pelastusliivejä ei saa pitää lennolla valmiiksi puettuina.",
+        "C. Pelastusliivit tulee täyttää heti, kun tieto pakkolaskusta veteen on tehty.",
+        "D. Pelastusliivit tulee täyttää vasta koneen ulkopuolella."
+      ],
+      "correctIndex": 3,
+      "explanation": "Pelastusliivien täyttäminen tehdään VASTA KONEEN ULKOPUOLELLA. Täytetty liivi koneen sisällä estää uloskäynnin (jää ahtaaseen oviaukkoon kiinni). Tämä on kriittinen turvallisuusohje.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0055",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 55,
+      "statement": "Suurin häkämyrkytykseen (CO) liittyvä vaara lennolla on:",
+      "options": [
+        "A. Kyseessä on näkymätön, hajuton ja mauton kaasu, jonka havaitseminen aistien avulla on hyvin vaikeaa ja se saattaa aiheuttaa nopean ja huomaamattoman tajunnan menetyksen.",
+        "B. CO todennäköisesti sytyttää tulipalon koneen polttoainejärjestelmässä.",
+        "C. CO:ta ei voida havaita millään teknisillä laitteilla.",
+        "D. Häkää on lähes mahdotonta tuulettaa koneesta pois."
+      ],
+      "correctIndex": 0,
+      "explanation": "Häkä (CO) on hajuton, mauton, väritön kaasu. Voi aiheuttaa nopean tajunnan menetyksen ilman varoitusta. Tästä syystä koneissa on CO-detektoreita ja sitruunamerkkejä.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0056",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 56,
+      "statement": "Vesiliirto märällä kiitotiellä tapahtuu yleensä:",
+      "options": [
+        "A. Kuumalla ilmalla.",
+        "B. Suurella nopeudella.",
+        "C. Ainoastaan jäisillä, veden peittämillä kiitoteillä.",
+        "D. Sivutuulessa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Vesiliirtoa (hydroplaning) tapahtuu suurella nopeudella märällä kiitotiellä. Vp ≈ 9 × √P (PSI). Renkaat menettävät kosketuksen pintaan, jarrut ja ohjaus eivät toimi.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0057",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 57,
+      "statement": "Edelläsi laskeutuvan matkustajakoneen jättöpyörteet:",
+      "options": [
+        "A. Hajoavat lähes välittömästi.",
+        "B. Liikkuvat tuulen mukana.",
+        "C. Nousevat ylöspäin.",
+        "D. Liikkuvat suoraan kohti jäljessä tulevaa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Jättöpyörteet liikkuvat TUULEN MUKANA (vajoavat noin 300–500 ft/min ja ajautuvat sivutuulen suuntaan). Tästä syystä sivutuulessa pyörteet voivat ajautua viereiselle kiitotielle.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0058",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 58,
+      "statement": "Joudut tekemään pakkolaskun lennolla. Mikä seuraavista on mielestäsi tässä tilanteessa kaikista tärkein tehtäväsi?",
+      "options": [
+        "A. Lennonjohdon informoiminen.",
+        "B. Matkustajien informoiminen.",
+        "C. Ilma-aluksen ohjaaminen valitsemallesi pakkolaskupaikalle.",
+        "D. Hätälähettimen aktivointi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Pakkolaskun TÄRKEIN tehtävä on AVIATE – ohjaa konetta valitsemaasi pakkolaskupaikkaan. NAVIGATE ja COMMUNICATE seuraavat (mukaan lukien lennonjohto, hätälähetin, matkustajat).",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0059",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 59,
+      "statement": "Mikä seuraavista EI lisää dynaamisen kaatumisen riskiä?",
+      "options": [
+        "A. Kalteva alusta.",
+        "B. Kopterin keveneminen.",
+        "C. Jalaksen kiinnitakertuminen.",
+        "D. Pyrstöroottorin työntö."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kysymys ei ole teknisesti yksiselitteinen. Dynaamisen kaatumisen riskiä lisäävät selvästi kalteva alusta, jalaksen tai pyörän kiinnitakertuminen sekä kopterin keveneminen. Myös pyrstöroottorin työntö voi tietyissä olosuhteissa vaikuttaa rullausmomenttiin, joten vaihtoehtoa D ei tule merkitä täysin varmaksi 'ei lisää riskiä' -vastaukseksi. Kysymys tai vastausvaihtoehdot tulee tarkistaa alkuperäistä koulutusmateriaalia vasten.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 12,
+      "confidence": "low",
+      "needsReview": true
+    },
+    {
+      "id": "070-0060",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 60,
+      "statement": "Mikä seuraavista väittämistä on oikein?",
+      "options": [
+        "A. Dynaaminen kaatuminen tapahtuu vain kaltevalla alustalla.",
+        "B. Dynaamisen kaatumisen riskiin ei vaikuta epätasainen alusta.",
+        "C. Dynaaminen kaatuminen johtuu aina ohjaajan virheestä.",
+        "D. Dynaaminen kaatuminen ei ole riippuvainen ilma-aluksen koosta."
+      ],
+      "correctIndex": 3,
+      "explanation": "Dynaaminen kaatuminen voi syntyä, kun helikopteri alkaa kiertyä jalaksen tai pyörän muodostaman pivot-pisteen ympäri. Se voi tapahtua kaltevalla alustalla, mutta myös esimerkiksi jalaksen tarttuessa esteeseen tai pehmeään alustaan. Ilmiö ei ole sidottu ilma-aluksen kokoon.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0061",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 61,
+      "statement": "Kuka vastaa pakkolaskutilanteessa matkustajien evakuoinnista?",
+      "options": [
+        "A. Koneen päällikkö.",
+        "B. Ilmailuviranomainen.",
+        "C. Matkustajat itse.",
+        "D. Koneen omistaja."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pakkolaskussa matkustajien evakuointi on PÄÄLLIKÖN vastuulla. PIC päättää evakuoinnin järjestyksestä ja varmistaa kaikkien turvallisen poistumisen.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0062",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 62,
+      "statement": "Matkustajia opastetaan turvavöiden ja ovien käytössä:",
+      "options": [
+        "A. Lentoonlähdön jälkeen.",
+        "B. Vain ansiolentotoiminnassa.",
+        "C. Vain poikkeustapauksissa.",
+        "D. Ennen lentoa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Matkustajia opastetaan ennen LENTOA (preflight briefing) – ei lentoonlähdön jälkeen. Tähän kuuluu turvavöiden ja ovien käyttö.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0063",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 63,
+      "statement": "Mikä seuraavista EI yleensä ole lentämiselle vaarallinen sääilmiö?",
+      "options": [
+        "A. Jäätäminen",
+        "B. Tuuli",
+        "C. Ukkonen",
+        "D. Voimakas turbulenssi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tuuli sinänsä ei ole vaarallinen sääilmiö (lukuun ottamatta voimakasta sivutuulta laskussa). Jäätäminen, ukkonen ja voimakas turbulenssi ovat suoraan vaarallisia.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0064",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 64,
+      "statement": "Mikä seuraavista EI ole matkustajille ennen lentoa selvitettävä asia?",
+      "options": [
+        "A. Ilma-alukseen meno ja siitä poistuminen.",
+        "B. Ovien avaaminen ja sulkeminen.",
+        "C. Ilmastointilaitteen käyttö.",
+        "D. Turvavöiden toiminta."
+      ],
+      "correctIndex": 2,
+      "explanation": "Matkustajille selvitetään ennen lentoa: ovet, turvavyöt, koneeseen meno/poistuminen, sammutin, hätäuloskäynnit. Ilmastointilaitteen käyttö EI ole turvallisuuskysymys.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0065",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 65,
+      "statement": "Lentäessäsi meluherkillä alueilla, kannattaa lentoonlähdöissä ja laskuissa käyttää:",
+      "options": [
+        "A. Normaalia loivempia profiileja.",
+        "B. Normaaleja suurempia nopeuksia.",
+        "C. Normaalia jyrkempiä profiileja.",
+        "D. Jyrkkiä kaartoja."
+      ],
+      "correctIndex": 2,
+      "explanation": "Meluherkillä alueilla käytetään NORMAALIA JYRKEMPIÄ profiilieja (lentoonlähdössä jyrkkä noususuunta nopeammin yläpuolelle, laskussa jyrkkä lähestyminen). Tämä siirtää melun pois pinnalta.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0066",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 66,
+      "statement": "Mikä seuraavista väittämistä on oikein?",
+      "options": [
+        "A. Lentokorkeus ei juurikaan vaikuta meluhaittaan.",
+        "B. Lentäjän tulisi ensisijaisesti pohtia meluhaittaa lentoreittiä valitessaan.",
+        "C. Lentäjä voi minimoida meluhaittaa.",
+        "D. Käytetyt laskeutumisprofiilit eivät juurikaan vaikuta meluhaittaan."
+      ],
+      "correctIndex": 2,
+      "explanation": "Lentäjä voi MINIMOIDA meluhaittaa valitsemalla reittejä, lentokorkeuksia, profiilieja ja tehoja meluherkät alueet huomioiden. Lentokorkeus ja profiilit vaikuttavat suuresti.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0067",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 67,
+      "statement": "Jos lentoasemalla on havaittu lintuesiintymiä, niistä ilmoitetaan:",
+      "options": [
+        "A. METAR:ssa",
+        "B. TAF:ssa",
+        "C. ATIS-lähetyksessä",
+        "D. SNOWTAM:ssa"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lintuesiintymät ilmoitetaan ATIS-lähetyksessä lentopaikan ajantasaisena tietona. METAR/TAF ovat säätietoja, SNOWTAM lumi/jäätietoa.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0068",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 68,
+      "statement": "Ilma-aluksissa käytettävän käsisammuttimen sammutusaineen on oltava:",
+      "options": [
+        "A. Tyypiltään ja määrältään soveltuva sellaisiin paloihin, joita todennäköisimmin syttyy siinä tilassa, jossa sammutinta on tarkoitus käyttää.",
+        "B. Tyypiltään ja määrältään soveltuva kaikkiin paloihin.",
+        "C. Halonia",
+        "D. Tyypiltään ja määrältään soveltuva sellaisiin paloihin, joita todennäköisimmin syttyy lentokoneen matkustajatilassa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sammuttimen sammutusaineen on oltava SOPIVA siihen palotyyppiin, joka todennäköisimmin syttyy SIINÄ TILASSA (ohjaamo: sähköpalot → halon). Eri palotyypit vaativat eri aineita.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0069",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 69,
+      "statement": "Yleisin ilma-aluksissa käytetty käsisammutin sisältää sammutusaineena:",
+      "options": [
+        "A. Hiilidioksidia (CO2)",
+        "B. Sammutusjauhetta",
+        "C. Vettä",
+        "D. Halonia"
+      ],
+      "correctIndex": 3,
+      "explanation": "Yleisin ilmailukäsisammutin on HALON (BCF/Halon 1211, BTF/Halon 1301). Tehoaa A-, B- ja C-luokan paloihin, ei jätä jäännöksiä, ei vahingoita elektroniikkaa.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0070",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 70,
+      "statement": "Ohjaaja voi kohdata 'white out' -ilmiön:",
+      "options": [
+        "A. Lennettäessä jäätävässä vesisateessa.",
+        "B. Tehtäessä laskua vesisateessa.",
+        "C. Lennettäessä kovalla pakkasella.",
+        "D. Tehtäessä laskua lumiselle järvenjäälle pilvisellä säällä."
+      ],
+      "correctIndex": 3,
+      "explanation": "Whiteout-ilmiö esiintyy laskeuduttaessa LUMISELLE PINNALLE PILVISELLÄ SÄÄLLÄ – varjoja ei synny, horisontti katoaa. Esim. järvenjäälle tai lumikentälle pilvisenä päivänä.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0071",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 71,
+      "statement": "Raskaan lentokoneen jälkeen samalle kiitotielle laskeutuvan helikopterin ohjaaja joutuu helpoimmin edellisen aiheuttamaan jättöpyörteeseen:",
+      "options": [
+        "A. Laskeutumalla kauemmaksi kiitotielle.",
+        "B. Lähestymällä liukupolun yläpuolella.",
+        "C. Lähestymällä tuulen yläpuolelta.",
+        "D. Laskeutuessaan kiitotien alkuun heikoissa tuuliolosuhteissa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Raskaan koneen jälkeen samalla kiitotiellä laskeutuva helikopteri voi joutua pyörteisiin erityisesti laskeutuessaan kiitotien alkuun heikoissa tuuliolosuhteissa, koska pyörteet vajoavat ja voivat jäädä kiitotien läheisyyteen.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0072",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 72,
+      "statement": "Jättöpyörteet ovat suurimmillaan, kun ilma-alus:",
+      "options": [
+        "A. On kevyt ja lentää nopeasti.",
+        "B. On painava ja lentää nopeasti.",
+        "C. On kevyt ja lentää hitaasti.",
+        "D. On painava ja lentää hitaasti."
+      ],
+      "correctIndex": 3,
+      "explanation": "Suurimmat jättöpyörteet: kone on PAINAVA + HIDAS + KOHTAUSKULMA SUURI ('heavy, slow, clean'). Lentoonlähdön rotaatiossa ja loppulähestymisessä pahin tilanne.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0073",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 73,
+      "statement": "Mikä seuraavista ohjeista meluhaitan pienentämiseksi on oikea?",
+      "options": [
+        "A. Julkaistun reitin seuraaminen ei ole suositeltavaa.",
+        "B. Suorita laskut aina 'spot landinginä'.",
+        "C. Noudata julkaistuja reittejä.",
+        "D. Suorita kaikki kaarrot jyrkkinä."
+      ],
+      "correctIndex": 2,
+      "explanation": "Meluhaitan ohjeisto: NOUDATA JULKAISTUJA REITTEJÄ, käytä standardimenettelyjä, vältä jyrkkiä kaartoja asutuksen yllä, lennä mahdollisimman korkealla.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0074",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 74,
+      "statement": "Olet lähdössä lennolle Helsinki-Malmin lentoasemalta Lahti-vesivehmaan kentälle yksin. Mikä seuraavista EI ole pakollinen varuste?",
+      "options": [
+        "A. Palosammutin",
+        "B. Pelastusliivi",
+        "C. Reittiä koskevat kartat",
+        "D. Ensiapulaukku"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tällä reitillä pelastusliivi ei ole lähtökohtaisesti pakollinen varuste, ellei lennettäisi veden yllä kauempana kuin liitoetäisyys maasta tai muuten vesilennon varustevaatimusten piirissä. Ensiapupakkaus, reittiä koskevat kartat ja palosammutin kuuluvat yleisiin vaatimuksiin.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0075",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 75,
+      "statement": "'Preflight check' tulee käydä läpi:",
+      "options": [
+        "A. Ennen jokaista lentoa.",
+        "B. Rullauksen aikana.",
+        "C. Ennen päivän ensimmäistä lentoa.",
+        "D. Vain ennen tarkastuslentoa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Preflight-tarkastus tehdään ENNEN JOKAISTA LENTOA. Sisältää ulkokierroksen, asiakirjat, polttoaineen näytteen, ohjaamon tarkistuksen jne.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0076",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 76,
+      "statement": "Millä tavoin omalla toiminnalla on mahdollista estää vaaratilanne, joka aiheutuu aktiivisille kiitotielle rullaamisesta ilman selvitystä?",
+      "options": [
+        "A. Käyttämällä radioliikenteessä standardia fraseologiaa.",
+        "B. Pysähtymällä ennen kiitotielle rullaamista.",
+        "C. Tarkastamalla silmämääräisesti kiitotien vapaus ennen ylittämistä.",
+        "D. Kaikki vaihtoehdot ovat totta."
+      ],
+      "correctIndex": 3,
+      "explanation": "Aktiiviselle kiitotielle ei saa rullata ilman selvitystä. Estävät keinot: standardifraseologia, pysähtyminen ennen ylittämistä, silmämääräinen tarkistus → KAIKKI vaihtoehdot oikein.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0077",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 77,
+      "statement": "Millä keinoin tulipalon riskiä on pyritty vähentämään tankatessa?",
+      "options": [
+        "A. Määrittelemällä alue, jolla ei saa tupakoida.",
+        "B. Määrittelemällä tankkausalue, jolla kielletään avotulenteko ja tupakointi.",
+        "C. Määrittelemällä alue, jolla ei saa tehdä avotulta.",
+        "D. Ilma-aluksen tankkaajan tulee määritellä tankkausalue."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tankkausalueella on oltava määritelty ja merkitty tankkausalue, jolla kielletään AVOTULENTEKO ja TUPAKOINTI. Lisäksi maadoituskaapeli, sammutin ja staattisen sähkön purku.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0078",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 78,
+      "statement": "Ilma-aluksen päällikön on tehtävä selvitys lentoturvallisuutta vaarantaneesta tapauksesta tai lentotoiminnassa sattuneesta vauriosta lennon päätyttyä:",
+      "options": [
+        "A. 24 tunnin kuluessa.",
+        "B. Mahdollisimman pian.",
+        "C. 12 tunnin kuluessa.",
+        "D. 48 tunnin kuluessa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lentäjän vaaratilanneraportti tehdään 'mahdollisimman pian' lennon päätyttyä. Tarkat aikarajat vaihtelevat tyypin mukaan, mutta yleisperiaate on viivytyksetön ilmoitus.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0079",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 79,
+      "statement": "Mitkä ovat toimenpiteesi, jos lennät VFR-näkölentosääntöjen mukaista lentoa ja ajaudut pilveen:",
+      "options": [
+        "A. Tiputat korkeutta niin kauan, että tulet ulos pilvestä.",
+        "B. Jatkat lentoa muuttamatta suuntaa.",
+        "C. Teet 180° kaarron ja luotat mittareihin kunnes ulkoiset referenssit ovat taas käytössä.",
+        "D. Teet 180° kaarron ja luotat ulkoisiin referensseihin."
+      ],
+      "correctIndex": 2,
+      "explanation": "VFR-lentäjä joutuu pilveen → 180° KAARTO ulos pilvestä, luota MITTAREIHIN kunnes ulkoiset referenssit ovat takaisin. Älä laskeudu sokeasti pilveen – maa-/estöriski.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0080",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 80,
+      "statement": "Mikä seuraavista koskien melunvaimennusalueita on totta?",
+      "options": [
+        "A. Kaikki tiheästi asutut alueet ovat automaattisesti melunvaimennusalueita.",
+        "B. Melunvaimennusalueella lennettäessä saa käyttää enintään 50% maksimitehosta riippumatta korkeudesta.",
+        "C. Melunvaimennusalueet ovat aina rajoitusalueita.",
+        "D. Melunvaimennusalueet merkitään karttaan sille tarkoitetulla karttamerkillä."
+      ],
+      "correctIndex": 3,
+      "explanation": "Melunvaimennusalueet (noise abatement areas) merkitään ilmailukartassa erityisellä karttamerkillä. Eivät ole automaattisesti rajoitusalueita, mutta lentäjän tulee välttää tarpeetonta melua.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0081",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 81,
+      "statement": "Mikä seuraavista tapauksista edellyttää vaaratilanneraportin tekemistä?",
+      "options": [
+        "A. Laskuvalonheittimen vikaantuminen lennolla",
+        "B. Reitin tai määränpään muuttaminen lennolla sään takia",
+        "C. Matkustajan pahoinvointi lennolla.",
+        "D. Ohjainpinnan osittainen jumiutuminen lennolla"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vaaratilanneraportti vaaditaan ohjainpinnan jumiutumisesta (turvallisuuskriittinen rakennevika). Laskuvalo, sääriskien välttäminen ja matkustajan pahoinvointi eivät edellytä raporttia.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0082",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 82,
+      "statement": "Missä seuraavista tilanteista on riski joutua omaan virtaukseen?",
+      "options": [
+        "A. Lasku myötätuuleen.",
+        "B. Vajoaminen tyynessä pystysuoraan 200 ft/min.",
+        "C. Vajoaminen 1000 ft/min 30 KIAS nopeudella.",
+        "D. Lasku vastatuuleen."
+      ],
+      "correctIndex": 2,
+      "explanation": "Omaan virtaukseen joutuminen eli vortex ring state liittyy helikopterilla pieneen eteenpäin suuntautuvaan nopeuteen, teho päällä tapahtuvaan pystysuuntaiseen tai lähes pystysuuntaiseen vajoamiseen ja riittävän suureen vajoamisnopeuteen. 1000 ft/min 30 KIAS nopeudella on selvästi riskitilanne.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0083",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 83,
+      "statement": "Mikä seuraavista meri-ja vesialueilla tapahtuvaa toimintaa koskevista väittämistä on oikein?",
+      "options": [
+        "A. Merialueella on koneessa kaikilla ansiolennoilla oltava kellukkeet.",
+        "B. Liivien lukumäärän pitää olla riittävä kaikille matkustajille ja miehistölle.",
+        "C. Meripelastuspuvut on aina oltava päälle puettuna.",
+        "D. Koneessa pitää aina olla pelastuslautta."
+      ],
+      "correctIndex": 1,
+      "explanation": "Vesistöjen yllä lentäessä pelastusliivien LUKUMÄÄRÄN on oltava riittävä KAIKILLE matkustajille ja miehistölle. Pelastuslautta ei aina pakollinen yksityislennolla, kellukkeet eivät pakollisia.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0084",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 84,
+      "statement": "Koneen ulkopuolinen tarkastus tehdään:",
+      "options": [
+        "A. Päivän viimeisen lennon jälkeen.",
+        "B. Ennen jokaista lentoa.",
+        "C. Aamuisin.",
+        "D. Mekaanikon toimesta."
+      ],
+      "correctIndex": 1,
+      "explanation": "Koneen ulkopuolinen tarkastus (preflight inspection / walk-around) tehdään ENNEN JOKAISTA LENTOA. Kerran päivässä ei riitä – aina.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "070-0085",
+      "module": "070",
+      "moduleName": "Lentotoiminta",
+      "number": 85,
+      "statement": "Mikä on paras tapa pysäköidä ja ankkuroida kone voimakkaissa tuuliolosuhteissa?",
+      "options": [
+        "A. Pyrstö vastatuuleen.",
+        "B. Pyrstö sivutuuleen.",
+        "C. Nokka myötätuuleen.",
+        "D. Nokka vastatuuleen."
+      ],
+      "correctIndex": 3,
+      "explanation": "Voimakkaassa tuulessa pysäköinti: NOKKA VASTATUULEEN, kone ankkuroitu (siipien, pyrstön ja nokan kiinnityspisteet). Sivutuuli/myötätuuli aiheuttavat sivuvoimia ja nostovoimaa.",
+      "source": "PPL070FIN 01062018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    }
+  ]
+}

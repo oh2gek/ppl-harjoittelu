@@ -1,0 +1,3446 @@
+{
+  "module": "010",
+  "moduleName": "Ilmailun säädökset",
+  "source": "PPL010FIN 11102018.pdf",
+  "questions": [
+    {
+      "id": "010-0001",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 1,
+      "statement": "Mitä seuraavista dokumenteista ei ole vaatimuksena kuljettaa lennolla ilma-aluksessa ICAO:n jäsenvaltioissa?",
+      "options": [
+        "A. Rekisteröimistodistus",
+        "B. Miehistön syntymätodistus",
+        "C. Lentokelpoisuustodistus",
+        "D. Miehistön lupakirja"
+      ],
+      "correctIndex": 1,
+      "explanation": "ICAO Annex 6 luettelee lennolla mukana olevat asiakirjat: rekisteröimistodistus, lentokelpoisuustodistus, miehistön lupakirjat, matkapäiväkirja, radiolupa, melutodistus, vakuutus jne. Miehistön syntymätodistus EI kuulu vaadittaviin asiakirjoihin.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0002",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 2,
+      "statement": "Mikä seuraavista lauseista koskien ilmailuviranomaisen järjestämiä teoriakokeita EASA FCL -lupakirjan myöntämiseksi on oikein?",
+      "options": [
+        "A. Uusintakertojen määrää ei ole rajoitettu.",
+        "B. Kaikki kokeet on suoritettava 12 kuukauden aikana.",
+        "C. Kaikki teoriakokeet on suoritettava yhden jäsenvaltion alaisuudessa.",
+        "D. Kokelas läpäisee teoriakokeet, kun hän suorittaa hyväksytysti 75% osakokeista."
+      ],
+      "correctIndex": 2,
+      "explanation": "Part-FCL mukaan kaikki teoriakokeet on suoritettava yhden EASA-jäsenvaltion alaisuudessa. Lisäksi kaikki osakokeet on läpäistävä 18 kuukauden kuluessa ensimmäisestä yrityksestä, läpäisyraja on 75 % osakoetta kohden (ei 75 % osakokeista), ja yrityksiä saa olla enintään 4 per osakoe ja 6 per koesarja.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0003",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 3,
+      "statement": "Ilma-alus tai lentäjä, joilla on asianmukaiset luvat ja lupakirjat, ei saa suorittaa kansainvälistä lentoa:",
+      "options": [
+        "A. Ellei viranomainen siitä maasta, jossa ilma-alus on rekisteröity tai lentäjän lupakirja on myönnetty, ole myöntänyt poikkeuslupaa.",
+        "B. Ellei mikä tahansa ICAO:n jäsenvaltio ole myöntänyt yleistä poikkeuslupaa.",
+        "C. Ilman sen valtion lupaa, jonka alueelle lennetään.",
+        "D. Missään tapauksessa."
+      ],
+      "correctIndex": 2,
+      "explanation": "Chicagon yleissopimuksen artikla 6 mukaan ilma-alus ei saa lentää toisen sopimusvaltion alueelle ilman tämän valtion erityislupaa tai yleisten edellytysten täyttymistä. Suvereniteettiperiaate (artikla 1): jokainen valtio omistaa ilmatilansa.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0004",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 4,
+      "statement": "Minkä oikeuden ICAO:n jäsenvaltioille myöntää kansainvälisen ilmailun yleissopimuksen artikla 16?",
+      "options": [
+        "A. Oikeus suorittaa tarkastus, päällikön luvalla ja ilman kohtuutonta viivytystä, toisten jäsenvaltioiden ilma-aluksissa niiden saapuessa tai lähtiessä.",
+        "B. Oikeus suorittaa tarkastus, ilman kohtuutonta viivytystä, toisten jäsenvaltioiden ilma-aluksissa niiden saapuessa tai lähtiessä, mikäli on syytä epäillä, että ilma-aluksessa kuljetetaan laittomia esineitä tai etsintäkuulutettuja matkustajia.",
+        "C. Oikeus suorittaa tarkastus, ilman kohtuutonta viivytystä, toisten jäsenvaltioiden ilma-aluksissa niiden saapuessa tai lähtiessä, mikäli tarkastukseen esitetään syy.",
+        "D. Oikeus suorittaa tarkastus, ilman kohtuutonta viivytystä, toisten jäsenvaltioiden ilma-aluksissa niiden saapuessa tai lähtiessä."
+      ],
+      "correctIndex": 3,
+      "explanation": "Chicagon yleissopimuksen artikla 16 antaa jokaiselle sopimusvaltiolle oikeuden tarkastaa toisten sopimusvaltioiden ilma-aluksia niiden saapuessa tai lähtiessä, ilman kohtuutonta viivytystä. Tarkastusoikeus on yleinen eikä se vaadi epäilyä tai erityistä syytä.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0005",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 5,
+      "statement": "Mitä lentosääntöjä tulee noudattaa ilmatilassa, joka on eri maan hallinnoima kuin se, missä ilma-alus on rekisteröity?",
+      "options": [
+        "A. JAA:n jäsenvaltioiden hyväksymiä lentosääntöjä.",
+        "B. ICAO:n julkaisemia lentosääntöjä, koska ne koskevat sellaisenaan kaikkia jäsenmaita.",
+        "C. Sen maan, missä ilma-alus lentää.",
+        "D. Ilma-aluksen rekisteröintimaan."
+      ],
+      "correctIndex": 2,
+      "explanation": "ICAO yleissopimuksen artikla 12 mukaan ilma-alus noudattaa lentosääntöjä siinä valtiossa, jonka ilmatilassa se kulloinkin lentää. Aavalla merellä noudatetaan ICAO:n vahvistamia sääntöjä.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0006",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 6,
+      "statement": "Minkä luokan lääketieteellinen kelpoisuustodistus täyttää PART-FCL PPL-lupakirjan vaatimukset?",
+      "options": [
+        "A. Luokka B tai C.",
+        "B. Luokka 1 tai 2.",
+        "C. Luokka A tai B.",
+        "D. Luokka 2 tai 3."
+      ],
+      "correctIndex": 1,
+      "explanation": "Part-MED mukaan PPL-lupakirjan haltijalta vaaditaan vähintään luokan 2 lääketieteellinen kelpoisuustodistus. Luokka 1 (ammattilentäjille) kelpaa myös. LAPL-todistus ei riitä PPL:ään.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0007",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 7,
+      "statement": "Mikä oli Chicagon yleiskokouksen lopputulos?",
+      "options": [
+        "A. ICAO ja EASA.",
+        "B. 18 Artiklaa Chicagon yleiskokoukseen.",
+        "C. Kansainvälisen siviili-ilmailun yleissopimus.",
+        "D. PICAO."
+      ],
+      "correctIndex": 2,
+      "explanation": "Vuoden 1944 Chicagon yleiskokouksen lopputulos oli Kansainvälisen siviili-ilmailun yleissopimus, joka loi ICAOn ja sääntelee kansainvälistä siviili-ilmailua. PICAO oli väliaikaisorganisaatio (1945–1947) ennen ICAOn perustamista 1947.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0008",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 8,
+      "statement": "LAPL/PPL-lupakirjan haltijalla ei ole oikeutta:",
+      "options": [
+        "A. Pudottaa laskuvarjohyppääjiä.",
+        "B. Hinata purjelentokoneita.",
+        "C. Kuljettaa maksavia asiakkaita.",
+        "D. Antaa lennonopetusta FI(A) kelpuutuksella."
+      ],
+      "correctIndex": 2,
+      "explanation": "PPL on yksityislentäjän lupakirja: haltija EI saa lentää korvausta vastaan eikä kuljettaa maksavia matkustajia. Laskuvarjohyppääjien pudotus, purjelentokoneen hinaus ja FI(A)-opetus ovat sallittuja sopivilla kelpuutuksilla.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0009",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 9,
+      "statement": "Ilma-aluksen päällikön tulee varmistua ennen lentämistä toisen jäsenvaltion ilmatilaan laskeutumista varten, että:",
+      "options": [
+        "A. Hänen tulee varmistua siitä, että ilma-aluksen lentokelpoisuustodistus on voimassa, hänellä on ilma-aluksen tyyppihyväksyntä ja hän on tehnyt kohdemaan järjestämän ilmailulain teoriakokeen.",
+        "B. Hänen tulee varmistua ennen lentoa, että kohdemaan viranomaisella on hyväksytetty hänen lupakirjansa.",
+        "C. Ilma-aluksessa on mukana kaikki tarvittavat asiakirjat, mm. lentokelpoisuustodistus, ja että ilma-alus on lentokelpoinen ja hyväksytysti rekisteröity.",
+        "D. Hänen tulee varmistua siitä, että ilma-aluksessa on toimiva radio ja transponderi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Ennen kansainvälistä lentoa päällikön on varmistettava, että ilma-aluksessa on kaikki vaaditut asiakirjat (lentokelpoisuustodistus mm.) ja että ilma-alus on lentokelpoinen ja asianmukaisesti rekisteröity. Erillistä kohdemaan teoriakoetta tai etukäteishyväksyntää ei tarvita EASA-piirissä.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0010",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 10,
+      "statement": "Ilma-aluksen päällikön tulee varmistua ennen lentämistä toisen ICAO:n jäsenvaltion ilmatilaan laskeutumista varten, että:",
+      "options": [
+        "A. Hänellä tulee olla ICAO:n jäsenvaltion myöntämä lupakirja.",
+        "B. Hänellä on sen valtion myöntämä tai hyväksymä lupakirja, jossa ilma-alus on rekisteröity.",
+        "C. Hänellä tulee olla jonkin JAA-jäsenvaltion myöntämä lupakirja.",
+        "D. Hänellä tulee olla mikä tahansa voimassaoleva lupakirja."
+      ],
+      "correctIndex": 1,
+      "explanation": "Chicagon yleissopimuksen artikla 32: lupakirjan tulee olla rekisteröintivaltion myöntämä tai hyväksymä, jotta sitä voi käyttää sen rekisteröimässä ilma-aluksessa. Lupakirjan ei tarvitse olla kohdemaan myöntämä.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0011",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 11,
+      "statement": "Milloin purjehdusvalot tulee olla päällä?",
+      "options": [
+        "A. Kun liikutaan lentokentän liikehtimisalueella.",
+        "B. Yöllä tai kun viranomainen niin vaatii.",
+        "C. Aina kun ilma-aluksen päällikkö haluaa kytkeä ne päälle.",
+        "D. Auringon laskusta auringon nousuun tai kun viranomainen niin vaatii."
+      ],
+      "correctIndex": 1,
+      "explanation": "SERA: ilma-aluksen purjehdusvalot (vasen punainen, oikea vihreä, takana valkoinen) tulee pitää päällä yöllä, sekä muulloin viranomaisen niin määrätessä. SERA.3215 edellyttää yöllä navigointi-/purjehdusvaloja lennossa ja liikehtimisalueella.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0012",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 12,
+      "statement": "Minkä lentosääntöjen mukaisesti lento tulee lentää?",
+      "options": [
+        "A. Lennonjohdon ohjeiden mukaisesti.",
+        "B. IFR IMC:ssä ja VFR VMC:ssä.",
+        "C. Joko IMC tai VMC.",
+        "D. Joko IFR tai VFR."
+      ],
+      "correctIndex": 3,
+      "explanation": "SERA: jokainen lento on lennettävä joko näkölentosääntöjen (VFR) tai mittarilentosääntöjen (IFR) mukaan. IMC ja VMC ovat sääolosuhteita, eivät lentosääntöjä.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0013",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 13,
+      "statement": "Milloin voit lentää tiheästi asutun alueen, kaupungin tai ulkosalle kokoontuneen väkijoukon yli korkeudella, josta ei pystyisi hätätapauksessa laskeutumaan turvallisesti?",
+      "options": [
+        "A. Vain pysyessä selvästi erossa pilvestä ja maan pinta näkyvissä.",
+        "B. Vain kun operaattori antaa luvan.",
+        "C. Ei koskaan.",
+        "D. Vain lentoonlähdön tai laskun yhteydessä."
+      ],
+      "correctIndex": 3,
+      "explanation": "SERA:n minimikorkeussäännöistä voidaan poiketa silloin, kun se on tarpeen lentoonlähdön tai laskun yhteydessä. Muulloin tiheästi asutun alueen, kaupungin tai ulkosalle kokoontuneen väkijoukon yli ei saa lentää korkeudella, josta hätälasku ei olisi turvallinen.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0014",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 14,
+      "statement": "Kahdella samalla lentokorkeudella lentävän ilma-aluksen lähestyessä toisiin leikkaavista lentosuunnista, on sen ilma-aluksen, jolla on kone oikealla puolellaan, väistettävä tätä. Oikein vai väärin?",
+      "options": [
+        "A. Oikein.",
+        "B. Oikein vain, jos oikealla puolella oleva kone on nopeampi.",
+        "C. Väärin, mikäli toinen ilma-alus ei hinaa mitään.",
+        "D. Väärin. Se jolla on kone oikealla puolellaan, on etuoikeutettu."
+      ],
+      "correctIndex": 0,
+      "explanation": "SERA-väistämissääntö risteävillä lentoradoilla samalla korkeudella: se ilma-alus, jolla on toinen oikealla puolellaan, väistää. Pätee kaikkiin lentokoneisiin riippumatta tyypistä tai nopeudesta.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0015",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 15,
+      "statement": "Mikä alla olevista vastausvaihtoehdoista täydentää parhaiten lauseen? \"Kun kaksi tai useampi ilma-alus ovat lähestymässä lentopaikkaa laskua varten..\"",
+      "options": [
+        "A. Alempana olevalla ilma-aluksella on etuoikeus, ellei lennonjohto (ATC) ole jo määritellyt laskulupaa.",
+        "B. Ilma-aluksella, jolla lyhyin vaakaetäisyys kiitotien kynnykselle, on etuoikeus.",
+        "C. Alempana olevalla ilma-aluksella on aina etuoikeus.",
+        "D. Ylempänä olevalla ilma-aluksella on aina etuoikeus."
+      ],
+      "correctIndex": 0,
+      "explanation": "SERA: kun useampi ilma-alus lähestyy laskuun, alempana olevalla on etuoikeus, kuitenkin niin että ilma-alus ei saa hyödyntää sääntöä leikatakseen toisen edestä loppulähestymisellä eikä ohittaakseen sitä. Lennonjohdon antama selvitys tarvittaessa muuttaa järjestyksen.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0016",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 16,
+      "statement": "Poislukien lentoonlähtö tai laskeutuminen, tai muut erikseen määritellyt tilanteet, VFR-lentoa ei saa suorittaa alempana kuin ____ maan tai veden pinnasta tai 150m ilma-aluksesta ____ säteellä olevan korkeimman esteen yläpuolella.",
+      "options": [
+        "A. 500 ft / 500 ft.",
+        "B. 1500 ft / 1000 ft.",
+        "C. 800 ft / 1000 ft.",
+        "D. 1000 ft / 500 ft."
+      ],
+      "correctIndex": 0,
+      "explanation": "SERA.5005 (avoin maasto): VFR ei saa lentää alle 500 ft (150 m) maan- tai vedenpinnasta eikä alle 500 ft 150 m säteellä olevasta korkeimmasta esteestä. Tiheästi asutulla alueella minimi on 1000 ft / 600 m säteellä.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0017",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 17,
+      "statement": "Kaksi ilma-alusta lentää näkölentosääntöjen mukaisesti ja lähestyvät toisiaan. Ilma-aluksen, jolla on etuoikeus, tulisi säilyttää:",
+      "options": [
+        "A. Ohjaussuunta ja nopeus.",
+        "B. Korkeus merenpinnasta ja suunta.",
+        "C. Korkeus maanpinnasta ja nopeus.",
+        "D. Korkeus merenpinnasta ja nopeus."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kun aloitetaan väistö (give-way), etuoikeutetun ilma-aluksen on säilytettävä ohjaussuuntansa ja nopeutensa, jotta väistävän on mahdollista välttää yhteentörmäys turvallisesti.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0018",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 18,
+      "statement": "Lentäessäsi yöllä ilma-aluksen päällikkönä näet törmäyksen estevalon ja punaisen jatkuvasti palavan valon samalla korkeudella ja suhteellisella suuntimalla 050 astetta. Onko riski yhteentörmäykseen ja kenellä on etuoikeus?",
+      "options": [
+        "A. Ei. Toisella ilma-aluksella.",
+        "B. Ei. Sinulla on.",
+        "C. Kyllä. Sinulla on.",
+        "D. Kyllä. Toisella ilma-aluksella."
+      ],
+      "correctIndex": 3,
+      "explanation": "Punainen purjehdusvalo on toisen ilma-aluksen vasemmalla siivenkärjellä – jos näet sen, kone näyttää sinulle vasenta kylkeään ja lentää siis oikealta vasemmalle. Suhteellinen suuntima 050° tarkoittaa, että kone on oikealla edessäsi: te risteätte. Oikealla olevalla on etuoikeus, sinun on väistettävä.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0019",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 19,
+      "statement": "Jos LAPL/PPL-lupakirjan haltija, jolla ei ole muita kelpuutuksia, saa lennonjohdolta tutkapalvelun yhteydessä ohjeita muuttaa ohjaussuuntaansa tai korkeuttaan niin, ettei ohjeita noudattamalla pysty säilyttämään näkölento-olosuhteita, täytyy hänen:",
+      "options": [
+        "A. Jatkaa sen hetkisellä ohjaussuunnalla ja korkeudella sekä ilmoittaa lennonjohtajalle, miksi ei pysty noudattamaan selvitystä.",
+        "B. Noudattaa selvitystä joka tapauksessa, mutta siirtyä seuraamaan mittareita ajoissa.",
+        "C. Noudattaa lennonjohtajan ohjeita niin tarkasti kuin mahdollista, mutta ei kuitenkaan lentää mittarilentosääolosuhteisiin.",
+        "D. Jatkaa sen hetkisellä ohjaussuunnalla ja korkeudella, eikä sanoa mitään ja odottaa lennonjohtajan seuraavia ohjeita."
+      ],
+      "correctIndex": 0,
+      "explanation": "VFR-lennolla päällikkö ei saa joutua mittarisääolosuhteisiin. Jos lennonjohdon ohje johtaisi VMC:n menettämiseen, päällikön on jatkettava nykyisellä suunnalla ja korkeudella ja ilmoitettava lennonjohdolle, miksi selvitystä ei voida noudattaa.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0020",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 20,
+      "statement": "Yhtä tai useampaa vilkkaasti liikennöityä lentoasemaa palvelevaa ja niiden läheisyyteen perustettua valvottua ilmatilaa, johon ATS-reitit yhtyvät, kutsutaan:",
+      "options": [
+        "A. Lähestymisalueeksi (TMA).",
+        "B. Lähiliikennevyöhykkeeksi (ATZ).",
+        "C. Lähialueeksi (CTR).",
+        "D. Lentoväyläksi (AWY)."
+      ],
+      "correctIndex": 0,
+      "explanation": "TMA = Terminal Control Area = lähestymisalue. Se on yhden tai useamman vilkkaasti liikennöidyn lentoaseman ympärille perustettu valvottu ilmatila, johon ATS-reitit yhtyvät. CTR (lähialue) on lentopaikan välitön valvottu ilmatila.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0021",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 21,
+      "statement": "Mikä on kansainvälinen ilmailun VHF hätätaajuus?",
+      "options": [
+        "A. 123.45 MHz",
+        "B. 121.50 MHz",
+        "C. 406.00 MHz",
+        "D. 243.00 MHz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kansainvälinen ilmailun VHF-hätätaajuus on 121,500 MHz. Kaikkien lentokoneiden tulisi tarvittaessa kuunnella tätä taajuutta. 406 MHz on ELT/COSPAS-taajuus ja 243 MHz UHF-sotilashätätaajuus.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0022",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 22,
+      "statement": "Kuinka usein AIC-päivitykset julkaistaan?",
+      "options": [
+        "A. Neljännesvuosittain.",
+        "B. Viikoittain.",
+        "C. Vuosittain.",
+        "D. Tarvittaessa."
+      ],
+      "correctIndex": 3,
+      "explanation": "AIC (Aeronautical Information Circular) julkaistaan tarvittaessa, kun on tarpeen tiedottaa lentäjiä turvallisuuteen, sääntöihin tai hallintoon liittyvistä asioista, joita ei voida julkaista AIP:ssä tai NOTAMissa.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0023",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 23,
+      "statement": "LAPL/PPL-lupakirjan haltija saa eritys-VFR-selvityksen lähialueelle saapumiseen. Ennen lähialueen rajan ylittämistä hän havaitsee, ettei enää voi vastaanottaa tai lähettää radiolla. Tällöin hänen täytyy:",
+      "options": [
+        "A. Jatkaa lähialueelle noudattaen viimeistä saatua selvitystä ja lähettää samalla aikeensa sokeasti.",
+        "B. Jatkaa lähialueelle ja odottaa \"selvä laskuun\"-valomerkkiä.",
+        "C. Pysyä poissa lähialueelta.",
+        "D. Jatkaa määränpäähän hänelle määrätyn ilmoittautumispaikan kautta noudattaen viimeistä saatua selvitystä."
+      ],
+      "correctIndex": 3,
+      "explanation": "Koska erityis-VFR-selvitys on jo annettu, radiovika ei automaattisesti mitätöi sitä. VFR-radiovikamenettelyn mukaisesti lentäjän tulee jatkaa määränpäähän noudattaen viimeistä saatua selvitystä, mikäli se voidaan tehdä turvallisesti. Vaihtoehto C olisi oikea vain, jos selvitystä ei olisi vielä annettu.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0024",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 24,
+      "statement": "Mikä koodi toisiotutkavastaimeen tulisi asettaa hätätilanteessa?",
+      "options": [
+        "A. 7000",
+        "B. 7700",
+        "C. 7777",
+        "D. 7600"
+      ],
+      "correctIndex": 1,
+      "explanation": "Toisiotutkavastaimen (transponderi) hätäkoodit: 7700 = yleinen hätä, 7600 = radiohäiriö, 7500 = laiton puuttuminen (kaappaus), 7000 = VFR-koodi (Eurooppa) ilman selvitystä.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0025",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 25,
+      "statement": "Jos merkinantaja ojentaa oikean käsivartensa ja sauvansa sivulle 90 asteen kulmaan vartalosta ja ojentaa vasenta käsivartta sivulle, koukistaa sitä kyynärpäästä ja liikuttaa vasenta sauvaa ylösalas rinnan ja pään korkeuden välillä, mitä se tarkoittaa?",
+      "options": [
+        "A. Jatka suoraan eteenpäin.",
+        "B. Käynnistä moottori.",
+        "C. Käänny vasemmalle.",
+        "D. Käänny oikealle."
+      ],
+      "correctIndex": 2,
+      "explanation": "ICAO-merkinantajan käsimerkit: liikkumaton (ojennettu) käsivarsi osoittaa kaartosuunnan ohjaajan näkökulmasta. Merkinantajan oikea käsi sivulla = ohjaajan vasemmalle, joten kaarra vasemmalle. Liikkuva sauva osoittaa kääntönopeutta.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0026",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 26,
+      "statement": "Mitä tarkoittaa lähilennonjohdosta lennolla olevalle ilma-alukselle suunnattu jatkuva vihreä valomerkki?",
+      "options": [
+        "A. Laskeudu välittömästi.",
+        "B. Laske tälle lentopaikalle ja rullaa asematasolle.",
+        "C. Selvä laskuun.",
+        "D. Ilma-alukselle on annettu etusija laskeutumiseen radiohäiriön johdosta."
+      ],
+      "correctIndex": 2,
+      "explanation": "Lennonjohdon valomerkit ilmassa olevalle: jatkuva vihreä = selvä laskuun. Vihreä vilkkuva = palaa laskua varten (laskulupa annetaan erikseen). Valomerkkejä käytetään radiohäiriötilanteessa.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0027",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 27,
+      "statement": "Minkä värisiä ovat rullaustien keskilinjamaalaukset?",
+      "options": [
+        "A. Vihreitä.",
+        "B. Keltaisia.",
+        "C. Punaisia.",
+        "D. Valkoisia."
+      ],
+      "correctIndex": 1,
+      "explanation": "Rullaustien keskilinja on keltainen. Kiitotien maalaukset (mm. keskilinja, kynnys, päätunnus) ovat valkoisia. Värikoodit auttavat ohjaajaa erottamaan rullausalueet kiitotiestä.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0028",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 28,
+      "statement": "Minkä värisiä ovat kiitotiemaalaukset?",
+      "options": [
+        "A. Punaisia.",
+        "B. Valkoisia.",
+        "C. Vihreitä.",
+        "D. Keltaisia."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kiitotien maalaukset (keskilinja, kynnysmerkinnät, kosketuskohtamerkinnät, kiitotien tunnusnumerot) ovat aina valkoisia. Rullaustiet on merkitty keltaisella.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0029",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 29,
+      "statement": "Olet loppuosalla lähestymässä kynnystä ja näet lennonjohdosta annetun jatkuvan punaisen valomerkin. Tämä tarkoittaa:",
+      "options": [
+        "A. Älä laske. Lentokenttä suljettu.",
+        "B. Jatka lähestymistä ja odota vihreää valoa.",
+        "C. Älä laske. Jatka lentoa varalentopaikalle.",
+        "D. Anna tietä toiselle ilma-alukselle ja jatka lentoa laskukierroksessa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Lennonjohdon valomerkit ilmassa olevalle: jatkuva punainen = anna tietä toiselle ilma-alukselle ja jatka lentoa laskukierroksessa. Vilkkuva punainen tarkoittaa puolestaan, että lentopaikka ei ole turvallinen, älä laske.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0030",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 30,
+      "statement": "Miksi sanotaan korkeusmittarin QNH-asetuksella näyttämää korkeutta?",
+      "options": [
+        "A. Tosikorkeudeksi.",
+        "B. Korkeus merenpinnasta.",
+        "C. Lentopinnaksi.",
+        "D. Korkeudeksi maanpinnasta."
+      ],
+      "correctIndex": 1,
+      "explanation": "QNH-asetus on merenpinnan tasalle palautettu paine, joten korkeusmittari näyttää korkeuden merenpinnasta (altitude). QFE näyttää korkeuden lentopaikan peruspisteestä (height) ja 1013,25 hPa antaa standardilentopinnan.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0031",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 31,
+      "statement": "Miten lentäjän pitäisi toimia radiohäiriötilanteessa lennettäessä näkölentosääntöjen mukaisesti näkölentosääolosuhteissa?",
+      "options": [
+        "A. Jatkaa lentoa määräkentälle lähettäen sokeasti ja pyrkien välttämään mittarilentosääolosuhteita.",
+        "B. Noudattaa puolustusvoimien ohjetta radiohäiriötilanteissa toimimiseksi ja odottaa opastuskoneen saapumista.",
+        "C. Lentää lähimmälle lentopaikalle, tehdä ympyrää toisella puolella kuin normaali laskukierroskuvio ja odottaa jatkuvaa vihreää valomerkkiä lennonjohdolta.",
+        "D. Jatkaa lentoa näkölentosääolosuhteissa, laskeutua lähimmälle sopivalle lentopaikalle ja ilmoittaa saapumisesta asianomaiselle lennonjohtoelimelle."
+      ],
+      "correctIndex": 3,
+      "explanation": "VFR-VMC -lennolla radiohäiriön jälkeen: jatka VFR:nä, laskeudu lähimmälle sopivalle lentopaikalle ja ilmoita saapumisesta lennonjohtoelimelle mahdollisimman pian (esim. puhelimella).",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0032",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 32,
+      "statement": "Kevyen luokan lentokone tekee lentoonlähdön raskaan tai keskiraskaan luokan lentokoneen takana. Monta minuuttia on lentokoneiden välinen porrastus?",
+      "options": [
+        "A. 5 minuuttia.",
+        "B. 4 minuuttia.",
+        "C. 2 minuuttia.",
+        "D. 6 minuuttia."
+      ],
+      "correctIndex": 2,
+      "explanation": "Pyörreturbulenssiporrastus saman kiitotien peräkkäisessä lentoonlähdössä, kun kevyt seuraa raskasta tai keskiraskasta, on 2 minuuttia. Jos jälkimmäinen ilma-alus lähtee kiitotien välipisteestä (intermediate part) edeltävän takana, käytetään pidempää 3 minuutin porrastusta.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0033",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 33,
+      "statement": "Mikä on siirtopinnan määritelmä?",
+      "options": [
+        "A. Siirtokorkeus ilmaistuna kuten lentopinta.",
+        "B. Alhaisin mahdollinen lentopinta siirtokorkeuden yläpuolella.",
+        "C. Lentopinta sen kohdan tasalla tai yläpuolella, jolla lentokoneen pystysuuntainen paikka ilmaistaan korkeutena.",
+        "D. Lentopinta sen kohdan alapuolella, jossa lentokoneen pystysuuntainen paikka ilmaistaan korkeutena."
+      ],
+      "correctIndex": 1,
+      "explanation": "Siirtopinta (Transition Level) on alin käytettävissä oleva lentopinta, joka on siirtokorkeuden (Transition Altitude) yläpuolella. Suomessa siirtokorkeus on 5000 ft.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0034",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 34,
+      "statement": "Mitä sanaa käytetään kuvaamaan lentokoneen pystysuuntaista paikkaa mitattuna lentokentän peruspisteen yläpuolella, kun QFE on asetettu korkeusmittarin näytölle?",
+      "options": [
+        "A. Korkeus = Altitude.",
+        "B. Korkeus = Elevation.",
+        "C. Lentopinta.",
+        "D. Korkeus = Height."
+      ],
+      "correctIndex": 3,
+      "explanation": "QFE on lentopaikan peruspisteen tasalle palautettu paine. Sillä asetettu korkeusmittari näyttää korkeuden kentän yläpuolella eli ”Height”. Altitude = MSL (QNH), Elevation = kiintopisteen MSL-korkeus, Flight level = 1013,25 hPa.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0035",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 35,
+      "statement": "LAPL/PPL-lentäjä, joka lentää noudattaen erityis-VFR-sääntöjä, tulee noudattaa seuraavia minimejä:",
+      "options": [
+        "A. Lentonäkyvyys on 5 km. Selvästi erossa pilvestä ja maan tai veden pinta näkyvissä.",
+        "B. Lentonäkyvyys on 10 km, maan tai veden pinta näkyvissä.",
+        "C. Lentonäkyvyys on 1,5 km. Selvästi erossa pilvestä ja maan tai veden pinta näkyvissä.",
+        "D. Lentonäkyvyys on 3,0 km. Selvästi erossa pilvestä."
+      ],
+      "correctIndex": 2,
+      "explanation": "Erityis-VFR (SVFR) lähialueella: lentonäkyvyys vähintään 1500 m, selvästi erossa pilvestä, maan tai veden pinta näkyvissä. Yöllä SVFR vaatii usein lisäedellytyksiä. Helikoptereille minimi on 800 m.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0036",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 36,
+      "statement": "Kuka on vastuussa lentokelpoisuustodistuksen myöntämisestä?",
+      "options": [
+        "A. EASA.",
+        "B. ICAO.",
+        "C. Operaattori.",
+        "D. Rekisteröintivaltion viranomainen."
+      ],
+      "correctIndex": 3,
+      "explanation": "Lentokelpoisuustodistuksen myöntää sen valtion ilmailuviranomainen, jonka rekisteriin ilma-alus on rekisteröity (Suomessa Traficom). EASA antaa tyyppihyväksynnät, ICAO ei myönnä yksittäisiä todistuksia.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0037",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 37,
+      "statement": "Mikä seuraavista normaalisti määrittää käytössä olevan kiitotien valvomattomalla lentopaikalla?",
+      "options": [
+        "A. Se osa liikennealuetta, joka on määritetty lentoonlähtöön ja laskuun.",
+        "B. Kiitotie vastatuuleen.",
+        "C. Lentopaikan määrätty osa lentoonlähtöön ja laskeutumiseen.",
+        "D. Kiitotie myötätuuleen."
+      ],
+      "correctIndex": 1,
+      "explanation": "Valvomattomalla lentopaikalla käytössä oleva kiitotie on normaalisti se, johon laskeutuminen ja lentoonlähtö tapahtuvat vastatuuleen. Ohjaajan on aina itse arvioitava tuulesta ja tuulipussista käytössä oleva suunta.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0038",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 38,
+      "statement": "Kuka ei voi keskeyttää VFR-operointia lentokentällä turvallisuussyistä?",
+      "options": [
+        "A. Paikallinen aluelennonjohto (ACC).",
+        "B. Lähestymislennonjohtaja.",
+        "C. Asianomainen ATS-viranomainen.",
+        "D. Päivystävä lentokentän virkailija."
+      ],
+      "correctIndex": 3,
+      "explanation": "VFR-toiminnan voi turvallisuussyistä keskeyttää lennonjohto (TWR/APP/ACC) tai asianomainen ATS-viranomainen. Päivystävä lentokenttävirkailija ei ole ilmaliikennepalvelun toimivaltainen henkilö.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0039",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 39,
+      "statement": "EASA LAPL/PPL-lupakirjan haltijalla, joka haluaa kuljettaa matkustajia, tulee olla tehtynä määrätyt lentoonlähdöt ja laskut edeltävien:",
+      "options": [
+        "A. 31 päivän aikana.",
+        "B. 29 päivän aikana.",
+        "C. 60 päivän aikana.",
+        "D. 90 päivän aikana."
+      ],
+      "correctIndex": 3,
+      "explanation": "PPL/LAPL: matkustajia kuljettaakseen päällikön on suoritettava 3 lentoonlähtöä ja laskua edeltävien 90 päivän aikana saman luokan/tyypin ilma-aluksella.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0040",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 40,
+      "statement": "Jos lupakirjan haltija joutuu leikkaukseen, mitkä ovat hänen velvollisuutensa informoida ilmailulääkäriä?",
+      "options": [
+        "A. Hänen tulee ottaa yhteyttä ilmailulääkäriin ilman viivytystä ja pyytää neuvoja tilanteesta.",
+        "B. Hänen pitäisi informoida ilmailulääkäriä vain silloin, mikäli hänet nukutetaan leikkauksessa.",
+        "C. Hänellä ei ole velvollisuuksia kertoa kenellekään, koska leikkaus on yksityisasia.",
+        "D. Ei ole velvollisuutta informoida ilmailulääkäriä, mikäli lentäjä ei lennä koneen päällikkönä kuin vasta leikkauksen jälkeen."
+      ],
+      "correctIndex": 0,
+      "explanation": "Part-MED edellyttää, että lupakirjan haltija ottaa ilman kohtuutonta viivytystä yhteyttä ilmailulääkäriin, jos hänelle tehdään kirurginen tai invasiivinen toimenpide. Lupakirjan oikeuksia ei saa käyttää ennen kuin lentokelpoisuus on arvioitu uudelleen.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0041",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 41,
+      "statement": "Kuinka kauan EASA PPL-lupakirja on voimassa?",
+      "options": [
+        "A. 5 vuotta.",
+        "B. 3 vuotta.",
+        "C. Toistaiseksi.",
+        "D. 8 vuotta."
+      ],
+      "correctIndex": 2,
+      "explanation": "EASA Part-FCL: PPL on lupakirjana voimassa toistaiseksi. Sen oikeuksia saa kuitenkin käyttää vain, kun lupakirjan kelpuutukset (esim. SEP) ja lääketieteellinen kelpoisuustodistus ovat voimassa.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0042",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 42,
+      "statement": "Lentokoe luokka-tai tyyppikelpuutusta varten on suoritettava _____ kuluessa lentokoulutuksen aloittamisesta:",
+      "options": [
+        "A. 3 kuukauden",
+        "B. 4 kuukauden",
+        "C. 1 vuoden",
+        "D. 6 kuukauden"
+      ],
+      "correctIndex": 3,
+      "explanation": "Luokka- tai tyyppikelpuutuksen lentokoe on suoritettava 6 kuukauden kuluessa lentokoulutuksen aloittamisesta (FCL.725(c)).",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0043",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 43,
+      "statement": "Hakemus LAPL/PPL-lupakirjaa varten on jätettävä _____ kuluessa teoriakokeiden suorittamisen jälkeen.",
+      "options": [
+        "A. 12 kuukauden",
+        "B. 36 kuukauden",
+        "C. 24 kuukauden",
+        "D. 18 kuukauden"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lupakirjahakemus on tehtävä 24 kuukauden (2 vuoden) kuluessa siitä, kun teoriakokeet on suoritettu hyväksytysti (FCL.025(b)(2)). Muutoin teoriakokeet on tehtävä uudestaan.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0044",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 44,
+      "statement": "EASA-jäsenvaltioissa myönnetty lentolupakirja voidaan konvertoida minkä tahansa muun EASA-jäsenvaltion (uusi jäsenvaltio) lupakirjaksi, mikäli:",
+      "options": [
+        "A. Uudella jäsenvaltiolla ei ole merkittäviä perusteita kieltäytyä konvertoimasta lupakirjaa.",
+        "B. Lupakirjan haltija aikoo aloittaa vähintään kolme kuukautta kestävän opiskelun uudessa jäsenvaltiossa.",
+        "C. Uusi jäsenvaltio on lupakirjan haltijan asuinvaltio tai haltija on aloittanut kokopäivätyön kyseissä valtiossa.",
+        "D. Lupakirjan haltija on asunut uudessa jäsenvaltiossa vähintään 31 päivää."
+      ],
+      "correctIndex": 2,
+      "explanation": "Lupakirjan voi siirtää toiseen EASA-jäsenvaltioon (State of License changing), kun uusi jäsenvaltio on lupakirjan haltijan vakinainen asuinpaikka tai työnantajan sijaintivaltio (ARA.FCL.250).",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0045",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 45,
+      "statement": "EASA PPL(A)/PPL(H)-lupakirjan haltijan on täytettävä kolme ehtoa ennen toimimistaan ilma-aluksen päällikkönä tai perämiehenä. Mikä seuraavista ei ole vaatimuksena näissä tehtävissä toimimiselle?",
+      "options": [
+        "A. Mittarilentokelpuutus.",
+        "B. Luokka-tai tyyppikelpuutus lennettävään ilma-alukseen.",
+        "C. Voimassa oleva lääketieteellinen kelpoisuustodistus.",
+        "D. Lentäminen ei tapahdu korvausta vastaan."
+      ],
+      "correctIndex": 0,
+      "explanation": "PPL(A)/PPL(H):n haltija saa toimia päällikkönä tai perämiehenä, kun (1) on voimassa oleva luokka- tai tyyppikelpuutus, (2) on voimassa oleva lääketieteellinen kelpoisuustodistus ja (3) lentäminen ei tapahdu korvausta vastaan. Mittarilentokelpuutusta EI vaadita.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0046",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 46,
+      "statement": "LAPL/PPL-lupakirjan haltija merkitsee lähtö-ja saapumisajat lokikirjaansa seuraavasti:",
+      "options": [
+        "A. Kellonaika, jolloin ilma-alus omalla voimallaan lähtee liikkeelle ja aika, kun se lennon päätyttyä pysähtyy.",
+        "B. Ensimmäisen lentoonlähdön ja viimeisen laskeutumisen kellonajat.",
+        "C. Kellonaika, jolloin moottori käynnistetään ja kellonaika, jolloin moottori sammutetaan.",
+        "D. Kellonaika, jolloin ilma-alus siirtyy käytössä olevalle kiitotielle ensimmäistä lentoonlähtöä varten ja kellonaika, jolloin se vapauttaa kiitotien viimeisen laskun jälkeen."
+      ],
+      "correctIndex": 0,
+      "explanation": "Lokikirjaan merkitään lähtö- ja saapumisajat ”block-to-block”-aikoina, eli ajanhetki jolloin ilma-alus omalla voimallaan lähtee liikkeelle, ja ajanhetki jolloin se lopullisesti pysähtyy lennon päätyttyä. Sama kuin lentoajan määritelmä.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0047",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 47,
+      "statement": "Mittarilentokelpuutus on voimassa:",
+      "options": [
+        "A. Mittarilentokelpuutus on voimassa, kunhan säännölliset tarkastuslennot suoritetaan viranomaisen määräämien aikojen välein.",
+        "B. 6 kuukautta.",
+        "C. 12 kuukautta.",
+        "D. 18 kuukautta."
+      ],
+      "correctIndex": 2,
+      "explanation": "EASA Part-FCL: mittarilentokelpuutus (IR) on voimassa 12 kuukautta kerrallaan ja vaatii säännöllisiä tarkastuslentoja (proficiency check).",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0048",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 48,
+      "statement": "Jos EASA-FCL:n alaisen lääketieteellisen kelpoisuustodistuksen haltija loukkaantuu tai kärsii lääketieteellisestä tilasta, joka vaikuttaa hänen kykyynsä toimia ohjaamomiehistön jäsenenä:",
+      "options": [
+        "A. Lääketieteellinen kelpoisuustodistus pysyy voimassa.",
+        "B. Lääketieteellisen kelpoisuustodistus mitätöidään 25 päivää loukkaantumisen tai sairastumisen jälkeen, ellei lentäjää ole jälleen todettu lentokelpoiseksi.",
+        "C. Lääketieteellinen kelpoisuustodistus lakkaa olemasta voimassa.",
+        "D. Lääketieteellinen kelpoisuustodistus mitätöidään, jos sairaus tai loukkaantuminen on raportoitu viranomaiselle."
+      ],
+      "correctIndex": 2,
+      "explanation": "Lääketieteellinen kelpoisuustodistus lakkaa olemasta voimassa, jos haltija loukkaantuu tai kärsii sairaudesta, joka vaikuttaa kykyyn toimia ohjaamomiehistön jäsenenä. Voimaan saamiseksi tarvitaan ilmailulääkärin tarkastus.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0049",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 49,
+      "statement": "LAPL/PPL-lupakirjan hakijan on oltava vähintään:",
+      "options": [
+        "A. 17-vuotias.",
+        "B. 15-vuotias.",
+        "C. 18-vuotias.",
+        "D. 16-vuotias."
+      ],
+      "correctIndex": 0,
+      "explanation": "PPL(A)-hakijan vähimmäisikä on 17 vuotta (FCL.100), LAPL(A)-hakijan 17 vuotta. Yksinlennolle voi mennä jo 16-vuotiaana lupakirjan opiskeluvaiheessa.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0050",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 50,
+      "statement": "Milloin lento-oppilaan tulee esittää lääketieteellinen kelpoisuustodistus?",
+      "options": [
+        "A. Ennen teoriatuntien alkamista.",
+        "B. Ennen ensimmäistä yksinlentoaan.",
+        "C. Kokeen suorittamisen yhteydessä.",
+        "D. Ennen käytännön harjoittelun aloittamista."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lento-oppilaan on esitettävä voimassa oleva lääketieteellinen kelpoisuustodistus ennen ensimmäistä yksinlentoaan (FCL.020). Teoriaopetukseen sitä ei vaadita.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0051",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 51,
+      "statement": "Mikä lääketieteellinen kelpoisuustodistus vaaditaan yksityislentäjän lupakirjan hakijalta?",
+      "options": [
+        "A. Luokan 1 tai 2 lääketieteellinen kelpoisuustodistus.",
+        "B. Luokan A tai B lääketieteellinen kelpoisuustodistus.",
+        "C. Vain luokan 1 lääketieteellinen kelpoisuustodistus kelpaa.",
+        "D. Vain luokan 2 lääketieteellinen kelpoisuustodistus kelpaa."
+      ],
+      "correctIndex": 0,
+      "explanation": "PPL-lupakirjan haltijalta vaaditaan vähintään luokan 2 lääketieteellinen todistus. Luokka 1 (ammattilentäjille) kelpaa myös, koska se on tiukempi.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0052",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 52,
+      "statement": "Mikä lääketieteellinen kelpoisuustodistus vaaditaan lento-oppilaalta (PPL)?",
+      "options": [
+        "A. Luokan A tai B lääketieteellinen kelpoisuustodistus.",
+        "B. Luokan 1 tai 2 lääketieteellinen kelpoisuustodistus.",
+        "C. Vain luokan 1 lääketieteellinen kelpoisuustodistus kelpaa.",
+        "D. Vain luokan 2 lääketieteellinen kelpoisuustodistus kelpaa."
+      ],
+      "correctIndex": 1,
+      "explanation": "PPL-lento-oppilaalta vaaditaan vähintään luokka 2 (tai luokka 1) lääketieteellinen todistus. Vain LAPL-koulutuksessa voi käyttää LAPL-lääkäritodistusta.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0053",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 53,
+      "statement": "Kuinka monta tuntia koululentoaikaa lentokoneella pitää oppilaalla vähintään olla PPL-lupakirjaa varten?",
+      "options": [
+        "A. 15 tuntia.",
+        "B. 10 tuntia.",
+        "C. 25 tuntia.",
+        "D. 20 tuntia."
+      ],
+      "correctIndex": 2,
+      "explanation": "PPL(A) vaatii FCL.210.A mukaan vähintään 25 tuntia kaksoisohjauskoulutuslentoa (DUAL) sekä 10 tuntia valvottua yksinlentoa, joista vähintään 5 tuntia matkalentoa.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0054",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 54,
+      "statement": "Kuinka monta tuntia kokonaislentoajasta, joka vaaditaan ennen PPL-lentokokeeseen osallistumista, voidaan suorittaa simulaatiokoulutuslaitteella?",
+      "options": [
+        "A. 5 tuntia.",
+        "B. 7 tuntia.",
+        "C. 15 tuntia.",
+        "D. 10 tuntia."
+      ],
+      "correctIndex": 0,
+      "explanation": "PPL(A): kokonaislentoajasta enintään 5 tuntia voidaan suorittaa hyväksytyllä simulaatio- tai harjoituslaitteella (FNPT/BITD).",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0055",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 55,
+      "statement": "Kuinka pitkä pitää yksinmatkalennon, joka suoritetaan ennen PPL-lentokokeeseen osallistumista, vähintään olla ja kuinka monta laskua pysähtymiseen asti eri kentillä sen pitää sisältää?",
+      "options": [
+        "A. 100 nm ja 2 laskua.",
+        "B. 150 nm ja 2 laskua.",
+        "C. 200 nm ja 4 laskua.",
+        "D. 100 nm ja 4 laskua."
+      ],
+      "correctIndex": 1,
+      "explanation": "PPL(A) yksinmatkalento: vähintään 150 NM ja kaksi täyspysähdyslaskua eri lentopaikoilla kuin lähtöpaikka. LAPL:ssä vaatimus on lyhyempi.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0056",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 56,
+      "statement": "Kuinka pitkä pitää yksinmatkalennon, joka suoritetaan ennen LAPL-lentokokeeseen osallistumista, vähintään olla ja kuinka monta laskua pysähtymiseen asti eri kentillä sen pitää sisältää?",
+      "options": [
+        "A. 80 nm ja 2 laskua.",
+        "B. 80 nm ja 1 lasku.",
+        "C. 100 nm ja 2 laskua.",
+        "D. 150 nm ja 1 lasku."
+      ],
+      "correctIndex": 1,
+      "explanation": "LAPL(A) yksinmatkalento: vähintään 80 NM ja yksi täyspysähdyslasku eri lentopaikalla kuin lähtöpaikka.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0057",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 57,
+      "statement": "Kuinka monta tuntia lentokokemusta ilma-aluksen ohjaajana vähintään vaaditaan yksityislentäjän lupakirjan hakijalta?",
+      "options": [
+        "A. 40 tuntia.",
+        "B. 45 tuntia.",
+        "C. 50 tuntia.",
+        "D. 35 tuntia."
+      ],
+      "correctIndex": 1,
+      "explanation": "PPL(A): vähintään 45 tuntia lentoaikaa, josta 25 h kaksoisohjauskoulutusta ja 10 h yksinlentoa. LAPL(A) vaatii 30 h.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0058",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 58,
+      "statement": "Mitä termi \"yksinlentoaika\" tarkoittaa?",
+      "options": [
+        "A. Koko lentoaikaa, kun lentäjä on yksin ilma-aluksessa.",
+        "B. Lentoaikaa ilma-aluksen päällikkönä.",
+        "C. Lentoaikaa, jona lento-oppilas on yksin ilma-aluksessa.",
+        "D. Koko lentoaikaa, kun lentäjä on yksin ilma-aluksessa ja 50% perämiehen lentoajasta."
+      ],
+      "correctIndex": 2,
+      "explanation": "Yksinlentoaika (solo flight time) on lentoaika, jolloin lento-oppilas on yksin ilma-aluksessa. Lentoaika päällikkönä (PIC) ei välttämättä ole solo, ja päinvastoin opetuksessa solo voidaan kirjata SPIC-sarakkeeseen.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0059",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 59,
+      "statement": "Matkustajia kuljettavan ilma-aluksen päällikön, jolla on LAPL/PPL-lupakirja, on täytynyt suorittaa vähintään kolme lentoonlähtöä ja laskua saman luokan lentokoneella tai jos tyyppikelpuutus vaaditaan, samalla tyypillä, edellisen:",
+      "options": [
+        "A. 3 kalenterikuukauden aikana.",
+        "B. 90 päivän aikana.",
+        "C. 24 kalenterikuukauden aikana.",
+        "D. 12 kalenterikuukauden aikana."
+      ],
+      "correctIndex": 1,
+      "explanation": "Recency: 3 lentoonlähtöä ja laskua viimeisten 90 päivän aikana saman tyypin tai luokan ilma-aluksella, ennen kuin matkustajia saa kuljettaa.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0060",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 60,
+      "statement": "Mikäli aiotaan kuljettaa matkustajia yöllä, tulee ilma-aluksen päälliköllä olla yksi lentoonlähtö ja lasku suoritettuna edellisen 90:n päivän aikana seuraavalla aikavälillä:",
+      "options": [
+        "A. Hämärän päättyessä illalla, kun auringon keskipiste on 6 astetta horisontin alapuolella - ennen hämärän alkamista aamulla, kun auringon keskipiste on 6 astetta horisontin alapuolella.",
+        "B. Tunti auringon laskun jälkeen - Tunti ennen auringon nousua.",
+        "C. Auringon nousu - auringon lasku.",
+        "D. Auringon lasku - auringon nousu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Yöllä matkustajien kuljettamiseen vaaditaan yöllinen recency: 1 T/L 90 päivän sisällä illan civil-twilightin päättymisen ja aamun civil-twilightin alkamisen välillä (auringon keskipiste 6° horisontin alapuolella).",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0061",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 61,
+      "statement": "Lentoaika on kokonaisaika, joka alkaa siitä hetkestä, kun:",
+      "options": [
+        "A. Ilma-alus ensimmäisen kerran lähtee liikkeelle lentoonlähtöä varten, ja päättyy, kun se lennon päätyttyä lopullisesti pysähtyy.",
+        "B. Moottori(t) käynnistetään lentoonlähtöä varten ja päättyy, kun moottori(t) sammutetaan lennon päätyttyä. Moottoroimattomien ilma-aluksien tapauksessa lentoaika alkaa siitä, kun ilma-alus lähteen ensimmäisen kerran liikkeelle ja loppuu, kun ilma-alus lennon päätyttyä lopullisesti pysähtyy.",
+        "C. Ilma-alus lopullisesti pysähtyy lennon päätyttyä.",
+        "D. Ilma-alus on ensimmäisen kerran kokonaan ilmassa ja loppuu, kun ilma-alus on laskeutunut."
+      ],
+      "correctIndex": 0,
+      "explanation": "Lentoaika on ”block-to-block”: aika alkaa kun ilma-alus ensimmäisen kerran lähtee liikkeelle lentoonlähtöä varten, ja päättyy kun se lennon jälkeen lopullisesti pysähtyy. Moottoroimattomilla aluksilla samaa periaatetta.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0062",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 62,
+      "statement": "Lentoaikaa, jona oppilas toimii koululennolla ilma-aluksen päällikön tehtävissä siten, että lennonopettaja ei vaikuta lennon suoritukseen tai ohjaa ilma-alusta, vaan ainoastaan tarkkailee oppilasta ilma-aluksessa, kutsutaan:",
+      "options": [
+        "A. Yksinlentoajaksi.",
+        "B. Lentoajaksi ilma-aluksen päällikkönä (PIC).",
+        "C. Lentoajaksi päällikköoppilaana (SPIC).",
+        "D. Valvotuksi yksinlennoksi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Lentoaika, jonka oppilas lentää lennonopettajan tarkkaillessa muttei vaikuttaessa lennon kulkuun, kirjataan SPIC:nä (Student Pilot-in-Command). Sitä voidaan laskea PIC-aikaa vastaaviin vaatimuksiin.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0063",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 63,
+      "statement": "Minkälaista ilma-alusta ja millä ehdoilla voi PPL-lupakirjan haltija lentää (olettaen, että hänellä on kaikki tarvittavat kelpuutukset voimassa)?",
+      "options": [
+        "A. Kaikkia ilma-aluksia, joiden maksimi lentoonlähtöpaino ei ylitä 1500 kg, eikä lennosta makseta palkkaa eikä korvausta lentäjälle.",
+        "B. Kaikkia ilma-aluksia, mikäli lentäjä ei saa palkkaa eikä korvausta.",
+        "C. Kaikkia yksimoottorisia ilma-aluksia, mikäli lennosta ei makseta palkkaa eikä korvausta.",
+        "D. Kaikkia ilma-aluksia, mikäli lennosta ei makseta palkkaa eikä korvausta."
+      ],
+      "correctIndex": 3,
+      "explanation": "PPL: saa toimia päällikkönä millä tahansa ilma-aluksella, johon hänellä on luokka-/tyyppikelpuutus, kunhan lennosta ei makseta korvausta. Painorajoitusta tai moottorimäärän rajoitusta ei sinänsä ole, kunhan kelpuutukset ovat kunnossa.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0064",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 64,
+      "statement": "Millä ehdoilla voi uusia yksimoottorisen yhden ohjaajan luokkakelpuutuksen koululennolla?",
+      "options": [
+        "A. Jos hakijalla on kelpuutuksen voimassaolon päättymispäivää edeltävien 12 kuukauden aikana 5 tuntia lentoaikaa kyseisellä luokalla, mukaan lukien 5 ilma-aluksen päällikkönä ja suorittanut 5 lentoonlähtöä ja laskua.",
+        "B. Jos hakijalla on kelpuutuksen voimassaolon päättymispäivää edeltävien 12 kuukauden aikana 12 tuntia lentoaikaa kyseisellä luokalla, mukaan lukien 5 ilma-aluksen päällikkönä ja suorittanut 5 lentoonlähtöä ja laskua.",
+        "C. Jos hakijalla on kelpuutuksen voimassaolon päättymispäivää edeltävien 12 kuukauden aikana 10 tuntia lentoaikaa kyseisellä luokalla, mukaan lukien 5 ilma-aluksen päällikkönä ja suorittanut 5 lentoonlähtöä ja laskua.",
+        "D. Jos hakijalla on kelpuutuksen voimassaolon päättymispäivää edeltävien 12 kuukauden aikana 12 tuntia lentoaikaa kyseisellä luokalla, mukaan lukien 6 ilma-aluksen päällikkönä ja suorittanut 12 lentoonlähtöä ja laskua."
+      ],
+      "correctIndex": 3,
+      "explanation": "FCL.740.A: SEP-luokkakelpuutuksen uusiminen koululennolla vaatii edeltävien 12 kk aikana 12 h lentoaikaa luokassa, mukaan lukien 6 h päällikkönä ja 12 lentoonlähtöä ja laskua, sekä 1 h koululentoa hyväksytyn opettajan kanssa.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0065",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 65,
+      "statement": "Kuinka paljon ennen yksimoottorisen yhden ohjaajan luokkakelpuutuksen päättymistä kelpuutuksen voi uusia tarkastuslennolla?",
+      "options": [
+        "A. 3 kuukautta.",
+        "B. 2 kuukautta.",
+        "C. 1 kuukausi.",
+        "D. 15 päivää."
+      ],
+      "correctIndex": 0,
+      "explanation": "Luokka- tai tyyppikelpuutuksen voi uusia tarkastuslennolla 3 kuukauden sisällä ennen kelpuutuksen päättymispäivää, eikä uusi voimassaolo lyhene tästä syystä (uusi 1–2 v lasketaan vanhan päättymispäivästä).",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0066",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 66,
+      "statement": "Jotta LAPL/PPL-lupakirjan haltija voi toimia ilma-aluksen päällikkönä ja kuljettaa matkustajia, hänen tulee olla lentoa edeltävien 90 päivän aikana suorittanut kolme laskeutumista:",
+      "options": [
+        "A. Samalla tyypillä, mutta ei ole tarpeen samalla luokalla.",
+        "B. Samalla luokalla, mutta ei ole tarpeen samalla tyypillä.",
+        "C. Samalla koneella (valmistaja ja malli).",
+        "D. Samalla lentokonetyypillä tai -luokalla."
+      ],
+      "correctIndex": 3,
+      "explanation": "Recency-vaatimus täytetään saman luokan tai tyypin ilma-aluksella: SEP-luokassa esim. eri yksimoottorisilla mäntämoottorimailla. Tyyppikelpuutuksen kone vaatii saman tyypin.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0067",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 67,
+      "statement": "Miten tulee toimia, jos lääketieteellisen kelpoisuustodistuksen haltija joutuu sairaalaan yli 12 tunniksi, hänelle on tehty kirurginen tai invasiivinen toimenpide, aloittanut säännöllisen lääkityksen tai saa ensimmäisen kerran silmälasit?",
+      "options": [
+        "A. Tulee ilmoittaa kaikissa tapauksissa viranomaiselle 21 päivän kuluessa.",
+        "B. Voi lentää, kun itse arvioi kykenevänsä siihen.",
+        "C. Tulee läpäistä tarkastus lääketieteellistä kelpoisuustodistusta varten.",
+        "D. Tulee ottaa ilman tarpeetonta viivytystä yhteys ilmailulääkäriin."
+      ],
+      "correctIndex": 3,
+      "explanation": "MED.A.020: lääketieteellisen kelpoisuustodistuksen haltijan on otettava ilman kohtuutonta viivytystä yhteyttä ilmailulääkäriin esim. yli 12 h sairaalahoidon, leikkauksen, säännöllisen lääkityksen aloittamisen tai uusien silmälasien yhteydessä.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0068",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 68,
+      "statement": "Missä tilanteessa lääketieteellinen kelpoisuustodistus voidaan mitätöidä?",
+      "options": [
+        "A. Mikäli kärsii sairaudesta tai on aiheutunut merkittävä vamma, joka vaikeuttaa kykyä toimia ohjaamomiehistön jäsenenä.",
+        "B. Kirurgisen tai invasiivisen toimenpiteen vuoksi.",
+        "C. Kirurgisen tai invasiivisen toimenpiteen ja raskauden vuoksi.",
+        "D. Kaikki vaihtoehdot ovat oikein."
+      ],
+      "correctIndex": 3,
+      "explanation": "Lääketieteellinen kelpoisuustodistus voidaan mitätöidä, jos lentäjä kärsii vakavasti suorituskykyyn vaikuttavasta sairaudesta tai vammasta, on käynyt läpi kirurgisen toimenpiteen, tai on raskaana – kaikki vaihtoehdot voivat johtaa mitätöintiin.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0069",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 69,
+      "statement": "Kuinka kauan yhden ohjaajan yksimoottoristen lentokoneiden luokkakelpuutus on voimassa?",
+      "options": [
+        "A. 6 kuukautta.",
+        "B. 1 vuoden.",
+        "C. 2 vuotta.",
+        "D. 3 vuotta."
+      ],
+      "correctIndex": 2,
+      "explanation": "FCL.740.A: yhden ohjaajan yksimoottoristen lentokoneiden (SEP) luokkakelpuutus on voimassa 2 vuotta. Helikopterien tyyppikelpuutus on yleensä 1 vuosi.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0070",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 70,
+      "statement": "Kuinka kauan EASA LAPL/PPL-lupakirja on voimassa?",
+      "options": [
+        "A. 2 vuotta.",
+        "B. 3 vuotta.",
+        "C. 5 vuotta.",
+        "D. Sitä ei ole rajoitettu."
+      ],
+      "correctIndex": 3,
+      "explanation": "Part-FCL mukaan PPL ja LAPL ovat voimassa toistaiseksi. Käytännössä lentäjän on huolehdittava, että lääketieteellinen todistus ja kelpuutukset pysyvät voimassa.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0071",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 71,
+      "statement": "Millä ehdo(i)lla lupakirjan oikeuksia saa käyttää (PPL)?",
+      "options": [
+        "A. Riittää, että lääketieteellinen kelpoisuustodistus on voimassa.",
+        "B. Lupakirja itsessään sisältää voimassaoloajan.",
+        "C. Lupakirja on voimassa ikuisesti läpäistyn lentokokeen jälkeen.",
+        "D. Siinä olevat kelpuutukset ja lääketieteellinen kelpoisuus ovat voimassa."
+      ],
+      "correctIndex": 3,
+      "explanation": "PPL-lupakirjan oikeuksia saa käyttää vain, kun lupakirjassa olevat kelpuutukset (luokka/tyyppi) sekä lääketieteellinen kelpoisuus ovat voimassa. Pelkkä lääkäritodistus ei riitä.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0072",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 72,
+      "statement": "Mikä seuraavista vaaditaan osana lennolle valmistautumista, kun poistutaan lentokentän läheisyydestä?",
+      "options": [
+        "A. Vaihtoehtoisen toiminnan suunnittelu sen varalle, että lentoa ei voida suorittaa suunnitellusti.",
+        "B. Kaikkien käytettävien kenttien saapumismenetelmiin tutustuminen.",
+        "C. Varakentän määritys ja merkintä lentosuunnitelmaan.",
+        "D. Kaikkien käytettävien kenttien lähtömenetelmiin tutustuminen."
+      ],
+      "correctIndex": 0,
+      "explanation": "Lentoa valmisteltaessa kentän läheisyydestä poistuvalle lennolle on suunniteltava vaihtoehtoinen toiminta sen varalta, että aiottua lentoa ei voida toteuttaa (sää, polttoaine, varakentät, palautusmenettely jne.).",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0073",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 73,
+      "statement": "Osana muita lennon valmisteluun liittyviä seikkoja, ilmailumääräykset velvoittavat VFR-lennolle:",
+      "options": [
+        "A. Tarkastamaan radionavigointilaitteiden tarkkuus ja ELT:n (Emergency Locator Transmitter) toiminta.",
+        "B. Tarkastaa CVR:n (Cockpit Voice Recorder) toiminta.",
+        "C. Varmistamaan, että käytettävät kiitotiet täyttävät ilma-aluksen käsikirjassa määritellyt vaatimukset (kiitotiepituus sekä lentoonlähtö- ja laskumatkat).",
+        "D. Kertaamaan lennonjohdosta annettavat valomerkit."
+      ],
+      "correctIndex": 2,
+      "explanation": "Ennen lentoa on varmistettava, että käytettävien lentopaikkojen kiitotiepituudet sekä ilma-aluksen lentoonlähtö- ja laskumatkat täyttävät ilma-aluksen käsikirjassa (AFM/POH) määritellyt vaatimukset vallitsevissa olosuhteissa.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0074",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 74,
+      "statement": "Ohjaajien tulee pitää turvavyöt kytkettyinä:",
+      "options": [
+        "A. Lentoonlähdön ja laskun aikana.",
+        "B. Aina vaakalennossa.",
+        "C. Koko lennon ajan.",
+        "D. Turbulenttisissa olosuhteissa."
+      ],
+      "correctIndex": 2,
+      "explanation": "EASA SERA.210(b) ja NCO.OP.135 vaativat, että turvavyöt on pidettävä kytkettyinä koko lennon ajan — ei vain nousun ja laskun aikana. Turvavyön irrottaminen sallitaan vain hetkellisesti suoritusvelvollisuuksien hoitamiseksi, ja olkavöitä on pidettävä kiinni nousun, laskun ja turvallisuussyistä myös muuten. Siksi oikea vastaus on C: Koko lennon ajan.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0075",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 75,
+      "statement": "Mitä tarkoittaa AAL?",
+      "options": [
+        "A. Lentopaikan korkeus.",
+        "B. Kohtauskulman rajoitus.",
+        "C. Kuittaa.",
+        "D. Lentopaikan korkeustason yläpuolella."
+      ],
+      "correctIndex": 3,
+      "explanation": "AAL = Above Aerodrome Level = lentopaikan korkeustason yläpuolella. AGL = above ground level (maan pinnasta), MSL = above mean sea level (merenpinnasta).",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0076",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 76,
+      "statement": "Mikä lentokoneen nopeus pitäisi merkitä matkalentonopeus sarakkeeseen ICAO lentosuunnitelmassa?",
+      "options": [
+        "A. Tosi-ilmanopeus.",
+        "B. Indikoitu ilmanopeus.",
+        "C. Maanopeus.",
+        "D. Kalibroitu ilmanopeus."
+      ],
+      "correctIndex": 0,
+      "explanation": "ICAO-lentosuunnitelman ”Cruising speed” -kenttään merkitään tosi-ilmanopeus (TAS), yleensä yksiköllä N (knots, esim. N0120 = 120 kt) tai K (km/h).",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0077",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 77,
+      "statement": "Mitä täytyy merkitä \"LEVEL\" sarakkeeseen ICAO VFR lentosuunnitelmassa?",
+      "options": [
+        "A. Sana \"VFR\" tai aiottu lentokorkeus.",
+        "B. Jätetään tyhjäksi VFR lennoilla.",
+        "C. Ehdotetut lentokorkeudet.",
+        "D. Ilmaisu \"VFR: variable\"."
+      ],
+      "correctIndex": 0,
+      "explanation": "VFR-lentosuunnitelmassa LEVEL-kenttään merkitään joko aiottu lentokorkeus (esim. F065 = FL65 tai A045 = 4500 ft) tai sana ”VFR”, jos lentokorkeutta ei ole määritelty.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0078",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 78,
+      "statement": "Mitä tarkoittaa WIP?",
+      "options": [
+        "A. Työ kesken.",
+        "B. Luvan kanssa.",
+        "C. Painon nostamismenetelmä.",
+        "D. Voimassa alkaen."
+      ],
+      "correctIndex": 0,
+      "explanation": "WIP = Work In Progress = työ kesken. Termiä käytetään NOTAMissa ja AIP:ssä kentällä käynnissä olevista töistä, jotka voivat vaikuttaa toimintaan.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0079",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 79,
+      "statement": "Lentokone on selvitetty \"säilytä 3000 jalkaa tai alle lähestymisalueella\". Vastuu oikean etäisyyden pitämiseen maastoon nähden on:",
+      "options": [
+        "A. Lennonjohdolla ja päälliköllä.",
+        "B. Vain lennonjohdolla.",
+        "C. Ilmailuviranomaisella.",
+        "D. Päälliköllä."
+      ],
+      "correctIndex": 3,
+      "explanation": "”Maintain at or below 3000 ft”-tyyppisessä selvityksessä lennonjohto ei vastaa maastoetäisyydestä – päällikkö (PIC) on aina vastuussa siitä, että ilma-alus pysyy turvallisesti erossa maastosta ja esteistä.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0080",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 80,
+      "statement": "Lennonjohto voi antaa erityis-VFR selvityksen:",
+      "options": [
+        "A. Vain lennoille, jotka lentävät laskukierrosta lähialueella.",
+        "B. Kaikille lennoille rajoitusalueella.",
+        "C. Lennoille, jotka lentävät lähestymisalueen yläpuolella.",
+        "D. Vain lennoille, jotka liikennöivät lähialueella."
+      ],
+      "correctIndex": 3,
+      "explanation": "Erityis-VFR (SVFR) -selvitys voidaan antaa vain CTR:ssä (lähialueella). Sen tarkoitus on mahdollistaa VFR-lento, kun normaaleja VMC-minimejä ei saavuteta CTR:n sisällä.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0081",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 81,
+      "statement": "Lähialueen pystysuuntaiset rajat ovat:",
+      "options": [
+        "A. Maanpinnasta erikseen määritettyyn korkeuteen.",
+        "B. Maanpinnasta määritettyyn lentopintaan.",
+        "C. Maanpinnasta lähestymisalueen alimpaan korkeuteen.",
+        "D. Maanpinnasta 900 m MSL."
+      ],
+      "correctIndex": 0,
+      "explanation": "CTR (lähialue) ulottuu maan- tai vedenpinnasta erikseen määriteltyyn ylempään rajaan (yleensä lähestymisalueen alarajaan). Aluerajat julkaistaan AIP:ssä.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0082",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 82,
+      "statement": "Rajoiltaan määrätty ilmatilan osa, jossa ilma-alusten lentäminen on aina kielletty:",
+      "options": [
+        "A. Lähestymisalue.",
+        "B. Rajoitusalue.",
+        "C. Kieltoalue.",
+        "D. Lähialue."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kieltoalue (Prohibited Area, P) – ilma-alusten lentäminen on aina kielletty. Rajoitusalue (Restricted, R) – lento rajoitettu ehdoin. Vaara-alue (Danger, D) – tiedotetaan vaarasta, mutta lento ei ole varsinaisesti kielletty.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0083",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 83,
+      "statement": "Mikä on valvotun ilmatilan määritelmä?",
+      "options": [
+        "A. Ilmatila, jossa ei voi saada lennonjohtopalvelua.",
+        "B. Enemmän kuin yhden kiitotien omaavan lentopaikan välittömästi yläpuolella oleva ilmatila.",
+        "C. Tiettyjen ulottuvuuksien omaava ilmatila, jossa ilma-aluksia johdetaan.",
+        "D. Lentopaikan ympärillä oleva ilmatila."
+      ],
+      "correctIndex": 2,
+      "explanation": "Valvottu ilmatila (Controlled Airspace) on tiettyjen ulottuvuuksien omaava ilmatila, jossa lennonjohto antaa ilmaliikennepalvelua (johdetaan). Suomessa luokat C ja D.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0084",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 84,
+      "statement": "Valvottu ilmatila, joka ulottuu maan pinnasta tiettyyn korkeuteen, on:",
+      "options": [
+        "A. Lähestymisalue.",
+        "B. Lentotiedotusalue.",
+        "C. Lähialue.",
+        "D. Lennonjohtoalue."
+      ],
+      "correctIndex": 2,
+      "explanation": "Lähialue (CTR) on valvottu ilmatila, joka ulottuu maan- tai vedenpinnasta tiettyyn yläpuoliseen rajaan. Lähestymisalue (TMA) ja lentotiedotusalue (FIR) eivät tyypillisesti ala maan pinnasta.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0085",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 85,
+      "statement": "Lähestyessään valvomatonta lentokenttää laskua varten G luokan ilmatilassa lentäjän tulisi:",
+      "options": [
+        "A. Lentää vasemmanpuoleista laskukierrosta 800 jalkaa AAL.",
+        "B. Tehdä kaikki kaarrot oikealle, ellei toisin ole ilmoitettu.",
+        "C. Liittyä laskukierrokseen 800 jalassa AAL.",
+        "D. Tehdä kaikki kaarrot vasemmalle, ellei toisin ole ilmoitettu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Valvomattomalla lentopaikalla G-luokassa käytetään yleensä vasenta laskukierrosta korkeudella 800 ft AAL, ellei AIP/lentopaikan käsikirja toisin määrää.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0086",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 86,
+      "statement": "Vähimmäisetäisyys vaakasuorasti pilveen VFR lennolla G-luokan ilmatilassa korkeudella, joka on yli 300 m maastosta tai 900 m MSL (sen mukaan kumpi näistä on korkeampi), on:",
+      "options": [
+        "A. 8000 m",
+        "B. 1500 m",
+        "C. Selvästi erossa pilvestä ja maan tai veden pinta näkyvissä.",
+        "D. 300 m"
+      ],
+      "correctIndex": 1,
+      "explanation": "G-luokassa yli 3000 ft AGL tai 900 m MSL VFR-minimit: vaakaetäisyys pilveen 1500 m, pystysuora 1000 ft, näkyvyys 5 km (alle 100 kt 1500 m). Maapinnan näkyvyysvaatimus pätee vain alemmilla korkeuksilla.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0087",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 87,
+      "statement": "Kukaan ei saa suorittaa lentoonlähtöä tai laskua D-luokan ilmatilassa sijaitsevalla lentokentällä VFR-säännöillä (ei erityis-VFR), ellei:",
+      "options": [
+        "A. Näkyvyys maassa vähintään 3 km.",
+        "B. Näkyvyys maassa ole vähintään 1,5 m.",
+        "C. Näkyvyys maassa ole vähintään 5 km.",
+        "D. Lentonäkyvyys vähintään 1,5 km."
+      ],
+      "correctIndex": 2,
+      "explanation": "D-luokan ilmatilassa VFR (ei SVFR) lentoonlähtö ja lasku vaativat vähintään 5 km maanäkyvyyden. SVFR voidaan antaa pienemmilläkin minimeillä CTR:ssä.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0088",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 88,
+      "statement": "Valitse oikea vaihtoehto. VFR-lento EI saa ilman erityis-VFR-selvitystä lähteä lähialueella lentopaikalta tai laskea sinne, kun kyseisellä lentopaikalla raportoidut sääolosuhteet ovat:",
+      "options": [
+        "A. Pilvikorkeus 450 m ja 8 km näkyvyys maassa.",
+        "B. Pilvikorkeus 500 m ja näkyvyys maassa 5,5 km.",
+        "C. Pilvikorkeus 300 m ja näkyvyys maassa 4 km.",
+        "D. Ei pilviä ja näkyvyys maassa 6 km."
+      ],
+      "correctIndex": 2,
+      "explanation": "VFR-lento ei saa lähteä lähialueelta tai laskeutua sinne ilman SVFR-selvitystä, jos pilvikorkeus on alle 1500 ft (450 m) tai maanäkyvyys alle 5 km. Pilvikorkeus 300 m ja näkyvyys 4 km on alle minimien.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0089",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 89,
+      "statement": "Mitkä ovat sääminimit, jotta lennonjohtaja voi antaa luvan erityis-VFR lennolle lähialueella päiväsaikaan? Lentonäkyvyys tulee olla vähintään:",
+      "options": [
+        "A. 5000 m.",
+        "B. 1500 m.",
+        "C. 800 m.",
+        "D. 1200 m."
+      ],
+      "correctIndex": 1,
+      "explanation": "SVFR-minimi päiväsaikaan lähialueella: lentonäkyvyys vähintään 1500 m, selvästi erossa pilvestä, maan/veden pinta näkyvissä. Helikoptereille minimi voi olla 800 m.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0090",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 90,
+      "statement": "VFR lennolla tulisi käyttää taulukonmukaisia matkalentokorkeuksia, kun lentokorkeus ylittää:",
+      "options": [
+        "A. 2200 ft GND.",
+        "B. 700 ft MSL.",
+        "C. 3000 ft GND.",
+        "D. 3000 ft MSL."
+      ],
+      "correctIndex": 2,
+      "explanation": "Taulukonmukaisia VFR-matkalentokorkeuksia (semicircular) tulee käyttää, kun matkalentokorkeus ylittää 3000 ft maan pinnasta (3000 ft GND/AGL).",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0091",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 91,
+      "statement": "Mikä lentopinta on oikea VFR lennolle, joka lentää yli 3000 ft MSL ja pitää tosisuunnan 170°, kun paikallinen eranto on 20°W?",
+      "options": [
+        "A. FL 55.",
+        "B. FL 65.",
+        "C. FL 30.",
+        "D. FL 40."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tosisuunta 170° ja eranto 20°W antavat magneettiseksi matkalentokurssiksi 190°. VFR-matkalentotasojen taulukossa magneettisella matkalentokurssilla 180–359° käytetään parillisia tuhansia + 500 ft: 4500, 6500, 8500 ft jne. Vaihtoehdoista oikea on FL65.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0092",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 92,
+      "statement": "Millä listatuista ilma-aluksista on aina etuajo-oikeus muihin ilma-aluksiin nähden?",
+      "options": [
+        "A. Hädässä oleva ilma-alus.",
+        "B. Kuumailmapallo.",
+        "C. Loppulähestymistä tekevä ilma-alus.",
+        "D. Helikopteri."
+      ],
+      "correctIndex": 0,
+      "explanation": "SERA: hädässä olevalla ilma-aluksella on aina etuoikeus kaikkiin muihin nähden. Loppulähestymisellä oleva ilma-alus on toiseksi etuoikeutetuin.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0093",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 93,
+      "statement": "Kun kaksi ilma-alusta lähestyy toisiaan vastakkaisista lentosuunnista ja on ilmeistä, että yhteentörmäysvaara on olemassa:",
+      "options": [
+        "A. Raskaampi ilma-alus kaartaa vasemmalle ja kevyempi oikealle.",
+        "B. Molempien tulee kaartaa oikealle.",
+        "C. Raskaampi ilma-alus kaartaa oikealle ja kevyempi vasemmalle.",
+        "D. Molempien tulee kaartaa vasemmalle."
+      ],
+      "correctIndex": 1,
+      "explanation": "Vastakkaisilta lentosuunnilta lähestyttäessä yhteentörmäysvaarassa: molempien on muutettava ohjaussuuntaansa oikealle. Sääntö pätee riippumatta painosta tai tyypistä.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0094",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 94,
+      "statement": "Mitä toimenpiteitä tulee lentäjien tehdä, kun kaksi ilma-alusta on törmäyskurssilla vastakkaisista lentosuunnista?",
+      "options": [
+        "A. Molempien tulee kaartaa vasemmalle.",
+        "B. Molempien tulee kaartaa oikealle.",
+        "C. Molempien tulee tehdä nousukaartoa vasemmalle.",
+        "D. Molempien tulee tehdä nousukaartoa oikealle."
+      ],
+      "correctIndex": 1,
+      "explanation": "Pää vastakkain (head-on) -tilanteessa molemmat ilma-alukset kaartavat oikealle. Kyseessä on SERA:n yhteentörmäyksen estämissääntö.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0095",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 95,
+      "statement": "Kuinka tulee väistää tilanteessa, jossa kaksi ilma-alusta on törmäyskurssilla vastakkaisista lentosuunnista?",
+      "options": [
+        "A. Kummankin ilma-aluksen tulee muuttaa ohjaussuuntaansa vasemmalle.",
+        "B. Kummankin ilma-aluksen tulee muuttaa ohjaussuuntaansa oikealle.",
+        "C. Ei-moottoroidulla ilma-aluksella on etuoikeus, moottoroitu ilma-alus väistää vasemmalle.",
+        "D. Moottoroidulla ilma-aluksella on etuoikeus, ei-moottoroitu ilma-alus väistää oikealle."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sama sääntö: pää vastakkain -tilanteessa kummankin on muutettava ohjaussuuntaansa oikealle (alter course to the right).",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0096",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 96,
+      "statement": "Mitä toimenpiteitä tulee tehdä, kun lentokone tai helikopteri ja purjelentokone ovat törmäyskurssilla vastakkaisista lentosuunnista?",
+      "options": [
+        "A. Purjelentokoneen ohjaaja suorittaa väistön, koska hänen ilma-aluksensa on helpommin ohjattavissa.",
+        "B. Molemmat väistävät oikealle.",
+        "C. Lentokoneen/helikopterin ohjaaja suorittaa väistön.",
+        "D. Lentokoneen/helikopterin ohjaaja suorittaa väistön, koska hänen ilma-aluksensa on helpommin ohjattavissa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Pää vastakkain -sääntö koskee kaikkia ilma-aluksia tyypistä riippumatta, myös purjelentokoneen ja lentokoneen välistä kohtaamista: molemmat oikealle.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0097",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 97,
+      "statement": "Mitä toimenpiteitä purjelentokoneen ohjaaja tekee, jos hän on törmäyskurssilla vastakkain kaksimoottorisen Cessnan kanssa?",
+      "options": [
+        "A. Hänen tulee aukaista lentojarrut, koska lentokoneella on etuoikeus.",
+        "B. Hänen tulisi muuttaa ohjaussuuntaansa vasemmalle antaen etuoikeuden lentokoneelle.",
+        "C. Hänen tulee väistää oikealle.",
+        "D. Hänen tulee säilyttää ohjaussuuntansa ja nopeutensa, koska hänellä on etuoikeus. Lentokone tulee kuitenkin pitää näkyvissä."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kun kaksi ilma-alusta lähestyy toisiaan vastakkaisista tai lähes vastakkaisista suunnista ja yhteentörmäysvaara on olemassa, kummankin on muutettava ohjaussuuntaansa oikealle. Purjelentokoneen etuoikeus moottoroituun nähden ei ohita head-on-tilanteen sääntöä.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0098",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 98,
+      "statement": "Ilma-alus A lentää lennonjohtoselvityksen alaisena VMC olosuhteissa valvotussa ilmatilassa. Ilma-alus B lentää samalla korkeudella risteävällä lentoradalla, mutta ilman lennonjohtoselvitystä. Kummalla ilma-aluksella on etuoikeus?",
+      "options": [
+        "A. Ilma-aluksella B, jos A on sen vasemmalla puolella.",
+        "B. Ilma-aluksella A, jos B on sen oikealla puolella.",
+        "C. Ilma-aluksella B huolimatta siitä, mistä suunnasta A lähestyy.",
+        "D. Ilma-aluksella A huolimatta siitä, mistä suunnasta B lähestyy."
+      ],
+      "correctIndex": 0,
+      "explanation": "Risteävillä lentoradoilla samalla korkeudella oikealla puolella oleva on etuoikeutettu riippumatta ATC-selvityksestä. Vaihtoehto A: ”B:llä on etuoikeus jos A on B:n vasemmalla” – eli A on B:n vasemmalla, B näkee A:n vasemmalla → A:n oikealla on B → A väistää.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0099",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 99,
+      "statement": "Minkä ilma-aluksen tulee väistää, kun kaksi ilma-alusta lähestyy toisiaan leikkaavista suunnista samalla korkeudella?",
+      "options": [
+        "A. Suuremman ilma-aluksen.",
+        "B. Sen lentokoneen, jolla on toinen ilma-alus oikealla puolellaan.",
+        "C. Oikealla olevan ilma-aluksen.",
+        "D. Ultrakevyen ilma-aluksen."
+      ],
+      "correctIndex": 1,
+      "explanation": "Risteävillä lentoradoilla samalla korkeudella se ilma-alus, jolla on toinen oikealla puolellaan, on velvollinen väistämään. Toiselle ilma-alukselle annetaan etuoikeus.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0100",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 100,
+      "statement": "Ilma-alus ja lentokone, joka hinaa purjelentokonetta, ovat leikkaavilla lentoradoilla. Jos purjekonetta hinaava lentokone on toisen ilma-aluksen vasemmalla puolella, kummalla on etuoikeus?",
+      "options": [
+        "A. Hinauskoneella.",
+        "B. Molemmilla ilma-aluksilla.",
+        "C. Riippuu ilma-alusten magneettisesta ohjaussuunnasta.",
+        "D. Ilma-aluksella, joka ei hinaa purjekonetta."
+      ],
+      "correctIndex": 0,
+      "explanation": "SERA-prioriteetit risteyksessä: hinaava lentokone on etuoikeutettu pelkkää lentokonetta vastaan. Hinauskoneella on etuoikeus.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0101",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 101,
+      "statement": "Mikä seuraavista väittämistä on oikein koskien ilmaa raskaampien ilma-alusten etuoikeutta laskun aikana?",
+      "options": [
+        "A. Ilma-alus, joka suorittaa laskeutumista tai se, joka on ollut laskukierroksessa ensimmäisenä, on etuoikeus muuhun liikenteeseen nähden.",
+        "B. Korkeammalla olevalla ilma-aluksella on etuoikeus muuhun liikenteeseen, paitsi potkuriturbiinisiin ilma-aluksiin, joilla on aina etuoikeus muihin potkurikoneisiin nähden.",
+        "C. Korkeammalla olevalla ilma-aluksella on etuoikeus muuhun liikenteeseen, paitsi suihkumoottorisiin ilma-aluksiin, joilla on aina etuoikeus potkurikoneisiin nähden.",
+        "D. Korkeammalla lentävä ilma-alus antaa tietä matalammalla olevalle ilma-alukselle, mutta matalammalla lentävä ilma-alus ei saa lentää ylempänä olevan eteen tai ohittaa sitä, jos ylempänä oleva ilma-alus suorittaa laskua."
+      ],
+      "correctIndex": 3,
+      "explanation": "Laskussa korkeammalla oleva antaa tietä matalammalle, mutta matalampi ei saa hyödyntää sääntöä leikatakseen toisen edestä loppulähestymisellä eikä ohittaakseen sitä, jos tämä on jo laskussa.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0102",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 102,
+      "statement": "Kun ohitat toisen ilma-aluksen ilmassa, sinun tulisi:",
+      "options": [
+        "A. Ohittaa ylä-tai alapuolelta.",
+        "B. Ohittaa alapuolelta.",
+        "C. Ohittaa vasemmalta.",
+        "D. Ohittaa oikealta."
+      ],
+      "correctIndex": 3,
+      "explanation": "Ohitusta tehtäessä on aina ohitettava oikealta puolelta. Ohittavan on säilytettävä riittävä porrastus eikä saa lentää toisen eteen ennen täyttä ohitusetäisyyttä.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0103",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 103,
+      "statement": "Mikä seuraavista vaihtoehdoista on oikein, kun puhutaan yölennoista Suomessa?",
+      "options": [
+        "A. Iltahämärän päättymisen ja aamuhämärän alkamisen välillä lennetty lento.",
+        "B. Lento, joka on suoritettu aikavälillä: 30 minuuttia ennen auringon laskua ja 30 minuuttia auringon nousun jälkeen.",
+        "C. Lento, joka on suoritettu aikavälillä: 60 minuuttia ennen auringon laskua ja 60 minuuttia auringon nousun jälkeen.",
+        "D. Lento, joka on suoritettu aikavälillä: 30 minuuttia auringon laskun jälkeen ja 30 minuuttia ennen auringon nousua."
+      ],
+      "correctIndex": 0,
+      "explanation": "Yö Suomessa on iltahämärän päättymisen ja aamuhämärän alkamisen välinen aika (auringon keskipiste 6° horisontin alapuolella – civil twilight).",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0104",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 104,
+      "statement": "Suomen maatunnus ilma-aluksissa on:",
+      "options": [
+        "A. Suomen lippu.",
+        "B. Sattumanvaraisesti valitun neljän numeron sarja.",
+        "C. Tunnus OH.",
+        "D. Tunnus, joka koostuu viidestä eri merkistä."
+      ],
+      "correctIndex": 2,
+      "explanation": "Suomeen rekisteröidyn ilma-aluksen kansallisuustunnus on OH (esim. OH-ABC). Tunnus muodostuu kansallisuusosasta (OH) ja yksilöivästä rekisteritunnuksesta.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0105",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 105,
+      "statement": "Lennonjohtoselvitys tarkoittaa:",
+      "options": [
+        "A. Riittävä porrastus muusta liikenteestä.",
+        "B. Lupa lentää valvotussa ilmatilassa tietyin lennonjohtajan edellyttämien ohjeiden mukaisesti.",
+        "C. Etuoikeutus muuhun liikenteeseen nähden.",
+        "D. Riittävä porrastus VFR -liikenteestä"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lennonjohtoselvitys (ATC clearance) on lupa toimia lennonjohtajan edellyttämin ehdoin. Selvitys ei takaa porrastusta VFR-liikenteestä eikä vapauta päällikköä turvallisuusvastuusta.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0106",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 106,
+      "statement": "Mitkä ovat oikeat toimenpiteet, jos lentäjä saa lennonjohtoselvityksen, joka poikkeaa lentosäännöistä?",
+      "options": [
+        "A. Hyväksyä selvitys, koska lentäjä ei ole vastuussa rikkomuksesta.",
+        "B. Kieltäytyä lennonjohtoselvityksestä ja pyytää sen muuttamista.",
+        "C. Hyväksyä selvitys ja kertoa lennonjohdolle, että selvitys on sääntöjen vastainen.",
+        "D. Hyväksyä selvitys ja kertoa lennonjohdolle kun rikkomus tapahtuu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Jos lennonjohtoselvitys ei ole tyydyttävä päällikön mielestä (esim. johtaa rikkomukseen tai vaarantaa turvallisuuden), hän voi pyytää muutettua selvitystä eikä saa hyväksyä sääntöjenvastaista selvitystä sellaisenaan.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0107",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 107,
+      "statement": "Jos lentäjän on poikettava lennonjohtoselvityksestä ennakoimattomien tilanteiden vuoksi, hänen täytyy:",
+      "options": [
+        "A. Tehdä ilmoitus lennonjohdolle tekemästään poikkeavasta toiminnasta.",
+        "B. Tehdä ilmoitus asianomaiselle lennonjohtoelimelle välittömästi ja hankkia uusi, muutettu selvitys.",
+        "C. Informoida kaikkia yhteydessä olevia lennonjohtoelimiä lähettämällä kaikkiin viesti.",
+        "D. Tehdä ilmoitus AIS -palveluun."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ennakoimattomissa tilanteissa, joissa päällikkö joutuu poikkeamaan ATC-selvityksestä, on poikkeamasta ilmoitettava asianomaiselle lennonjohdolle viipymättä ja hankittava tarvittaessa uusi/muutettu selvitys.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0108",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 108,
+      "statement": "Sotilaskoneen tunnistaessa VFR lentoa, lentäjän tulee:",
+      "options": [
+        "A. Vaihtaa transponderiin koodi 7700.",
+        "B. Osoittaa tunnistavalle koneelle, että on huomannut annetut visuaaliset merkit.",
+        "C. Yrittää saada radioyhteys tunnistavaan koneeseen taajuudella 121.500 MHz ja totella sen käskyjä.",
+        "D. Kaikki vastaukset ovat oikein."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sotilaskoneen tunnistaessa siviili-ilma-alusta lentäjän on (a) seurattava sotilaskoneen visuaalisia merkkejä, (b) yritettävä radioyhteys (mm. 121,5 MHz) ja (c) asetettava transponderiin 7700 hätätilanteessa – kaikki vaihtoehdot ovat oikein.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0109",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 109,
+      "statement": "Kesken matkalennon huomaat, että sotilaskone lähestyy vasenta siivenkärkeäsi kohti ja lentää vierelläsi; hetken päästä kone lähtee voimakkaaseen vasemmanpuoleiseen nousukaartoon. Mitä tämä tarkoittaa?",
+      "options": [
+        "A. Laskeudu lentopaikalle, joka on sen hetkisessä lentosuunnassa!",
+        "B. Saat jatkaa matkaasi!",
+        "C. Sinut on tunnistettu, seuraa konetta!",
+        "D. Lähde kielletyltä alueelta välittömästi!"
+      ],
+      "correctIndex": 1,
+      "explanation": "ICAO Annex 2: tunnistuksen jälkeen sotilaskoneen tekemä loiva (tai voimakas) vasemmanpuoleinen nousukaarto, joka vie sen pois lähistöstä, tarkoittaa ”olette tunnistettu, saatte jatkaa matkaanne”.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0110",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 110,
+      "statement": "Mitä tarkoittaa valkoinen kaksoisristi, joka on asetettu vaakasuoraan",
+      "options": [
+        "A. \"Laskeutuminen kielletty.\"",
+        "B. \"Purjelentotoiminta käynnissä.\"",
+        "C. \"Selvä laskuun.\"",
+        "D. \"Suljetut kiito-ja rullaustiet.\""
+      ],
+      "correctIndex": 1,
+      "explanation": "Kaksinkertainen valkoinen risti merkinantoalueella tarkoittaa, että lentopaikalla on käynnissä purjelentotoimintaa. Suljetut kiitotiet ja rullaustiet merkitään eri tavalla (mm. yksittäisellä keltaisella tai valkoisella ristillä kiitotien päällä).",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0111",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 111,
+      "statement": "Mikä lääketieteellinen kelpoisuustodistus vaaditaan lento-oppilaalta (LAPL)?",
+      "options": [
+        "A. Vain luokan 1 lääketieteellinen kelpoisuustodistus kelpaa.",
+        "B. Luokan 1, 2 tai LAPL lääketieteellinen kelpoisuustodistus.",
+        "C. Vain luokan LAPL lääketieteellinen kelpoisuustodistus kelpaa.",
+        "D. Luokan A tai B lääketieteellinen kelpoisuustodistus."
+      ],
+      "correctIndex": 1,
+      "explanation": "LAPL-lento-oppilas voi käyttää LAPL-, luokka 1- tai luokka 2 -lääketieteellistä todistusta. PPL-oppilaalta vaaditaan vähintään luokka 2.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0112",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 112,
+      "statement": "Mikä seuraavista väittämistä on epätosi: Mikäli sinä aikana, joka alkaa kun ensimmäinen henkilö astuu ilma-alukseen ja päättyy, kun kaikki henkilöt ovat poistuneet ilma-aluksesta, tapahtuu jokin seuraavista tapahtumista, on onnettomuusilmoitus laadittava.",
+      "options": [
+        "A. Matkustaja menehtyy luonnollisen syyn seurauksena.",
+        "B. Ilma-aluksen paikka ei ole tiedossa tai se on varmuudella kadonnut.",
+        "C. Ilma-alus vaurioituu tai kärsii rakenteellisista vaurioista.",
+        "D. Mikäli joku menehtyy tai vakavasti loukkaantuu ollessaan ilma-aluksessa."
+      ],
+      "correctIndex": 0,
+      "explanation": "ICAO Annex 13 mukaan onnettomuudeksi (accident) ei lasketa luonnollisista syistä johtuvaa kuolemaa. Muut vaihtoehdot (henkilön kuolema/vakava loukkaantuminen lentotoiminnan aikana, ilma-aluksen häviäminen tai vakava vaurio) ovat onnettomuuksia.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0113",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 113,
+      "statement": "Mikä seuraavista tapahtumista luokitellaan lento-onnettomuudeksi?",
+      "options": [
+        "A. Rengasrikko nokka-tai päätelineessä lentoonlähdon tai laskun yhteydessä.",
+        "B. Sivullinen henkilö saa vammoja ilma-aluksesta lennon aikana irronneesta osasta, joka ei vaikuta ilma-aluksen lentokykyyn.",
+        "C. Moottorihäiriö lennolla.",
+        "D. Salama iskee ilma-alukseen lennon aikana."
+      ],
+      "correctIndex": 1,
+      "explanation": "Annex 13: lento-onnettomuus on tilanne, jossa kuka tahansa kuolee tai loukkaantuu vakavasti johtuen ilma-aluksesta tai siitä irronneesta osasta. Sivullisen vammautuminen irronneesta osasta on onnettomuus.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0114",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 114,
+      "statement": "Mikä seuraavista ei ole etsintä-ja pelastuspalvelun vaihe?",
+      "options": [
+        "A. Hälytystilanne",
+        "B. Pakkotilanne",
+        "C. Hätätilanne",
+        "D. Epävarmuustilanne"
+      ],
+      "correctIndex": 1,
+      "explanation": "ICAO etsintä- ja pelastuspalvelun (SAR) vaiheet ovat: 1) Epävarmuustilanne (INCERFA), 2) Hälytystilanne (ALERFA) ja 3) Hätätilanne (DETRESFA). ”Pakkotilanne” ei ole virallinen vaihe.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0115",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 115,
+      "statement": "Onnettomuudesta selvinnyt henkilö on tehnyt maahan suuren ristin, jonka sakarat ovat 90° kulmassa toisiinsa nähden. Mitä tämä merkki tarkoittaa?",
+      "options": [
+        "A. Kaikki selvinneet onnettomuudesta vammoitta",
+        "B. Tarvitaan lääkinnällistä apua",
+        "C. Merkki osoittaa selviytyjän sijaintia",
+        "D. Tarvitaan apua"
+      ],
+      "correctIndex": 1,
+      "explanation": "Maamerkkien hätäkoodit: V = tarvitaan apua, X = tarvitaan lääkintäapua, N = ei, Y = kyllä. Iso suora risti (+) tarkoittaa lääkintäavun tarvetta.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0116",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 116,
+      "statement": "Suoritettaessa lentoonlähtö lentopaikalta, jonka ilmanpaineasetusta ei ole saatavilla virallisesta lähteestä, tulee lentäjän asettaa korkeusmittarinsa näyttämään:",
+      "options": [
+        "A. Lentopaikan korkeutta merenpinnasta.",
+        "B. Lähimmän valvotun lentopaikan painearvoa.",
+        "C. 1013.2 hpa.",
+        "D. Nollatasoa maanpinnasta."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jos virallista QNH:ta ei ole saatavilla, korkeusmittari asetetaan maassa näyttämään lentopaikan korkeutta merenpinnasta (kentän elevation). Tällöin asetus likimain vastaa QNH:ta.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0117",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 117,
+      "statement": "Milloin korkeusmittarin ilmanpainearvo tulisi asettaa oikeaksi?",
+      "options": [
+        "A. Vuosittain",
+        "B. Ennen jokaista lentoa sekä lennon aikana, mikäli tarpeellista.",
+        "C. Joka aamu ennen ensimmäistä lentoa.",
+        "D. Kuukausittain"
+      ],
+      "correctIndex": 1,
+      "explanation": "Korkeusmittarin asetus tarkistetaan ja päivitetään ennen jokaista lentoa ja lennon aikana tarvittaessa (siirtyminen aluepainealueesta toiseen, QNH muuttuu, jne.).",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0118",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 118,
+      "statement": "Korkeusmittarin tarkkuus tarkistetaan:",
+      "options": [
+        "A. Suorittamalla matalalähestyminen lennonjohtotornin ohi ennalta tiedetyllä korkeudella.",
+        "B. Asettamalla oikea QNH arvo mittariin ja vertaamalla sitä lentopaikan korkeustasoon merenpinnasta.",
+        "C. Vertaamalla mittarinäyttämiä 1:500 000 VFR-ilmailukartan näyttämiin korkeuksiin.",
+        "D. Vertaamalla korkeusmittarin ja radiokorkeusmittarin näyttämiä toisiinsa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Korkeusmittarin tarkkuus tarkistetaan asettamalla nykyinen QNH ja vertaamalla mittarin näyttöä kentän tunnettuun MSL-korkeustasoon. Tolerance ±60 ft VFR-toimintaa varten.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0119",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 119,
+      "statement": "Matkustamon painekorkeuden ollessa yli 10 000 jalkaa ja maksimissaan 13 000 jalkaa MSL kaikkien miehistön jäsenten tulee käyttää lisähappea:",
+      "options": [
+        "A. 30 minuuttia ylittävällä ajalla mainituilla korkeuksilla.",
+        "B. Kymmenen minuuttia ylittävällä ajalla mainituilla korkeuksilla.",
+        "C. Koko ajan mainituilla lentokorkeuksilla.",
+        "D. Päällikön harkinnan mukaan."
+      ],
+      "correctIndex": 0,
+      "explanation": "Part-CAT/SERA: matkustamon painekorkeuden ollessa 10 000–13 000 ft kaikkien miehistön jäsenten on käytettävä lisähappea, jos oleskelu kyseisellä korkeudella ylittää 30 minuuttia.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0120",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 120,
+      "statement": "Lähestyttäessä odotuspaikkamerkintää yhtenäisten viivojen puolelta:",
+      "options": [
+        "A. Merkintää ei tule ylittää ilman lennonjohdon selvitystä.",
+        "B. Ennen viivoja ei tule pysähtyä ilman lennonjohdon selvitystä.",
+        "C. Rullausta tulisi jatkaa, kunnes kaikki lentokoneen osat ovat ylittäneet merkinnän.",
+        "D. Rullausta voi jatkaa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kiitotien odotuspaikkamerkintä yhtenäisten viivojen puolelta lähestyttäessä = ei saa ylittää ilman lennonjohdon erityistä selvitystä (Line up tai cleared to cross).",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0121",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 121,
+      "statement": "Mikä on kiitotie/kiitotie -odotuspaikkakyltin tarkoitus?",
+      "options": [
+        "A. Ilmoittaa, mistä pääsee asematasolta kiitotielle",
+        "B. Ilmoittaa, mistä pääsee rullaustieltä kiitotielle.",
+        "C. Ilmaista lähestyvän tai lähtevän ilma-aluksen suoja-aluetta.",
+        "D. Ilmoittaa risteävistä kiitoteistä."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kiitotie/kiitotie-odotuspaikkakyltti (runway/runway holding position sign) ilmaisee risteävien kiitoteiden odotuspaikan. Käytetään, kun kiitotiet leikkaavat tai kun toinen kiitotie kuuluu toisen suoja-alueeseen.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0122",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 122,
+      "statement": "Lentokentän rullaustien reunavalot ovat:",
+      "options": [
+        "A. Suunnatut valkoiset valot.",
+        "B. Ympärisäteilevät siniset valot.",
+        "C. Suunnatut keltaiset valot.",
+        "D. Vuorottelevat punaiset ja vihreät valot."
+      ],
+      "correctIndex": 1,
+      "explanation": "Rullaustien reunavalot ovat ympärisäteileviä sinisiä valoja. Keskilinjavalot puolestaan ovat suunnattuja vihreitä.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0123",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 123,
+      "statement": "Mikä seuraavista kuvaa kynnysvaloja?",
+      "options": [
+        "A. Suunnattu punainen",
+        "B. Ympärisäteilevä punainen.",
+        "C. Suunnattu vihreä",
+        "D. Ympärisäteilevä vihreä"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kiitotien kynnysvalot (threshold lights) ovat suunnattuja vihreitä valoja, jotka näkyvät lähestyvälle ohjaajalle. Kiitotien päästä taas näkyy punaiset päätevalot.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0124",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 124,
+      "statement": "Kiinteiden kohteiden matalatehoiset lentoestevalot ovat:",
+      "options": [
+        "A. Vilkkuvat punaiset valot.",
+        "B. Kiinteät punaiset valot.",
+        "C. Kiinteät oranssit valot.",
+        "D. Vilkkuvat keltaiset valot."
+      ],
+      "correctIndex": 1,
+      "explanation": "Matalatehoiset (Low intensity) lentoestevalot kiinteissä kohteissa ovat kiinteitä punaisia valoja. Korkeammilla esteillä käytetään välkkyviä keskitehoisia tai suuritehoisia valkoisia valoja.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0125",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 125,
+      "statement": "VFR-lähestymiset laskua varten tulisi suorittaa yöllä:",
+      "options": [
+        "A. Suuremmalla maanopeudella.",
+        "B. Suuremmalla ilmanopeudella.",
+        "C. Samalla tavalla kuin päivällä.",
+        "D. Jyrkemmällä liu'ulla."
+      ],
+      "correctIndex": 2,
+      "explanation": "Yöllä VFR-lähestyminen suoritetaan periaatteessa samalla tavalla kuin päivällä – samalla nopeudella ja liu’ulla. Yöllä on kuitenkin oltava varovainen näköharhoista (mustat aukot, kallistunut horisontti).",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0126",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 126,
+      "statement": "Hyödyntäessään liukukulmavalojärjestelmää (PAPI) kiitotietä lähestyttäessä lentäjän tulee:",
+      "options": [
+        "A. Pitää 4 punaista valoa näkyvissä lähestymisen ajan.",
+        "B. Pysyä liukupolulla tai sen yläpuolella.",
+        "C. Pysyä liukupolun alapuolella.",
+        "D. Pysyä korkealla kunnes kiitotielle pääsee tyhjäkäyntiliu'ulla."
+      ],
+      "correctIndex": 1,
+      "explanation": "PAPI-järjestelmää hyödynnettäessä on tärkeintä pysyä liukupolulla tai sen yläpuolella, ei koskaan alapuolella, jotta vältetään törmäys esteisiin tai maahan ennen kynnystä.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0127",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 127,
+      "statement": "Hieman liukupolun yläpuolella oleminen näkyy liukukulmavalojärjestelmässä (PAPI):",
+      "options": [
+        "A. Kolmena valkoisen ja yhtenä punaisena valona.",
+        "B. Neljänä valkoisena valona.",
+        "C. Neljänä punaisena valona.",
+        "D. Kahtena valkoisena ja kahtena punaisena valona."
+      ],
+      "correctIndex": 0,
+      "explanation": "PAPI: 4 valoa rivissä. Hieman liukupolun yläpuolella = 3 valkoista + 1 punainen (sisin valo on punainen, kolme uloimman puoleista valkoista).",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0128",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 128,
+      "statement": "Liukukulmavalojärjestelmässä (PAPI) liukupolun alapuolella oleminen näkyy:",
+      "options": [
+        "A. Neljänä punaisena valona ja yhtenä valkoisena valona",
+        "B. Kahtena punaisena ja kahtena valkoisena valona.",
+        "C. Neljänä punaisena valona.",
+        "D. Kolmena punaisena ja kahtena valkoisena valona."
+      ],
+      "correctIndex": 2,
+      "explanation": "PAPI alapuolella liukupolkua: 4 punaista valoa = ”selvästi alle”. Hieman alapuolella olisi 3 punaista + 1 valkoinen. Tämä on vaarallinen lähestyminen.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0129",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 129,
+      "statement": "Liukukulmavalojärjestelmässä (PAPI) liukupolun yläpuolella oleminen näkyy:",
+      "options": [
+        "A. Neljänä valkoisena valona.",
+        "B. Kahtena valkoisena ja kahtena punaisena valona.",
+        "C. Kolmena valkoisena ja kahtena punaisena valona.",
+        "D. Neljänä punaisena valona."
+      ],
+      "correctIndex": 0,
+      "explanation": "PAPI yläpuolella liukupolkua: 4 valkoista valoa = ”selvästi yläpuolella”. Hieman yläpuolella olisi 3 valkoista + 1 punainen.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0130",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 130,
+      "statement": "Liukukulmavalojärjestelmässä (PAPI) liukupolun keskellä oleminen näkyy:",
+      "options": [
+        "A. Neljänä valkoisena valona.",
+        "B. Kahtena valkoisena ja kahtena punaisena valona.",
+        "C. Kolmena valkoisena ja yhtena punaisena valona.",
+        "D. Neljänä punaisena valona."
+      ],
+      "correctIndex": 1,
+      "explanation": "PAPI liukupolulla (on glide): 2 valkoista (uloimmat) + 2 punaista (sisimmät) – tavoitetilanne lähestymisellä.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0131",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 131,
+      "statement": "Lähestymiskulmajärjestelmässä (PAPI) hieman liukupolun alla oleminen näkyy:",
+      "options": [
+        "A. Kolmena valkoisena ja yhtenä punaisena valona.",
+        "B. Kolmena punaisena ja yhtenä valkoisena valona.",
+        "C. Kolmena punaisena valona.",
+        "D. Kolmena valkoisena valona."
+      ],
+      "correctIndex": 1,
+      "explanation": "PAPI hieman liukupolun alapuolella = 3 punaista + 1 valkoinen valo (sisin valkoinen, kolme uloimman puolen punaisia). Jos kaikki neljä valoa ovat punaisia, kone on selvästi liukupolun alapuolella.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0132",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 132,
+      "statement": "Kuvan A lentokone on (katso LAPL/PPL 010-03):",
+      "options": [
+        "A. Liukupolun yläpuolella.",
+        "B. Liukupolun alapuolella.",
+        "C. Liu'un sivussa oikealla.",
+        "D. Liukupolun keskellä."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kuvassa A on neljä punaista PAPI-valoa, mikä tarkoittaa että lentokone on liukupolun alapuolella (too low).",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0133",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 133,
+      "statement": "Kuvan C lentokone on (katso LAPL/PPL 010-03):",
+      "options": [
+        "A. Liukupolun alapuolella.",
+        "B. Liukupolun keskellä.",
+        "C. Liukupolun yläpuolella.",
+        "D. Liu'un sivussa vasemmalla."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kuvassa C on neljä valkoista PAPI-valoa, mikä tarkoittaa että lentokone on liukupolun yläpuolella (too high).",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0134",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 134,
+      "statement": "Kuvan B lentokone on (katso LAPL/PPL 010-03):",
+      "options": [
+        "A. Liukupolun keskellä.",
+        "B. Liukupolun yläpuolella.",
+        "C. Liukupolun alapuolella.",
+        "D. Liu'un sivussa vasemmalla."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kuvassa B on kaksi valkoista ja kaksi punaista PAPI-valoa, mikä tarkoittaa että lentokone on liukupolun keskellä (on glide path).",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0135",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 135,
+      "statement": "Huomaat valvotulla lentopaikalla yhden oven yläpuolella keltaisen neliönmuotoisen laatan, jossa on musta C-kirjain (kuva C, LAPL/PPL 010-04). Mitä se tarkoittaa?",
+      "options": [
+        "A. Yksityisten ilma-alusten miehistön uloskäyntiä.",
+        "B. Henkilökunnan uloskäyntiä.",
+        "C. Tullitoimistoa.",
+        "D. Ilmaliikennepalvelutoimistoa."
+      ],
+      "correctIndex": 3,
+      "explanation": "ICAO Annex 14: keltainen neliö, jossa musta C-kirjain, osoittaa ilmaliikennepalvelujen ilmoittautumistoimiston (ATS Reporting Office, ARO) sijainnin lentopaikalla.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0136",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 136,
+      "statement": "Punainen neliö, jossa on yksi keltainen vinojuova (kuva B, LAPL/PPL 010-04) lentopaikan merkinantoalueella tarkoittaa:",
+      "options": [
+        "A. Purjelentotoimintaa.",
+        "B. Älä laskeudu.",
+        "C. Helikopteritoimintaa.",
+        "D. Noudata erityistä varovaisuutta laskussa liikennealueen huonon kunnon vuoksi."
+      ],
+      "correctIndex": 3,
+      "explanation": "ICAO Annex 14: punainen neliö, jossa yksi keltainen vinojuova, tarkoittaa että liikennealueen tila on huono ja lähestyttäessä laskua varten on noudatettava erityistä varovaisuutta.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0137",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 137,
+      "statement": "Mitä tarkoittaa, jos lentopaikan merkinantopaikalla on vaakasuoraan asetettu punainen neliö, jossa on keltainen vinoristi (kuva A, LAPL/PPL 010-04)?",
+      "options": [
+        "A. Alue ei sovellu ilma-alusten liikkumiseen.",
+        "B. Laskeutuminen kielletty.",
+        "C. Erityistä varovaisuutta on noudatettava lähestyttäessä laskua varten tai laskeuduttaessa.",
+        "D. Ilma-alusten tulee käyttää vain kiito- ja rullausteitä laskeutumiseen, lentoonlähtöön ja rullaamiseen."
+      ],
+      "correctIndex": 1,
+      "explanation": "ICAO Annex 14: punainen neliö, jossa keltainen vinoristi, merkinantopaikalla tarkoittaa että laskeutuminen on kielletty ja kielto saattaa olla pitkäaikainen.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0138",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 138,
+      "statement": "Vaakasuoraan asetettu valkoinen risti (kuva G, PPL(A) 010-04) rullaustien alussa tarkoittaa:",
+      "options": [
+        "A. Rullaustietä ei voi käyttää.",
+        "B. Varoitus, lähestyt kiitotien risteystä.",
+        "C. Helikopterin laskeutumisaluetta.",
+        "D. Varoitus, lähestyt rullausteiden risteystä."
+      ],
+      "correctIndex": 0,
+      "explanation": "Valkoinen risti rullaustien tai kiitotien päällä tarkoittaa että kyseinen alue on suljettu eikä sitä saa käyttää.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0139",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 139,
+      "statement": "Valkoinen kaksoisristi (kuva H, LAPL/PPL 010-04) lentopaikan merkinantopaikalla tarkoittaa:",
+      "options": [
+        "A. Noudata erityistä varovaisuutta lähestymisen ja laskun aikana.",
+        "B. Rullaaminen sallittu kiito- ja rullausteiden ulkopuolella.",
+        "C. Laskeutuminen kielletty, lentopaikka vaarallinen.",
+        "D. Purjelentotoimintaa."
+      ],
+      "correctIndex": 3,
+      "explanation": "ICAO Annex 14: valkoinen kaksoisristi merkinantopaikalla tarkoittaa, että lentopaikalla on käynnissä purjelentotoimintaa.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0140",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 140,
+      "statement": "Valkoinen käsipunnuksen muotoinen merkki (kuva D, LAPL/PPL 010-04) lentopaikan merkinantopaikalla tarkoittaa:",
+      "options": [
+        "A. Lentoonlähtö ja laskeutuminen sallittu ainoastaan kiitotiellä, rullaamisen ja muun liikehtimisen voi suorittaa kiito- ja rullausteiden ulkopuolella.",
+        "B. Laskussa, lentoonlähdössä ja rullauksessa käytettävä vain kiito- ja rullausteitä.",
+        "C. Laskeutuminen vain päällystetylle alueelle.",
+        "D. Älä laskeudu."
+      ],
+      "correctIndex": 1,
+      "explanation": "ICAO Annex 14: valkoinen käsipunnus (dumbbell) ilman juovia tarkoittaa, että ilma-aluksen on käytettävä vain kiitoteitä ja rullausteitä laskeutumiseen, lentoonlähtöön ja rullaamiseen.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0141",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 141,
+      "statement": "Lentopaikan merkinantopaikalla oleva valkoinen käsipunnuksen muotoinen merkki, jonka kummassakin ympyränmuotoisessa osassa on musta juova kohtisuoraan vartta vasten (kuva E, LAPL/PPL 010-04) tarkoittaa:",
+      "options": [
+        "A. Laskuun ja lentoonlähtöön saa käyttää vain kiitoteitä, muun liikehtimisen saa suorittaa myös kiito- ja rullausteiden ulkopuolella.",
+        "B. Pitkäaikainen laskeutumiskielto.",
+        "C. Purjelentotoimintaa.",
+        "D. Laskussa, lentoonlähdössä ja rullauksessa käytettävä vain kiito- ja rullausteitä."
+      ],
+      "correctIndex": 0,
+      "explanation": "ICAO Annex 14: käsipunnus, jonka ympyröissä on mustat juovat kohtisuoraan vartta vasten, tarkoittaa että laskuun ja lentoonlähtöön on käytettävä vain kiitoteitä, mutta muu rullaaminen ja liikehtiminen on sallittu myös kiito- ja rullausteiden ulkopuolella.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0142",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 142,
+      "statement": "Millä merkinnällä voidaan päiväsaikaan kertoa, ettei jokin lentopaikan liikennealueen osa ole käytettävissä?",
+      "options": [
+        "A. Suljettua osaa ympäröivillä valko-oransseilla kartioilla.",
+        "B. Vaakasuoraan asetetuilla, selvästi alustastaan erottuvilla yksivärisillä (mielellään valkoisilla) risteillä.",
+        "C. Vaakasuoraan asetetuilla suurilla punaisilla neliöillä, joissa on keltainen vinoristi.",
+        "D. Suljettua osaa ympäröivillä oransseilla lipuilla."
+      ],
+      "correctIndex": 1,
+      "explanation": "ICAO Annex 14: suljettu kiitotien tai rullaustien osa merkitään päiväsaikaan vaakasuoraan asetetuilla, alustasta selvästi erottuvilla yksivärisillä (mieluiten valkoisilla) risteillä.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0143",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 143,
+      "statement": "Kuvan I (LAPL/PPL 010-04) mukainen merkki lentopaikan merkinantoalueella tarkoittaa:",
+      "options": [
+        "A. Kaarrot ennen laskua ja lentoonlähdön jälkeen on suoritettava oikealle.",
+        "B. Jatka seuraavalle lentopaikalle, kiitotie on suljettu.",
+        "C. Laskun jälkeen vapauta kiitotie kääntymällä oikealle.",
+        "D. Pysäköintipaikat oikealla."
+      ],
+      "correctIndex": 0,
+      "explanation": "ICAO Annex 14: oikealle osoittava nuoli/merkki merkinantoalueella tarkoittaa, että lentopaikalla käytetään oikeanpuoleista laskukierrosta – kaarrot ennen laskua ja lentoonlähdön jälkeen on suoritettava oikealle.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0144",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 144,
+      "statement": "Valkoinen \"T\" (kuva F, LAPL/PPL 010-04) lentopaikan merkinantopaikalla tarkoittaa:",
+      "options": [
+        "A. Laskeutuminen sallittu vain päällystetylle alueelle.",
+        "B. Älä laskeudu.",
+        "C. Laskeutuminen ja rullaaminen sallittu vain päällystetyllä alueella.",
+        "D. Lentoonlähtö- ja laskusuunta on T:n varren suuntainen kohti sen poikkiviivaa."
+      ],
+      "correctIndex": 3,
+      "explanation": "ICAO Annex 14: laskuri (landing T) osoittaa lentoonlähtö- ja laskusuunnan – suunta on T:n pitkän varren suuntainen kohti poikkiviivaa.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0145",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 145,
+      "statement": "Kuinka monta tuntia koululentoaikaa pitää oppilaalla vähintään olla LAPL(A)-lupakirjaa varten?",
+      "options": [
+        "A. 25 tuntia",
+        "B. 20 tuntia",
+        "C. 10 tuntia",
+        "D. 15 tuntia"
+      ],
+      "correctIndex": 3,
+      "explanation": "FCL.110.A: LAPL(A) vaatii vähintään 15 tuntia kaksoisohjauskoulutusta (dual instruction) ja 6 tuntia valvottua yksinlentoaikaa, kokonaislentoaika 30 h.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0146",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 146,
+      "statement": "Kuinka monta tuntia koululentoaikaa pitää oppilaalla vähintään olla LAPL(H)-lupakirjaa varten?",
+      "options": [
+        "A. 10 tuntia",
+        "B. 20 tuntia",
+        "C. 25 tuntia",
+        "D. 15 tuntia"
+      ],
+      "correctIndex": 1,
+      "explanation": "FCL.110.H: LAPL(H) vaatii vähintään 20 tuntia kaksoisohjauskoulutusta helikopterilla ja 10 tuntia valvottua yksinlentoaikaa, kokonaislentoaika 40 h.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0147",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 147,
+      "statement": "Mitä seuraavista ovat oikeat vaatimukset yksinmatkalennolle, joka suoritetaan ennen lentokokeeseen osallistumista?",
+      "options": [
+        "A. Matkan pituus 100 nm ja 4 laskua pysähtymiseen asti eri kentillä.",
+        "B. Matkan pituus 100 nm ja 2 laskua pysähtymiseen asti eri kentillä.",
+        "C. Matkan pituus 200 nm ja 2 laskua pysähtymiseen asti eri kentillä.",
+        "D. Matkan pituus 150 nm ja 4 laskua pysähtymiseen asti eri kentillä."
+      ],
+      "correctIndex": 3,
+      "explanation": "Vaihtoehto vastaa lähinnä PPL(A):n yksinmatkalentovaatimusta (Part-FCL, FCL.210.A(a)(2)): vähintään 150 NM ja täyspysähdyslaskut kahdelle eri lentopaikalle kuin lähtöpaikka. PDF:n vaihtoehdoissa ei ole täsmällisesti ”150 nm ja 2 laskua”, joten oletettu virallinen vastaus on D – tarkistettava avaimesta.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 26,
+      "confidence": "low",
+      "needsReview": true
+    },
+    {
+      "id": "010-0148",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 148,
+      "statement": "Kuinka monta tuntia lentokokemusta ilma-aluksen ohjaajana vähintään vaaditaan LAPL(A)-lupakirjan hakijalta?",
+      "options": [
+        "A. 25",
+        "B. 35",
+        "C. 40",
+        "D. 30"
+      ],
+      "correctIndex": 3,
+      "explanation": "FCL.110.A: LAPL(A) vaatii vähintään 30 tuntia lentoaikaa, joista 15 h kaksoisohjausta ja 6 h valvottua yksinlentoa (sis. vähintään 3 h yksinmatkalentoa).",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0149",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 149,
+      "statement": "Kuinka monta tuntia lentokokemusta ilma-aluksen ohjaajana vähintään vaaditaan LAPL(H)-lupakirjan hakijalta?",
+      "options": [
+        "A. 40",
+        "B. 30",
+        "C. 35",
+        "D. 45"
+      ],
+      "correctIndex": 0,
+      "explanation": "LAPL(H) helikopterilupakirja vaatii vähintään 40 tuntia lentoaikaa (FCL.110.H), joista 35 h opetuslentona helikopterilla. PPL(H) vaatii 45 h.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 27,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0150",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 150,
+      "statement": "Arvioidulla saapumisajalla tarkoitetaan VFR-lennolla aikaa, jolloin:",
+      "options": [
+        "A. Ilma-aluksen arvioidaan poistuvan määrälentopaikan kiitotieltä",
+        "B. Ilma-aluksen arvioidaan lopettavan rullaamisen määräpaikalla",
+        "C. Ilma-aluksen arvioidaan saapuvan määrälentopaikan yläpuolelle",
+        "D. Ilma-aluksen arvioidaan laskeutuvan määräpaikalle"
+      ],
+      "correctIndex": 2,
+      "explanation": "ETA (Estimated Time of Arrival) VFR-lennolla = aika, jolloin ilma-aluksen arvioidaan saapuvan määrälentopaikan yläpuolelle. IFR:ssä ETA viittaa lähestymispaikan ylittämishetkeen.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 27,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0151",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 151,
+      "statement": "Arvoidulla liikkeellelähtöajalla tarkoitetaan aikaa, jolloin ilma-alus:",
+      "options": [
+        "A. Lähtee rullaamaan lentoonlähtötarkoituksessa",
+        "B. Saa rullausselvityksen",
+        "C. Tekee lentoonlähdön",
+        "D. Saa lentoonlähtöselvityksen"
+      ],
+      "correctIndex": 0,
+      "explanation": "EOBT (Estimated Off-Block Time) = aika, jolloin ilma-alus arvioi lähtevän rullaamaan lentoonlähtöä varten. Lentosuunnitelmassa annettava aika.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 27,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0152",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 152,
+      "statement": "Montako liitettä (Annexia) ICAO:n yleissopimukseen kuuluu?",
+      "options": [
+        "A. 36",
+        "B. 3",
+        "C. 96",
+        "D. 18"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vanhan kysymyspankin vaihtoehdoissa oikeaksi on merkitty 18, mutta tämä on vanhentunut tieto. ICAO Annex 19 (Safety Management) hyväksyttiin 2013 ja oli voimassa jo PDF:n julkaisuhetkellä 2018. Säädöstiedon mukaan Annexeja on 19. Kysymys on siksi merkittävä tarkistettavaksi.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 27,
+      "confidence": "low",
+      "needsReview": true
+    },
+    {
+      "id": "010-0153",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 153,
+      "statement": "Kenttäalue sisältää:",
+      "options": [
+        "A. Asematason",
+        "B. Vakiolentoonlähtöreitit, vakiolähestymisreitit ja kiitotien",
+        "C. Kiitotien, rullaustien ja asematason",
+        "D. Kiitotien ja rullaustien"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kenttäalue (manoeuvring area) sisältää kiitotiet ja rullaustiet, mutta EI asematasoja (apron). Liikennealue (movement area) = kenttäalue + asematasot.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 27,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0154",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 154,
+      "statement": "SEP-luokkakelpuutus (single engine piston) on voimassa:",
+      "options": [
+        "A. 2 vuotta",
+        "B. 3 vuotta",
+        "C. 5 vuotta",
+        "D. 1 vuoden"
+      ],
+      "correctIndex": 0,
+      "explanation": "SEP (Single-Engine Piston) -luokkakelpuutus on voimassa 2 vuotta. Uusiminen tarkastuslennolla tai 12 h/12 T+L -kokemuksella + koululennolla.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 27,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0155",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 155,
+      "statement": "Kiitotien päätevalot ovat väriltään:",
+      "options": [
+        "A. Punaiset",
+        "B. Vihreät",
+        "C. Valkoiset",
+        "D. Siniset"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kiitotien päätevalot (runway end lights) ovat punaisia ja näkyvät kiitotien päästä taakse päin (lähestyvälle koneelle vihreät kynnysvalot, koneelle joka on jo kiitotiellä punaiset valot edessä = kiitotie loppuu).",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 27,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0156",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 156,
+      "statement": "Huomaat heti lentoonlähdön jälkeen, että radiosi on mennyt rikki. Lennonjohdosta näytetään sinulle valkoista vilkkuvaa valoa. Mitä teet?",
+      "options": [
+        "A. Laskeudun kyseiselle lentoasemalle ja rullaan asematasolle",
+        "B. Palaan takaisin",
+        "C. Annan tietä jollekin toiselle ilma-alukselle ja jatkan lentoa laskukierroksessa",
+        "D. En lauskeudu, koska se ei ole nyt turvallista"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lennossa olevalle ilma-alukselle valkoinen vilkkuvalo tarkoittaa: laske tälle lentopaikalle ja rullaa asematasolle (laskulupa annetaan erikseen). Maassa olevalle ilma-alukselle valkoinen vilkkuvalo tarkoittaa palaamista lähtökohtaan lentopaikalla.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 28,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0157",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 157,
+      "statement": "Lennonjohto näyttää maassa olevalle radiottomalle ilma-alukselle punaista vilkkuvaa valoa. Tämä tarkoittaa:",
+      "options": [
+        "A. Pysähdy",
+        "B. Lupa ylittää laskeutumisalue tai siirtyä rullaustielle",
+        "C. Rullaa pois käytössä olevalta laskualueelta",
+        "D. Vapauta alue"
+      ],
+      "correctIndex": 2,
+      "explanation": "Punainen vilkkuvalo maassa olevalle ilma-alukselle = ”Rullaa pois käytössä olevalta laskualueelta”. Jatkuva punainen maassa = ”Pysähdy”.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 28,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0158",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 158,
+      "statement": "Punainen vilkkuva valomerkki ilmassa olevalle ilma-alukselle merkitsee:",
+      "options": [
+        "A. Jatka lentoa laskukierroksessa.",
+        "B. Lennä pois laskukierroksesta.",
+        "C. Lentopaikka vaarallinen älä laske.",
+        "D. Huolimatta aikaisemmista ohjeista älä laske."
+      ],
+      "correctIndex": 2,
+      "explanation": "Punainen vilkkuvalo lennolla olevalle ilma-alukselle = ”Lentopaikka on vaarallinen, älä laske”. Jatkuva punainen lennossa = ”Anna tietä toiselle ja jatka laskukierroksessa”.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 28,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0159",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 159,
+      "statement": "Siirtokorkeus Suomessa on:",
+      "options": [
+        "A. 5000 ft QFE",
+        "B. 500 m QNH",
+        "C. 5000 ft QNH",
+        "D. 5000 ft 1013 hPa"
+      ],
+      "correctIndex": 2,
+      "explanation": "Suomessa siirtokorkeus on 5000 ft, joka asetetaan QNH:n mukaan. Sen ylittäessä korkeusmittari asetetaan standardipaineeseen 1013 hPa ja korkeudet ilmaistaan lentopintoina (FL).",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 28,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0160",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 160,
+      "statement": "Liikennealue käsittää:",
+      "options": [
+        "A. Kenttäalueen, mukaan lukien alueella olevat tiet.",
+        "B. Kiitotiet, rullaustiet ja asematasot.",
+        "C. Kiitotiet, rullaustiet ja seisontapaikat.",
+        "D. Kiitotiet ja rullaustiet, pois lukien asematasot."
+      ],
+      "correctIndex": 1,
+      "explanation": "Liikennealue (movement area) käsittää kiitotiet, rullaustiet ja asematasot – kaikki ne alueet, joilla ilma-alus voi liikkua. Kenttäalueeseen asematasot eivät kuulu.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 28,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0161",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 161,
+      "statement": "Millä edellytyksellä ilma-alus voidaan rekisteröidä Suomessa?",
+      "options": [
+        "A. Ilma-alus on Suomessa.",
+        "B. Ilma-alus on muun maan rekisterissä.",
+        "C. Ilma-aluksella on Suomessa annettu lentokelpoisuustodistus.",
+        "D. Ilma-alus on FAA:n tyyppihyväksyntä."
+      ],
+      "correctIndex": 2,
+      "explanation": "Suomen ilmailulain mukaan ilma-alus voidaan rekisteröidä Suomeen, kun sille on myönnetty Suomessa lentokelpoisuustodistus ja omistajuusvaatimukset täyttyvät. Pelkkä ilma-aluksen sijainti tai toisen maan rekisteröinti eivät riitä.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 28,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0162",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 162,
+      "statement": "Vasemmalle puolellesi ilmestyy sotilasilma-alus, joka vaaputtaa ja kaartaa sen jälkeen vasemmalle. Toimenpiteesi?",
+      "options": [
+        "A. Valitset transponderiin 7500 ja jatkat lentoa.",
+        "B. Vilkutat purjehdusvaloja epäsäännöllisin välein ja siirryt jaksolle 119,7 MHz.",
+        "C. Vaaputat takaisin ja jatkat lentoa suunnitelman mukaan.",
+        "D. Vaaputat takaisin ja kaarrat ilma-aluksen perään."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sotilaskoneen vaaputus + vasemmanpuoleinen kaarto = ”Olet siepattu, seuraa minua” (intercept). Ohjaajan tulee vaaputtaa takaisin (ymmärsin), kytkeä purjehdusvalot ja kaartaa sotilaskoneen perään noudattaen sitä.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 28,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0163",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 163,
+      "statement": "Vihreä vilkkuvalo maassa olevalle ilma-alukselle tarkoittaa:",
+      "options": [
+        "A. Selvä lentoonlähtöön.",
+        "B. Ota yhteyttä lennonjohtoon välittömästi.",
+        "C. Palaa lähtökohtaasi.",
+        "D. Selvä rullaamaan."
+      ],
+      "correctIndex": 3,
+      "explanation": "Vihreä vilkkuvalo maassa olevalle ilma-alukselle = ”Selvä rullaamaan”. Jatkuva vihreä maassa = ”Selvä lentoonlähtöön”. Lentoonlähtölupa annetaan erikseen.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 29,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0164",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 164,
+      "statement": "Punainen valoammus lennolla olevalle lentokoneelle tarkoittaa?",
+      "options": [
+        "A. Varo, alueella käynnissä sotaharjoitus.",
+        "B. Tee ympyrää oikealle, kunnes saat laskuluvan.",
+        "C. Anna tietä toiselle ilma-alukselle ja jatka laskukierroksessa.",
+        "D. Huolimatta aikaisemmasta ohjeista älä laske toistaiseksi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Punainen valoammus (red flare) ilmassa olevalle ilma-alukselle = ”Huolimatta aikaisemmista ohjeista älä laske toistaiseksi”. Käytetään esim. kun kiitotie on yhtäkkiä vapautettava muulle liikenteelle.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 29,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0165",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 165,
+      "statement": "Minimilentokorkeus taajaman yläpuolella on:",
+      "options": [
+        "A. 1000 ft MSL",
+        "B. 500 ft korkeimman 600 metrin säteellä olevan esteen yläpuolella",
+        "C. 1000 ft korkeimman 600 metrin säteellä olevan esteen yläpuolella",
+        "D. 500 ft MSL"
+      ],
+      "correctIndex": 2,
+      "explanation": "SERA: tiheästi asutun alueen yli minimilentokorkeus on 1000 ft (300 m) korkeimman 600 m säteellä olevan esteen yläpuolella. Avoimessa maastossa minimi on 500 ft.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 29,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0166",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 166,
+      "statement": "Lähestymisalueen englanninkielinen lyhenne on:",
+      "options": [
+        "A. CTS",
+        "B. TMA",
+        "C. FIR",
+        "D. CTA"
+      ],
+      "correctIndex": 1,
+      "explanation": "TMA = Terminal Manoeuvring Area / Terminal Control Area = lähestymisalue. CTR = Control Zone = lähialue. FIR = Flight Information Region = lentotiedotusalue.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 29,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0167",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 167,
+      "statement": "Pakollisten kylttien (mandatory instruction), esimerkiksi odotuspaikkakylttien, väritys:",
+      "options": [
+        "A. Valkoinen teksti punaisella pohjalla",
+        "B. Keltainen teksti mustalla pohjalla",
+        "C. Punainen teksti valkoisella pohjalla",
+        "D. Musta teksti keltaisella pohjalla"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pakolliset kyltit (mandatory instruction signs), kuten odotuspaikkakyltit, ovat punaisia pohjaltaan ja niissä on valkoinen teksti. Tieto-/sijaintikyltit ovat keltaisia tai mustia tilanteen mukaan.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 29,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0168",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 168,
+      "statement": "Lentosääntöjen mukaan maassa olevalle ilma-alukselle annettu valkoinen vilkkuvalo tarkoittaa:",
+      "options": [
+        "A. \"Laske tälle lentopaikalle ja rullaa asematasolle\", laskulupa annetaan erikseen.",
+        "B. \"Palaa lähtökohtaasi lentopaikalla\"",
+        "C. \"Rullaa pois käytössä olevalta laskualueelta\"",
+        "D. \"Selvä rullaamaan\", lähtölupa annetaan erikseen."
+      ],
+      "correctIndex": 1,
+      "explanation": "Maassa olevalle ilma-alukselle suunnattu valkoinen vilkkuva valomerkki = ”Palaa lähtökohtaasi lentopaikalla”. (Lennolle annettuna sama valo = ”laske tälle lentopaikalle”.)",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 29,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0169",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 169,
+      "statement": "Ilmailulupakirjoihin liittyvät määräykset löytyvät määräyskokoelman kohdasta:",
+      "options": [
+        "A. TRG",
+        "B. PEL",
+        "C. OPS",
+        "D. GEN"
+      ],
+      "correctIndex": 1,
+      "explanation": "Suomen ilmailumääräyskokoelmassa lupakirjoja koskevat määräykset löytyvät PEL-osiosta (Personnel Licensing). OPS = lentotoiminta, GEN = yleinen, TRG = koulutus.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 29,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0170",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 170,
+      "statement": "Vihreä vilkkuvalo ilmassa olevalle ilma-alukselle TWR:stä annettuna tarkoittaa:",
+      "options": [
+        "A. Jatka lentämällä ympyrää",
+        "B. Palaa laskua varten",
+        "C. Selvä laskuun",
+        "D. Anna tietä toiselle ilma-alukselle ja jatka laskukierroksessa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vihreä vilkkuvalo lennolla olevalle ilma-alukselle = ”Palaa laskua varten” (laskulupa annetaan erikseen). Maassa olevalle vilkkuvihreä = ”selvä rullaamaan”.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 30,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0171",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 171,
+      "statement": "Lähialueen englanninkielinen lyhenne on:",
+      "options": [
+        "A. FIR",
+        "B. AFIS",
+        "C. CTR",
+        "D. TMA"
+      ],
+      "correctIndex": 2,
+      "explanation": "CTR = Control Zone = lähialue. TMA = lähestymisalue, FIR = lentotiedotusalue, AFIS = lentopaikan lentotiedotuspalvelu.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 30,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0172",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 172,
+      "statement": "Ellei erikseen ole muuta määrätty, on lentoonlähdön jälkeen:",
+      "options": [
+        "A. Tehtävä kaarrot oikealle",
+        "B. Tehtävä kaarrot vasemmalle",
+        "C. Lennettävä suoraan, kunnes on laskukierroskuvion ulkopuolella",
+        "D. Mahdollista kaartaa oikealle tai vasemmalle"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ellei toisin ole määrätty (esim. AIP, lennonjohto), lentoonlähdön jälkeen kaarrot tehdään vasemmalle. Tämä on yleinen laskukierroksen suunta valvomattomilla kentillä.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 30,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0173",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 173,
+      "statement": "Johdettu lento on:",
+      "options": [
+        "A. Lento, josta on tehty lentosuunnitelma",
+        "B. Lento, joka lennetään mittarilentosääntöjen mukaisesti",
+        "C. Lennonjohtoselvityksen alainen lento",
+        "D. Muodostelmassa suoritettu lento"
+      ],
+      "correctIndex": 2,
+      "explanation": "Johdettu lento (Controlled Flight) on lento, joka on lennonjohtoselvityksen alainen. Selvitys voi koskea sekä IFR- että VFR-lentoja valvotussa ilmatilassa.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 30,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0174",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 174,
+      "statement": "Lyhenne VMC tarkoittaa:",
+      "options": [
+        "A. Mittarisääolosuhteita",
+        "B. Näkösääolosuhteita",
+        "C. Mittarilentosääntöjä",
+        "D. Näkölentosääntöjä"
+      ],
+      "correctIndex": 1,
+      "explanation": "VMC = Visual Meteorological Conditions = näkösääolosuhteet. IMC = Instrument Meteorological Conditions. VFR ja IFR ovat lentosääntöjä (V = Visual, I = Instrument).",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 30,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0175",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 175,
+      "statement": "Lentonäkyvyydellä tarkoitetaan:",
+      "options": [
+        "A. Maksimietäisyyttä, jolta ilma-alus voidaan maasta havaita.",
+        "B. Suurin etäisyys, jolta riittävän kokoinen lähellä maata oleva musta kohde voidaan nähdä ja tunnistaa, kun havainto tehdään valoisaa taustaa vasten.",
+        "C. Näkyvyyttä ilma-aluksen ohjaamosta eteenpäin lennon aikana.",
+        "D. Valtuutetun havainnoijan määrittelemää näkyvyyttä lentopaikalla."
+      ],
+      "correctIndex": 2,
+      "explanation": "Lentonäkyvyys on näkyvyys ilma-aluksen ohjaamosta eteenpäin lennon aikana. Maanäkyvyys on raportoidun havainnoijan määrittämä näkyvyys lentopaikalla.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 30,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0176",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 176,
+      "statement": "ICAO:n mukaisen vaaratilanteiden luokituksessa, Hälytystilanteen:",
+      "options": [
+        "A. Katsotaan vallitsevan, kun ilma-alus ei ole saapunut perille 30min kuluttua suunnitellun ajan jälkeen ja kun siihen ei saada radioyhteyttä.",
+        "B. Katsotaan vallitsevan kun ilma-aluksen tilasta ei ole täyttä varmuutta.",
+        "C. Katsotaan vallitsevan kun ollaan varmoja vaarasta, ja siitä että ilma-alus tarvitsee välitöntä apua.",
+        "D. Katsotaan vallitsevan kun ilma-aluksen toimintakyky on heikentynyt siinä määrin että pakkolasku on todennäköinen."
+      ],
+      "correctIndex": 3,
+      "explanation": "ICAO Hälytystilanne (ALERFA) vallitsee, kun on perusteltua aihetta epäillä, että ilma-alus ja siinä olevat ovat vaarassa. Esim. toimintakyky heikentynyt niin, että pakkolasku on todennäköinen.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 30,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0177",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 177,
+      "statement": "Epävarmuustilanteella tarkoitetaan:",
+      "options": [
+        "A. Ei mikään vastausvaihtoehdoista.",
+        "B. Tilannetta, jolloin ilma-alus ei ole lähettänyt pyydettyä sijaintitietoa.",
+        "C. Tilannetta, jolloin vallitsee epävarmuus ilma-aluksen ja siinä olevien henkilöiden turvallisuudesta ilmaliikenteessä, taikka jolloin on muuten aihetta ryhtyä toimenpiteisiin mahdollisen avuntarpeen selvittämiseksi.",
+        "D. Tilannetta, jolloin vallitsee varmuus ilma-aluksen ja siinä olevien henkilöiden turvallisuudesta ilmaliikenteessä, taikka jolloin on muuten aihetta ryhtyä toimenpiteisiin mahdollisen avuntarpeen selvittämiseksi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Epävarmuustilanne (INCERFA) vallitsee, kun ilma-aluksen ja siinä olevien turvallisuudesta on epävarmuutta tai kun on muuten aihetta selvittää avuntarvetta. Esim. ei kuulumisia 30 min suunnitellun yhteyshetken jälkeen.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 31,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0178",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 178,
+      "statement": "Onnettomuuspaikalle tehty V-maastohätämerkki tarkoittaa:",
+      "options": [
+        "A. Tarvitaan lääkintäapua.",
+        "B. Jäämme tähän.",
+        "C. Apua ei tarvita.",
+        "D. Tarvitaan apua."
+      ],
+      "correctIndex": 3,
+      "explanation": "Maamerkit: V = tarvitaan apua (require assistance), X = tarvitaan lääkintäapua, N = ei, Y = kyllä, → (nuoli) = kulkusuunta.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 31,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0179",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 179,
+      "statement": "Jos ilma-alus ei anna sovittua laskuilmoitusta 30 minuutin kuluessa lentosuunnitelmassa mainitusta, syntyy:",
+      "options": [
+        "A. Hätätilanne.",
+        "B. Epävarmuustilanne.",
+        "C. Hälytystilanne.",
+        "D. Poikkeustilanne."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kun ilma-alus ei anna laskuilmoitusta 30 min FPL-ETA:n jälkeen, käynnistyy epävarmuustilanne (INCERFA). Hälytystilanne (ALERFA) seuraa, jos yhteyttä ei saada laajempien tiedustelujen jälkeenkään.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 31,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0180",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 180,
+      "statement": "Etsintä-ja pelastuspalvelun maastohätämerkeistä \"X\" tarkoittaa:",
+      "options": [
+        "A. Jäämme tähän.",
+        "B. Apua ei tarvita.",
+        "C. Tarvitaan lääkintäapua.",
+        "D. Tarvitaan apua."
+      ],
+      "correctIndex": 2,
+      "explanation": "Maamerkki X = tarvitaan lääkintäapua (require medical assistance). V = tarvitaan apua, N = ei, Y = kyllä.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 31,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "010-0181",
+      "module": "010",
+      "moduleName": "Ilmailun säädökset",
+      "number": 181,
+      "statement": "Etsintä-ja pelastuspalvelun maastohätämerkeistä nuoli tarkoittaa:",
+      "options": [
+        "A. Ei kuulu maastohätämerkkeihin.",
+        "B. Tarvitaan apua.",
+        "C. Kulkusuunta.",
+        "D. Tarvitaan lääkintäapua."
+      ],
+      "correctIndex": 2,
+      "explanation": "Maamerkki nuoli (→) ilmaisee kulkusuuntaa eli sitä suuntaa, johon hätätilanteen henkilöt ovat lähteneet liikkumaan.",
+      "source": "PPL010FIN 11102018.pdf",
+      "page": 31,
+      "confidence": "high",
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,3807 @@
+{
+  "module": "152",
+  "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+  "source": "Cessna_152_Information_Manual.pdf",
+  "questions": [
+    {
+      "id": "152-0001",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 1,
+      "statement": "Mikä on Cessna 152:n (1978, Lycoming O-235-L2C) moottorin valmistaja ja malli?",
+      "options": [
+        "A. Continental O-200",
+        "B. Avco Lycoming O-235-L2C",
+        "C. Rotax 912",
+        "D. Teledyne Continental IO-360"
+      ],
+      "correctIndex": 1,
+      "explanation": "Käsikirjan mukaan moottori on Avco Lycoming, malli O-235-L2C: nelisylinterinen, ilmajäähdytteinen, kaasutinvarusteinen boksermoottori, iskutilavuus 233,3 cu. in.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0002",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 2,
+      "statement": "Mikä on Cessna 152:n moottorin nimellisteho ja kierrosluku?",
+      "options": [
+        "A. 100 BHP / 2700 RPM",
+        "B. 125 BHP / 2400 RPM",
+        "C. 110 BHP / 2550 RPM",
+        "D. 115 BHP / 2600 RPM"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nimellisteho on 110 BHP kierrosluvulla 2550 RPM (staattinen kierrosluku täydellä kaasulla 2280–2380 RPM).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0003",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 3,
+      "statement": "Kuinka monta sylinteriä Cessna 152:n moottorissa on ja miten se on jäähdytetty?",
+      "options": [
+        "A. 6 sylinteriä, nestejäähdytteinen",
+        "B. 4 sylinteriä, ilmajäähdytteinen",
+        "C. 4 sylinteriä, nestejäähdytteinen",
+        "D. 6 sylinteriä, ilmajäähdytteinen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Moottori on nelisylinterinen, vastakkaisiin suuntiin makaavilla sylintereillä (horizontally-opposed), ilmajäähdytteinen ja suoravetoinen (direct-drive).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0004",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 4,
+      "statement": "Mikä on potkurin valmistaja ja tyyppi Cessna 152:ssa?",
+      "options": [
+        "A. Hartzell, vakiokulmainen (constant speed)",
+        "B. McCauley, kiinteäkulmainen (fixed pitch)",
+        "C. Sensenich, vakiokulmainen",
+        "D. McCauley, vakiokulmainen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Potkurin valmistaja on McCauley Accessory Division, malli 1A103/TCM6958, kaksilapainen, kiinteäkulmainen (fixed pitch).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0005",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 5,
+      "statement": "Mikä on potkurin suurin sallittu halkaisija millimetreinä (tuumina)?",
+      "options": [
+        "A. 1714 mm (67,5 in)",
+        "B. 1753 mm (69 in)",
+        "C. 1829 mm (72 in)",
+        "D. 1651 mm (65 in)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Potkurin halkaisija: enintään 69 tuumaa (1753 mm), vähintään 67,5 tuumaa (1714 mm).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0006",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 6,
+      "statement": "Mitä polttoainelaatuja Cessna 152:een on hyväksytty käytettäväksi?",
+      "options": [
+        "A. Vain 100LL (sininen)",
+        "B. 100LL (sininen) ja 100/100LL (vihreä, entinen 100/130)",
+        "C. Jet A-1 ja 100LL",
+        "D. Vain Mogas 95E10"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hyväksytyt polttoainelaadut ovat 100LL-luokan lentobensiini (sininen) ja 100-luokan (aiemmin 100/130, vihreä) lentobensiini.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0007",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 7,
+      "statement": "Kuinka monta litraa (gallonaa) käytettävissä olevaa polttoainetta vakiotankeissa on yhteensä?",
+      "options": [
+        "A. 92.7 L (24,5 US gal)",
+        "B. 98.4 L (26 US gal)",
+        "C. 142.0 L (37,5 US gal)",
+        "D. 49.2 L (13 US gal)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vakiotankit: kokonaistilavuus 26 US gal, mutta käytettävissä olevaa polttoainetta on 24,5 US gal (92.7 L) — 1,5 gallonaa (5.7 L) on käyttökelvotonta.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0008",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 8,
+      "statement": "Kuinka monta litraa (gallonaa) käytettävissä olevaa polttoainetta pitkän kantaman (Long Range) tankeissa on yhteensä?",
+      "options": [
+        "A. 98.4 L (26 US gal)",
+        "B. 147.6 L (39 US gal)",
+        "C. 142.0 L (37,5 US gal)",
+        "D. 73.8 L (19,5 US gal)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pitkän kantaman tankit: kokonaistilavuus 39 US gal, käytettävissä olevaa polttoainetta 37,5 US gal (142.0 L).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0009",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 9,
+      "statement": "Kuinka paljon käyttökelvotonta polttoainetta (unusable fuel) kussakin tankkiversiossa on?",
+      "options": [
+        "A. 5.7 L (1,5 US gal), sama molemmissa tankkiversioissa",
+        "B. 2.8 L per tankki, yhteensä 5.7 L",
+        "C. 7.6 L (2 US gal)",
+        "D. Ei lainkaan käyttökelvotonta polttoainetta"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sekä vakio- että pitkän kantaman tankeissa käyttökelvotonta polttoainetta on 1,5 US gal (5.7 L) yhteensä (0,75 gal per tankki).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0010",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 10,
+      "statement": "Mikä on moottoriöljyn kampikammion (sump) tilavuus litroina (quartseina)?",
+      "options": [
+        "A. 3.8 L (4 qt)",
+        "B. 5.7 L (6 qt)",
+        "C. 7.6 L (8 qt)",
+        "D. 6.6 L (7 qt)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Öljykampikammion tilavuus on 6 quarttia (5.7 L). Öljynsuodattimen kanssa kokonaistilavuus on 7 quarttia (6.6 L).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0011",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 11,
+      "statement": "Mitä öljylaatua käytetään ensimmäisten 25 tunnin aikana ja ensimmäisessä öljynvaihdossa?",
+      "options": [
+        "A. MIL-L-22851 Ashless Dispersant Oil",
+        "B. MIL-L-6082 Aviation Grade Straight Mineral Oil",
+        "C. Synteettinen 15W-50",
+        "D. SAE 10W-30 automoottoriöljy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ensimmäisten 25 käyttötunnin ajan ja ensimmäisessä 25 tunnin öljynvaihdossa käytetään MIL-L-6082 mineraaliöljyä. Sen jälkeen (50 tunnin kohdalla tai kulutuksen tasaannuttua) siirrytään MIL-L-22851-öljyyn.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0012",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 12,
+      "statement": "Mitä SAE-viskositeettia suositellaan MIL-L-6082-mineraaliöljylle, kun ulkolämpötila on yli 16 °C (60 °F)?",
+      "options": [
+        "A. SAE 20",
+        "B. SAE 30",
+        "C. SAE 40",
+        "D. SAE 50"
+      ],
+      "correctIndex": 3,
+      "explanation": "MIL-L-6082-mineraaliöljylle suositellaan SAE 50 -viskositeettia lämpötiloissa yli 16 °C (60 °F).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0013",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 13,
+      "statement": "Mikä on Cessna 152:n suurin sallittu ramppipaino (ramp weight) kilogrammoina (paunoina)?",
+      "options": [
+        "A. 757.5 kg (1670 lbs)",
+        "B. 759.8 kg (1675 lbs)",
+        "C. 499.4 kg (1101 lbs)",
+        "D. 816.5 kg (1800 lbs)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Suurin sallittu ramppipaino on 1675 lbs (759.8 kg). Se on suurempi kuin lentoonlähtö-/laskeutumispaino, koska se sisältää käynnistys-, rullaus- ja tyhjäkäyntipolttoaineen painon.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0014",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 14,
+      "statement": "Mikä on Cessna 152:n suurin sallittu lentoonlähtö- ja laskeutumispaino kilogrammoina (paunoina)?",
+      "options": [
+        "A. 759.8 kg (1675 lbs)",
+        "B. 748.4 kg (1650 lbs)",
+        "C. 757.5 kg (1670 lbs)",
+        "D. 725.7 kg (1600 lbs)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sekä suurin sallittu lentoonlähtöpaino että suurin sallittu laskeutumispaino ovat 1670 lbs (757.5 kg).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0015",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 15,
+      "statement": "Mikä on Cessna 152:n (peruskoneen, ei 152 II) tyhjäpaino (standard empty weight) kilogrammoina (paunoina)?",
+      "options": [
+        "A. 513.9 kg (1133 lbs)",
+        "B. 499.4 kg (1101 lbs)",
+        "C. 260.4 kg (574 lbs)",
+        "D. 757.5 kg (1670 lbs)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Standardi 152-mallin tyhjäpaino on 1101 lbs (499.4 kg). 152 II -mallilla (enemmän vakiovarusteita) vastaava paino on 1133 lbs (513.9 kg).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0016",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 16,
+      "statement": "Mikä on Cessna 152:n (peruskone) suurin hyötykuorma (maximum useful load) kilogrammoina (paunoina)?",
+      "options": [
+        "A. 245.8 kg (542 lbs)",
+        "B. 260.4 kg (574 lbs)",
+        "C. 499.4 kg (1101 lbs)",
+        "D. 54.4 kg (120 lbs)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Peruskoneen (152) suurin hyötykuorma on 574 lbs (260.4 kg). 152 II -mallilla vastaava on 542 lbs (245.8 kg) johtuen suuremmasta tyhjäpainosta.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0017",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 17,
+      "statement": "Mikä on matkustamon takana olevan matkatavaratilan 1 (Baggage Area 1) suurin sallittu kuormituspaino kilogrammoina (paunoina)?",
+      "options": [
+        "A. 18.1 kg (40 lbs)",
+        "B. 54.4 kg (120 lbs)",
+        "C. 72.6 kg (160 lbs)",
+        "D. 36.3 kg (80 lbs)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Matkatavara-alue 1 (asemat 50–76, tai lapsen istuin) sallii enintään 120 lbs (54.4 kg). Alue 2 (asemat 76–94) sallii enintään 40 lbs (18.1 kg), mutta alueiden 1 ja 2 yhteinen enimmäiskuorma on silti 120 lbs (54.4 kg).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0018",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 18,
+      "statement": "Mikä on matkatavaran (alueet 1 ja 2 yhteensä) suurin sallittu yhteiskuorma kilogrammoina (paunoina)?",
+      "options": [
+        "A. 72.6 kg (160 lbs)",
+        "B. 54.4 kg (120 lbs)",
+        "C. 90.7 kg (200 lbs)",
+        "D. 45.4 kg (100 lbs)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vaikka alue 1 sallii yksinään 120 lbs ja alue 2 40 lbs, alueiden 1 ja 2 yhdistetty suurin sallittu kuormituspaino on silti 120 lbs (54.4 kg), ei 160 lbs.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0019",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 19,
+      "statement": "Mikä on Cessna 152:n siipikuorma (wing loading)?",
+      "options": [
+        "A. 15,2 lbs/sq ft",
+        "B. 10,5 lbs/sq ft",
+        "C. 8,3 lbs/sq ft",
+        "D. 12,0 lbs/sq ft"
+      ],
+      "correctIndex": 1,
+      "explanation": "Siipikuorma (wing loading) on 10,5 lbs/sq ft. Tehokuorma (power loading) puolestaan on 15,2 lbs/hp.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0020",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 20,
+      "statement": "Mikä on Cessna 152:n potkurin maavara (propeller ground clearance) millimetreinä (tuumina)?",
+      "options": [
+        "A. 254 mm (10 in)",
+        "B. 305 mm (12 in)",
+        "C. 381 mm (15 in)",
+        "D. 203 mm (8 in)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kolmen näkymän piirustuksen huomautuksen mukaan potkurin maavara on 12 tuumaa (305 mm), kun nokkapyörän jousto on painunut kokoon ja renkaat ovat oikein täytetyt.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0021",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 21,
+      "statement": "Mikä on Cessna 152:n pyöräväli (wheel base length) millimetreinä (tuumina)?",
+      "options": [
+        "A. 1727 mm (68 in)",
+        "B. 1829 mm (72 in)",
+        "C. 1524 mm (60 in)",
+        "D. 2032 mm (80 in)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kolmen näkymän piirustuksen mukaan pyöräväli on 68 tuumaa (1727 mm).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0022",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 22,
+      "statement": "Mikä on Cessna 152:n siipien kokonaispinta-ala?",
+      "options": [
+        "A. 145,5 neliöjalkaa",
+        "B. 159,5 neliöjalkaa",
+        "C. 170,0 neliöjalkaa",
+        "D. 130,0 neliöjalkaa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Siipien pinta-ala on 159,5 neliöjalkaa (noin 14,8 m²).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0023",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 23,
+      "statement": "Mikä termi tarkoittaa lentonopeutta, joka on korjattu asento- ja mittarivirheestä, mutta ei vielä korkeus- ja lämpötilavaikutuksesta?",
+      "options": [
+        "A. KIAS",
+        "B. KTAS",
+        "C. KCAS",
+        "D. Vy"
+      ],
+      "correctIndex": 2,
+      "explanation": "KCAS (Knots Calibrated Airspeed) on mittarin näyttämä nopeus korjattuna asento- ja mittarivirheestä. Merenpinnan tasolla standardi-ilmakehässä KCAS = KTAS.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0024",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 24,
+      "statement": "Mitä KTAS tarkoittaa?",
+      "options": [
+        "A. Mittarin suoraan näyttämä nopeus",
+        "B. Todellinen ilmanopeus (korjattu korkeuden ja lämpötilan mukaan)",
+        "C. Suurin sallittu läppänopeus",
+        "D. Sakkausnopeus"
+      ],
+      "correctIndex": 1,
+      "explanation": "KTAS (Knots True Airspeed) on todellinen nopeus suhteessa ympäröivään ilmaan — KCAS korjattuna korkeuden ja lämpötilan mukaan.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0025",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 25,
+      "statement": "Mitä Vy tarkoittaa käsikirjan terminologiassa?",
+      "options": [
+        "A. Paras nousukulmanopeus",
+        "B. Paras nousunopeus (rate of climb)",
+        "C. Suurin sallittu läppänopeus",
+        "D. Manööverinopeus"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vy = Best Rate-of-Climb Speed, eli nopeus joka antaa suurimman korkeuden nousun aikayksikköä kohti. (Vx puolestaan on paras nousukulmanopeus, suurin korkeuden nousu tiettyä vaakamatkaa kohti.)",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0026",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 26,
+      "statement": "Mikä on 'Pressure Altitude' (painekorkeus) käsikirjan määritelmän mukaan?",
+      "options": [
+        "A. Korkeus, kun mittari on asetettu paikalliseen QNH:hon",
+        "B. Korkeus, kun mittarin asteikko on asetettu 29,92 tuumaan elohopeaa (1013 mb)",
+        "C. Todellinen korkeus merenpinnasta",
+        "D. Korkeus QFE-asetuksella"
+      ],
+      "correctIndex": 1,
+      "explanation": "Painekorkeus (Pressure Altitude) on korkeus, joka luetaan altimetrista, kun sen barometrinen asteikko on asetettu arvoon 29,92 inHg (1013 mb).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0027",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 27,
+      "statement": "Mikä on standardilämpötila (Standard Temperature) merenpinnan tasolla ja miten se muuttuu korkeuden mukana?",
+      "options": [
+        "A. 15 °C merenpinnalla, laskee 2 °C jokaista 1000 jalkaa kohden",
+        "B. 20 °C merenpinnalla, laskee 1 °C jokaista 1000 jalkaa kohden",
+        "C. 15 °C merenpinnalla, nousee 2 °C jokaista 1000 jalkaa kohden",
+        "D. 0 °C merenpinnalla, laskee 2 °C jokaista 1000 jalkaa kohden"
+      ],
+      "correctIndex": 0,
+      "explanation": "Standardilämpötila on 15 °C merenpinnan painekorkeudella ja laskee 2 °C jokaista 1000 jalan korkeuden nousua kohden (ISA-malli).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0028",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 28,
+      "statement": "Mitä 'Demonstrated Crosswind Velocity' tarkoittaa käsikirjan mukaan?",
+      "options": [
+        "A. Sivutuulikomponentti, jota suurempaa ei koneella saa lentää",
+        "B. Sivutuulikomponentti, joka on todistettu hallittavaksi sertifiointikokeissa, mutta arvoa ei pidetä rajoituksena",
+        "C. Suurin sallittu tuulen kokonaisnopeus lentoonlähdössä",
+        "D. Sivutuulikomponentti, joka vaatii lentokoulutuksen erikoiskelpuutuksen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Demonstrated Crosswind Velocity on sivutuulen nopeus, jolla riittävä hallinta on osoitettu sertifiointikokeissa lentoonlähdössä ja laskussa — arvoa ei pidetä sitovana rajoituksena, vaan viitteellisenä.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0029",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 29,
+      "statement": "Mitä 'Moment' (momentti) tarkoittaa painon ja tasapainon terminologiassa?",
+      "options": [
+        "A. Painon ja vipuvarren (arm) tulo",
+        "B. Painon ja nopeuden tulo",
+        "C. Painopisteen etäisyys referenssitasosta",
+        "D. Suurin sallittu paino tietyssä asemassa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Momentti on painon ja sen vipuvarren (arm) tulo. Käsikirjassa momentti jaetaan usein vakiolla 1000 laskujen yksinkertaistamiseksi.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0030",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 30,
+      "statement": "Mikä on 'Reference Datum' painon ja tasapainon laskennassa Cessna 152:ssa?",
+      "options": [
+        "A. Koneen painopiste tyhjänä",
+        "B. Palomuurin etureuna",
+        "C. Pääpyörien keskilinja",
+        "D. Nokkapyörän akseli"
+      ],
+      "correctIndex": 1,
+      "explanation": "Referenssitaso (Reference Datum), josta kaikki vaakasuorat etäisyydet mitataan tasapainolaskuja varten, on palomuurin etupinta (Front face of firewall).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0031",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 31,
+      "statement": "Mikä on Cessna 152:n VNE (Never Exceed Speed) KIAS-arvona?",
+      "options": [
+        "A. 111 KIAS",
+        "B. 104 KIAS",
+        "C. 149 KIAS",
+        "D. 87 KIAS"
+      ],
+      "correctIndex": 2,
+      "explanation": "VNE eli suurin sallittu nopeus, jota ei saa ylittää missään tilanteessa, on 149 KIAS (145 KCAS).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0032",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 32,
+      "statement": "Mikä on Cessna 152:n VNO (Maximum Structural Cruising Speed) KIAS-arvona?",
+      "options": [
+        "A. 149 KIAS",
+        "B. 104 KIAS",
+        "C. 87 KIAS",
+        "D. 111 KIAS"
+      ],
+      "correctIndex": 3,
+      "explanation": "VNO, suurin rakenteellinen matkalentonopeus jota ei saa ylittää muuten kuin tyynessä ilmassa varoen, on 111 KIAS (108 KCAS).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0033",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 33,
+      "statement": "Mikä on Cessna 152:n manööverinopeus (VA) täydellä 1670 lbs painolla?",
+      "options": [
+        "A. 98 KIAS",
+        "B. 93 KIAS",
+        "C. 104 KIAS",
+        "D. 111 KIAS"
+      ],
+      "correctIndex": 2,
+      "explanation": "Täydellä 1670 lbs (758 kg) painolla manööverinopeus VA on 104 KIAS (101 KCAS). Kevyemmällä painolla VA on pienempi: 1500 lbs → 98 KIAS, 1350 lbs → 93 KIAS, koska kevyempi kone kokee suuremman rasituksen samalla g-kuormituksella.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0034",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 34,
+      "statement": "Miksi manööverinopeus (VA) pienenee koneen painon pienentyessä?",
+      "options": [
+        "A. Kevyempi kone sakkaa herkemmin suurella nopeudella",
+        "B. Kevyempi kone kiihtyy hitaammin",
+        "C. Kevyempi kone kokee suuremman g-kuormituksen samalla ohjainliikkeellä",
+        "D. VA ei riipu painosta, taulukko on vain viitteellinen"
+      ],
+      "correctIndex": 2,
+      "explanation": "VA on nopeus, jonka alapuolella äkilliset, täydet ohjainliikkeet eivät ylitä rakenteen kuormitusrajoja, koska siipi sakkaa ennen kuin kuormitus kasvaa liikaa. Kevyempi kone sakkaa pienemmällä nopeudella mutta reagoi suuremmalla g-kuormituksella samaan ohjainliikkeeseen, joten VA pienenee painon pienentyessä.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0035",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 35,
+      "statement": "Mikä on suurin sallittu läppänopeus VFE Cessna 152:ssa?",
+      "options": [
+        "A. 111 KIAS",
+        "B. 149 KIAS",
+        "C. 85 KIAS",
+        "D. 104 KIAS"
+      ],
+      "correctIndex": 2,
+      "explanation": "VFE, suurin nopeus jolla läpät saa olla ulkona, on 85 KIAS (87 KCAS).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0036",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 36,
+      "statement": "Mikä on suurin sallittu nopeus ikkunoiden ollessa auki (Maximum Window Open Speed)?",
+      "options": [
+        "A. 85 KIAS",
+        "B. 111 KIAS",
+        "C. 149 KIAS",
+        "D. 104 KIAS"
+      ],
+      "correctIndex": 2,
+      "explanation": "Maximum Window Open Speed on sama kuin VNE: 149 KIAS (145 KCAS).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0037",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 37,
+      "statement": "Nopeusmittarin vihreä kaari (Green Arc) kuvaa mitä aluetta Cessna 152:ssa?",
+      "options": [
+        "A. Läpän käyttöalue",
+        "B. Normaali käyttöalue, 40–117 KIAS",
+        "C. Varoalue, jossa vaaditaan varovaisuutta",
+        "D. Suurin sallittu nopeus kaikissa tilanteissa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vihreä kaari (Green Arc) kattaa normaalin käyttöalueen 40–117 KIAS. Alaraja on VS (sakkausnopeus läpät sisällä, edessä oleva painopiste), yläraja on VNO.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0038",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 38,
+      "statement": "Mitä nopeusmittarin valkoinen kaari (White Arc) tarkoittaa?",
+      "options": [
+        "A. Läppien täyden käytön alue, 35–85 KIAS",
+        "B. Suurin sallittu matkalentonopeus",
+        "C. Varoitusalue jossa lentoa tulisi välttää",
+        "D. Manööverinopeusalue"
+      ],
+      "correctIndex": 0,
+      "explanation": "Valkoinen kaari (White Arc) 35–85 KIAS on läppien täyden käyttöalue. Alaraja on VSO (sakkausnopeus täysillä läpillä, suurin paino), yläraja on VFE.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0039",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 39,
+      "statement": "Mitä nopeusmittarin keltainen kaari (Yellow Arc), 111–149 KIAS, tarkoittaa?",
+      "options": [
+        "A. Aluetta, jolla lentäminen on kielletty",
+        "B. Aluetta, jolla toimittava varoen ja vain tyynessä ilmassa",
+        "C. Sakkausnopeusaluetta",
+        "D. Läpän käyttöaluetta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Keltainen kaari (111–149 KIAS) tarkoittaa aluetta, jolla lentäminen on sallittua vain tyynessä ilmassa ja varovaisuutta noudattaen.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0040",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 40,
+      "statement": "Mikä on moottorin suurin sallittu öljynlämpötila Cessna 152:ssa?",
+      "options": [
+        "A. 100 °C (212 °F)",
+        "B. 118 °C (245 °F)",
+        "C. 130 °C (266 °F)",
+        "D. 90 °C (194 °F)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Öljyn suurin sallittu lämpötila on 245 °F (118 °C).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0041",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 41,
+      "statement": "Mikä on moottorin öljynpaineen sallittu vaihteluväli (minimi ja maksimi) Cessna 152:ssa?",
+      "options": [
+        "A. 25–100 psi",
+        "B. 60–90 psi",
+        "C. 15–80 psi",
+        "D. 40–120 psi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Öljynpaineen ehdoton minimi on 25 psi ja maksimi 100 psi. Normaali käyttöalue (vihreä kaari mittarissa) on 60–90 psi.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0042",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 42,
+      "statement": "Mikä on moottorin suurin sallittu kierrosluku (RPM) jatkuvassa käytössä?",
+      "options": [
+        "A. 2700 RPM",
+        "B. 2550 RPM",
+        "C. 2380 RPM",
+        "D. 2450 RPM"
+      ],
+      "correctIndex": 1,
+      "explanation": "Suurin sallittu moottorin kierrosluku sekä lentoonlähdössä että jatkuvassa käytössä on 2550 RPM.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0043",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 43,
+      "statement": "Mikä on painopisteen (C.G.) etummaisin sallittu asema Cessna 152:ssa painolla 1350 lbs tai vähemmän, millimetreinä (tuumina) referenssitasosta?",
+      "options": [
+        "A. 927 mm (36.5 in) taakse päin",
+        "B. 787 mm (31.0 in) taakse päin",
+        "C. 829 mm (32.65 in) taakse päin",
+        "D. 711 mm (28.0 in) taakse päin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Etummainen painopisterajoitus on 31,0 tuumaa (787 mm) referenssitason (palomuurin) takana painoilla 1350 lbs tai vähemmän, siirtyen lineaarisesti arvoon 32,65 tuumaa (829 mm) painolla 1670 lbs.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0044",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 44,
+      "statement": "Mikä on painopisteen (C.G.) taaimmainen sallittu asema kaikilla painoilla, millimetreinä (tuumina)?",
+      "options": [
+        "A. 829 mm (32.65 in)",
+        "B. 787 mm (31.0 in)",
+        "C. 927 mm (36.5 in)",
+        "D. 1016 mm (40.0 in)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Taaimmainen painopisterajoitus on kiinteä 36,5 tuumaa (927 mm) referenssitason takana, riippumatta koneen painosta.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0045",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 45,
+      "statement": "Mitkä lentotaidot on hyväksytty tehtäväksi Cessna 152:lla utility-kategoriassa?",
+      "options": [
+        "A. Kaikki akrobaattiset liikkeet ilman rajoitusta",
+        "B. Chandelles, Lazy Eights, jyrkät kaarrot, spinnit ja sakkaukset (paitsi whip stall)",
+        "C. Vain tasalento ja loiva kaarto",
+        "D. Silmukka (loop) ja selkälento"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hyväksytyt liikkeet ovat Chandelles, Lazy Eights ja jyrkät kaarrot (95 solmun tulonopeudella), sekä spinnit ja sakkaukset (paitsi whip stall) hitaalla nopeuden pienentämisellä.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0046",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 46,
+      "statement": "Mikä on suositeltu tulonopeus Chandelles-, Lazy Eight- ja jyrkkä kaarto -manöövereille?",
+      "options": [
+        "A. 85 knots",
+        "B. 95 knots",
+        "C. 104 knots",
+        "D. 60 knots"
+      ],
+      "correctIndex": 1,
+      "explanation": "Suositeltu tulonopeus näille manöövereille on 95 solmua (knots), joskin suurempaakin nopeutta voi käyttää mikäli ohjainliikkeet eivät ole äkkinäisiä.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0047",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 47,
+      "statement": "Mikä on Cessna 152:n suurin sallittu positiivinen kuormituskerroin läpät sisällä (Flaps Up)?",
+      "options": [
+        "A. +3,5 g",
+        "B. +4,49 g",
+        "C. +6,0 g",
+        "D. +2,0 g"
+      ],
+      "correctIndex": 1,
+      "explanation": "Läppien ollessa sisällä suurin sallittu kuormituskerroin on +4,49 g ja pienin -1,76 g. Läppien ollessa ulkona (Flaps Down) suurin sallittu kuormituskerroin on +3,5 g.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0048",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 48,
+      "statement": "Mikä on Cessna 152:n suurin sallittu negatiivinen kuormituskerroin läpät sisällä?",
+      "options": [
+        "A. -1,0 g",
+        "B. -2,5 g",
+        "C. -1,76 g",
+        "D. 0 g"
+      ],
+      "correctIndex": 2,
+      "explanation": "Läppien ollessa sisällä pienin sallittu (negatiivinen) kuormituskerroin on -1,76 g.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0049",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 49,
+      "statement": "Mikä on Cessna 152:n suurin sallittu kuormituskerroin läpät ulkona (Flaps Down)?",
+      "options": [
+        "A. +2,0 g",
+        "B. +3,5 g",
+        "C. +4,49 g",
+        "D. +1,76 g"
+      ],
+      "correctIndex": 1,
+      "explanation": "Läppien ollessa ulkona suurin sallittu positiivinen kuormituskerroin on +3,5 g. Suunnittelukuormituskertoimet ovat 150 % näistä arvoista.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0050",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 50,
+      "statement": "Onko tunnetuissa jäätämisolosuhteissa lentäminen sallittua Cessna 152:lla?",
+      "options": [
+        "A. Kyllä, jos kone on varustettu potkurin lämmityksellä",
+        "B. Ei, se on nimenomaisesti kielletty",
+        "C. Kyllä, jos lentokorkeus on yli 10 000 ft",
+        "D. Kyllä, mutta vain päivälennoilla"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lento tunnettuihin jäätämisolosuhteisiin on nimenomaisesti kielletty (Flight into known icing conditions is prohibited).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0051",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 51,
+      "statement": "Mikä on tahallisten spinnien rajoitus läpän asennon suhteen?",
+      "options": [
+        "A. Tahalliset spinnit ovat kiellettyjä läppien ollessa ulkona",
+        "B. Tahalliset spinnit ovat sallittuja millä tahansa läppäasennolla",
+        "C. Tahalliset spinnit ovat kiellettyjä kaikissa tilanteissa",
+        "D. Tahalliset spinnit ovat sallittuja vain läppien ollessa 10°"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tahalliset spinnit on kielletty läppien ollessa ulkona (Intentional spins prohibited with flaps extended).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0052",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 52,
+      "statement": "Mikä on hyväksytty läppäalue lentoonlähdössä (Approved Takeoff Range)?",
+      "options": [
+        "A. 0°–10°",
+        "B. 0°–20°",
+        "C. 10°–30°",
+        "D. 0°–30°"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hyväksytty läppäalue lentoonlähtöön on 0°–10°. Laskuun hyväksytty alue on laajempi, 0°–30°.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0053",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 53,
+      "statement": "Mikä on hyväksytty läppäalue laskussa (Approved Landing Range)?",
+      "options": [
+        "A. 0°–10°",
+        "B. 0°–20°",
+        "C. 0°–30°",
+        "D. 10°–40°"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hyväksytty läppäalue laskuun on 0°–30°, kun taas lentoonlähtöön hyväksytty alue on suppeampi, 0°–10°.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0054",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 54,
+      "statement": "Kuinka vähän polttoainetta lentoonlähtö on osoitettu turvalliseksi (Takeoffs have not been demonstrated with less than...)?",
+      "options": [
+        "A. 3.8 L (1 US gal) yhteensä",
+        "B. 7.6 L (2 US gal) yhteensä (1 gal per tankki)",
+        "C. 18.9 L (5 US gal) yhteensä",
+        "D. Ei ole määritelty vähimmäismäärää"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lentoonlähtöjä ei ole osoitettu turvallisiksi vähemmällä kuin 2 US-gallonalla (7.6 L) polttoainetta yhteensä (1 gallona per tankki).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0055",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 55,
+      "statement": "Mitä pitää tehdä polttoainetankeille tankkauksen jälkeen, jos toinen tankki on täynnä ja toinen ei?",
+      "options": [
+        "A. Ei mitään, tankit ovat aina tasapainossa",
+        "B. Tankit tulisi täyttää uudelleen (re-topped) ristisyötön (cross-feeding) vuoksi",
+        "C. Tyhjentää toinen tankki kokonaan",
+        "D. Lentää vain toisella tankilla, kunnes tasapaino korjaantuu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tankkien välisen ristisyötön (cross-feeding) vuoksi tankit tulisi täyttää uudelleen (re-topped) jokaisen tankkauksen jälkeen, jotta maksimikapasiteetti varmasti saavutetaan.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0056",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 56,
+      "statement": "Mikä lentotoimintakategoria Cessna 152:lle on sallittu Kinds of Operation Limits -osion mukaan?",
+      "options": [
+        "A. Vain päivä-VFR",
+        "B. Päivä-VFR, ja mahdollisesti yö-VFR ja/tai IFR koneen varustuksen mukaan",
+        "C. Vain IFR-lennot",
+        "D. Vain koululennot"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kone on varustettu päivä-VFR-toimintaan, ja se voidaan varustaa myös yö-VFR- ja/tai IFR-toimintaan. FAR Part 91 määrittää tarvittavat vähimmäisvälineet kullekin toimintatyypille.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0057",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 57,
+      "statement": "Mitä spinnin palautusmenettelyn (SPIN RECOVERY) placard-tekstin mukaan tehdään ensimmäisenä?",
+      "options": [
+        "A. Siirretään ohjainsauva reippaasti eteen",
+        "B. Varmistetaan siivekkeet neutraaliksi ja kaasu kiinni",
+        "C. Neutraloidaan peräsin ja palaudutaan sukelluksesta",
+        "D. Annetaan täysi vastaperäsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Spinnin palautuksen placard-teksti (kojelaudassa) ohjeistaa järjestyksessä: 1) siivekkeet neutraaliksi ja kaasu kiinni, 2) täysi vastaperäsin, 3) ohjainsauva reippaasti eteen sakkauksen purkamiseksi, 4) peräsin neutraaliksi ja palautuminen sukelluksesta.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0058",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 58,
+      "statement": "Kuinka monella asteen välein magneettikompassin kalibrointikortti (calibration card) on merkitty?",
+      "options": [
+        "A. 15° välein",
+        "B. 30° välein",
+        "C. 45° välein",
+        "D. 10° välein"
+      ],
+      "correctIndex": 1,
+      "explanation": "Magneettikompassin tarkkuutta osoittava kalibrointikortti on merkitty 30° välein.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0059",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 59,
+      "statement": "Mikä on suositeltu ilmanopeus moottorivian jälkeen heti lentoonlähdön jälkeen (Engine Failure Immediately After Takeoff)?",
+      "options": [
+        "A. 55 KIAS",
+        "B. 60 KIAS",
+        "C. 65 KIAS",
+        "D. 70 KIAS"
+      ],
+      "correctIndex": 1,
+      "explanation": "Moottorivian sattuessa heti lentoonlähdön jälkeen ensimmäinen toimenpide on asettaa ilmanopeus 60 KIAS:iin, minkä jälkeen seuraa sekoitusvipu IDLE CUT-OFF-asentoon ja polttoaineen sulkuventtiili OFF.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 27,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0060",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 60,
+      "statement": "Mikä on suurin liu'utusnopeus (Maximum Glide) moottorittomassa lennossa?",
+      "options": [
+        "A. 55 KIAS",
+        "B. 60 KIAS",
+        "C. 65 KIAS",
+        "D. 70 KIAS"
+      ],
+      "correctIndex": 1,
+      "explanation": "Suositeltu liu'utusnopeus moottorittomassa lennossa (Maximum Glide) on 60 KIAS.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 27,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0061",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 61,
+      "statement": "Mikä on suositeltu laskeutumisnopeus ilman moottorin tehoa läpät sisällä (Landing Without Engine Power, Wing Flaps Up)?",
+      "options": [
+        "A. 55 KIAS",
+        "B. 60 KIAS",
+        "C. 65 KIAS",
+        "D. 70 KIAS"
+      ],
+      "correctIndex": 2,
+      "explanation": "Laskeutuminen ilman moottorin tehoa läppien ollessa sisällä tehdään nopeudella 65 KIAS. Läppien ollessa ulkona vastaava nopeus on 60 KIAS.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 27,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0062",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 62,
+      "statement": "Mikä ensimmäinen toimenpide tehdään moottorivian sattuessa lentoonlähtörullauksen aikana (Engine Failure During Takeoff Run)?",
+      "options": [
+        "A. Läpät -- RETRACT",
+        "B. Kaasu -- IDLE",
+        "C. Sytytys -- OFF",
+        "D. Pääkytkin -- OFF"
+      ],
+      "correctIndex": 1,
+      "explanation": "Moottorivian sattuessa lentoonlähtörullauksen aikana ensimmäinen toimenpide on kaasu IDLE-asentoon, minkä jälkeen jarrut APPLY, läpät RETRACT, sekoitusvipu IDLE CUT-OFF, sytytys OFF ja lopuksi pääkytkin OFF.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 27,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0063",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 63,
+      "statement": "Mikä on ensimmäinen toimenpide moottorivian sattuessa lennon aikana (Engine Failure During Flight)?",
+      "options": [
+        "A. Kaasutinlämmitys ON",
+        "B. Ilmanopeus 60 KIAS",
+        "C. Sekoitusvipu RICH",
+        "D. Sytytys BOTH"
+      ],
+      "correctIndex": 1,
+      "explanation": "Moottorivian sattuessa lennon aikana ensimmäinen toimenpide on säätää ilmanopeus 60 KIAS:iin (liuku), minkä jälkeen tarkistetaan kaasutinlämmitys ON, primer IN/LOCKED, polttoaineen sulkuventtiili ON, sekoitusvipu RICH ja sytytys BOTH (tai START jos potkuri on pysähtynyt).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 28,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0064",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 64,
+      "statement": "Mikä läppäasento on suositeltu hätälaskussa ilman moottorin tehoa (Emergency Landing Without Engine Power)?",
+      "options": [
+        "A. 0° (läpät sisällä)",
+        "B. 10°",
+        "C. 20°",
+        "D. 30° (suositus)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hätälaskussa ilman moottorin tehoa läpät asetetaan tarpeen mukaan, ja 30° on suositeltu asento (Wing Flaps -- AS REQUIRED, 30° recommended).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 27,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0065",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 65,
+      "statement": "Mitä hätälaskussa tehdään oville ennen kosketusta maahan?",
+      "options": [
+        "A. Ovet lukitaan tiukasti kiinni",
+        "B. Ovet avataan ja jätetään auki koko laskun ajan",
+        "C. Ovien lukot avataan (unlatch) ennen kosketusta",
+        "D. Oviin ei kiinnitetä huomiota"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hätälaskussa ilman moottorin tehoa ovien lukot avataan (Doors -- UNLATCH) ennen kosketusta maahan, jotta ovet eivät jää lukkoon mahdollisen rungon vääntymisen vuoksi.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 27,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0066",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 66,
+      "statement": "Mikä on suositeltu asento koneen koskettaessa maata hätälaskussa ilman moottorin tehoa?",
+      "options": [
+        "A. Nokka alaspäin",
+        "B. Tasalento-asento",
+        "C. Hieman pyrstö alempana (slightly tail low)",
+        "D. Siipi kallellaan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kosketus tapahtuu hieman pyrstö alempana (Touchdown -- SLIGHTLY TAIL LOW), minkä jälkeen jarruja käytetään voimakkaasti (Brakes -- APPLY HEAVILY).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 27,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0067",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 67,
+      "statement": "Mihin taajuuteen hätälennon MAYDAY-kutsu lähetetään mereenlaskun (ditching) yhteydessä, jos muuta taajuutta ei ole käytössä?",
+      "options": [
+        "A. 118,1 MHz",
+        "B. 121,5 MHz",
+        "C. 123,45 MHz",
+        "D. 243,0 MHz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mereenlaskussa MAYDAY-kutsu lähetetään taajuudella 121,5 MHz, ja mikäli kone on varustettu vastaimella, aktivoidaan koodi 7700.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 29,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0068",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 68,
+      "statement": "Mikä laskeutumisnopeus ja pudotusnopeus suositellaan mereenlaskussa (Ditching)?",
+      "options": [
+        "A. 55 KIAS, 300 ft/min laskunopeus",
+        "B. 65 KIAS, 500 ft/min laskunopeus",
+        "C. 60 KIAS, 200 ft/min laskunopeus",
+        "D. 50 KIAS, 400 ft/min laskunopeus"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mereenlaskussa teho säädetään siten, että laskunopeus on 300 ft/min ilmanopeudella 55 KIAS, läpät 30°.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 29,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0069",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 69,
+      "statement": "Mikä on ensimmäinen toimenpide, jos moottori syttyy palamaan käynnistyksen aikana maassa ja moottori käynnistyy?",
+      "options": [
+        "A. Sammutetaan moottori välittömästi",
+        "B. Jatketaan käyntiä noin 1700 RPM:llä muutaman minuutin ajan",
+        "C. Nostetaan kierrosluku maksimiin",
+        "D. Odotetaan palokunnan saapumista käynnin aikana"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jos moottori syttyy käynnistyksessä ja kuitenkin käynnistyy, jatketaan käyntiä noin 1700 RPM:llä muutaman minuutin ajan, minkä jälkeen moottori sammutetaan ja tarkastetaan vauriot.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 29,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0070",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 70,
+      "statement": "Mikä on suositeltu ilmanopeus moottoripalossa lennon aikana (Engine Fire In Flight), jos palo ei sammu heti?",
+      "options": [
+        "A. 60 KIAS",
+        "B. 65 KIAS",
+        "C. 85 KIAS (tarvittaessa suurempikin liukunopeus)",
+        "D. 104 KIAS"
+      ],
+      "correctIndex": 2,
+      "explanation": "Moottoripalossa lennon aikana ilmanopeudeksi asetetaan 85 KIAS; jos palo ei sammu, liukunopeutta kasvatetaan kunnes seos ei enää pala.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 30,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0071",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 71,
+      "statement": "Mitä tehdään sähköpalon sammuttua sammuttimella suljetussa ohjaamossa?",
+      "options": [
+        "A. Ei mitään erityistä",
+        "B. Ohjaamo tuuletetaan sammuttimen käytön jälkeen",
+        "C. Kaikki ikkunat suljetaan tiiviisti",
+        "D. Pääkytkin jätetään päälle koko loppulennon ajaksi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Varoitus käsikirjassa muistuttaa, että sammuttimen purkamisen jälkeen suljetussa ohjaamossa tulee tuulettaa ohjaamo (ventilate the cabin).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 30,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0072",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 72,
+      "statement": "Mitä tehdään siipipalon (Wing Fire) sattuessa lentosuunnan/asennon suhteen?",
+      "options": [
+        "A. Tehdään sivuluisu (side slip) pitämään liekit poissa polttoainetankista ja ohjaamosta",
+        "B. Sukelletaan jyrkästi nopeuden kasvattamiseksi",
+        "C. Käännytään heti kohti lähintä kenttää suoralla kurssilla",
+        "D. Pysytään suorassa lennossa muuttamatta mitään"
+      ],
+      "correctIndex": 0,
+      "explanation": "Siipipalon sattuessa suoritetaan sivuluisu (side slip) pitämään liekit poissa polttoainetankista ja ohjaamosta, minkä jälkeen laskeudutaan mahdollisimman pian läpät sisällä.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 31,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0073",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 73,
+      "statement": "Mitä tehdään ensimmäisenä, jos havaitaan odottamatonta jäätymistä lennon aikana (Inadvertent Icing Encounter)?",
+      "options": [
+        "A. Käännytään takaisin tai vaihdetaan korkeutta jäätymiselle epäedullisempaan lämpötilaan",
+        "B. Laskeudutaan välittömästi mihin tahansa avoimeen kenttään",
+        "C. Sammutetaan moottori jään sulattamiseksi",
+        "D. Lisätään läppien ulosastetta jään pudottamiseksi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ensimmäinen ohje jäätymisen havaitessa on kääntyä takaisin tai vaihtaa korkeutta lämpötilaan, joka on vähemmän suotuisa jäätymiselle. Pitot-lämmitys kytketään päälle, jos asennettu.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 31,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0074",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 74,
+      "statement": "Kuinka paljon jäätä siiven etureunalla vaaditaan, jotta pilotin tulee varautua merkittävästi korkeampaan sakkausnopeuteen?",
+      "options": [
+        "A. 1/8 tuumaa tai enemmän",
+        "B. 1/4 tuumaa tai enemmän",
+        "C. 1/2 tuumaa tai enemmän",
+        "D. 1 tuuma tai enemmän"
+      ],
+      "correctIndex": 1,
+      "explanation": "Käsikirjan mukaan 1/4 tuuman (6 mm) tai suuremmalla jääkertymällä siiven etureunalla tulee varautua merkittävästi korkeampaan sakkausnopeuteen.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 31,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0075",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 75,
+      "statement": "Miksi läpät jätetään sisään (retracted) vakavan jääkertymän aikana laskussa?",
+      "options": [
+        "A. Läppien ulosajo kasvattaisi tarpeettomasti nopeutta",
+        "B. Läppien ulosajo voisi jäätyneen häntäpinnan vuoksi heikentää korkeusperäsimen tehoa",
+        "C. Läppien mekanismi jäätyy helposti",
+        "D. Läppien käyttö on kiellettyä kaikissa olosuhteissa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vakavan jään kertyessä vaakasuoraan häntäpintaan läppien ulosajo voi muuttaa siiven jättövirtausta hännän yli tavalla, joka heikentää korkeusperäsimen tehoa — siksi läpät jätetään sisään.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 31,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0076",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 76,
+      "statement": "Millä nopeudella lähestymislento suositellaan tehtäväksi merkittävän jääkertymän jälkeen (Approach at ... KIAS)?",
+      "options": [
+        "A. 50–60 KIAS",
+        "B. 65–75 KIAS jääkertymän määrästä riippuen",
+        "C. 80–90 KIAS",
+        "D. 45–50 KIAS"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lähestyminen jääkertymän jälkeen tehdään nopeudella 65–75 KIAS riippuen jään määrästä.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 31,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0077",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 77,
+      "statement": "Miten laskeudutaan, jos yksi päärengas on tyhjä (Landing With A Flat Main Tire)?",
+      "options": [
+        "A. Kosketetaan ensin tyhjällä renkaalla",
+        "B. Kosketetaan ensin hyväkuntoisella renkaalla ja pidetään kone irti tyhjästä renkaasta siivekkeillä",
+        "C. Lasketaan aina nokkapyörällä ensin",
+        "D. Vältetään kaikkea siivekkeen käyttöä"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tyhjän päärenkaan kanssa laskeuduttaessa kosketus tehdään ensin hyväkuntoisella renkaalla, ja konetta pidetään mahdollisimman pitkään irti tyhjästä renkaasta siivekeohjauksella.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 32,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0078",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 78,
+      "statement": "Mikä on toimenpide, jos ampeerimittari näyttää täyttä latausvirtaa (Ammeter Shows Excessive Rate of Charge, Full Scale Deflection)?",
+      "options": [
+        "A. Generaattori/laturi -- OFF ja ei-välttämätön sähkölaite -- OFF, lento lopetetaan mahdollisimman pian",
+        "B. Ei toimenpiteitä, tämä on normaalia",
+        "C. Pääkytkin -- OFF välittömästi",
+        "D. Lisätään sähkölaitteita kuormituksen tasaamiseksi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Täyden latausvirran deflection-tilanteessa laturi kytketään pois (Alternator -- OFF), ei-välttämättömät sähkölaitteet kytketään pois, ja lento lopetetaan mahdollisimman pian.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 32,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0079",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 79,
+      "statement": "Mikä toimenpide tehdään, jos alijännitevalo (Low-Voltage Light) syttyy lennon aikana ja ampeerimittari näyttää purkausta?",
+      "options": [
+        "A. Laturi kytketään heti pois eikä sitä yritetä enää käyttää",
+        "B. Laturi kytketään hetkeksi pois ja kytketään sitten uudelleen tarkistaaksesi, sammuuko valo",
+        "C. Kaikki sähkölaitteet sammutetaan pysyvästi",
+        "D. Jatketaan lentoa normaalisti huomioimatta valoa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alijännitevalon syttyessä laturi kytketään hetkeksi pois ja kytketään sitten uudelleen — mikäli valo sammuu, ylijännitesuoja on saattanut laueta virheellisesti (nuisance trip). Jos valo syttyy uudelleen, sähkönkulutusta on minimoitava.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0080",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 80,
+      "statement": "Mihin arvoon ylijännitesuoja (over-voltage sensor) sammuttaa laturin automaattisesti Cessna 152:n sähköjärjestelmässä?",
+      "options": [
+        "A. Noin 28 volttia",
+        "B. Noin 31,5 volttia",
+        "C. Noin 24 volttia",
+        "D. Noin 35 volttia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Laturin ohjausyksikön ylijännitesuoja sammuttaa laturin automaattisesti, jos latausjännite nousee noin 31,5 volttiin.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0081",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 81,
+      "statement": "Miten suoritetaan 180° käännös pilviin joutumisen jälkeen (vaakasuuntausjärjestelmän vikaannuttua)?",
+      "options": [
+        "A. Käännytään mahdollisimman jyrkästi minimoidaksesi ajan pilvessä",
+        "B. Käytetään tasaista, matalakaltevaa kaarrettua (esim. 1,5°/s) kääntymistä kompassin/kellon avulla",
+        "C. Ei käännytä ollenkaan, vaan jatketaan suoraan eteenpäin",
+        "D. Käytetään vain tekojärjestelmää (autopilottia)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jos suunta-/asentohorisontti ei ole käytettävissä (esim. tyhjiöjärjestelmän vika) ja koneella joudutaan pilveen, suositellaan tasaista, matalaa kaarrenopeutta (esim. noin 1,5°/s eli standardikaarto) kellon ja kompassin avulla tehtävä 180° käännös lähtöpisteeseen.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 32,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0082",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 82,
+      "statement": "Mikä on ensimmäinen toimenpide spiraalisukelluksesta (spiral dive) palautumisessa?",
+      "options": [
+        "A. Vetää ohjainsauvaa voimakkaasti taakse",
+        "B. Vähentää tehoa, tasoittaa siivet vaakasuoriksi peräsimen/siivekkeiden avulla, palautua sitten liu'usta hallitusti",
+        "C. Antaa täyden tehon nopeuden kasvattamiseksi",
+        "D. Sammuttaa moottori kokonaan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Spiraalisukelluksesta palautuminen: teho pois (idle), tasoitetaan siivet vaakasuoriksi ohjaimilla asentohorisontin/kompassin avulla, ja vasta siiven ollessa suorassa vedetään varovasti ylös liukusukelluksesta liiallista kuormitusta välttäen.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 32,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0083",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 83,
+      "statement": "Mikä on suositeltu toimenpide karburaattorijäätymisen (Carburetor Icing) epäilyssä?",
+      "options": [
+        "A. Kytketään kaasutinlämmitys (Carburetor Heat) päälle",
+        "B. Rikastetaan seosta äärimmilleen",
+        "C. Kytketään pitot-lämmitys päälle",
+        "D. Nostetaan lentokorkeutta nopeasti"
+      ],
+      "correctIndex": 0,
+      "explanation": "Karburaattorijäätymisen epäilyssä (moottorin tehon tai kierrosluvun epäselvä lasku) kytketään kaasutinlämmitys (carburetor heat) täysin päälle.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 33,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0084",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 84,
+      "statement": "Mikä on tyypillinen oire sytytystulpan noeutumisesta (Spark Plug Fouling)?",
+      "options": [
+        "A. Moottorin äkillinen pysähtyminen",
+        "B. Epätasainen käynti ja tehon menetys, erityisesti magneetotarkistuksessa",
+        "C. Öljynpaineen nousu",
+        "D. Polttoainepumpun toimintahäiriö"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sytytystulpan noeutuminen näkyy tyypillisesti epätasaisena käyntinä ja tehon menetyksenä, mikä korostuu magneetotarkistuksen aikana yhden magneeton ollessa valittuna.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 33,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0085",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 85,
+      "statement": "Mitä tehdään, jos magneettivika (Magneto Malfunction) havaitaan magneetotarkistuksen aikana?",
+      "options": [
+        "A. Jatketaan lentoonlähtöä normaalisti",
+        "B. Vaihdetaan toiseen magneettoon ja arvioidaan tehon/käynnin tasaisuutta, tarvittaessa lento perutaan",
+        "C. Sammutetaan molemmat magneetot",
+        "D. Nostetaan kierroslukua maksimiin ongelman ohittamiseksi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Magneettivian epäilyssä valitaan kumpikin magneetto vuorotellen käynnin tasaisuuden ja tehon arvioimiseksi; epäselvässä tilanteessa lentoa ei tule jatkaa ennen huoltoa.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 34,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0086",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 86,
+      "statement": "Mikä on suositeltu toimenpide alhaisen öljynpaineen (Low Oil Pressure) havaitsemisen jälkeen, jos öljyn lämpötila on normaali?",
+      "options": [
+        "A. Jatketaan lentoa muuttamatta mitään, koska mittari on todennäköisesti viallinen",
+        "B. Valmistaudutaan ennakoivaan laskuun ja seurataan tarkasti öljyn lämpötilaa mahdollisen mittarivian varalta",
+        "C. Nostetaan kierroslukua paineen nostamiseksi",
+        "D. Sammutetaan moottori välittömästi ilman muita toimenpiteitä"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jos öljynpaine on alhainen mutta lämpötila pysyy normaalina, kyse voi olla mittari- tai anturivika, mutta varovaisuuden vuoksi valmistaudutaan laskeutumaan ja seurataan tarkasti lämpötilaa todellisen vian merkkien varalta.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 34,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0087",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 87,
+      "statement": "Mikä on normaali nousukiitonopeus (Normal Climb Out) lentoonlähdön jälkeen?",
+      "options": [
+        "A. 55 KIAS",
+        "B. 65–75 KIAS",
+        "C. 80–90 KIAS",
+        "D. 104 KIAS"
+      ],
+      "correctIndex": 1,
+      "explanation": "Normaali nousukiitonopeus (Normal Climb Out) on 65–75 KIAS, painolla 1670 lbs tai vähemmän.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 43,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0088",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 88,
+      "statement": "Mikä on lyhyen kentän lentoonlähtönopeus 50 jalan esteen kohdalla (Short Field Takeoff, Speed at 50 Feet)?",
+      "options": [
+        "A. 50 KIAS",
+        "B. 54 KIAS",
+        "C. 60 KIAS",
+        "D. 65 KIAS"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lyhyen kentän lentoonlähdössä läpät 10°, ja nopeus 50 jalan esteen kohdalla tulisi olla 54 KIAS.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 43,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0089",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 89,
+      "statement": "Mikä on paras nousunopeus (Best Rate of Climb) merenpinnan tasolla?",
+      "options": [
+        "A. 55 KIAS",
+        "B. 61 KIAS",
+        "C. 67 KIAS",
+        "D. 75 KIAS"
+      ],
+      "correctIndex": 2,
+      "explanation": "Merenpinnan tasolla paras nousunopeus (Best Rate of Climb, Sea Level) on 67 KIAS. Korkeudella 10 000 ft se on 61 KIAS.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 43,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0090",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 90,
+      "statement": "Mikä on paras nousukulmanopeus (Best Angle of Climb) merenpinnalta 10 000 jalkaan?",
+      "options": [
+        "A. 55 KIAS (vakio koko alueella)",
+        "B. 61 KIAS",
+        "C. 67 KIAS",
+        "D. 70 KIAS"
+      ],
+      "correctIndex": 0,
+      "explanation": "Paras nousukulmanopeus (Best Angle of Climb) on 55 KIAS koko alueella merenpinnasta 10 000 jalkaan.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 43,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0091",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 91,
+      "statement": "Mikä on normaali lähestymisnopeus läpät sisällä (Normal Approach, Flaps Up)?",
+      "options": [
+        "A. 50–60 KIAS",
+        "B. 55–65 KIAS",
+        "C. 60–70 KIAS",
+        "D. 65–75 KIAS"
+      ],
+      "correctIndex": 2,
+      "explanation": "Normaali lähestymisnopeus läppien ollessa sisällä on 60–70 KIAS. Läppien ollessa 30° ulkona vastaava alue on 55–65 KIAS.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 43,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0092",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 92,
+      "statement": "Mikä on suurin suositeltu turbulenssin läpäisynopeus (Maximum Recommended Turbulent Air Penetration Speed) painolla 1670 lbs?",
+      "options": [
+        "A. 98 KIAS",
+        "B. 104 KIAS",
+        "C. 93 KIAS",
+        "D. 111 KIAS"
+      ],
+      "correctIndex": 1,
+      "explanation": "Suurin suositeltu turbulenssin läpäisynopeus painolla 1670 lbs on 104 KIAS (sama kuin VA tällä painolla).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 43,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0093",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 93,
+      "statement": "Mikä on Cessna 152:n suurin osoitettu sivutuulikomponentti (Maximum Demonstrated Crosswind Velocity)?",
+      "options": [
+        "A. 15 solmua",
+        "B. 20 solmua",
+        "C. 42 solmua",
+        "D. 30 solmua"
+      ],
+      "correctIndex": 2,
+      "explanation": "Suurin osoitettu sivutuulikomponentti on 42 solmua. Arvo ei ole sitova rajoitus vaan viitteellinen sertifioinnissa osoitettu suoritusarvo.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 43,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0094",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 94,
+      "statement": "Kuinka monta kertaa primeria (primer) painetaan käynnistyksessä lämpimällä säällä?",
+      "options": [
+        "A. Ei kertaakaan, primeria ei tarvita",
+        "B. Yksi kertaa riittää yleensä",
+        "C. Vähintään viisi kertaa",
+        "D. Jatkuvasti kunnes moottori käynnistyy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lämpimällä säällä yksi (1) primerin painallus riittää yleensä käynnistykseen. Lähellä jäätymispistettä olevissa lämpötiloissa saatetaan tarvita jopa kolme painallusta.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 51,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0095",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 95,
+      "statement": "Miksi kaasuvipua (throttle) ei saa 'pumpata' käynnistyksen aikana Cessna 152:ssa?",
+      "options": [
+        "A. Se kuluttaa akkua tarpeettomasti",
+        "B. Kaasuttimessa ei ole kiihdytyspumppua, joten pumppaus vain liikaköyhdyttää seosta",
+        "C. Se vaurioittaa sytytystulppia",
+        "D. Se aiheuttaa ylikuormituksen käynnistysmoottorille"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kaasuttimessa ei ole kiihdytyspumppua (accelerator pump), joten kaasuvivun pumppaaminen käynnistyksessä johtaa vain liialliseen köyhdytykseen eikä auta käynnistystä.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 51,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0096",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 96,
+      "statement": "Kuinka nopeasti öljynpaineen tulee alkaa näkyä käynnistyksen jälkeen kesäaikaan, ennen kuin moottori tulisi sammuttaa ja tutkia?",
+      "options": [
+        "A. 10 sekunnin sisällä",
+        "B. 30 sekunnin sisällä",
+        "C. 60 sekunnin sisällä",
+        "D. 2 minuutin sisällä"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kesäaikaan öljynpaineen tulisi näkyä mittarissa 30 sekunnin sisällä käynnistyksestä; hyvin kylmällä säällä hyväksytään noin kaksinkertainen aika. Jos painetta ei näy, moottori tulee sammuttaa ja tutkia.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 51,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0097",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 97,
+      "statement": "Millä kierrosluvulla magneettotarkastus (Magneto Check) suoritetaan Cessna 152:ssa?",
+      "options": [
+        "A. 1000 RPM",
+        "B. 1700 RPM",
+        "C. 2000 RPM",
+        "D. 2550 RPM"
+      ],
+      "correctIndex": 1,
+      "explanation": "Magneettotarkastus tehdään 1700 RPM:llä, vaihtaen kytkin ensin R-, sitten L-asentoon ja tarkkaillen kierrosluvun pudotusta.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 53,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0098",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 98,
+      "statement": "Kuinka suuri suurin sallittu kierrosluvun pudotus on yhdellä magneetolla magneettotarkastuksessa?",
+      "options": [
+        "A. Enintään 50 RPM",
+        "B. Enintään 125 RPM eikä yli 50 RPM ero magneettojen välillä",
+        "C. Enintään 200 RPM",
+        "D. Pudotusta ei sallita lainkaan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kierrosluvun pudotus ei saa ylittää 125 RPM kummallakaan magneetolla eikä magneettojen välinen ero saa olla suurempi kuin 50 RPM.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 53,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0099",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 99,
+      "statement": "Miten laturin (alternator) toiminta voidaan varmistaa ennen yö- tai mittarilentoa moottorin lämmityksen aikana?",
+      "options": [
+        "A. Kuormittamalla sähköjärjestelmää hetkellisesti laskuvalolla tai läpillä 1700 RPM:llä ja tarkkailemalla ampeerimittaria",
+        "B. Sammuttamalla laturi kokonaan hetkeksi",
+        "C. Nostamalla kierrosluku maksimiin",
+        "D. Ei ole erillistä tarkastusmenettelyä"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laturin toiminta tarkastetaan kuormittamalla sähköjärjestelmää hetkellisesti (3–5 s) laskuvalolla tai käyttämällä läppiä 1700 RPM:n moottorin käynnin aikana — ampeerimittarin tulisi pysyä lähellä alkuperäistä lukemaansa.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 53,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0100",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 100,
+      "statement": "Mikä läppäasento käytetään lyhyen kentän lähestymisessä (Short Field Approach)?",
+      "options": [
+        "A. 0°",
+        "B. 10°",
+        "C. 20°",
+        "D. 30°"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lyhyen kentän lähestyminen tehdään läpät 30° asennossa, nopeuden ollessa 54 KIAS.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 49,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0101",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 101,
+      "statement": "Mikä läppäasento käytetään keskeytetyssä laskussa (Balked Landing)?",
+      "options": [
+        "A. Läpät säilytetään täysin ulkona",
+        "B. Läpät nostetaan ensin 20°:seen, sitten hitaasti kokonaan sisään",
+        "C. Läpät nostetaan heti kokonaan sisään",
+        "D. Läppien asennolla ei ole väliä"
+      ],
+      "correctIndex": 1,
+      "explanation": "Keskeytetyssä laskussa läpät nostetaan ensin 20°:seen (kaasu täysin auki, kaasutinlämmitys kylmä, nopeus 55 KIAS) ja nostetaan hitaasti kokonaan sisään vasta turvallisen nousun varmistuttua.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 49,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0102",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 102,
+      "statement": "Missä järjestyksessä pyörät koskettavat maata normaalilaskussa (Normal Landing)?",
+      "options": [
+        "A. Nokkapyörä ensin",
+        "B. Kaikki kolme pyörää samanaikaisesti",
+        "C. Päärenkaat ensin (Main Wheels First)",
+        "D. Yksi päärenkaista aina ensin"
+      ],
+      "correctIndex": 2,
+      "explanation": "Normaalilaskussa kosketus tapahtuu päärenkailla ensin (Touchdown -- Main Wheels First), minkä jälkeen nokkapyörä lasketaan varovasti maahan.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 49,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0103",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 103,
+      "statement": "Mitä tehdään konetta pysäköitäessä (Securing Airplane) sekoitusvivulle (mixture)?",
+      "options": [
+        "A. Jätetään RICH-asentoon",
+        "B. Vedetään IDLE CUT-OFF-asentoon (kokonaan ulos)",
+        "C. Asetetaan puoliväliin",
+        "D. Ei kosketa sekoitusvipuun"
+      ],
+      "correctIndex": 1,
+      "explanation": "Konetta pysäköitäessä sekoitusvipu vedetään kokonaan ulos IDLE CUT-OFF-asentoon ennen sytytyksen ja pääkytkimen sammuttamista.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 50,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0104",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 104,
+      "statement": "Miksi kaasutinlämmityksen (Carburetor Heat) nuppi tulisi olla sisällä maakäytön (ground operations) aikana, ellei lämpöä välttämättä tarvita?",
+      "options": [
+        "A. Se säästää polttoainetta",
+        "B. Lämpöasennossa kaasuttimeen tuleva ilma ei ole suodatettu",
+        "C. Se hidastaa moottorin lämpenemistä",
+        "D. Sillä ei ole väliä maassa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kaasutinlämmitys tulisi pitää sisällä maakäytössä, koska lämpöasennossa moottoriin tuleva ilma ei kulje ilmansuodattimen kautta, mikä altistaa moottorin pölylle ja roskille.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 53,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0105",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 105,
+      "statement": "Miten toimitaan, jos rullauksen aikana nokkapyörä ei käänny kunnolla raskaan takapainoisen kuorman ja ylitäytetyn nokkajousituksen vuoksi?",
+      "options": [
+        "A. Ei mitään voi tehdä, kone on hinattava",
+        "B. Painetaan nokkaa käsin alas tai jarrutetaan terävästi rullauksen aikana jousituksen puristamiseksi",
+        "C. Nostetaan nokkajousituksen painetta entisestään",
+        "D. Käytetään vain peräsintä ilman jarruja"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jos nokkajousitus on ylitäytetty ja kone on takapainoinen, ohjattavuutta voidaan parantaa painamalla nokkaa käsin alas ennen rullausta tai jarruttamalla terävästi rullauksen aikana, jotta jousitus puristuu kokoon.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 53,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0106",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 106,
+      "statement": "Mitä tarkoittaa käsikirjan huomautus 'Strong quartering tail winds require caution' rullauksen aikana?",
+      "options": [
+        "A. Vahva viistoperätuuli vaatii varovaisuutta äkkinäisten kaasunantojen ja jyrkän jarrutuksen kanssa",
+        "B. Vastatuuli on aina vaarallisempi kuin myötätuuli",
+        "C. Tuulen suunnalla ei ole merkitystä rullauksessa",
+        "D. Viistoperätuuli vaatii aina hinausajoneuvon käyttöä"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vahvan viistoperätuulen (quartering tail wind) aikana tulee välttää äkkinäisiä kaasunantoja ja jyrkkää jarrutusta, ja ohjaus tehdään ohjattavan nokkapyörän ja peräsimen avulla.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 52,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0107",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 107,
+      "statement": "Mikä on kaasun aukon suositeltu asento moottoria käynnistettäessä?",
+      "options": [
+        "A. Täysin kiinni",
+        "B. Noin 1/2 tuumaa auki",
+        "C. Täysin auki",
+        "D. Puoliväliin auki"
+      ],
+      "correctIndex": 1,
+      "explanation": "Moottoria käynnistettäessä kaasuvipu avataan noin 1/2 tuumaa (n. 13 mm), minkä jälkeen sitä säädetään käynnistymisen jälkeen 1000 RPM:ään tai vähemmän.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 51,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0108",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 108,
+      "statement": "Mikä on merkki ylirikastuksesta (overpriming/flooding) käynnistyksen aikana?",
+      "options": [
+        "A. Moottori käynnistyy heti ja käy tasaisesti",
+        "B. Heikko, katkonainen käynti ja mustaa savua pakoputkesta",
+        "C. Moottori ei pyöri lainkaan",
+        "D. Öljynpaine nousee heti maksimiin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Heikko, katkonainen käynti ja mustan savun puuskat pakoputkesta viittaavat ylirikastukseen (overpriming) tai tulvimiseen (flooding). Ylimääräinen polttoaine poistetaan asettamalla sekoitusvipu IDLE CUT-OFF-asentoon, kaasu täysin auki ja pyörittämällä moottoria käynnistysmoottorilla ilman lisäprimerausta.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 51,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0109",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 109,
+      "statement": "Mitä 'AFTER LANDING' -tarkistuslistassa tehdään läpille?",
+      "options": [
+        "A. Jätetään ulos seuraavaa lentoonlähtöä varten",
+        "B. Nostetaan sisään (Wing Flaps -- UP)",
+        "C. Asetetaan 10°:seen",
+        "D. Ei muuteta asentoa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Laskun jälkeisessä tarkistuslistassa läpät nostetaan sisään (Wing Flaps -- UP) ja kaasutinlämmitys asetetaan kylmäksi (COLD).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 49,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0110",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 110,
+      "statement": "Mitä sekoitusvivulle (Mixture) tehdään ennen laskua tarkistuslistan mukaan (Before Landing)?",
+      "options": [
+        "A. Asetetaan IDLE CUT-OFF",
+        "B. Asetetaan RICH",
+        "C. Köyhdytetään maksimiin",
+        "D. Ei muuteta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ennen laskua -tarkistuslistassa sekoitusvipu asetetaan täyteen rikastukseen (Mixture -- RICH) ja kaasutinlämmitys päälle ennen kaasun sulkemista.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 49,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0111",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 111,
+      "statement": "Cessna 152:n sakkausnopeustaulukon mukaan, mikä on VS0 (läpät 30°, tasalento, taaimmainen painopiste, siivet vaakasuorassa) painolla 1670 lbs?",
+      "options": [
+        "A. 36 KIAS",
+        "B. 31 KIAS",
+        "C. 40 KIAS",
+        "D. 43 KIAS"
+      ],
+      "correctIndex": 1,
+      "explanation": "Taulukon mukaan täydellä painolla 1670 lbs, läpät 30°, taaimmaisella painopisteellä ja siivet vaakasuorassa, sakkausnopeus on 31 KIAS (41 KCAS).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 72,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0112",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 112,
+      "statement": "Cessna 152:n sakkausnopeustaulukon mukaan, mikä on VS (läpät sisällä, taaimmainen painopiste, siivet vaakasuorassa) painolla 1670 lbs?",
+      "options": [
+        "A. 31 KIAS",
+        "B. 36 KIAS",
+        "C. 40 KIAS",
+        "D. 43 KIAS"
+      ],
+      "correctIndex": 1,
+      "explanation": "Taulukon mukaan täydellä painolla 1670 lbs, läpät sisällä, taaimmaisella painopisteellä, siivet vaakasuorassa, sakkausnopeus on 36 KIAS (46 KCAS).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 72,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0113",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 113,
+      "statement": "Miten 60° kallistuskulma vaikuttaa sakkausnopeuteen verrattuna suoraan lentoon (taulukon mukaan, läpät sisällä, taaimmainen painopiste, 1670 lbs)?",
+      "options": [
+        "A. Sakkausnopeus pysyy samana",
+        "B. Sakkausnopeus nousee arvosta 36 KIAS arvoon 51 KIAS",
+        "C. Sakkausnopeus laskee",
+        "D. Sakkausnopeus nousee vain 2 KIAS"
+      ],
+      "correctIndex": 1,
+      "explanation": "60° kallistuskulmalla kuormituskerroin kasvaa merkittävästi, ja sakkausnopeus nousee 36 KIAS:sta (0° kallistus) 51 KIAS:iin (60° kallistus), läpät sisällä, 1670 lbs, taaimmainen painopiste.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 72,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0114",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 114,
+      "statement": "Kuinka paljon korkeutta voi menettää sakkauksesta palautumisen aikana käsikirjan huomautuksen mukaan?",
+      "options": [
+        "A. Enintään 50 jalkaa",
+        "B. Enintään 160 jalkaa",
+        "C. Enintään 300 jalkaa",
+        "D. Ei lainkaan korkeuden menetystä"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sakkaustaulukon huomautuksen mukaan korkeuden menetys sakkauksesta palautumisen aikana voi olla jopa 160 jalkaa.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 72,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0115",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 115,
+      "statement": "Rate of Climb -taulukon mukaan, mikä on suurin nousunopeus (Maximum Rate of Climb) merenpinnan tasolla, ISA-lämpötilassa (0 °C sarake vastaa lähinnä), painolla 1670 lbs?",
+      "options": [
+        "A. 835 FPM",
+        "B. 765 FPM",
+        "C. 700 FPM",
+        "D. 630 FPM"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rate of Climb -taulukon mukaan merenpinnan tasolla 0 °C:ssa suurin nousunopeus on 765 FPM täydellä teholla, läpät sisällä, painolla 1670 lbs.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 74,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0116",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 116,
+      "statement": "Rate of Climb -taulukon mukaan, mikä on suurin nousunopeus 10 000 jalan korkeudessa 0 °C:ssa, painolla 1670 lbs?",
+      "options": [
+        "A. 340 FPM",
+        "B. 285 FPM",
+        "C. 230 FPM",
+        "D. 175 FPM"
+      ],
+      "correctIndex": 1,
+      "explanation": "Taulukon mukaan 10 000 jalan korkeudessa 0 °C:ssa suurin nousunopeus on 285 FPM.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 74,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0117",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 117,
+      "statement": "Rate of Climb -taulukon mukaan, mikä KIAS-nopeus antaa parhaan nousunopeuden 12 000 jalan korkeudessa?",
+      "options": [
+        "A. 67 KIAS",
+        "B. 63 KIAS",
+        "C. 60 KIAS",
+        "D. 55 KIAS"
+      ],
+      "correctIndex": 2,
+      "explanation": "Taulukon mukaan 12 000 jalan korkeudessa käytetty nousunopeus on 60 KIAS (verrattuna 67 KIAS merenpinnalla).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 74,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0118",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 118,
+      "statement": "Time, Fuel and Distance to Climb -taulukon mukaan, kuinka paljon polttoainetta kuluu noustaessa merenpinnalta 10 000 jalkaan (standardilämpötilassa, täysi teho, läpät sisällä)?",
+      "options": [
+        "A. 1,4 gallonaa",
+        "B. 2,0 gallonaa",
+        "C. 2,6 gallonaa",
+        "D. 3,4 gallonaa"
+      ],
+      "correctIndex": 2,
+      "explanation": "Taulukon mukaan nousu merenpinnalta 10 000 jalkaan kuluttaa 2,6 gallonaa polttoainetta standardilämpötilassa.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 75,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0119",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 119,
+      "statement": "Time, Fuel and Distance to Climb -taulukon mukaan, kuinka kauan (minuuttia) kestää nousta merenpinnalta 10 000 jalkaan standardiolosuhteissa?",
+      "options": [
+        "A. 15 minuuttia",
+        "B. 18 minuuttia",
+        "C. 21 minuuttia",
+        "D. 25 minuuttia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Taulukon mukaan nousu merenpinnalta 10 000 jalkaan kestää 21 minuuttia standardilämpötilassa täydellä teholla.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 75,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0120",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 120,
+      "statement": "Kuinka paljon nousuun kuluvaa aikaa, polttoainetta ja matkaa tulee korjata, jos lämpötila on 10 °C standardia korkeampi?",
+      "options": [
+        "A. Ei tarvitse korjata mitään",
+        "B. Vähennetään 10 %",
+        "C. Lisätään 10 %",
+        "D. Lisätään 25 %"
+      ],
+      "correctIndex": 2,
+      "explanation": "Käsikirjan huomautuksen mukaan aikaa, polttoainetta ja matkaa tulee kasvattaa 10 % jokaista 10 °C:ta kohden, joka ylittää standardilämpötilan, koska nousunopeus tällöin pienenee.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 75,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0121",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 121,
+      "statement": "Cruise Performance -taulukon mukaan (1670 lbs, standardilämpötila), mikä on todellinen ilmanopeus (KTAS) korkeudella 6000 ft, 2400 RPM?",
+      "options": [
+        "A. 96 knots",
+        "B. 100 knots",
+        "C. 90 knots",
+        "D. 105 knots"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cruise Performance -taulukon mukaan korkeudella 6000 ft, standardilämpötilassa, 2400 RPM:llä, todellinen ilmanopeus on 100 KTAS teholla 67 %.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 76,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0122",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 122,
+      "statement": "Cruise Performance -taulukon mukaan, mikä polttoaineenkulutus (GPH) vastaa 75 % tehoa korkeudella 8000 ft standardilämpötilassa?",
+      "options": [
+        "A. 5,7 GPH",
+        "B. 6,1 GPH",
+        "C. 5,2 GPH",
+        "D. 6,2 GPH"
+      ],
+      "correctIndex": 1,
+      "explanation": "Taulukon mukaan korkeudella 8000 ft standardilämpötilassa 75 % teholla polttoaineenkulutus on 6,1 GPH.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 76,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0123",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 123,
+      "statement": "Suorituskykytietojen esimerkkiongelman (Sample Problem) mukaan, mikä oli lentoonlähtöpaino?",
+      "options": [
+        "A. 1670 lbs",
+        "B. 1610 lbs",
+        "C. 1500 lbs",
+        "D. 1350 lbs"
+      ],
+      "correctIndex": 1,
+      "explanation": "Suorituskykyluvun esimerkkiongelmassa lentoonlähtöpainoksi annettiin 1610 lbs.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 65,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0124",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 124,
+      "statement": "Esimerkkiongelman mukaan, kuinka paljon lentoonlähtömatka korjataan 12 solmun vastatuulella (vähennys prosentteina)?",
+      "options": [
+        "A. 10 %",
+        "B. 13 %",
+        "C. 15 %",
+        "D. 20 %"
+      ],
+      "correctIndex": 1,
+      "explanation": "Esimerkkiongelmassa 12 solmun vastatuulen korjaus lentoonlähtömatkalle oli 13 % vähennys (perustuu taulukon huomautukseen: 10 % vähennys jokaista 9 solmua kohden vastatuulesta jopa 10 solmuun asti).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 66,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0125",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 125,
+      "statement": "Kuinka paljon lentoonlähtö- ja laskumatkoja tulee lisätä, jos toiminta tapahtuu kuivalla, pitkällä ruoholla asfaltin sijaan?",
+      "options": [
+        "A. 5 %",
+        "B. 7 %",
+        "C. 10 %",
+        "D. 15 %"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lentoonlähtömatkataulukon huomautuksen mukaan ruohokentällä (kuiva, pitkä ruoho) matkoja tulee kasvattaa 10 % 'ground roll' -arvosta.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 73,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0126",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 126,
+      "statement": "Esimerkkiongelman matkalentotietojen mukaan, mikä oli suunniteltu risteilykorkeus (Cruise Pressure Altitude)?",
+      "options": [
+        "A. 4500 ft",
+        "B. 5500 ft",
+        "C. 6500 ft",
+        "D. 7500 ft"
+      ],
+      "correctIndex": 1,
+      "explanation": "Esimerkkiongelmassa risteilyn painekorkeudeksi oli annettu 5500 ft.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 66,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0127",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 127,
+      "statement": "Esimerkkiongelman mukaan, mikä oli risteilyn ennustettu kokonaismatka (Range) 65 % teholla nollatuulessa 5500 jalan korkeudessa?",
+      "options": [
+        "A. 320 NM",
+        "B. 336 NM",
+        "C. 375 NM",
+        "D. 415 NM"
+      ],
+      "correctIndex": 2,
+      "explanation": "Matkaprofiilikaavion (Range Profile) mukaan 65 % teholla 5500 jalan korkeudessa ennustettu matka nollatuulessa on 375 merimailia. Odotettu 10 solmun vastatuuli pienensi lopullisen matkan 336 merimailiin.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 67,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0128",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 128,
+      "statement": "Mikä on vaadittu polttoainevaraus (reserve) matkalentosuoritusarvoissa (range/endurance -profiileissa)?",
+      "options": [
+        "A. 30 minuuttia 55 % teholla",
+        "B. 45 minuuttia 45 % teholla",
+        "C. 60 minuuttia 65 % teholla",
+        "D. Ei varausta, vain käytettävä polttoaine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Matka- ja kestoprofiilikaaviot sisältävät 45 minuutin polttoainevarauksen, laskettuna 45 % teholla.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 65,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0129",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 129,
+      "statement": "Esimerkkiongelman mukaan, kuinka paljon kokonaispolttoainetta tarvitaan koko matkaan (käynnistys, rullaus, lentoonlähtö, nousu, risteily)?",
+      "options": [
+        "A. 18,2 gallonaa",
+        "B. 20,2 gallonaa",
+        "C. 24,5 gallonaa",
+        "D. 22,0 gallonaa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Esimerkkiongelmassa kokonaispolttoainetarve oli 20,2 gallonaa (0,8 gal käynnistys/rullaus/lähtö + 1,2 gal nousu + 18,2 gal risteily), jättäen 4,3 gallonan varannon 24,5 gallonan kokonaismäärästä.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 69,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0130",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 130,
+      "statement": "Esimerkkiongelman laskutietojen mukaan, mikä oli laskun maakosketusmatka (Ground Roll) 2000 ft / 30 °C -olosuhteissa?",
+      "options": [
+        "A. 475 ft",
+        "B. 535 ft",
+        "C. 725 ft",
+        "D. 980 ft"
+      ],
+      "correctIndex": 1,
+      "explanation": "Laskumatkataulukon (Figure 5-10) mukaan 2000 ft painekorkeudella ja 30 °C lämpötilassa laskun maakosketusmatka (Ground Roll) on 535 ft.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 69,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0131",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 131,
+      "statement": "Millä ilmanopeuskalibrointitaulukon (Airspeed Calibration) mukaan KIAS-arvolla 60 vastaa KCAS-arvoa läpät sisällä?",
+      "options": [
+        "A. 58 KCAS",
+        "B. 60 KCAS",
+        "C. 61 KCAS",
+        "D. 65 KCAS"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ilmanopeuskalibrointitaulukon (Figure 5-1) mukaan läppien ollessa sisällä, 60 KIAS vastaa 60 KCAS.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 70,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0132",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 132,
+      "statement": "Mikä on ilman ulkolämpötilan (OAT) demonstroitu poikkeama standardista, jolla moottorin jäähdytys on osoitettu riittäväksi?",
+      "options": [
+        "A. 15 °C standardin yläpuolella",
+        "B. 20 °C standardin yläpuolella",
+        "C. 23 °C standardin yläpuolella",
+        "D. 30 °C standardin yläpuolella"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tyydyttävä moottorin jäähdytys on osoitettu ulkolämpötilalla, joka on 23 °C standardilämpötilaa korkeampi. Tätä ei kuitenkaan pidetä käyttörajoituksena.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 69,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0133",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 133,
+      "statement": "Cruise Performance -taulukon mukaan, mikä RPM-asetus antaa suurimman käytettävissä olevan tehon (75 %) korkeudella 2000 ft standardilämpötilassa?",
+      "options": [
+        "A. 2200 RPM",
+        "B. 2300 RPM",
+        "C. 2400 RPM",
+        "D. 2500 RPM"
+      ],
+      "correctIndex": 2,
+      "explanation": "Taulukon mukaan korkeudella 2000 ft standardilämpötilassa 75 % teho saavutetaan 2400 RPM:llä, jolloin todellinen ilmanopeus on 101 KTAS ja kulutus 6,1 GPH.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 76,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0134",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 134,
+      "statement": "Kuinka paljon suorituskykyarvot voivat vaihdella (range/endurance) johtuen esimerkiksi seostustekniikasta ja ilman turbulenssista?",
+      "options": [
+        "A. Enintään 2 %",
+        "B. Enintään 5 %",
+        "C. 10 % tai enemmän",
+        "D. Suorituskykyarvot ovat aina tarkkoja"
+      ],
+      "correctIndex": 2,
+      "explanation": "Käsikirjan johdannon mukaan määrittelemättömät muuttujat (seostustekniikka, polttoaineen syöttöominaisuudet, moottorin/potkurin kunto, ilman turbulenssi) voivat aiheuttaa 10 % tai suurempia vaihteluita matka- ja kestoarvoissa.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 65,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0135",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 135,
+      "statement": "Millä perusteella matkalentoteho tulisi valita suorituskykyosion mukaan?",
+      "options": [
+        "A. Aina suurimmalla mahdollisella teholla nopeimman matka-ajan saavuttamiseksi",
+        "B. Matkan pituuden, korkeustuulien ja koneen suorituskyvyn perusteella, huomioiden matka- ja kestoprofiilit",
+        "C. Aina 55 % teholla riippumatta olosuhteista",
+        "D. Sään perusteella, teholla ei ole merkitystä"
+      ],
+      "correctIndex": 1,
+      "explanation": "Risteilykorkeus ja tehoasetus tulisi valita huomioiden matkan pituus, korkeustuulet ja koneen suorituskykyominaisuudet — matalampi teho tuo huomattavia polttoainesäästöjä ja pidemmän kantaman.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 67,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0136",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 136,
+      "statement": "Miten lentäjä voi tarkentaa jäljellä olevan matkan aika- ja polttoainearviota lennon aikana verrattuna ennakkosuunnitteluun?",
+      "options": [
+        "A. Ei voi tarkentaa, ennakkosuunnitelma on aina pätevä",
+        "B. Maanopeustarkistuksilla (ground speed checks) lennon aikana",
+        "C. Vain laskeutumisen jälkeen tehtävällä analyysillä",
+        "D. Muuttamalla korkeutta jatkuvasti"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kun lento on käynnissä, maanopeustarkistukset (ground speed checks) antavat tarkemman perustan arvioida jäljellä olevaa aikaa ja tarvittavaa polttoainetta riittävällä varannolla.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 69,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0137",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 137,
+      "statement": "Cruise Performance -taulukon mukaan, mikä on polttoaineenkulutus (GPH) 2000 ft korkeudessa, standardilämpötilassa, 2000 RPM:llä?",
+      "options": [
+        "A. 3,8 GPH",
+        "B. 4,1 GPH",
+        "C. 4,5 GPH",
+        "D. 5,1 GPH"
+      ],
+      "correctIndex": 1,
+      "explanation": "Taulukon mukaan 2000 ft korkeudessa standardilämpötilassa 2000 RPM:llä polttoaineenkulutus on 4,1 GPH, teholla 49 %, ilmanopeudella 81 KTAS.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 76,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0138",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 138,
+      "statement": "Mikä ilmanopeus vastaa lentokoneen lämpötilan muuntokaaviota (Temperature Conversion Chart) käytettäessä 20 °C:n Celsius-arvoa?",
+      "options": [
+        "A. 50 °F",
+        "B. 68 °F",
+        "C. 77 °F",
+        "D. 86 °F"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lämpötilan muuntokaavion mukaan 20 °C vastaa 68 °F:ia (yleinen muunnoskaava °F = °C × 1,8 + 32).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 71,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0139",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 139,
+      "statement": "Mitä tarkoittaa 'Tare' koneen punnitusmenettelyssä?",
+      "options": [
+        "A. Koneen tyhjäpaino ilman polttoainetta",
+        "B. Vaakalukemassa mukana olevien pukkien/kiilojen paino, joka vähennetään lukemasta",
+        "C. Koneen suurin sallittu ramppipaino",
+        "D. Painopisteen sijainti punnituksen aikana"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tare on punnituksessa käytettyjen kiilojen, pukkien tms. paino, joka sisältyy vaa'an lukemaan ja joka tulee vähentää todellisen (netto) painon saamiseksi.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0140",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 140,
+      "statement": "Mitkä valmistelut tehdään ennen koneen punnitusta (Airplane Weighing Procedures)?",
+      "options": [
+        "A. Tankit täytetään täyteen ja öljy vaihdetaan",
+        "B. Renkaat täytetään oikeisiin paineisiin, polttoaine ja öljy tyhjennetään, istuimet siirretään eteen ja läpät sisään",
+        "C. Kone punnitaan aina täydellä polttoainemäärällä",
+        "D. Ohjauspinnat lukitaan ääriasentoon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Punnitusta varten renkaat täytetään oikeisiin paineisiin, polttoainetankit ja öljypohja tyhjennetään kokonaan, istuimet siirretään eteen, läpät nostetaan täysin sisään ja ohjauspinnat asetetaan neutraaliin asentoon.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 85,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0141",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 141,
+      "statement": "Mikä on painopisteen laskennassa käytetty 'Arm' (vipuvarsi)?",
+      "options": [
+        "A. Painon ja momentin osamäärä",
+        "B. Vaakasuora etäisyys referenssitasosta kohteen painopisteeseen",
+        "C. Koneen kokonaispituus",
+        "D. Etäisyys nokkapyörästä pääpyöriin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Arm (vipuvarsi) on vaakasuora etäisyys referenssitasosta (datum) kohteen painopisteeseen (C.G.).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0142",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 142,
+      "statement": "Miksi käsikirjassa momentti jaetaan usein vakiolla 1000 (Moment/1000)?",
+      "options": [
+        "A. Koska momentin todellinen yksikkö on tuhatta lbs-in",
+        "B. Laskujen yksinkertaistamiseksi pienentämällä numeroiden määrää",
+        "C. Koska FAA vaatii sen laskukaavoissa",
+        "D. Momenttia ei koskaan jaeta millään vakiolla"
+      ],
+      "correctIndex": 1,
+      "explanation": "Momentti/1000-käytäntö on puhtaasti laskennallinen yksinkertaistus, joka vähentää käsiteltävien numeroiden määrää painon ja tasapainon laskuissa.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0143",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 143,
+      "statement": "Mikä on 'Useful Load' (hyötykuorma) määritelmä käsikirjan terminologian mukaan?",
+      "options": [
+        "A. Koneen suurin sallittu ramppipaino",
+        "B. Ramppipainon ja perus tyhjäpainon (Basic Empty Weight) erotus",
+        "C. Matkatavaran suurin sallittu paino",
+        "D. Polttoaineen kokonaispaino"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hyötykuorma (Useful Load) on ramppipainon ja perus tyhjäpainon (Basic Empty Weight) erotus — se sisältää miehistön, matkustajat, matkatavarat ja polttoaineen.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0144",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 144,
+      "statement": "Mikä on ero 'Standard Empty Weight' ja 'Basic Empty Weight' -käsitteiden välillä?",
+      "options": [
+        "A. Ne tarkoittavat samaa asiaa",
+        "B. Basic Empty Weight = Standard Empty Weight + lisävarusteiden paino",
+        "C. Standard Empty Weight sisältää aina matkatavaran painon",
+        "D. Basic Empty Weight on aina pienempi kuin Standard Empty Weight"
+      ],
+      "correctIndex": 1,
+      "explanation": "Standard Empty Weight on vakiokoneen tyhjäpaino (sis. käyttökelvoton polttoaine, täydet nesteet ja moottoriöljy). Basic Empty Weight on tämä paino lisättynä asennetun lisävarustuksen painolla.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0145",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 145,
+      "statement": "Baggage Area 2:n (asemat 76–94) sijainti on kuinka pitkä matka referenssitasosta (asemana ilmaistuna)?",
+      "options": [
+        "A. 50–76 tuumaa",
+        "B. 76–94 tuumaa",
+        "C. 33–50 tuumaa",
+        "D. 94–120 tuumaa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Baggage Area 2 sijaitsee asemien (station) 76 ja 94 välillä, eli 76–94 tuumaa referenssitasosta (palomuurista) taaksepäin mitattuna.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 89,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0146",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 146,
+      "statement": "Kuinka monta kiinnityslenkkiä (tie-down rings) matkatavaran kiinnitysverkolle on tarjolla?",
+      "options": [
+        "A. Neljä",
+        "B. Kuusi",
+        "C. Kahdeksan",
+        "D. Kaksi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Matkatavaran kiinnitysverkko kiinnittyy kuuteen (6) kiinnityslenkkiin: kaksi lattiassa istuinselkien takana, yksi kummallakin seinällä alue 1:n takaosassa, ja kaksi alue 2:n yläosassa.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 89,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0147",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 147,
+      "statement": "Kuinka monta kiinnityslenkkiä tulisi vähintään käyttää suurimman sallitun 120 lbs:n matkatavarakuorman kiinnittämiseen?",
+      "options": [
+        "A. Kaksi",
+        "B. Kolme",
+        "C. Neljä",
+        "D. Kaikki kuusi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Käsikirjan mukaan vähintään neljää (4) kiinnityslenkkiä tulisi käyttää suurimman sallitun 120 lbs:n matkatavarakuorman kiinnittämiseen.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 89,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0148",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 148,
+      "statement": "Miten öljyn paino lasketaan painon ja tasapainon laskuissa (Lbs/Gal)?",
+      "options": [
+        "A. 6,0 lbs/gal",
+        "B. 6,7 lbs/gal",
+        "C. 7,5 lbs/gal",
+        "D. 8,3 lbs/gal"
+      ],
+      "correctIndex": 2,
+      "explanation": "Painon ja tasapainon laskuissa öljyn ominaispaino on 7,5 lbs/gallona (esim. 6 quarttia (1,5 gal) x 7,5 lbs/gal = 11,25 lbs, käsikirjan taulukossa pyöristettynä esitetty 14,7 lbs 6 quartille kun mukana on tyhjä sump-tilavuus laskettuna eri tavalla huomioiden lisäys).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 86,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0149",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 149,
+      "statement": "Mikä on polttoaineen ominaispaino (lbs/gal) painon ja tasapainon laskuissa Cessna 152:lla?",
+      "options": [
+        "A. 5,5 lbs/gal",
+        "B. 6,0 lbs/gal",
+        "C. 6,7 lbs/gal",
+        "D. 7,5 lbs/gal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lentobensiinin ominaispaino painon ja tasapainon laskuissa on 6,0 lbs/gallona (esim. käyttökelvoton polttoaine 1,5 gal x 6 lbs/gal = 9 lbs, käsikirjan taulukossa esitetty pyöristettynä).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 86,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0150",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 150,
+      "statement": "Kuinka paljon painoa (0.5 kg-kertoimella) lisätään koneen painoon täydellä 39 gallonan (Long Range) polttoainetankkauksella verrattuna tyhjiin tankkeihin?",
+      "options": [
+        "A. Noin 106 kg (39 gal x 6 lbs/gal)",
+        "B. Noin 71 kg",
+        "C. Noin 102 kg",
+        "D. Noin 53 kg"
+      ],
+      "correctIndex": 0,
+      "explanation": "Täysi 39 US-gallonan (pitkän kantaman) polttoainetankkaus painaa noin 39 gal × 6 lbs/gal = 234 lbs (106 kg).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 86,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0151",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 151,
+      "statement": "Mistä löytyy tarkka, kyseisen yksilön ajantasainen tieto koneen tyhjäpainosta, momentista ja asennetusta varustuksesta?",
+      "options": [
+        "A. Aina Section 1:n taulukosta",
+        "B. Koneen omista painon ja tasapainon asiakirjoista (weight and balance records)",
+        "C. Aina saman mallin muiden koneiden keskiarvosta",
+        "D. FAA:n verkkosivulta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Käsikirja korostaa, että täsmällinen, kyseistä yksilöä koskeva tieto painosta, vipuvarresta, momentista ja asennetusta varustuksesta löytyy vain koneen omista painon ja tasapainon asiakirjoista, ei käsikirjan yleistaulukoista.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 85,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0152",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 152,
+      "statement": "Kenen vastuulla on varmistaa, että kone on kuormattu asianmukaisesti (lastin, matkustajien ja polttoaineen suhteen)?",
+      "options": [
+        "A. Huoltoyrityksen",
+        "B. Lentäjän",
+        "C. Valmistajan",
+        "D. Ilmailuviranomaisen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Käsikirja toteaa nimenomaisesti, että vastuu koneen asianmukaisesta kuormituksesta on lentäjällä (It is the responsibility of the pilot to ensure that the airplane is loaded properly).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 85,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0153",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 153,
+      "statement": "Miten Cessna 152:n rakenne kuvataan (runko, siivet)?",
+      "options": [
+        "A. Kokometallinen, kaksipaikkainen, matalasiipinen yksimoottorinen kone kolmipyöräisellä laskutelineellä",
+        "B. Kokometallinen, kaksipaikkainen, korkeasiipinen yksimoottorinen kone kolmipyöräisellä laskutelineellä",
+        "C. Puurunkoinen, nelipaikkainen, korkeasiipinen kone",
+        "D. Komposiittirunkoinen, kaksipaikkainen, matalasiipinen kone"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kone on kokometallinen, kaksipaikkainen, korkeasiipinen (high-wing), yksimoottorinen kone kolmipyöräisellä (tricycle) laskutelineellä.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 105,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0154",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 154,
+      "statement": "Millä termillä kuvataan Cessna 152:n rungon (fuselage) rakennetta?",
+      "options": [
+        "A. Monocoque",
+        "B. Semimonocoque",
+        "C. Ristikkorakenne (truss)",
+        "D. Hiilikuiturakenne"
+      ],
+      "correctIndex": 1,
+      "explanation": "Runko on perinteinen muotoillusta peltilevystä, kaarista, pituustuista ja pinnoitteesta koostuva semimonocoque-rakenne.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 105,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0155",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 155,
+      "statement": "Miten polttoaine virtaa tankeista kaasuttimelle Cessna 152:ssa?",
+      "options": [
+        "A. Sähköisen polttoainepumpun avulla",
+        "B. Painovoiman avulla (gravity feed)",
+        "C. Moottorin imun avulla",
+        "D. Käsipumpulla jatkuvasti"
+      ],
+      "correctIndex": 1,
+      "explanation": "Polttoaine virtaa painovoiman avulla (gravity feed) siipitankeista polttoaineen sulkuventtiiliin ja edelleen suodattimen kautta kaasuttimelle — Cessna 152:ssa ei ole sähköistä polttoainepumppua normaalikäytössä.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 123,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0156",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 156,
+      "statement": "Mistä polttoainejärjestelmän tuuletus (venting) hoidetaan Cessna 152:ssa?",
+      "options": [
+        "A. Vain oikean tankin täyttökorkista",
+        "B. Yhdyslinjalla oikeasta tankista vasempaan, joka tuulettuu ulos tarkastusventtiilillä varustetun linjan kautta",
+        "C. Tuuletusta ei tarvita, koska tankit ovat paineistettuja",
+        "D. Erillisellä sähköisellä tuuletuspuhaltimella"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tuuletus hoidetaan yhdyslinjalla oikeasta tankista vasempaan tankkiin; vasen tankki tuulettuu ulos tarkastusventtiilillä (check valve) varustetun linjan kautta siiven alapinnasta. Myös oikean tankin täyttökorkki on tuuletettu.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 123,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0157",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 157,
+      "statement": "Mitä tapahtuu, jos polttoainejärjestelmän tuuletus tukkeutuu?",
+      "options": [
+        "A. Ei mitään vaikutusta polttoaineen virtaukseen",
+        "B. Polttoaineen virtaus vähenee vähitellen ja moottori lopulta pysähtyy",
+        "C. Polttoaine virtaa nopeammin",
+        "D. Tankit räjähtävät ylipaineesta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tuuletusjärjestelmän tukkeutuminen johtaa polttoaineen virtauksen vähittäiseen heikkenemiseen ja lopulta moottorin pysähtymiseen, koska painovoimaiseen syöttöön tarvitaan toimiva tuuletus.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 123,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0158",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 158,
+      "statement": "Miten polttoaineen määrä mitataan ja näytetään Cessna 152:ssa?",
+      "options": [
+        "A. Mekaanisilla uimurimittareilla suoraan tankin päällä",
+        "B. Kahdella uimurityyppisellä anturilla ja kahdella sähköisellä mittarilla kojelaudassa",
+        "C. Ainoastaan tikulla mittaamalla ennen lentoa",
+        "D. GPS-pohjaisella laskennalla"
+      ],
+      "correctIndex": 1,
+      "explanation": "Polttoainemäärä mitataan kahdella uimurityyppisellä anturilla (yksi kummassakin tankissa) ja näytetään kahdella sähköisesti toimivalla mittarilla kojelaudan vasemmassa alaosassa.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 123,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0159",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 159,
+      "statement": "Voiko polttoainemittareihin luottaa täysin luistoissa (slips) tai epätavallisissa asennoissa?",
+      "options": [
+        "A. Kyllä, ne ovat aina tarkkoja",
+        "B. Ei, niihin ei voi luottaa tarkasti luistoissa, sivuluisuissa tai epätavallisissa asennoissa",
+        "C. Vain oikean puolen mittariin voi luottaa",
+        "D. Vain jos kone on täysin vaakasuorassa maassa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mittareihin ei voi luottaa tarkasti luistoissa (skids), sivuluisuissa (slips) tai epätavallisissa lentoasennoissa, koska uimurit eivät tällöin mittaa oikein polttoaineen todellista pintaa tankissa.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 123,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0160",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 160,
+      "statement": "Mikä on Cessna 152:n jarrujärjestelmän tyyppi?",
+      "options": [
+        "A. Ilmajarrut kummallakin päärenkaalla",
+        "B. Yksilevyiset, hydraulisesti toimivat jarrut kummallakin päärenkaalla",
+        "C. Rumpujarrut kaikilla kolmella pyörällä",
+        "D. Vain nokkapyörän jarru"
+      ],
+      "correctIndex": 1,
+      "explanation": "Koneessa on yksilevyinen (single-disc), hydraulisesti toimiva jarru kummallakin päärenkaalla, kytkettynä lentäjän peräsinpolkimiin.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 124,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0161",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 161,
+      "statement": "Mistä pysäköintijarru (Parking Brake) käytetään Cessna 152:ssa?",
+      "options": [
+        "A. Erillisellä poljinparilla",
+        "B. Nupilla kojelaudan alaoikealla puolella",
+        "C. Nupilla kojelaudan alavasemmalla puolella",
+        "D. Vivulla lattian keskellä"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pysäköintijarru operoidaan nupilla, joka sijaitsee kojelaudan alavasemmalla puolella.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 124,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0162",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 162,
+      "statement": "Mitkä ovat merkkejä uhkaavasta jarruviasta (impending brake failure)?",
+      "options": [
+        "A. Jarrutusteho vain kasvaa jatkuvasti",
+        "B. Asteittainen jarrutustehon heikkeneminen, meluisat/raapivat jarrut, pehmeät polkimet",
+        "C. Jarrupolkimet jäävät aina kiinni ala-asentoon",
+        "D. Jarrut kuumenevat mutta toimivat aina täydellä teholla"
+      ],
+      "correctIndex": 1,
+      "explanation": "Merkkejä uhkaavasta jarruviasta ovat asteittainen jarrutustehon heikkeneminen, meluisat tai raahaavat jarrut, pehmeät/pinoutuvat polkimet ja liiallinen poljinliike heikolla jarrutusteholla.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 124,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0163",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 163,
+      "statement": "Mikä on Cessna 152:n sähköjärjestelmän jännite ja tyyppi?",
+      "options": [
+        "A. 14 V tasavirta",
+        "B. 28 V tasavirta",
+        "C. 115 V vaihtovirta",
+        "D. 12 V tasavirta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kone on varustettu 28 voltin tasavirtajärjestelmällä (28-volt, direct-current electrical system).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 124,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0164",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 164,
+      "statement": "Mikä on Cessna 152:n akun (battery) jännite ja sijainti?",
+      "options": [
+        "A. 12-volttinen akku takarungossa",
+        "B. 24-volttinen akku palomuurin oikealla etupuolella",
+        "C. 28-volttinen akku ohjaamon lattian alla",
+        "D. 24-volttinen akku siiven sisällä"
+      ],
+      "correctIndex": 1,
+      "explanation": "Akku on 24-volttinen ja sijaitsee palomuurin oikealla etupuolella (right forward side of the firewall).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 124,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0165",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 165,
+      "statement": "Mikä on Cessna 152:n laturin (alternator) teho?",
+      "options": [
+        "A. 35 A",
+        "B. 50 A",
+        "C. 60 A",
+        "D. 75 A"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sähköjärjestelmässä käytetään moottorikäyttöistä 60 ampeerin (60-amp) laturia akun varaustilan ylläpitämiseen.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 124,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0166",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 166,
+      "statement": "Mikä on tyypillinen suositeltu suotoimen (suction) alue tyhjiöjärjestelmässä (Vacuum System), joka ylläpitää asentohorisonttia ja suuntaindikaattoria?",
+      "options": [
+        "A. 2,0–3,0 inHg",
+        "B. 4,5–5,4 inHg",
+        "C. 6,0–7,0 inHg",
+        "D. 1,0–2,0 inHg"
+      ],
+      "correctIndex": 1,
+      "explanation": "Suotoimen suositeltu alue tyhjiöjärjestelmässä on 4,5–5,4 tuumaa elohopeaa (inHg). Tätä pienempi lukema voi viitata järjestelmän vikaan tai väärään säätöön.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 133,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0167",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 167,
+      "statement": "Millä periaatteella Cessna 152:n sakkausvaroitusjärjestelmä (Stall Warning System) toimii?",
+      "options": [
+        "A. Sähköisellä kiihtyvyysanturilla siivessä",
+        "B. Pneumaattisella (ilmavirtaukseen perustuvalla) anturilla vasemman siiven etureunassa",
+        "C. GPS-pohjaisella nopeuslaskennalla",
+        "D. Radiotaajuisella tutka-anturilla"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sakkausvaroitusjärjestelmä on pneumaattinen: vasemman siiven etureunan aukko havaitsee alipaineen siirtymisen sakkauksen lähestyessä, ja tämä paine-ero saa aikaan äänimerkin ohjaamon torvesta.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 133,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0168",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 168,
+      "statement": "Kuinka monta solmua ennen todellista sakkausta sakkausvaroitusäänimerkki kuuluu?",
+      "options": [
+        "A. 1–3 solmua",
+        "B. 5–10 solmua",
+        "C. 10–15 solmua",
+        "D. 15–20 solmua"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sakkausvaroitusjärjestelmä antaa kuuluvan varoituksen 5–10 solmua ennen todellista sakkausta kaikissa lentotilanteissa.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 133,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0169",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 169,
+      "statement": "Miten sakkausvaroitusjärjestelmän toiminta tarkistetaan esilentotarkastuksessa?",
+      "options": [
+        "A. Sammuttamalla pääkytkin hetkeksi",
+        "B. Peittämällä anturin aukko puhtaalla nenäliinalla ja imemällä ilmaa",
+        "C. Nostamalla konetta hetkeksi ilmaan",
+        "D. Kytkemällä pitot-lämmitys päälle"
+      ],
+      "correctIndex": 1,
+      "explanation": "Järjestelmä tarkistetaan peittämällä anturin ilma-aukko puhtaalla nenäliinalla ja imemällä hieman ilmaa — äänimerkki torvesta vahvistaa järjestelmän toimivan.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 134,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0170",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 170,
+      "statement": "Mikä instrumentti käyttää tyhjiöjärjestelmää (Vacuum System) Cessna 152:ssa?",
+      "options": [
+        "A. Nopeusmittari ja korkeusmittari",
+        "B. Asentohorisontti ja suuntaindikaattori",
+        "C. Ampeerimittari ja öljynpainemittari",
+        "D. Polttoainemittari ja käyntinopeusmittari"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tyhjiöjärjestelmä käyttää asentohorisonttia (Attitude Indicator) ja suuntaindikaattoria (Directional Indicator).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 133,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0171",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 171,
+      "statement": "Mitkä instrumentit kuuluvat pitot-staattiseen järjestelmään (Pitot-Static System) Cessna 152:ssa?",
+      "options": [
+        "A. Asentohorisontti, suuntaindikaattori, kompassi",
+        "B. Nopeusmittari, nousumittari (VSI) ja korkeusmittari",
+        "C. Ampeerimittari, öljynpaine- ja lämpömittari",
+        "D. Polttoainemittarit ja käyntinopeusmittari"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pitot-staattinen järjestelmä syöttää tietoa nopeusmittarille (Airspeed Indicator), nousumittarille (Rate-of-Climb Indicator) ja korkeusmittarille (Altimeter).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 103,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0172",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 172,
+      "statement": "Miten suuntaindikaattoria (Directional Indicator) tulisi käyttää suhteessa magneettikompassiin?",
+      "options": [
+        "A. Sitä ei tarvitse koskaan säätää",
+        "B. Kompassikortti tulee asettaa magneettikompassin mukaiseksi juuri ennen lentoonlähtöä ja säätää ajoittain pitkillä lennoilla",
+        "C. Se korvaa magneettikompassin kokonaan eikä kompassia enää tarvita",
+        "D. Sitä säädetään vain huollon yhteydessä"
+      ],
+      "correctIndex": 1,
+      "explanation": "Suuntaindikaattori precessoituu (ajautuu) hitaasti ajan myötä, joten kompassikortti tulee säätää magneettikompassin mukaiseksi juuri ennen lentoonlähtöä ja ajoittain uudelleen pidemmillä lennoilla.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 133,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0173",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 173,
+      "statement": "Kuinka monta ovea Cessna 152:ssa on matkustamoon pääsyä varten?",
+      "options": [
+        "A. Yksi, vasemmalla puolella",
+        "B. Kaksi, yksi kummallakin puolella",
+        "C. Kolme",
+        "D. Ei erillisiä ovia, avoin ohjaamo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Koneessa on kaksi sisäänkäyntiovea, yksi kummallakin puolella ohjaamoa.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 116,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0174",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 174,
+      "statement": "Mitä VHF-radiojärjestelmässä tapahtuu, jos käytössä olevan lähettimen audiovahvistin vikaantuu?",
+      "options": [
+        "A. Koko sähköjärjestelmä sammuu",
+        "B. Kaikki kaiutinääni ja lähetysmahdollisuus katoaa, mutta tilanne korjaantuu vaihtamalla toiseen lähettimeen",
+        "C. Radiot toimivat normaalisti ilman vaikutusta",
+        "D. Vain vastaanotto häviää, lähetys toimii edelleen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jos käytössä olevan NAV/COM-lähettimen audiovahvistin vikaantuu, kaikki kaiutinääni ja kyseisen lähettimen lähetyskyky häviää; tilanne korjaantuu yleensä vaihtamalla toinen lähetin valituksi transmitterin valintakytkimellä.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 133,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0175",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 175,
+      "statement": "Miksi kuulokkeita käytettäessä audiovahvistimen vika ei aina huomata heti?",
+      "options": [
+        "A. Kuulokeääni ei ole riippuvainen audiovahvistimesta, joten ainoa merkki on lähetyskyvyn menetys",
+        "B. Kuulokkeet eivät koskaan vikaannu",
+        "C. Kuulokkeissa on oma erillinen akku",
+        "D. Vika näkyy aina heti valomerkillä kojelaudassa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Koska kuulokeääni ei ole riippuvainen audiovahvistimesta, ainoa havaittava merkki vahvistimen viasta kuulokkeita käytettäessä on valitun lähettimen lähetyskyvyn (ja mahdollisesti muun kaiutinäänen) katoaminen.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 134,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0176",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 176,
+      "statement": "Mikä valvoo generaattorin/laturin ylijännitettä Cessna 152:n sähköjärjestelmässä?",
+      "options": [
+        "A. Erillinen sulake jokaisessa piirissä",
+        "B. Laturin ohjausyksikkö (Alternator Control Unit) sisäänrakennetulla ylijänniteanturilla",
+        "C. Vain lentäjän jatkuva ampeerimittarin seuranta",
+        "D. Akun oma sisäinen katkaisin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Laturin ohjausyksikkö (Alternator Control Unit) sisältää ylijänniteanturin, joka normaalisti sammuttaa laturin automaattisesti, jos latausjännite nousee noin 31,5 volttiin.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 39,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0177",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 177,
+      "statement": "Millä tavalla ilma virtaa moottoriin normaalikäytössä (Air Induction System)?",
+      "options": [
+        "A. Aina lämmitetyn kaasutinlämmön kautta",
+        "B. Suodatetun ilmanoton kautta, ellei kaasutinlämmitystä ole kytketty päälle",
+        "C. Vain ahtimen kautta",
+        "D. Suoraan avoimesta aukosta ilman suodatinta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Normaalikäytössä ilma virtaa suodattimen kautta moottoriin. Kaasutinlämmityksen ollessa päällä ilma ohitetaan suodattimen ohi lämmitetyn ilman saamiseksi, mikä altistaa moottorin suodattamattomalle ilmalle.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 109,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0178",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 178,
+      "statement": "Mikä yhdistää molemmat päärenkaiden jarrut yhteen toimintaan pysäköinnissä?",
+      "options": [
+        "A. Erillinen hydraulipumppu",
+        "B. Pysäköintijarru (Parking Brake), joka lukitsee molemmat jarrut samanaikaisesti",
+        "C. Sähköinen jarrulukko",
+        "D. Molemmat jarrut on aina lukittu erikseen käsin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pysäköintijarru mahdollistaa molempien päärenkaiden jarrujen lukitsemisen samanaikaisesti kojelaudan nupilla, kun kone on pysäköitynä.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 124,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0179",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 179,
+      "statement": "Mistä löytyy koneen sarjanumero (Serial Number), mallinumero sekä Production ja Type Certificate -numerot?",
+      "options": [
+        "A. Kojelaudan keskeltä",
+        "B. Identification Plate -kilvestä, ohjaamon lattialla vasemman etuistuimen takakulman alla",
+        "C. Vain Service Manual -käsikirjasta",
+        "D. Moottorin kyljestä"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nämä tiedot löytyvät Identification Plate -kilvestä, joka sijaitsee ohjaamon lattialla vasemman takaistuimen kulman alla, penkkiä eteen liu'uttamalla ja mattoa nostamalla.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 139,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0180",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 180,
+      "statement": "Mitä tarkoitetaan käsikirjassa termillä '100-HOUR' -tarkastus?",
+      "options": [
+        "A. Tarkastus, joka tehdään vain kerran koneen elinkaaren aikana",
+        "B. Tarkastus, joka on tehtävä 100 lentotunnin välein kaupallisessa/koulutuskäytössä olevalle koneelle",
+        "C. Tarkastus, joka koskee vain moottoria",
+        "D. Tarkastus, joka tehdään vain vuosittain säästä riippumatta"
+      ],
+      "correctIndex": 1,
+      "explanation": "100-tunnin tarkastus (100 HOUR inspection) on FAA:n vaatima säännöllinen tarkastus, joka täydentää vuosittaista (ANNUAL) tarkastusta erityisesti opetus- tai vuokrauskäytössä olevilla koneilla.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 143,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0181",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 181,
+      "statement": "Kuinka usein moottoriöljy tulisi vaihtaa vähintään, vaikka tuntimäärä ei olisi täyttynyt?",
+      "options": [
+        "A. Kerran vuodessa",
+        "B. Vähintään joka 6 kuukausi",
+        "C. Vähintään joka 3 kuukausi",
+        "D. Ei koskaan pelkän ajan perusteella"
+      ],
+      "correctIndex": 1,
+      "explanation": "Moottoriöljy tulisi vaihtaa vähintään joka 6 kuukausi, vaikka suositeltua tuntimäärää ei olisi kertynyt — erityisesti pölyisissä olosuhteissa, kylmässä ilmastossa tai lyhyiden lentojen ja pitkien joutokäyntien aiheuttamassa lietteytymisessä.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 148,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0182",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 182,
+      "statement": "Kuinka usein öljy ja suodatin voidaan vaihtaa, kun öljynsuodatin on asennettu ja ensimmäiset 50 tuntia on suoritettu?",
+      "options": [
+        "A. 25 tunnin välein aina",
+        "B. 100 tunnin välein",
+        "C. 200 tunnin välein",
+        "D. Ei enää koskaan tarvitse vaihtaa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kun öljynsuodatin on asennettu ja ensimmäisten 50 tunnin vaihto on tehty, öljyn- ja suodattimenvaihtoväli voidaan jatkossa pidentää 100 tunnin väleihin.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 149,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0183",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 183,
+      "statement": "Mikä on moottorin öljypohjan (sump) vähimmäismäärä, jolla moottoria ei saa käyttää?",
+      "options": [
+        "A. Alle 3.8 L (4 qt)",
+        "B. Alle 2.8 L (3 qt)",
+        "C. Alle 5.7 L (6 qt)",
+        "D. Alle 4.7 L (5 qt)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Moottoria ei saa käyttää, jos öljypohjassa on alle 4 quarttia (3.8 L) öljyä.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 148,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0184",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 184,
+      "statement": "Mikä on nokkapyörän rengaspaine millimetrien sijasta suoraan psi-yksikössä (mitä rengaskokoa käytetään)?",
+      "options": [
+        "A. 21 PSI, 6.00-6, 4-Ply",
+        "B. 30 PSI, 5.00-5, 4-Ply",
+        "C. 24 PSI, 5.00-5, 4-Ply",
+        "D. 35 PSI, 6.00-6, 4-Ply"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nokkapyörän rengaspaine on 30 PSI, rengaskoolla 5.00-5, 4-kudoskerrosta (4-Ply Rated Tire).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 150,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0185",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 185,
+      "statement": "Mikä on päärenkaiden rengaspaine ja rengaskoko Cessna 152:ssa?",
+      "options": [
+        "A. 30 PSI, 5.00-5, 4-Ply",
+        "B. 21 PSI, 6.00-6, 4-Ply",
+        "C. 24 PSI, 6.00-6, 4-Ply",
+        "D. 18 PSI, 5.00-5, 4-Ply"
+      ],
+      "correctIndex": 1,
+      "explanation": "Päärenkaiden rengaspaine on 21 PSI, rengaskoolla 6.00-6, 4-kudoskerrosta.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 150,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0186",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 186,
+      "statement": "Millä nesteellä nokkapyörän jousituksen (Nose Gear Shock Strut) tulee olla täytettynä, ja mihin paineeseen se täytetään ilmalla?",
+      "options": [
+        "A. MIL-H-5606 hydrauliikkanestettä, 20 PSI ilmaa",
+        "B. Moottoriöljyä, 30 PSI ilmaa",
+        "C. Puhdasta vettä, 15 PSI ilmaa",
+        "D. MIL-H-5606 hydrauliikkanestettä, 40 PSI ilmaa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nokkapyörän jousitus tulee pitää täytettynä MIL-H-5606-hydrauliikkanesteellä ja täyttää ilmalla 20 PSI:in paineeseen — ei saa ylitäyttää.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 150,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0187",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 187,
+      "statement": "Millä aineella tuulilasin (windshield) ja ikkunoiden muovi tulisi puhdistaa, jos erityistä lentokonepuhdistusainetta ei ole saatavilla?",
+      "options": [
+        "A. Bensiinillä",
+        "B. Asetonilla",
+        "C. Stoddard-liuottimella kostutetulla pehmeällä liinalla",
+        "D. Lasinpesuaineella"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jos erityistä tuulilasin puhdistusainetta ei ole saatavilla, muovi voidaan puhdistaa Stoddard-liuottimella kostutetulla pehmeällä liinalla öljyn ja rasvan poistamiseksi.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 148,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0188",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 188,
+      "statement": "Mitä aineita EI KOSKAAN saa käyttää lentokoneen muovi-ikkunoiden puhdistukseen?",
+      "options": [
+        "A. Vettä ja mietoa saippuaa",
+        "B. Bensiiniä, alkoholia, asetonia, sammutinnestettä, jäänestoainetta tai lakanohentimia",
+        "C. Aircraft windshield cleaner -tuotetta",
+        "D. Pehmeää flanelliliinaa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Muovi-ikkunoiden puhdistuksessa ei koskaan saa käyttää bensiiniä, alkoholia, asetonia, sammutinnestettä, jäänestoainetta, lakanohentimia tai lasinpesuainetta — nämä voivat vahingoittaa muovia ja aiheuttaa sen halkeilua (crazing).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 148,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0189",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 189,
+      "statement": "Mitä ainetta suositellaan jään poistoon maalatulta pinnalta ilman että maali vaurioituu?",
+      "options": [
+        "A. Kuumaa vettä",
+        "B. Isopropyylialkoholia",
+        "C. Bensiiniä",
+        "D. Metanolia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Isopropyylialkoholi poistaa tyydyttävästi jääkertymiä vahingoittamatta maalipintaa. Sitä tulee kuitenkin varoa käyttämästä tuulilasin ja ikkunoiden lähellä, koska alkoholi vaurioittaa muovia.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 149,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0190",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 190,
+      "statement": "Mitä tulisi huomioida moottorin puhdistuksessa liuottimella (Stoddard solvent)?",
+      "options": [
+        "A. Ei mitään erityistä, liuotinta voi ruiskuttaa suoraan kaikkialle",
+        "B. Sähköiset osat (magneetot, käynnistin, laturi) tulee suojata ennen puhdistusta",
+        "C. Liuotinta tulee käyttää vain kuumana",
+        "D. Moottorin puhdistus liuottimella on kokonaan kielletty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ennen moottorin puhdistusta liuottimella tulee suojata sähköiset osat (magneetot, käynnistin, laturi) huolellisesti, jottei puhdistusneste pääse niihin.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 149,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0191",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 191,
+      "statement": "Miten tulisi toimia, jos matkatavaratilaan tai istuimille kaatuu nestettä?",
+      "options": [
+        "A. Hangataan voimakkaasti kuivalla liinalla",
+        "B. Imeytetään neste painamalla pyyhettä tiukasti pintaan, ei hangata",
+        "C. Annetaan nesteen kuivua itsestään",
+        "D. Käytetään suoraan runsaasti vettä huuhteluun"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kaatunut neste tulee imeyttää painamalla puhdistusliinaa tai kangasta tiukasti pintaan ja pitämällä painetta useita sekunteja — ei hangata (pat/hankaus levittäisi tahran).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 148,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0192",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 192,
+      "statement": "Miksi propellin pieniä lovia (nicks) tulisi korjata mahdollisimman pian?",
+      "options": [
+        "A. Ne vaikuttavat vain ulkonäköön",
+        "B. Ne aiheuttavat jännityskeskittymiä, jotka voivat johtaa halkeamiin",
+        "C. Ne hidastavat potkurin pyörimisnopeutta",
+        "D. Ne aiheuttavat aina täryä moottorissa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pienetkin lovet potkurin lavoissa, erityisesti kärjissä ja etureunoilla, aiheuttavat jännityskeskittymiä, jotka voivat ajan myötä johtaa halkeamiin, jos niitä ei korjata.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 148,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0193",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 193,
+      "statement": "Mitä varten moottorin lentokäyttö (runup) auttaa lentokoneen säilytyksen ja huollon näkökulmasta?",
+      "options": [
+        "A. Se ei vaikuta mitenkään huoltotarpeisiin",
+        "B. Se auttaa poistamaan liiallista veden kertymistä polttoainejärjestelmään ja muihin ilmatiloihin moottorissa",
+        "C. Se estää renkaiden kulumisen",
+        "D. Se vähentää öljynkulutusta pysyvästi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Moottorin käynnistys ja lentokäyttö (engine runup) auttaa poistamaan liiallista veden kertymää polttoainejärjestelmästä ja moottorin muista ilmatiloista.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 148,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0194",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 194,
+      "statement": "Miksi polttoainetankit kannattaa pitää täysinä säilytyksen aikana?",
+      "options": [
+        "A. Se pienentää koneen kokonaispainoa",
+        "B. Se minimoi kondenssiveden muodostumista tankkeihin",
+        "C. Se pidentää polttoaineen säilyvyyttä loputtomiin",
+        "D. Sillä ei ole merkitystä säilytyksen kannalta"
+      ],
+      "correctIndex": 1,
+      "explanation": "Polttoainetankkien pitäminen täysinä minimoi kondenssiveden muodostumista tankin sisäpinnoille, mikä vähentää veden pääsyä polttoainejärjestelmään.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 148,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0195",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 195,
+      "statement": "Mitä tulisi tehdä akulle kylmässä säässä, jos konetta säilytetään pidempään?",
+      "options": [
+        "A. Akku tulisi irrottaa ja tyhjentää kokonaan",
+        "B. Akku tulisi pitää täyteen ladattuna, jotta elektrolyytti ei jäädy",
+        "C. Akkua ei tarvitse huomioida talvisäilytyksessä",
+        "D. Akku tulisi jättää tyhjäksi säilytyksen ajaksi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Akku tulisi pitää täyteen ladattuna kylmässä säässä, jotta elektrolyytti ei pääse jäätymään.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 148,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0196",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 196,
+      "statement": "Millä Cessna-ohjelmalla varmistetaan, että 100-tunnin tai vuositarkastuksen vaatimat huoltotoimet suoritetaan oikeaan aikaan?",
+      "options": [
+        "A. Cessna Progressive Care -ohjelmalla",
+        "B. FAA:n suoralla valvonnalla",
+        "C. Owner Follow-Up Systemillä yksinään",
+        "D. Vain lentäjän omalla muistilla"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cessna Progressive Care -ohjelma varmistaa, että 100-tunnin tai vuositarkastuksen vaatimat huoltotoimet tehdään vaadituin välein.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 144,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0197",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 197,
+      "statement": "Mitä 'Owner Follow-Up System' tarjoaa koneen omistajalle?",
+      "options": [
+        "A. Automaattisen vuosihuollon ilman erillistä sopimista",
+        "B. Ilmoituksia Cessna-jälleenmyyjän kautta, kun uutta tietoa koneesta on saatavilla (esim. Service Letters)",
+        "C. Ilmaisen varaosapaketin vuosittain",
+        "D. Suoran yhteyden FAA:han huoltoasioissa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Owner Follow-Up System ilmoittaa omistajalle Cessna-jälleenmyyjän kautta, kun koneeseen liittyvää uutta tietoa (esim. Service Letters) on saatavilla; omistaja voi myös tilata tiedotteet suoraan Cessna Customer Services -osastolta.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 141,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0198",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 198,
+      "statement": "Miksi propellin lapoja ei saa puhdistaa alkalisella (alkaline) puhdistusaineella?",
+      "options": [
+        "A. Alkaliset aineet voivat vahingoittaa/syövyttää propellin materiaalia",
+        "B. Alkaliset aineet ovat aina kalliimpia",
+        "C. Alkaliset aineet jättävät hajua",
+        "D. Ei ole mitään syytä, ohje on vain suositus"
+      ],
+      "correctIndex": 0,
+      "explanation": "Propellin lapoja ei saa koskaan puhdistaa alkalisella puhdistusaineella, koska se voi vahingoittaa materiaalia; rasva ja lika tulee poistaa Stoddard-liuottimella.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 148,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0199",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 199,
+      "statement": "Milloin öljynsuodatin (jos asennettu) vaihdetaan ensimmäisen 25 tunnin öljynvaihdon jälkeen?",
+      "options": [
+        "A. Vasta 200 tunnin kohdalla",
+        "B. Uudelleen 50 tunnin kohdalla, minkä jälkeen väli voidaan pidentää 100 tuntiin",
+        "C. Ei koskaan uudelleen",
+        "D. Joka 10 tunnin välein"
+      ],
+      "correctIndex": 1,
+      "explanation": "Öljynsuodatin vaihdetaan ensimmäisen 25 tunnin jälkeen uudelleen 50 tunnin kohdalla; sen jälkeen öljyn- ja suodattimenvaihtoväli voidaan pidentää 100 tunnin jaksoihin.",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 149,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "152-0200",
+      "module": "152",
+      "moduleName": "Cessna 152 Lentokäsikirja (POH)",
+      "number": 200,
+      "statement": "Mistä johtuu, että Cessna 152 II -mallin suurin hyötykuorma on pienempi kuin peruskoneen (152) hyötykuorma, vaikka suurin sallittu paino on sama?",
+      "options": [
+        "A. 152 II -mallissa on pienempi moottori",
+        "B. 152 II -mallin suurempi tyhjäpaino (enemmän vakiovarusteita) pienentää käytettävissä olevaa hyötykuormaa",
+        "C. 152 II -mallilla on pienempi polttoainekapasiteetti",
+        "D. Kyseessä on painomittausvirhe, todellisuudessa hyötykuormat ovat samat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sekä 152 että 152 II jakavat saman suurimman sallitun ramppi-/lentoonlähtöpainon (1675/1670 lbs), mutta 152 II:n suurempi tyhjäpaino (1133 lbs vs. 1101 lbs, johtuen enemmästä vakiovarustuksesta) pienentää käytettävissä olevaa hyötykuormaa (542 lbs vs. 574 lbs).",
+      "source": "Cessna_152_Information_Manual.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    }
+  ]
+}

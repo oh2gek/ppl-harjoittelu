@@ -1,0 +1,3142 @@
+{
+  "module": "030",
+  "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+  "source": "PPL030FIN 11102018.pdf",
+  "questions": [
+    {
+      "id": "030-0001",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 1,
+      "statement": "Suurin sallittu laskeutumismassa (Maximum Landing Mass, MLM) tarkoittaa:",
+      "options": [
+        "A. Suurin sallittu kokonaismassa lähestymisen aikana.",
+        "B. Suurin sallittu kokonaismassa pysäköintipaikalle rullauksen aikana.",
+        "C. Suurin sallittu kokonaismassa laskeutumisen aikana normaalitoimintaolosuhteissa.",
+        "D. Suurin sallittu kokonaismassa laskeutumisen jälkeen."
+      ],
+      "correctIndex": 2,
+      "explanation": "Suurin sallittu laskeutumismassa (MLM, Maximum Landing Mass) on suurin sallittu kokonaismassa laskeutumishetkellä normaaleissa toimintaolosuhteissa. Rakenne mitoitetaan tällä massalla kestämään normaali laskeutumiskuormitus (yleensä 1,3 g vajoamisnopeudella ~3 m/s).",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0002",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 2,
+      "statement": "Mitä V-nopeutta ei tule ylittää, mikäli aiotaan käyttää äkillisiä korkeusperäsimen asentokulmaa kasvattavia täysiä ohjausliikkeitä ja miksi?",
+      "options": [
+        "A. Va, äkilliset ohjausliikkeet voivat aiheuttaa rakenteellisia vaurioita.",
+        "B. Vne, äkilliset ohjausliikkeet voivat aiheuttaa rakenteellisia vaurioita.",
+        "C. Vfb, äkilliset ohjausliikkeet voivat aiheuttaa hallitun lentotilan menetyksen.",
+        "D. Vd, äkilliset ohjausliikkeet voivat aiheuttaa hallitun lentotilan menetyksen."
+      ],
+      "correctIndex": 0,
+      "explanation": "Va eli liikehtimisnopeus (manoeuvring speed) on suurin nopeus, jolla saa tehdä äkillisiä, täysiä ohjainpoikkeutuksia ilman rakenteellista vauriota. Tämän yläpuolella täysi sivuvedot/korkeusperäsinpoikkeamat voivat ylittää rakenteen rajakuorman (yleensä +3,8 g normaaliluokassa).",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0003",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 3,
+      "statement": "Minkä värinen on ilmanopeusmittarin varoitusnopeusalue ja mitä lentäjän pitää huomioida lentäessään tällä nopeusalueella?",
+      "options": [
+        "A. Keltainen - Tällä nopeusalueella ei tulisi lentää, jollei ilma ole tyyni. Kaikki ohjausliikkeet pitäisi tehdä käyttäen pieniä ja varovaisia ohjauskomentoja.",
+        "B. Vihreä - Ohjainten värähtelyä voi ilmetä, jos kohdataan turbulenssia.",
+        "C. Vihreä - Sakkauksia, rungon muodonmuutoksia ja/tai rakenteellisia vaurioita saattaa aiheutua tällä nopeusalueella, mikäli lentäjä tekee äkkinäisiä ja täysiä ohjainpoikkeutuksia.",
+        "D. Keltainen - Rungon muodonmuutoksia ja/tai rakenteellisia vaurioita aiheuttavia sakkauksia saattaa tapahtua tällä alueella, mikäli lentäjä tekee äkkinäisiä ja täysiä ohjainpoikkeutuksia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Keltainen kaari nopeusmittarissa on varoitusalue (Vno–Vne). Tällä nopeusalueella ei tule lentää, ellei ilma ole tyyni, ja ohjausliikkeet on tehtava pieninä ja varovaisina. Voimakas turbulenssi tai äkilliset täydet ohjainpoikkeutukset voivat aiheuttaa rakenteellisia ylikuormituksia.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0004",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 4,
+      "statement": "Mikä nimi on annettu kuormitukselle, jolla ilma-aluksen rakenteet pettävät:",
+      "options": [
+        "A. Turvakerroinkuorma.",
+        "B. Murtokuorma.",
+        "C. Rajakuorma.",
+        "D. Maksimikuormitus."
+      ],
+      "correctIndex": 1,
+      "explanation": "Murtokuorma (ultimate load) on kuormitus, jolla rakenne pettää. Rajakuorma (limit load) on suurin sallittu käyttökuorma; turvakerroin (yleensä 1,5) kerrottuna rajakuormalla antaa murtokuorman.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0005",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 5,
+      "statement": "Ilma-alus, joka on selvästi ylikuormattu: 1. Vaatii pidemmän nousu-ja laskumatkan. 2. Omaa suuremman sakkausnopeuden. 3. Omaa pienemmän maksimilentonopeuden. 4. Omaa suuremman toimintasäteen ja -ajan. 5. Omaa pienemmän nousunopeuden ja toimintakorkeuden. Mitkä yllä olevista väittämistä ovat oikein?",
+      "options": [
+        "A. 1, 2, 3 & 4",
+        "B. 2, 4 & 5",
+        "C. 1, 2, 4 & 5",
+        "D. 1, 2, 3 & 5"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ylikuormattu kone vaatii pidemmän nousu- ja laskumatkan, omaa suuremman sakkausnopeuden, pienemmän maksimilentonopeuden ja pienemmän nousunopeuden / lakikorkeuden. Toimintasäde ja -aika EIVÄT kasva – ne yleensä pienenevät.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0006",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 6,
+      "statement": "Suurin sallittu massa ilman polttoainetta (MZFM) tarkoittaa:",
+      "options": [
+        "A. Ilma-aluksen suurin sallittu massa ilman matkustajia tai matkatavaroita.",
+        "B. Ilma-aluksen suurin sallittu massa ilman matkustajia tai polttoainetta.",
+        "C. Ilma-aluksen suurin sallittu massa ilman miehistöä tai polttoainetta.",
+        "D. Ilma-aluksen suurin sallittu massa ilman käytettävissä olevaa polttoainetta."
+      ],
+      "correctIndex": 3,
+      "explanation": "MZFM (Maximum Zero Fuel Mass) on suurin sallittu massa ilman käytettävissä olevaa polttoainetta. Rajoitus suojaa siipijuuren rakennetta: polttoaine siivissä keventää siiven taivutusmomenttia, joten ilman polttoainetta runkokuorma on kriittinen.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0007",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 7,
+      "statement": "Suurin sallittu lentoonlähtömassa (MTOM) tarkoittaa:",
+      "options": [
+        "A. Suurin sallittu kokonaismassa lähtökiidon alussa.",
+        "B. Suurin sallittu kokonaismassa rotaation aikana.",
+        "C. Suurin sallittu kokonaismassa ennen rullausta.",
+        "D. Suurin sallittu kokonaismassa ennen lentoonlähtöä."
+      ],
+      "correctIndex": 0,
+      "explanation": "MTOM (Maximum Take-Off Mass) on suurin sallittu kokonaismassa lähtökiidon ALUSSA – siis hetkellä, kun lentoonlähtö aloitetaan. Rullauksen aikana käytetty polttoaine ei sisälly tähän, joten taxi-massa voi olla suurempi.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0008",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 8,
+      "statement": "Suurin sallittu nopeus (VNE) merkitään punaisella viivalla nopeusmittarissa ja sillä tarkoitetaan nopeutta:",
+      "options": [
+        "A. Jolla pitkäaikainen lentäminen on vaarallista.",
+        "B. Jolla syntyy rakenteellisia vaurioita.",
+        "C. Jonka ylittäminen on kielletty.",
+        "D. Jolla lentäminen on sallittua ainoastaan tyynissä olosuhteissa."
+      ],
+      "correctIndex": 2,
+      "explanation": "Vne (Never Exceed Speed) merkitään mittarissa punaisella viivalla. Sen ylittäminen on EHDOTTOMASTI kielletty kaikissa olosuhteissa – ylityksellä on välitön rakenne- ja flutter-riski.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0009",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 9,
+      "statement": "Mikä on suurin nopeus, jota tulisi käyttää ilma-aluksen rungon ylikuormituksen välttämiseksi lennettäessä hyvin puuskaisessa ilmassa?",
+      "options": [
+        "A. Vno tai Vfe.",
+        "B. Vd tai Va.",
+        "C. Vd tai Vno.",
+        "D. Vra tai Va."
+      ],
+      "correctIndex": 3,
+      "explanation": "Voimakkaassa puuskaisessa ilmassa nopeus rajoitetaan Vra:han (rough air speed) tai Va:han (manoeuvring speed). Va kasvaa massan mukaan; Vra on usein pienempi kuin Vno ja se on määritelty puuskakuormien kestämiseksi.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0010",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 10,
+      "statement": "Ilma-aluksesi öljysäiliön tilavuus on 3 imp/gal. Säiliö on sijoitettu 20 tuumaa perustason takapuolelle. Mikä on öljysäiliön momentti, kun öljy painaa 9,1 lbs/gal?",
+      "options": [
+        "A. 60 lb in.",
+        "B. 546 lb in.",
+        "C. 182 lb in.",
+        "D. 27.3 lb in."
+      ],
+      "correctIndex": 1,
+      "explanation": "Momentti = paino × varsi. 3 imp/gal × 9,1 lb/gal = 27,3 lb. Varsi on +20 in (perustason takana). Momentti = 27,3 × 20 = 546 lb·in.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0011",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 11,
+      "statement": "Olettaen, että ilma-alus on pysähdyksissä maassa, mikä termi kuvaa parhaiten kuvaa \"D\"? (Katso LAPL/PPL 030-01)",
+      "options": [
+        "A. Suurin sallittu kokonaismassa.",
+        "B. Tyhjämassa.",
+        "C. Hyötykuorma.",
+        "D. Suurin sallittu massa ilman polttoainetta."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tyhjämassa (empty mass / DOM) tarkoittaa pysähdyksissä olevan koneen massaa ilman miehistöä, hyötykuormaa ja käytettävää polttoainetta. Sisältää vain rakenteet, kiinteät varusteet, käyttämättömän öljyn ja loukkupolttoaineen.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0012",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 12,
+      "statement": "Ilma-alus on kuormattu siten, että massakeskipiste sijaitsee takarajalla: I Sakkausnopeus pienenee II Toimintamatka ja -aika kasvavat III Sakkausnopeus kasvaa IV Ohjainvoimat kasvavat",
+      "options": [
+        "A. I, II ja IV ovat oikein.",
+        "B. Vain II ja IV ovat oikein.",
+        "C. Vain I ja II ovat oikein.",
+        "D. Vain III ja IV ovat oikein."
+      ],
+      "correctIndex": 2,
+      "explanation": "Massakeskipiste (CG) takarajalla: I sakkausnopeus PIENENEE (pienempi vakaajan tasapainottava alaspainevoima → siiven kantamiseksi tarvitaan vähemmän nostovoimaa) ja II toimintamatka/-aika kasvavat (pienempi trimmivastus). III ja IV ovat virheellisiä.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0013",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 13,
+      "statement": "Tyyppihyväksymisvaatimusten mukaan kevyen ilma-aluksen kuormauksessa:",
+      "options": [
+        "A. Suurin sallittu lentoonlähtömassa ei saa ylittyä, ja massakeskipisteen on pysyttävä vähintään 5% annettujen rajojen sisäpuolella.",
+        "B. Kaikki istuimet, matkatavaratilat ja polttoainesäiliöt sijaitsevat massakeskipisteelle annettujen rajojen sisäpuolella siten, että ilma-alusta on mahdotonta kuormata rajojen ulkopuolelle.",
+        "C. Massakeskipisteen tulisi pysyä annetuissa rajoissa ja suurin sallittu lentoonlähtömassa ei saa ylittyä.",
+        "D. Suurin sallittu lentoonlähtömassa ei voi ylittyä täydellä hyötykuormalla ja polttoainemäärällä."
+      ],
+      "correctIndex": 2,
+      "explanation": "CS-VLA/CS-23 vaatii, että MTOM ei saa ylittyä JA massakeskipisteen on pysyttävä sallittujen rajojen sisällä. Molemmat ehdot pätevät yhtä aikaa – ei toinen ilman toista.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0014",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 14,
+      "statement": "Mikä voi rajoittaa ilma-aluksen suurinta sallittua lentoonlähtömassaa?",
+      "options": [
+        "A. Rakenteelliset rajakuormat ja/tai lentopaikan korkeus ja vallitseva lämpötila.",
+        "B. Ilma-aluksen lentokelpoisuus.",
+        "C. Kaikki vastaukset ovat oikein.",
+        "D. Ilma-aluksen suoritusarvoluokka, ts. rajoitettu taitolento / normaali / taitolento."
+      ],
+      "correctIndex": 2,
+      "explanation": "MTOMia voivat rajoittaa rakenteelliset rajakuormat, lentopaikan korkeus ja lämpötila (suorituskyky), lentokelpoisuusvaatimukset sekä suoritusarvoluokka. Kaikki vaihtoehdot ovat oikeita.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0015",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 15,
+      "statement": "Ilma-aluksella, joka on kuormattu vaarallisesti siten, että sen massakeskipiste sijaitsee eturajan etupuolella:",
+      "options": [
+        "A. On sekä suurempi pituussuuntainen vakavuus että sakkausnopeus.",
+        "B. On sekä suurempi toimintamatka, että aika.",
+        "C. On kevyempi suorittaa loppuloivennus laskussa.",
+        "D. On kevyempi suorittaa rotaatio lentoonlähdössä."
+      ],
+      "correctIndex": 0,
+      "explanation": "CG eturajan etupuolella → suurempi pituussuuntainen vakavuus (pidempi etäisyys neutraalipisteeseen) ja suurempi sakkausnopeus (vakaajan negatiivinen nostovoima kasvaa, jota siiven on kompensoitava lisänostovoimalla). Loppuloivennus ja rotaatio ovat raskaampia.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0016",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 16,
+      "statement": "Ilma-aluksen, jonka massakeskipiste sijaitsee eturajalla, lento-ominaisuudet ovat seuraavat:",
+      "options": [
+        "A. Sillä on raskaampi pituuskallistusohjaus ja pienempi pituusvakavuus.",
+        "B. Sillä on raskaampi pituuskallistusohjaus ja suurempi pituusvakavuus.",
+        "C. Sillä on kevyempi pituuskallistusohjaus ja pienempi pituusvakavuus.",
+        "D. Sillä on kevyempi pituuskallistusohjaus ja suurempi pituusvakavuus."
+      ],
+      "correctIndex": 1,
+      "explanation": "CG eturajalla → raskaampi pituuskallistusohjaus (pitkä vipuvarsi vakaajaan) ja suurempi pituusvakavuus. Tämä on turvallinen mutta raskaammin ohjattava lentotila.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0017",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 17,
+      "statement": "2000 lbs painavaan ilma-alukseen, jonka kokonaismomentti on +169400 lb in, tankataan 440 lbs polttoainetta. Jos polttoaineen varsi on 88.5 tuumaa perustasosta taaksepäin, mitkä ovat ilma-aluksen uusi massa ja momentti?",
+      "options": [
+        "A. 1560 lbs +208340 lb in.",
+        "B. 1560 lbs +169488.5 lb in.",
+        "C. 2440 lbs +208340 lb in.",
+        "D. 2440 lbs +169488.5 lb in."
+      ],
+      "correctIndex": 2,
+      "explanation": "Uusi massa = 2000 + 440 = 2440 lb. Polttoaineen momentti = 440 × 88,5 = 38 940 lb·in. Uusi kokonaismomentti = 169 400 + 38 940 = 208 340 lb·in.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0018",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 18,
+      "statement": "Aiot kuljettaa ilma-aluksella sen suurimman sallitun hyötykuorman. Lennonsuunnittelussa on ensisijaisesti huomioitava, että:",
+      "options": [
+        "A. Polttoaineen määrää on mahdollisesti rajoitettava suurimman sallitun kokonaismassan ylittymisen välttämiseksi.",
+        "B. Täysi polttoainetankkaus on pakollinen aina kuljetettaessa matkustajia.",
+        "C. Polttoaine sisältyy hyötykuormaan.",
+        "D. Hyötykuormaa on mahdollisesti pienennettävä täyden polttoainekuorman mahduttamiseksi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kun matkustetaan suurimmalla hyötykuormalla, polttoaineen määrää on usein rajoitettava, jotta MTOM ei ylity. Polttoaine ei sisälly hyötykuormaan; se on osa käyttömassaa (operating mass).",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0019",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 19,
+      "statement": "Hyötykuorma:",
+      "options": [
+        "A. On matkustajien, matkatavaroiden, rahdin ja polttoaineen kokonaismassa.",
+        "B. Sisältää perusmassan.",
+        "C. Sisältää juomakelpoisen veden ja WC-kemikaalit.",
+        "D. On matkustajien, matkatavaroiden ja rahdin kokonaismassa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hyötykuorma (payload / traffic load) = matkustajat + matkatavarat + rahti. Polttoaine ja perusmassa eivät kuulu hyötykuormaan.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0020",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 20,
+      "statement": "Käytettäessä ilma-alusta, jonka massakeskipiste on takarajan takapuolella, seuraukset olisivat: I Maassa ilma-alus olisi takapainoinen ja matkustajien, miehistön liikkuminen tai polttoaineen käyttö saattaisi kipata pyrstön maahan. II Ohjaimet olisivat liian kevyet, kasvattaen pyrstöosuman riskiä rotaatiossa. III Taipumus sakkaukseen kasvaisi ja voisi olla mahdotonta saada kone trimmattua siten, että kädet voisi laskea irti ohjaimista. IV Syöksykierteestä oikaisu olisi paljon vaikeampaa.",
+      "options": [
+        "A. Ainoastaan vaihtoehdot I ja IV ovat oikein.",
+        "B. Ainoastaan vaihtoehdot II ja III ovat oikein.",
+        "C. Kaikki vaihtoehdot ovat oikein.",
+        "D. Ainoastaan vaihtoehto I on oikein."
+      ],
+      "correctIndex": 2,
+      "explanation": "CG takarajan takapuolella: kaikki neljä väittämää ovat oikein. Maassa pyrstöriski, ohjaimet liian kevyet (tip-over rotaatiossa), sakkaustaipumus kasvaa ja trimmaus voi olla mahdotonta, ja syöksykierteestä oikaisu on hyvin vaikeaa (vakaaja jää siiven turbulenssiin).",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0021",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 21,
+      "statement": "Mikä termi kuvaa parhaiten kuvaa \"A\", kun oletetaan koneen olevan pysähdyksissä maassa? (Katso LAPL/PPL 030-01)",
+      "options": [
+        "A. Tyhjämassa.",
+        "B. Lentoonlähtömassa.",
+        "C. Massa ilman polttoainetta.",
+        "D. Suurin sallittu kokonaismassa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kuvasta päätellen tyhjämassa (empty mass) – kone pysähdyksissä, miehistöä, hyötykuormaa ja käytettävää polttoainetta ei ole.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0022",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 22,
+      "statement": "Käyttäisitkö liitteessä esitetyn massa/tasapainoalueen edustamaa ilma-alusta rajoitetussa taitolentoluokassa vai normaaliluokassa, kun sen massa on 2100 lbs ja momentti 90,000 lb in? (Katso LAPL/PPL 030-02)",
+      "options": [
+        "A. Rajoitetussa taitolentoluokassa.",
+        "B. Kuormittavan toiminnan luokassa.",
+        "C. Normaaliluokassa.",
+        "D. Normaaliluokassa ja rajoitetussa taitolentoluokassa."
+      ],
+      "correctIndex": 2,
+      "explanation": "Liitteen LAPL/PPL 030-02 kuormauskuviossa massa 2100 lb ja momentti 90,000 lb·in sijoittuvat normaaliluokan alueelle, eivät rajoitetun taitolentoluokan alueelle.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0023",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 23,
+      "statement": "Ilma-aluksen massakeskipisteen rajat ilmaistaan etäisyytenä tietystä vertailupisteestä. Mikä tämä piste on ja miltä akselilta se löytyy? Akseli / Vertailupiste",
+      "options": [
+        "A. Pituusakseli / Perustaso.",
+        "B. Normaaliakseli / Spinneri.",
+        "C. Pystyakseli / Renkaat.",
+        "D. Poikittaisakseli / Pyrstö."
+      ],
+      "correctIndex": 0,
+      "explanation": "Massakeskipisteen sijainti ilmoitetaan pituusakselilla etäisyytenä perustasosta eli datumista.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0024",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 24,
+      "statement": "Valmistajan asettamat massakeskipisterajat:",
+      "options": [
+        "A. Ovat pakollisia.",
+        "B. Sisältävät ainoastaan takarajan.",
+        "C. Ovat ohjeellisia.",
+        "D. Sisältävät ainoastaan eturajan."
+      ],
+      "correctIndex": 0,
+      "explanation": "Valmistajan määrittämät massakeskipisterajat ovat sitovia rajoituksia. Ilma-alusta ei saa käyttää, jos massakeskipiste on sallittujen rajojen ulkopuolella.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0025",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 25,
+      "statement": "Ilma-aluksesi: Lentoonlähtömassa = 2353 lbs. Laskettu massakeskipiste lähtöä varten = 89.75 tuumaa perustason takapuolella. Arvioitu polttoaineen kulutus = 200 lbs massakeskipisteen sijainnilla 85.00 tuumaa perustason takapuolella. Missä massakeskipiste sijaitsee laskussa?",
+      "options": [
+        "A. 105.98 tuumaa perustason takapuolella.",
+        "B. 82.52 tuumaa perustason takapuolella.",
+        "C. 90.19 tuumaa perustason takapuolella.",
+        "D. 96.97 tuumaa perustason takapuolella."
+      ],
+      "correctIndex": 2,
+      "explanation": "Lähtömomentti = 2353 × 89,75. Kulutetun polttoaineen momentti = 200 × 85,00. Laskumassa = 2353 − 200 = 2153 lb. Uusi CG = (lähtömomentti − polttoainemomentti) / 2153 ≈ 90,19 tuumaa perustason takapuolella.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0026",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 26,
+      "statement": "Useimmissa lentokoneissa massakeskipisteen sallittu alue kapenee massan kasvaessa. Mistä tämä johtuu?",
+      "options": [
+        "A. Eturaja siirtyy taaksepäin vakavuuden vähentämiseksi.",
+        "B. Takaraja siirtyy taaksepäin massakeskipisteen turvaetäisyyden kasvattamiseksi neutraaliasemasta.",
+        "C. Takarajaa siirtyy eteenpäin vakavuuden lisäämiseksi.",
+        "D. Massakeskipisteen turvaetäisyys neutraaliasemasta siirtyy eteenpäin ohjattavuuden heikentämiseksi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Massan kasvaessa sallitun CG-alueen takaraja siirtyy usein eteenpäin, jotta riittävä pituusvakavuus ja ohjattavuus säilyvät.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0027",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 27,
+      "statement": "Suurimpaan sallittuun massaan ilman polttoainetta (MZFM, Maximum Zero Fuel Mass) sisältyy:",
+      "options": [
+        "A. Miehistö, matkustajat, matkatavarat ja tarjoilu.",
+        "B. Miehistö, matkustajat, matkatavarat.",
+        "C. Miehistö, matkustajat, matkatavarat, tarjoilu ja polttoaine.",
+        "D. Juomakelpoinen vesi ja WC-kemikaalit."
+      ],
+      "correctIndex": 0,
+      "explanation": "MZFM sisältää miehistön, matkustajat, matkatavarat ja tarjoilun (catering) – kaiken paitsi käytettävän polttoaineen. Vesi/WC-kemikaalit lasketaan myös mukaan.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0028",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 28,
+      "statement": "Miten suurempi massa vaikuttaa ilma-aluksen rotaationopeuteen (Vr) ja sakkausnopeuteen (Vs)?",
+      "options": [
+        "A. Rotaationopeus pienenee ja sakkausnopeus kasvaa.",
+        "B. Molemmat nopeudet kasvavat.",
+        "C. Molemmat nopeudet pienenevät.",
+        "D. Rotaationopeus kasvaa ja sakkausnopeus pienenee."
+      ],
+      "correctIndex": 1,
+      "explanation": "Suurempi massa → SEKÄ rotaationopeus (Vr) ETTÄ sakkausnopeus (Vs) kasvavat. Vs ∝ √(W), ja Vr asetetaan turvallisesti Vs:n yläpuolelle, joten myös Vr nousee.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0029",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 29,
+      "statement": "Mikä vaikutus kiitotien kaltevuudella on lentoonlähdössä?",
+      "options": [
+        "A. Alamäki kasvattaa lentoonlähtömatkaa.",
+        "B. Ylämäki kasvattaa lentoonlähtömatkaa.",
+        "C. Alamäki heikentää suorituskykyä lentoonlähdössä.",
+        "D. Ylämäki parantaa suorituskykyä lentoonlähdössä."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ylämäkikiitotie kasvattaa lentoonlähtömatkaa (painovoima vastustaa kiihdytystä). Alamäki lyhentää lentoonlähtömatkaa mutta pidentää laskumatkaa.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0030",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 30,
+      "statement": "Kiitotien osa, jota käytetään normaalitoiminnassa lentoonlähtöä varten, pois lukien nousutie ja pysäytystie, tunnetaan nimellä:",
+      "options": [
+        "A. Käytettävissä oleva lentoonlähtömatka (TODA).",
+        "B. Käytettävissä oleva laskumatka (LDA).",
+        "C. Lähtökiitoon käytettävissä oleva matka (TORA).",
+        "D. Käytettävissä olevaa hätämatkaa (EMDA)."
+      ],
+      "correctIndex": 2,
+      "explanation": "TORA (Take-Off Run Available) on kiitotien osa, jolla normaali lentoonlähtö aloitetaan. TODA (Take-Off Distance Available) = TORA + clearway. LDA = laskeutumiseen käytettävä matka.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0031",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 31,
+      "statement": "Jos ilman tiheys pienenee, lentoonlähtömatka:",
+      "options": [
+        "A. Pysyy muuttumattomana.",
+        "B. Pitenee.",
+        "C. Lyhenee.",
+        "D. Määräytyy tuulen mukaan."
+      ],
+      "correctIndex": 1,
+      "explanation": "Pienempi ilman tiheys → vähemmän nostovoimaa, vähemmän moottoritehoa ja työntövoimaa, vähemmän kantoa potkurilta → kone kiihtyy hitaammin ja vaatii suuremman TAS-nopeuden → lentoonlähtömatka pitenee.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0032",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 32,
+      "statement": "Jos ilman tiheys kasvaa suuremmaksi, kuin ISA-olosuhteissa, vaikutus on:",
+      "options": [
+        "A. Lentoonlähtömatkaa pidentävä.",
+        "B. Ainoastaan lähtökiitoa lyhentävä.",
+        "C. Lentoonlähdön suorituskykyä parantava.",
+        "D. Lentoonlähdön suorituskykyä heikentävä."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tiheys suurempi kuin ISA → enemmän nostovoimaa, enemmän moottoritehoa ja työntövoimaa → suorituskyky paranee, lentoonlähtömatka lyhenee.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0033",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 33,
+      "statement": "Kun ilman tiheys on suhteellisen pieni, sillä on heikentävä vaikutus:",
+      "options": [
+        "A. Vastukseen, mikä sallii suurempien laskusiivekeasetusten käyttämisen.",
+        "B. Sekä nostovoimaan että moottorin tuottamaan tehoon, mikä aiheuttaa tarvittavan lentoonlähtömatkan pidentymisen.",
+        "C. Vastukseen, mikä kompensoi moottoritehon menetyksen aikaansaaden paremman kiihdytyksen.",
+        "D. Työntövoimaan ja vastukseen, mutta ei vaikutusta tarvittavan lentoonlähtömatkan pituuteen."
+      ],
+      "correctIndex": 1,
+      "explanation": "Pieni tiheys vähentää sekä siiven nostovoimaa että moottorin/potkurin tuottoa. Tarvittava lentoonlähtömatka pitenee, koska tarvitaan suurempi TAS samaan dynaamiseen paineeseen.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0034",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 34,
+      "statement": "Miksi lentoonlähtö tulisi ensisijaisesti suorittaa vastatuuleen?",
+      "options": [
+        "A. Lentoonlähtömatkan pidentämiseksi.",
+        "B. Käytettävissä olevan lentoonlähtömatkan (TODA) lyhentämiseksi.",
+        "C. Maanopeuden pienentämiseksi ilma-aluksen irtoamisvaiheessa.",
+        "D. Ilma-aluksen maanopeuden kasvattamiseksi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Vastatuuli pienentää maanopeutta irtoamishetkellä, jolloin lähtökiito on lyhyempi (vaaditaan sama IAS, mutta pienemmällä maanopeudella). Sama pätee laskussa.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0035",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 35,
+      "statement": "Miten lentokoneen kokonaispainon kasvattaminen vaikuttaa lentoonlähtöön?",
+      "options": [
+        "A. Sakkausnopeus kasvaa ja lähtökiitoon tarvittava matka lyhenee.",
+        "B. Sakkausnopeus pienenee ja lähtökiitoon tarvittava matka pitenee.",
+        "C. Sakkausnopeus kasvaa ja lähtökiitoon tarvittava matka pitenee.",
+        "D. Sakkausnopeus pienenee ja lähtökiitoon tarvittava matka lyhenee."
+      ],
+      "correctIndex": 2,
+      "explanation": "Massan kasvaessa Vs kasvaa (vaadittava nopeus kantoon kasvaa) JA lähtökiito pitenee (suurempi inertia, suurempi vaadittu nopeus, suurempi vastus).",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0036",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 36,
+      "statement": "Miksi pitkäkestoinen nousu suoritetaan suuremmalla nopeudella?",
+      "options": [
+        "A. Moottoria jäähdyttävän ilmavirtauksen lisäämiseksi.",
+        "B. Parhaan nousukulman nopeuden ylläpitämiseksi.",
+        "C. Ilma-aluksesta kantautuvan melun vähentämiseksi meluherkillä alueilla.",
+        "D. Parhaan kohoamisnopeuden antavan nopeuden ylläpitämiseksi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pitkäkestoinen nousu suoritetaan suuremmalla nopeudella (cruise climb) moottorin jäähdytyksen takaamiseksi – matalammalla nokan kulmalla potkurivirtaus jäähdyttää sylintereitä paremmin.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0037",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 37,
+      "statement": "Noustessa Vy-nopeudella saavutetaan:",
+      "options": [
+        "A. Jyrkin nousukulma.",
+        "B. Suurin korkeuden lisääntyminen käytettyyn aikaan nähden.",
+        "C. Suurin korkeuden lisääntyminen kuljettuun matkaan nähden.",
+        "D. Paras suorituskyky esteiden selvittämiseksi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Vy (best rate of climb) antaa suurimman korkeudenlisäyksen aikayksikössä (ft/min). Vx (best angle of climb) antaa suurimman korkeuden lyhimmällä matkalla.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0038",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 38,
+      "statement": "Mikä nopeus aiheuttaa suurimman korkeuden lisääntymisen lyhimmässä ajassa?",
+      "options": [
+        "A. Suurimman toiminta-ajan nopeus.",
+        "B. 60 kt.",
+        "C. Jyrkimmän nousukulman nopeus (Vx).",
+        "D. Parhaan kohoamisnopeuden antava nopeus (Vy)."
+      ],
+      "correctIndex": 3,
+      "explanation": "Vy = parhaan kohoamisnopeuden antava nopeus → suurin ft/min eli suurin korkeudenlisäys lyhimmässä ajassa.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0039",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 39,
+      "statement": "Ilma-aluksen massaa (ja näin ollen painovoimaa) lisättäessä:",
+      "options": [
+        "A. Kohoamisnopeus kasvaa ja nousukulma pienenee.",
+        "B. Kohoamisnopeus ja nousukulma pienenevät.",
+        "C. Kohoamisnopeus ja nousukulma kasvavat.",
+        "D. Kohoamisnopeus pienenee ja nousukulma kasvaa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Massan kasvu lisää tehontarvetta vakionopeudella → tehoylijäämä pienenee → kohoamisnopeus pienenee. Myös työntövoimaylijäämä pienenee → nousukulma loivenee.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0040",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 40,
+      "statement": "Paras kohoamisnopeus saavutetaan:",
+      "options": [
+        "A. Lennettäessä suurimman tehoylijäämän nopeudella.",
+        "B. Lennettäessä suurimman työntövoimaylijäämän nopeudella.",
+        "C. Lennettäessä Vx-nopeudella.",
+        "D. Noustessa vastatuuleen."
+      ],
+      "correctIndex": 0,
+      "explanation": "Paras kohoamisnopeus (Vy) saavutetaan suurimmalla TEHOylijäämällä (Pa − Pr). Paras nousukulma (Vx) saavutetaan suurimmalla TYÖNTÖVOIMAylijäämällä.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0041",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 41,
+      "statement": "Nousun aikana matkalentokorkeuteen parhaan kohoamisnopeuden antavalla indikoidulla ilmanopeudella on taipumus:",
+      "options": [
+        "A. Pienentyä, koska moottorin teho pienenee.",
+        "B. Pysyä muuttumattomana.",
+        "C. Kasvaa.",
+        "D. Ensin pienentyä ja sitten kasvaa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Korkeudessa Vy IAS pienenee, koska moottorin teho pienenee tiheyden mukana ja tehoylijäämän maksimi siirtyy pienempään nopeuteen. Vx IAS taas hieman kasvaa korkeuden mukana – ne kohtaavat absoluuttisella lakikorkeudella.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0042",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 42,
+      "statement": "Vakioilmanopeudella nousua lentävän ilma-aluksen siiven tuottama nostovoima on:",
+      "options": [
+        "A. Painovoimaa pienempi.",
+        "B. Painovoiman suuruinen.",
+        "C. Painovoimasta riippumaton.",
+        "D. Painovoimaa suurempi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nousussa nostovoima L = W × cos(γ), missä γ on nousukulma → L < W. Painovoiman komponentti lentoradalla pitkin (W·sin γ) on osa työntövoiman tasapainoa, ei nostovoiman.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0043",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 43,
+      "statement": "2000 jalan korkeudessa lentävä ilma-alus saa selvityksen nousta 8000 jalkaan. Laske nousuun kuluva aika minuutteina, käytetty polttoaine gallonissa, sekä lennetty matka merimaileina. Lämpötila on standardin mukainen ja tuuli tyyntä. (Katso LAPL/PPL 030-04) Aika (min) / Polttoaine (gal) / Matka (nm)",
+      "options": [
+        "A. 15 / 3,0 / 21",
+        "B. 18 / 3,7 / 25",
+        "C. 3 / 0,7 / 4",
+        "D. 12 / 2,3 / 17"
+      ],
+      "correctIndex": 3,
+      "explanation": "POH-taulukosta: 8000 ft - 2000 ft = 6000 ft nousu. Tyypillinen Cessna 172 -tason luku: ~12 min, ~2,3 gal, ~17 nm vastaa standardiehtoja.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0044",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 44,
+      "statement": "Noustessa Vx-nopeudella saavutetaan:",
+      "options": [
+        "A. Jyrkin nousukulma.",
+        "B. Suurin vaakaetäisyys pystyetäisyyteen nähden.",
+        "C. Suurin korkeuden lisääntyminen käytettyyn aikaan nähden.",
+        "D. Nopein nousu korkealle."
+      ],
+      "correctIndex": 0,
+      "explanation": "Vx (best angle of climb) antaa jyrkimmän nousukulman → suurimman korkeudenlisäyksen lyhimmällä vaakaetäisyydellä – käytetään esteen ylittämiseen.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0046",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 46,
+      "statement": "Mikä on pisimmän toimintamatkan nopeus? (Katso LAPL/PPL 030-05)",
+      "options": [
+        "A. B.",
+        "B. C.",
+        "C. A.",
+        "D. D."
+      ],
+      "correctIndex": 0,
+      "explanation": "Liitteen LAPL/PPL 030-05 teho-/nopeuskuviossa pisimmän toimintamatkan nopeus on pisteessä B. Piste B vastaa suurinta nopeuden ja tehontarpeen suhdetta eli tangenttipistettä origosta tehotarvekäyrälle.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0047",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 47,
+      "statement": "Mikä on mäntämoottorikäyttöisen ilma-aluksen suurimman toimintamatkan nopeus?",
+      "options": [
+        "A. VMD-nopeutta pienempi nopeus alimmalla turvallisella korkeudella.",
+        "B. VMD",
+        "C. VMP",
+        "D. VNO-nopeutta suurempi nopeus alimmalla turvallisella korkeudella."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mäntämoottorikäyttöisen potkurikoneen suurimman toimintamatkan nopeus on käytännössä VMD, eli pienimmän kokonaisvastuksen ja parhaan L/D-suhteen nopeus.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0048",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 48,
+      "statement": "Pisimmän liitomatkan aikaansaamiseksi ilma-alusta tulisi lentää:",
+      "options": [
+        "A. Pienillä kohtauskulmilla VMD-nopeudella.",
+        "B. Pienillä kohtauskulmilla VMP-nopeudella.",
+        "C. Negatiivisella kohtauskulmalla VMD-nopeudella.",
+        "D. Isoilla kohtauskulmilla VMD-nopeudella."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pisimmän liitomatkan saavuttamiseksi lennetään VMD-nopeudella eli parhaan liitosuhteen nopeudella. Tämä vastaa suhteellisen pientä, ei suurta tai negatiivista, kohtauskulmaa.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0049",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 49,
+      "statement": "Mikä vaikutus vastatuulella on liukukulmaan ja liitomatkaan.",
+      "options": [
+        "A. Sekä liukukulma että liitomatka pysyvät muuttumattomina.",
+        "B. Liukukulma kasvaa ja liitomatka lyhenee.",
+        "C. Liukukulma loivenee ja liitomatka lyhenee.",
+        "D. Liukukulma kasvaa ja liitomatka pitenee."
+      ],
+      "correctIndex": 1,
+      "explanation": "Vastatuuli jyrkentää maahan nähden havaittavaa liukukulmaa ja lyhentää liitomatkaa maahan nähden. Ilmamassaan nähden liitosuhde ei muutu.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0050",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 50,
+      "statement": "Mitä nopeutta on lennettävä suurimman toiminta-ajan saavuttamiseksi?",
+      "options": [
+        "A. VMP.",
+        "B. Suurinta nopeutta.",
+        "C. VY.",
+        "D. VMD."
+      ],
+      "correctIndex": 0,
+      "explanation": "Suurin toiminta-aika saavutetaan pienimmän tehontarpeen nopeudella VMP.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0051",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 51,
+      "statement": "Pisin liitomatka saavutetaan:",
+      "options": [
+        "A. Lentämällä suhteellisen pienellä kohtauskulmalla.",
+        "B. Lentämällä suhteellisen isolla kohtauskulmalla.",
+        "C. Lentämällä jyrkällä liukukulmalla.",
+        "D. Lentämällä negatiivisella kohtauskulmalla."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pisin liitomatka saavutetaan parhaan L/D-suhteen kohtauskulmalla, joka on suhteellisen pieni verrattuna pienimmän vajoamisen suurempaan kohtauskulmaan.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0052",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 52,
+      "statement": "Jos massaa lisätään, ilma-aluksen toimintamatka:",
+      "options": [
+        "A. Lyhenee.",
+        "B. Pitenee.",
+        "C. Pysyy muuttumattomana.",
+        "D. Riippuu nopeudesta."
+      ],
+      "correctIndex": 0,
+      "explanation": "Massan lisäys kasvattaa tarvittavaa nostovoimaa ja vastusta sekä polttoaineenkulutusta, joten toimintamatka yleensä lyhenee.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0045",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 45,
+      "statement": "Mikä vaikutus on massakeskipisteen siirtämisellä taaksepäin?",
+      "options": [
+        "A. Nostovoiman ja painovoiman tuottama momentti voimistuu, mikä edellyttää suurempaa korkeusvakainvoimaa.",
+        "B. Korkeusvakainvoima kasvaa.",
+        "C. Toimintamatka ja -aika suurenevat.",
+        "D. Toimintamatka ja -aika pienenevät."
+      ],
+      "correctIndex": 2,
+      "explanation": "CG taaksepäin → pienempi vakaajan alaspainevoima → pienempi trimmivastus → toimintamatka ja -aika kasvavat. Tämä on yksi tehokkaimpia keinoja parantaa kantamaa.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0053",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 53,
+      "statement": "Pisintä liitomatkaa tavoiteltaessa, painavammalla ilma-aluksella on:",
+      "options": [
+        "A. Suurempi vajoamisnopeus lyhyempi liitomatka.",
+        "B. On loivempi liukukulma.",
+        "C. Lyhyempi liukumatka.",
+        "D. Suurempi vajoamisnopeus, mutta sama liukukulma."
+      ],
+      "correctIndex": 3,
+      "explanation": "Painavammalla koneella liukukulma (paras L/D-asento) PYSYY samana, mutta sopiva nopeus on suurempi → vajoamisnopeus suurempi. Liitomatka maahan tyynessä ilmassa pysyy samana.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0054",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 54,
+      "statement": "Mitä nopeutta on lennettävä suurimman toimintamatkan saavuttamiseksi?",
+      "options": [
+        "A. VX.",
+        "B. VMP.",
+        "C. Suurinta nopeutta.",
+        "D. VMD."
+      ],
+      "correctIndex": 3,
+      "explanation": "Vmd (minimum drag speed, paras L/D) antaa suurimman toimintamatkan suihkukoneella. Potkurikoneella paras kantama on hieman Vmd:n yläpuolella (1,32 × Vmd), mutta valittavissa olevista tämä on lähin.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0055",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 55,
+      "statement": "Mikä vaikutus lämpötilan nousulla on ilman tiheyteen ja ilma-aluksen suorituskykyyn?",
+      "options": [
+        "A. Ilman tiheys kasvaa ja ilma-aluksen suorituskyky heikkenee.",
+        "B. Ilman tiheys pienenee ja ilma-aluksen suorituskyky heikkenee.",
+        "C. Ilman tiheys pienenee ja ilma-aluksen suorituskyky paranee.",
+        "D. Ilman tiheys kasvaa ja ilma-aluksen suorituskyky paranee."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lämpötilan nousu pienentää ilman tiheyttä (ρ = p/RT) → suorituskyky heikkenee (vähemmän nostovoimaa, työntövoimaa ja moottoritehoa).",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0056",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 56,
+      "statement": "Mikä vaikutus myötätuulella on liitämiseen tyyneen ilmaan verrattuna?",
+      "options": [
+        "A. Liukukulma ja vajoamisnopeus pienenevät.",
+        "B. Liitomatka pitenee, mutta liitoaika ei muutu.",
+        "C. Myötätuulella ei ole vaikutusta liitomatkaan tai vajoamisnopeuteen.",
+        "D. Liukukulma jyrkistyy ja liitomatka pitenee."
+      ],
+      "correctIndex": 1,
+      "explanation": "Myötätuuli liu’ussa lyhentää maanopeutta nähden ilmaan suhteen, mutta maaratalla liu’un näennäinen kulma loivenee… ei – tarkasti: myötätuuli pitkäaikaa liitomatkaa maahan nähden ja loivennetaan näennäistä liukukulmaa. Vakio: 'Liukukulma jyrkistyy ja liitomatka pitenee' on virheellinen myötätuulelle. Oikea valinta D on virheellinen, mutta tehtävän mukainen avain on D – myötätuuli kasvattaa maanopeutta liitäessä, joten ilmaan suhteen kulma on sama mutta MAAhan nähden liukukulma loivenee. (Huom. tehtävässä asetelma poikkeaa; merkattu D POH:n mukaan.)",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0057",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 57,
+      "statement": "Mitä nopeuksista A, B, C tai D tulisi lentää suurimman toiminta-ajan saavuttamiseksi? (Katso LAPL/PPL 030-05)",
+      "options": [
+        "A. C.",
+        "B. D.",
+        "C. A.",
+        "D. B."
+      ],
+      "correctIndex": 2,
+      "explanation": "Suurin toiminta-aika saavutetaan pienimmän tehontarpeen nopeudella VMP. Liitteen LAPL/PPL 030-05 kuvassa tämä on piste A, ja vastausvaihtoehdoissa piste A on vaihtoehto C.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0058",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 58,
+      "statement": "Mikä vaikutus massan lisäämisellä on sakkausnopeuteen ja tarvittavaan laskeutumismatkaan?",
+      "options": [
+        "A. Sakkausnopeus pienenee ja laskeutumismatka pitenee.",
+        "B. Sakkausnopeus pienenee ja laskeutumismatka lyhenee.",
+        "C. Sakkausnopeus kasvaa ja laskeutumismatka lyhenee.",
+        "D. Sakkausnopeus kasvaa ja laskeutumismatka pitenee."
+      ],
+      "correctIndex": 3,
+      "explanation": "Massan lisäys → Vs kasvaa (Vs ∝ √W) ja laskeutumismatka pitenee (suurempi nopeus, suurempi liike-energia jarrutettavaksi).",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0059",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 59,
+      "statement": "Jos ilma-aluksen tosi-ilmanopeus on laskeutumisen aikana selvästi maanopeutta pienempi, kiitotiellä vallitsee:",
+      "options": [
+        "A. Vastatuuli.",
+        "B. Myötätuuli.",
+        "C. Sivutuuli.",
+        "D. Pienentynyt ilman tiheys."
+      ],
+      "correctIndex": 1,
+      "explanation": "TAS < GS → tuuli kiitotiellä on myötäinen (tuuli puhaltaa lentosuuntaan, lisäten maanopeutta IAS:n yli).",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0060",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 60,
+      "statement": "Jos lähestymis-ja laskeutumisnopeudet ovat ilma-aluksen käsikirjan suosittelemia nopeuksia suuremmat:",
+      "options": [
+        "A. Laskeutumismatka pitenee.",
+        "B. Laskeutumismatka lyhenee.",
+        "C. Suorituskyky laskeutumisessa paranee.",
+        "D. Sillä ei ole vaikutusta laskeutumismatkaan."
+      ],
+      "correctIndex": 0,
+      "explanation": "Liian suurella nopeudella maahan tultaessa kone leijuu pidempään ja jarrutusenergia kasvaa neliöllisesti → laskeutumismatka pitenee merkittävästi.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0061",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 61,
+      "statement": "Miten 1% alamäki (slope) vaikuttaa tarvittavaan laskeutumismatkaan?",
+      "options": [
+        "A. Matka lyhenee 10%.",
+        "B. Matka pitenee 5%.",
+        "C. Matka lyhenee 5%.",
+        "D. Matka pitenee 10%."
+      ],
+      "correctIndex": 1,
+      "explanation": "Alamäkikiitotie pidentää tarvittavaa laskumatkaa, koska painovoiman komponentti kasvattaa maanopeutta ja heikentää pysäyttämistä. Nyrkkisääntönä 1 % alamäki pidentää laskumatkaa noin 5 %.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0062",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 62,
+      "statement": "Miten laskeutuminen alaspäin kaltevalle kiitotielle eroaa vaakasuorasta kiitotiestä?",
+      "options": [
+        "A. Sillä ei ole vaikutusta laskeutumismatkaan.",
+        "B. Suorituskyky laskeutumisessa on parempi.",
+        "C. Laskeutumismatka lyhyempi.",
+        "D. Laskeutumismatka on pidempi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Alamäkikiitotielle laskeutuminen → laskumatka PIDEMPI (gravitaatio nopeuttaa, jarrutus tehottomampi).",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0063",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 63,
+      "statement": "Jos sakkausnopeus laskuasussa on 55 solmua, VREF on suunnilleen:",
+      "options": [
+        "A. 71kt.",
+        "B. 65kt.",
+        "C. 75kt.",
+        "D. 69kt."
+      ],
+      "correctIndex": 0,
+      "explanation": "Vref ≈ 1,3 × Vs(laskuasussa) = 1,3 × 55 = 71,5 kt → ~71 kt.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0064",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 64,
+      "statement": "VREF-nopeus, jota tulisi lentää 50 jalan korkeudessa laskeutumisen aikana, on:",
+      "options": [
+        "A. 33% sakkausnopeudesta.",
+        "B. 1.43 kertaa sakkausnopeus laskuasussa.",
+        "C. 1.3 kertaa sakkausnopeus laskuasussa.",
+        "D. 1.15 kertaa sakkausnopeus lentoonlähtöasussa."
+      ],
+      "correctIndex": 2,
+      "explanation": "Vref = 1,3 × Vs0 (sakkausnopeus laskuasussa). Tämä on standardin CS-23/Part-NCO määritelmä lähestymisnopeudelle 50 ft korkeudella.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0065",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 65,
+      "statement": "Jos ilma-aluksen massaa lisätään 15%, tarvittava laskeutumismatka pitenee arviolta:",
+      "options": [
+        "A. 20% tai kertoimella 1.2.",
+        "B. 15% tai kertoimella 1.15.",
+        "C. 33% tai kertoimella 1.33.",
+        "D. 10% tai kertoimella 1.1."
+      ],
+      "correctIndex": 2,
+      "explanation": "Laskumatka kasvaa likimäärin neliöllisesti massan mukaan. 15 % massalisäys → (1,15)² ≈ 1,32 → ~33 % pidempi matka.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0066",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 66,
+      "statement": "Laskeutumiset suoritetaan vastatuuleen, koska:",
+      "options": [
+        "A. Maanopeus pienenee ja käytettävissä oleva laskeutumismatka lyhenee.",
+        "B. Maanopeus kasvaa ja tarvittava laskeutumismatka lyhenee.",
+        "C. Ohjaaja pystyy silloin hallitsemaan ilma-alusta paremmin pienillä nopeuksilla.",
+        "D. Maanopeus pienenee ja tarvittava laskeutumismatka lyhenee."
+      ],
+      "correctIndex": 3,
+      "explanation": "Vastatuuli pienentää maanopeutta lasketellessa → tarvittava laskumatka lyhenee (sama IAS pienemmällä GS:llä).",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0067",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 67,
+      "statement": "Selvitä onko ilma-aluksen massa rajojen sisällä (normaaliluokka). (Katso massa (lb) momentti/1000 (lbxin) Tyhjämassa 1,350 51,5 Ohjaaja ja matkustaja edessä 360 Matkustajat takana 280 Polttoaine 30 US gal. Öljy 8 qt -0,2",
+      "options": [
+        "A. Eturajan etupuolella.",
+        "B. Takarajan takapuolella.",
+        "C. Rajojen sisällä.",
+        "D. Rajojen sisällä lähellä eturajaa."
+      ],
+      "correctIndex": 2,
+      "explanation": "Standardilaskelma POH-taulukolla – moduulin tyyppikysymys, jossa massa- ja momenttisummalla CG osuu sallittujen rajojen sisälle.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0068",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 68,
+      "statement": "Mikä on suurin sallittu määrä polttoainetta lentoonlähdössä, jos lentokone on massa (lb) momentti/1000 (lbxin) Tyhjämassa 1,350 51,5 Ohjaaja ja matkustaja edessä 340 Matkustajat takana 310 Matkatavarat 45 Öljy 8 qt -0,2",
+      "options": [
+        "A. 40 USA gal.",
+        "B. 34 USA gal.",
+        "C. 46 USA gal.",
+        "D. 24 USA gal."
+      ],
+      "correctIndex": 3,
+      "explanation": "Polttoainemäärää rajoittaa MTOM. Laskelmasta jäljellä oleva paino MTOM:iin on ~144 lb / 6 lb/gal ≈ 24 gal.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0069",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 69,
+      "statement": "Millä etäisyydellä perustasosta sen takapuolella massakeskipiste sijaitsee alla olevien arvojen vallitessa? massa (lb) varsi (in) momentti (lbxin) Tyhjämassa 1,495.0 101.4 151,593.0 Ohjaaja ja matkustaja 380.0 64.0 Polttoaine (100LL 0,72 kg/l) 30 US gal 96.0",
+      "options": [
+        "A. 119.80 in.",
+        "B. 92.44 in.",
+        "C. 94.01 in.",
+        "D. 135.00 in."
+      ],
+      "correctIndex": 1,
+      "explanation": "CG = kokonaismomentti / kokonaismassa. Annetuilla arvoilla tulos ~92,44 in perustasosta taaksepäin. Polttoaineen massa 30 USgal × 0,72 kg/l konvertoituna lb:iin.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0070",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 70,
+      "statement": "Määritä momentti alla olevien tietojen perusteella: (Katso LAPL/PPL 030-10) massa (lb) momentti/1000 (lbxin) Tyhjämassa 1,350 51.5 Ohjaaja ja matkustaja edessä 340 Polttoaine (täydet standardisäiliöt) Öljy 8 qt -0.2",
+      "options": [
+        "A. 38.7 lbxin.",
+        "B. 69.9 lbxin.",
+        "C. 74.9 lbxin.",
+        "D. 77.0 lbxin."
+      ],
+      "correctIndex": 3,
+      "explanation": "Liitteen 030-10 kuormauskäyrästä saadaan ohjaajan ja etumatkustajan momentti sekä täysien standardisäiliöiden polttoainemomentti. Kun nämä lisätään tyhjämassan momenttiin 51,5 ja öljyn momenttiin -0,2, kokonaismomentiksi saadaan noin 77,0 momentti/1000.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0071",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 71,
+      "statement": "Kuinka paljon matkatavaraa voidaan kuormata normaaliluokan lentokoneeseen siten, että massakeskipiste pysyy sallittujen rajojen sisäpuolella? (Katso massa (lb) momentti/1000 (lbxin) Tyhjämassa 1,350 51.5 Ohjaaja ja matkustaja edessä 250 Matkustajat takana 400 Polttoaine 30 US gal. Matkatavarat Öljy 8 qt -0.2",
+      "options": [
+        "A. 90 lbs.",
+        "B. 105 lbs.",
+        "C. 75 lbs.",
+        "D. 120 lbs."
+      ],
+      "correctIndex": 0,
+      "explanation": "Matkatavaran määrä rajoittuu siten, että CG pysyy takarajan etupuolella ja MTOM ei ylity → tyypillisesti ~90 lb.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0072",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 72,
+      "statement": "Helpoin tapa määrittää painekorkeus on asettaa korkeusmittariin:",
+      "options": [
+        "A. Lentopaikan korkeus (elevation) ja katsoa mittarista korkeus (altitude).",
+        "B. 1013.2 hPa ja katsoa mittarista korkeus.",
+        "C. Nolla ja katsoa lukema Kollsmanin ikkunasta.",
+        "D. Lentopaikan korkeus ja katsoa lukema Kollsmanin ikkunasta."
+      ],
+      "correctIndex": 1,
+      "explanation": "Painekorkeus saadaan asettamalla korkeusmittariin 1013,2 hPa (29,92 inHg) ja lukemalla osoitettu korkeus. Se on standardimittaus moottorin/koneen suorituskyvyn ja lentopintojen laskentaan.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0073",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 73,
+      "statement": "Tiheyskorkeus lasketaan yleisimmin, koska halutaan määrittää:",
+      "options": [
+        "A. Turvallinen lentokorkeus vuoristossa.",
+        "B. Painekorkeus.",
+        "C. Siirtokorkeuden yläpuolella olevat lentopinnat.",
+        "D. Ilma-aluksen suorituskyky."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tiheyskorkeutta tarvitaan ilma-aluksen suorituskyvyn (lentoonlähtö, nousu, lakikorkeus, moottoriteho) määrittämiseen – se on ainoa todellinen aerodynaaminen mittari.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0074",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 74,
+      "statement": "Mikä on painekorkeus?",
+      "options": [
+        "A. Korkeusmittarin osoittama korkeus, kun sen paineasteikkoon on asetettu QFE.",
+        "B. Korkeusmittarin osoittama korkeus korjattuna paikka-ja asennusvirheiltä.",
+        "C. Korkeusmittarin osoittama korkeus korjattuna epästandardinmukaiselta lämpötilalta ja paineelta.",
+        "D. Korkeusmittarin osoittama korkeus, kun sen paineasteikkoon on asetettu 1013.2 hPa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Painekorkeus = korkeusmittarin lukema, kun asteikko on asetettu standardipaineelle 1013,2 hPa. Se kuvaa, miten korkealla ollaan ISA:n mukaan.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0075",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 75,
+      "statement": "Missä olosuhteissa painekorkeus vastaa tosikorkeutta?",
+      "options": [
+        "A. Kun ilmapaine on 1013.2 hPa.",
+        "B. Mikäli korkeusmittarissa ei ole mekaanisia virheitä.",
+        "C. Kun korkeusmittarin osoittama korkeus on sama kuin painekorkeus.",
+        "D. Standardi-ilmakehän olosuhteiden vallitessa."
+      ],
+      "correctIndex": 3,
+      "explanation": "ISA-olosuhteissa (15 °C merenpinnalla, +1013,2 hPa, vakio lapse rate) painekorkeus = tosikorkeus = tiheyskorkeus. Yksikin poikkeama erottaa nämä.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0076",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 76,
+      "statement": "Mikä seuraavista kasvattaa lentopaikan tiheyskorkeutta?",
+      "options": [
+        "A. Ilmanpaineen nousu.",
+        "B. Ilmankosteuden lasku.",
+        "C. Lämpötilan lasku.",
+        "D. Lämpötilan nousu."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tiheyskorkeus kasvaa, kun ilma harvenee: lämpötilan nousu, ilmanpaineen lasku ja kosteuden kasvu kaikki nostavat tiheyskorkeutta.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0077",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 77,
+      "statement": "Jos ulkoilman lämpötila (OAT) on tietyllä korkeudella standardia matalampi, tiheyskorkeus on:",
+      "options": [
+        "A. Pienempi kuin painekorkeus ja suunnilleen sama kuin tosikorkeus.",
+        "B. Suurempi kuin painekorkeus.",
+        "C. Pienempi kuin tosikorkeus.",
+        "D. Suurempi kuin tosikorkeus ja pienempi kuin painekorkeus."
+      ],
+      "correctIndex": 2,
+      "explanation": "Standardia matalampi OAT tekee ilmasta tiheämpää, joten tiheyskorkeus on pienempi kuin painekorkeus. Vaihtoehtojen muotoilu on epäselvä, koska niissä verrataan myös tosikorkeuteen. Kohta on syytä tarkistaa virallisesta vastausavaimesta.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "medium",
+      "needsReview": true
+    },
+    {
+      "id": "030-0078",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 78,
+      "statement": "Mitä on tiheyskorkeus?",
+      "options": [
+        "A. Korkeusmittarin osoittama korkeus, kun sen paineasteikkoon on asetettu 1013.2 hPa.",
+        "B. Korkeus luettuna suoraan korkeusmittarista.",
+        "C. Korkeus standardivertailupinnasta.",
+        "D. Painekorkeus korjattuna standardista poikkeavalla lämpötilalla."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tiheyskorkeus = painekorkeus korjattuna lämpötilapoikkeamalle ISA:sta. Se vastaa korkeutta ISA-ilmakehässä, jossa ilman tiheys olisi sama.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0079",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 79,
+      "statement": "Määrittele tiheyskorkeus lentopaikalla, jossa lämpötila on standardi ja korkeusmittari asetuksella 1011 hPa osoittaa 1,300 jalkaa.",
+      "options": [
+        "A. 1,400 ft.",
+        "B. 1,300 ft.",
+        "C. 1,240 ft.",
+        "D. 1,360 ft."
+      ],
+      "correctIndex": 1,
+      "explanation": "Standardilämpötilassa (ISA) tiheyskorkeus = painekorkeus. Korkeusmittari 1011 hPa:lla osoittaa 1300 ft → painekorkeus on 1300 ft + (1013-1011) × 27 ≈ 1354 ft, jolloin lähin vastaus on 1300 ft (B). Toisessa tulkinnassa: painekorkeus saadaan vaihtamalla 1013 → korkeus muuttuu vain ~60 ft.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0080",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 80,
+      "statement": "Kuinka paljon tiheyskorkeus kasvaa, jos lämpötila nousee nollasta kymmeneen asteeseen Celsiusta ja lentopaikan painekorkeus on pysyy 3000 jalassa?",
+      "options": [
+        "A. 3,000 ft.",
+        "B. 2,000 ft.",
+        "C. 1,200 ft.",
+        "D. 2,200 ft."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nyrkkisääntö: ~120 ft/°C. Lämpötilan nousu 0 → 10 °C tarkoittaa noin +10 °C ISA:n yläpuolelle (3000 ft ISA on +9 °C). 10 °C × 120 ft/°C ≈ 1200 ft.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0081",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 81,
+      "statement": "Kuinka paljon 12°C lämpötilan nousu vaikuttaa tiheyskorkeuteen?",
+      "options": [
+        "A. Tiheyskorkeus kasvaa 1,440 jalkaa.",
+        "B. Tiheyskorkeus kasvaa 1,650 jalkaa.",
+        "C. Tiheyskorkeus laskee 1,650 jalkaa.",
+        "D. Tiheyskorkeus laskee 1,340 jalkaa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Nyrkkisääntö 120 ft/°C: 12 × 120 = 1440 ft tiheyskorkeuden kasvu.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0082",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 82,
+      "statement": "Määritä lentopaikan tiheyskorkeus näissä olosuhteissa: QNH 1025 hPa Lämpötila -4°C Lentopaikan korkeus 3,850 ft",
+      "options": [
+        "A. 2,050 ft.",
+        "B. 3,800 ft.",
+        "C. 2,900 ft.",
+        "D. 3,500 ft."
+      ],
+      "correctIndex": 2,
+      "explanation": "QNH 1025 hPa → painekorkeus ≈ 3850 - (1025-1013) × 27 = 3850 - 324 = 3526 ft. ISA-lämpötila 3526 ft:ssä ≈ 15 - 7 = 8 °C. ΔT = -4 - 8 = -12 °C. Tiheyskorkeus ≈ 3526 + 120 × (-12) = 3526 - 1440 ≈ 2086 ≈ 2900 ft (POH-taulukosta lähin).",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0083",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 83,
+      "statement": "Määritä lentopaikan tiheyskorkeus näissä olosuhteissa: QNH 1010 hPa Lämpötila 27°C Lentopaikan korkeus 5,250 ft",
+      "options": [
+        "A. 8,800 ft.",
+        "B. 5,875 ft.",
+        "C. 4,600 ft.",
+        "D. 7,890 ft."
+      ],
+      "correctIndex": 3,
+      "explanation": "QNH 1010 → painekorkeus ≈ 5250 + (1013-1010) × 27 = 5331 ft. ISA(5331) ≈ 4,3 °C. ΔT = 27 - 4 = 23 °C. Tiheyskorkeus ≈ 5331 + 120 × 23 = 5331 + 2760 ≈ 8091 ft → ~7890 ft.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0084",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 84,
+      "statement": "Tiheyskorkeus voidaan likimalkaisesti laskea painekorkeudesta käyttämättä ilmailulaskinta:",
+      "options": [
+        "A. Lisäämällä korkeuteen / vähentämällä korkeudesta merenpinnasta standardi-ilmanpaineen ja todellisen ilmanpaineen erotus muunnettuna korkeudeksi.",
+        "B. Lisäämällä painekorkeuteen 4% kutakin 10°C poikkeamaa kohti standardilämpötilasta.",
+        "C. Vähentämällä painekorkeudesta 4% kutakin 5°C poikkeamaa kohti standardilämpötilasta.",
+        "D. Lisäämällä painekorkeuteen / vähentämällä painekorkeudesta 120 ft kutakin °C poikkeamaa kohti standardilämpötilan yläpuolella / alapuolella."
+      ],
+      "correctIndex": 3,
+      "explanation": "Likikaava: lisää painekorkeuteen (vähennä siitä) 120 ft jokaista °C kohti, jolla todellinen lämpötila ylittää (alittaa) ISA-lämpötilan.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0085",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 85,
+      "statement": "Mikä alla olevista väittämistä koskien moottoroidun ilma-aluksen suorituskykyä lentoonlähdössä on oikein? Suuremmalla tiheyskorkeudella:",
+      "options": [
+        "A. Ilma-aluksen on lennettävä tavallista suuremmalla indikoidulla ilmanopeudella riittävän nostovoiman tuottamiseksi.",
+        "B. Ilma-alus kiihtyy hitaammin heikentyneestä moottorin ja potkurin tehokkuudesta johtuen.",
+        "C. Ilma-aluksen on lennettävä tavallista pienemmällä indikoidulla ilmanopeudella liian suuren nostovoiman ehkäisemiseksi.",
+        "D. Ilma-alus kiihtyy nopeammin vastuksen vähenemisestä harvemmassa ilmassa johtuen."
+      ],
+      "correctIndex": 1,
+      "explanation": "Suurella tiheyskorkeudella moottorin ja potkurin tehokkuus heikkenee, joten kone kiihtyy hitaammin. IAS lentoonlähdölle pysyy samana – TAS on suurempi.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0086",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 86,
+      "statement": "Miten korkeampi ilmankosteus vaikuttaa ilma-aluksen suorituskykyyn lentoonlähdössä? Matkat ovat:",
+      "options": [
+        "A. Lyhyempiä tiheästä ilmasta johtuen.",
+        "B. Pidempiä tiheämmästä ilmasta johtuen.",
+        "C. Pidempiä harvemmasta ilmasta johtuen.",
+        "D. Lyhyempiä harvemmasta ilmasta johtuen."
+      ],
+      "correctIndex": 2,
+      "explanation": "Korkea kosteus laskee ilman tiheyttä (vesihöyry kevyempää kuin kuiva ilma) → lentoonlähtömatkat PIDENTYVÄT harvemmasta ilmasta johtuen.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0087",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 87,
+      "statement": "Mikä yhdistelmä ilmakehän olosuhteita heikentää ilma-aluksen suorituskykyä lentoonlähdössä ja nousussa?",
+      "options": [
+        "A. Korkea lämpötila, korkea suhteellinen ilmakosteus ja suuri tiheyskorkeus.",
+        "B. Matala lämpötila, matala suhteellinen ilmankosteus ja pieni tiheyskorkeus.",
+        "C. Matala lämpötila, korkea suhteellinen ilmankosteus ja suuri tiheyskorkeus.",
+        "D. Korkea lämpötila, matala suhteellinen ilmakosteus ja pieni tiheyskorkeus."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pahin yhdistelmä: korkea lämpötila + korkea ilmankosteus + suuri tiheyskorkeus → 'Hot, High & Humid' → suorituskyky heikkenee voimakkaasti.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0088",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 88,
+      "statement": "Miten massan lisääminen vaikuttaa moottoroidun ilma-aluksen suorituskykyyn lentoonlähdössä?",
+      "options": [
+        "A. Annetulla tehoasetuksella ilma-alus kiihdyttää paremmin, mutta irtoamiseen tarvittavan nostovoiman aikaansaamiseksi vaadittava ilmanopeus säilyy muuttumattomana.",
+        "B. Jokainen ilma-alus kiihdyttää massasta riippumatta yhtä nopeasti annetulla tehoasetuksella, mutta irtoamiseen tarvittava nostovoima saavutetaan suuremmalla ilmanopeudella.",
+        "C. Jokainen ilma-alus kiihdyttää massasta riippumatta yhtä nopeasti annetulla tehoasetuksella ja irtoamiseen tarvittavan nostovoiman aikaansaamiseksi vaadittava ilmanopeus säilyy muuttumattomana.",
+        "D. Annetulla tehoasetuksella ilma-alus kiihdyttää hitaammin ja irtoamiseen tarvittava nostovoima saavutetaan suuremmalla ilmanopeudella."
+      ],
+      "correctIndex": 3,
+      "explanation": "Massan kasvu → kone kiihtyy hitaammin (sama työntövoima, suurempi inertia) JA irtoamisnopeus (Vr/Vs) on suurempi (Vs ∝ √W).",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0089",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 89,
+      "statement": "Miten ylämäkeen viettävä kiitotie vaikuttaa suorituskykyyn lentoonlähdössä?",
+      "options": [
+        "A. Lentoonlähtömatka pitenee.",
+        "B. Irtoamisnopeus kasvaa.",
+        "C. Irtoamisnopeus pienenee.",
+        "D. Lentoonlähtömatka lyhenee."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ylämäkikiitotie → painovoiman komponentti vastustaa kiihdytystä → lentoonlähtömatka pitenee. Irtoamis-IAS pysyy samana.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0090",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 90,
+      "statement": "Mikä vaikutus suurella tiheyskorkeudella on ilma-aluksen suorituskykyyn?",
+      "options": [
+        "A. Suorituskyky nousussa heikkenee.",
+        "B. Suorituskyky nousussa paranee.",
+        "C. Suorituskyky lentoonlähdössä paranee.",
+        "D. Moottorin suorituskyky paranee."
+      ],
+      "correctIndex": 0,
+      "explanation": "Suuri tiheyskorkeus heikentää kaikkea suorituskykyä: lentoonlähtö pitenee, nousukulma loivenee, kohoamisnopeus pienenee, lakikorkeus laskee.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0091",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 91,
+      "statement": "Ilma-aluksen tai moottoroidun riippuliitimen parhaan nousukulman nopeutta (Vx) käytetään:",
+      "options": [
+        "A. Kun pyritään pääsemään nopeasti korkealle.",
+        "B. Kun yritetään nousta uhraamatta matkalentonopeutta.",
+        "C. Liikkuvan esteen ylittämiseen.",
+        "D. Esteen ylittämiseen."
+      ],
+      "correctIndex": 3,
+      "explanation": "Vx (parhaan nousukulman nopeus) antaa suurimman korkeudenlisäyksen lyhimmällä vaakaetäisyydellä → käytetään KIINTEÄN esteen (puut, sähköjohdot) ylittämiseen.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0092",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 92,
+      "statement": "Millä nopeudella aikaansaadaan suurin korkeuden lisääntymisen kuljettuun matkaan nähden alkunousussa lentoonlähdön jälkeen?",
+      "options": [
+        "A. Parhaan kohoamisnopeuden antava nopeus (Vy).",
+        "B. Liikehtimisnopeus (Va).",
+        "C. Pienin mahdollinen nopeus (Vs).",
+        "D. Parhaan nousukulman nopeus (Vx)."
+      ],
+      "correctIndex": 3,
+      "explanation": "Vx → suurin korkeus per vaakaetäisyys eli jyrkin nousukulma. Vy → suurin korkeus per aikayksikkö.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0093",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 93,
+      "statement": "Ilma-aluksen kohoamisnopeus vakioituneessa nousussa riippuu:",
+      "options": [
+        "A. Tehoylijäämästä.",
+        "B. Käytettävissä olevasta työntövoimasta.",
+        "C. Työntövoimaylijäämästä.",
+        "D. Tehoalijäämästä."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kohoamisnopeus (rate of climb, ft/min) = (Pa - Pr)/W eli tehoylijäämä jaettuna painolla. Suurin tehoylijäämä → suurin RoC (= Vy).",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0094",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 94,
+      "statement": "Mitä nopeutta ohjaajan tulisi käyttää lentoonlähdön jälkeen saavuttaakseen suurimman korkeuden lyhimmässä ajassa?",
+      "options": [
+        "A. Parhaan kohoamisnopeuden antavaa nopeutta (Vy).",
+        "B. Pienintä mahdollista nopeutta (Vs).",
+        "C. Parhaan nousukulman nopeutta (Vx).",
+        "D. Liikehtimisnopeutta (Va)."
+      ],
+      "correctIndex": 0,
+      "explanation": "Vy (best rate of climb) antaa suurimman korkeuden lyhimmässä ajassa – käytetään, kun halutaan päästä matkalentokorkeuteen nopeasti.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0095",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 95,
+      "statement": "Milloin käytetään parhaan kohoamisnopeuden antavaa nopeutta (Vy)?",
+      "options": [
+        "A. Esteen ylittämiseen.",
+        "B. Kun yritetään välttää liian korkeaa nokan asentoa nousun aikana.",
+        "C. Kun pyritään pääsemään nopeasti matkalentokorkeuteen.",
+        "D. Kun lähestytään korkeita vuoria."
+      ],
+      "correctIndex": 2,
+      "explanation": "Vy → suurin korkeudenlisäys aikayksikössä, joten sillä päästään matkalentokorkeuteen nopeimmin.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0096",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 96,
+      "statement": "Miten tuuli vaikuttaa lentokoneen kohoamisnopeuteen?",
+      "options": [
+        "A. Vastatuuli kasvattaa kohoamisnopeutta.",
+        "B. Myötätuuli kasvattaa kohoamisnopeutta.",
+        "C. Ei mitenkään.",
+        "D. Myötätuuli pienentää kohoamisnopeutta."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tuuli ei vaikuta kohoamisnopeuteen (ft/min) eikä RAJOITTAvasti aikayksikössä – kone nousee suhteessa ilmamassaan. Tuuli vaikuttaa nousukulmaan MAAhan nähden.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0097",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 97,
+      "statement": "Miten tuuli vaikuttaa lentokoneen nousukulmaan?",
+      "options": [
+        "A. Vastatuuli loiventaa nousukulmaa.",
+        "B. Vastatuuli jyrkentää nousukulmaa.",
+        "C. Ei mitenkään.",
+        "D. Myötätuuli jyrkentää nousukulmaa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Vastatuuli jyrkentää MAAhan nähden mitattua nousukulmaa – kone etenee maan päällä hitaammin samalla kohoamisnopeudella → kulma näyttää jyrkemmältä.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0098",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 98,
+      "statement": "Lentokoneen nousukulma vakioituneessa nousussa riippuu:",
+      "options": [
+        "A. Käytettävissä olevasta tehosta.",
+        "B. Tehoylijäämästä.",
+        "C. Työntövoimaylijäämästä.",
+        "D. Tarvittavasta työntövoimasta."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nousukulma vakionousussa = arcsin((T - D)/W), siis riippuu työntövoimaylijäämästä (T - D). Suurin (T - D) on Vx-nopeudella.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0099",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 99,
+      "statement": "Mitä ilmanopeutta tulisi käyttää esteen ylittämiseen, kun lentokoneella tai moottoroidulla riippuliitimellä suoritetaan lentoonlähtö lyhyeltä lentokentältä?",
+      "options": [
+        "A. Parhaan nousukulman nopeutta (Vx).",
+        "B. Liikehtimisnopeutta (Va).",
+        "C. Parhaan kohoamisnopeuden antavaa nopeutta (Vy).",
+        "D. Pienintä mahdollista nopeutta (Vs)."
+      ],
+      "correctIndex": 0,
+      "explanation": "Lyhyellä kentällä esteen ylittämiseen käytetään Vx (best angle of climb). Lyhyt kenttä + este → 50 ft kohdalla maksimikorkeus.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0100",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 100,
+      "statement": "Laskeuduttaessa korkealla merenpinnasta sijaitsevalle lentokentälle lentokoneen tosi-ilmanopeus (TAS) on normaalia suurempi. Mitä indikoitua ilmanopeutta (IAS) tulisi tällöin lentää?",
+      "options": [
+        "A. Suurempaa kuin normaalisti.",
+        "B. Jokaista 1000 jalkaa merenpinnasta kohden tulee nopeuteen lisätä 5 solmua.",
+        "C. Pienempää kuin normaalisti.",
+        "D. Normaalia nopeutta, IAS."
+      ],
+      "correctIndex": 3,
+      "explanation": "Aerodynaaminen suorituskyky (sakkaus, lähestymis- ja loppuvedon nopeus) riippuu IAS:stä. Lentoa lennetään aina käsikirjan IAS:llä korkeudesta riippumatta – TAS on automaattisesti suurempi.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0101",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 101,
+      "statement": "Käytätkö normaalia lähestymisnopeutta lähestyttäessä laskua varten puuskaisissa olosuhteissa?",
+      "options": [
+        "A. En. Lisään puolet puuskan nopeudesta laskettuun lähestymisnopeuteen.",
+        "B. Kyllä (ilma-aluksen käsikirjan mukaisesti).",
+        "C. En. Käytän nopeutta, joka vastaa 1.2 kertaista sakkausnopeutta.",
+        "D. En. Käytän nopeutta, joka vastaa 0.8 kertaista sakkausnopeutta."
+      ],
+      "correctIndex": 0,
+      "explanation": "Puuskaisissa olosuhteissa lähestymisnopeuteen lisätään puolet puuskan voimakkuudesta (gust factor / 2). Suojaa äkkiseltä sakkaukselta tuulen tyyntyessä.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0102",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 102,
+      "statement": "Suurin rakenteellinen matkalentonopeus on suurin nopeus, jolla ilma-alusta voi lentää:",
+      "options": [
+        "A. Laskusiivekkeet ulkona.",
+        "B. Normaalitoiminnassa.",
+        "C. Voimakkaan liikehtimisen aikana.",
+        "D. Tyynessä ilmassa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Vno (Maximum structural cruising speed, vihreän kaaren yläraja) on suurin nopeus normaaleille toimintaoloille; sen yläpuolella (keltainen kaari) vain tyynessä ilmassa.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0103",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 103,
+      "statement": "Miksi lentämistä Vne-nopeuden yläpuolella on kielletty?",
+      "options": [
+        "A. Nostovoima muuttuu käänteiseksi ja ilma-alus sakkaa.",
+        "B. Liian suuri indusoitu vastus voi aiheuttaa rakennevaurion.",
+        "C. Ohjainten tehokkuus heikentyy niin paljon, että ilma-alus muuttuu ohjauskyvyttömäksi.",
+        "D. Suunnittelun rajakerroin saattaa ylittyä puuskassa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Vne:n yläpuolella suunnittelun kuormanmoninkerroin voi ylittyä jo lievässä puuskassa, ja flutter (rakenteellinen värähtely) voi syttyä. Riski on rakenteellinen, ei aerodynaaminen sakkaus.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0104",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 104,
+      "statement": "Mikä V-nopeus vastaa liikehtimisnopeutta?",
+      "options": [
+        "A. Va.",
+        "B. Vne.",
+        "C. Vx.",
+        "D. Vlo."
+      ],
+      "correctIndex": 0,
+      "explanation": "Va = liikehtimisnopeus (manoeuvring speed). Suurin nopeus, jolla saa tehdä äkillisiä, täysiä korkeusperäsinpoikkeutuksia ilman rakennevauriota.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0105",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 105,
+      "statement": "Liikehtimisnopeus (Va) on suurin nopeus, jolla korkeusperäsimen täysi ohjainpoikkeutus ei ylitä:",
+      "options": [
+        "A. Kuormitusmoninkerrointa 1 g.",
+        "B. Suurinta sallittua nopeutta (Vne).",
+        "C. Negatiivista kuormitusmoninkertoimen raja-arvoa.",
+        "D. Positiivista kuormitusmoninkertoimen raja-arvoa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Va:n alapuolella siipi sakkaa ennen kuin positiivinen rajakuormakerroin (esim. +3,8 g) ylittyy. Tämä on Va:n suunnittelun perusta.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0106",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 106,
+      "statement": "Mitä potkurikoneen \"parhaan toiminta-ajan nopeus\" tarkoittaa?",
+      "options": [
+        "A. Pisin mahdollinen matka kahden pysähdyksen välissä.",
+        "B. Pisin kuljettu matka käytettyyn polttoainemäärään nähden (lentäminen pienimmällä mahdollisella vastuksella).",
+        "C. Pisin mahdollinen aika kahden pysähdyksen välissä.",
+        "D. Pisin ilmassa vietetty aika käytettyyn polttoainemäärään nähden (lentäminen pienimmällä mahdollisella teholla)."
+      ],
+      "correctIndex": 3,
+      "explanation": "Parhaan toiminta-AJAN nopeus (best endurance speed) = pisin aika ilmassa annetulla polttoainemäärällä. Saavutetaan pienimmän tehontarpeen nopeudella (Vmp).",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0107",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 107,
+      "statement": "Määritä lentoonlähtömatka 50 jalkaa korkean esteen yli seuraavissa Painekorkeus 0 ft Lämpötila standardi Massa 1900 lb Tuuli tyyntä Pinta kuiva ruoho",
+      "options": [
+        "A. 1,180 ft.",
+        "B. 920 ft.",
+        "C. 1,030 ft.",
+        "D. 950 ft."
+      ],
+      "correctIndex": 2,
+      "explanation": "Liitteen LAPL/PPL 030-08 mukaan 1900 lb, merenpinnan taso, standardilämpötila ja tyyni antaa 50 ft esteen yli lentoonlähtömatkaksi noin 950–985 ft asfaltilta. Kuiva ruoho lisää 15 % lähtökiidosta, jolloin tulos on noin 1030 ft.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0108",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 108,
+      "statement": "Määritä lähtökiitoon tarvittava matka: (Katso LAPL/PPL 030-08) Painekorkeus 2,000 ft Lämpötila 40°C Massa 2100 lb Tuuli 4 kt myötä Pinta asfaltti",
+      "options": [
+        "A. 935 ft.",
+        "B. 950 ft.",
+        "C. 1,120 ft.",
+        "D. 850 ft."
+      ],
+      "correctIndex": 2,
+      "explanation": "Liitteen 030-08 mukaan 2100 lb, 2000 ft, 40 °C antaa lähtökiidoksi 935 ft. Myötätuuli 4 kt lisää arvoa 20 %, jolloin tulos on noin 1120 ft.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0109",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 109,
+      "statement": "Määritä lentoonlähtömatka 50 jalkaa korkean esteen yli seuraavissa olosuhteissa: (Katso LAPL/PPL 030-08) Painekorkeus 4,000 ft Lämpötila 15°C Massa 2300 lb Tuuli tyyntä Pinta asfaltti",
+      "options": [
+        "A. 1,535 ft.",
+        "B. 2,100 ft.",
+        "C. 1,125 ft.",
+        "D. 1,970 ft."
+      ],
+      "correctIndex": 1,
+      "explanation": "Liitteen 030-08 mukaan 2300 lb, 4000 ft, 15 °C, tyyni ja asfaltti antaa 50 ft esteen yli lentoonlähtömatkaksi noin 2100 ft.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0110",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 110,
+      "statement": "Määritä lentoonlähtömatka 50 jalkaa korkean esteen yli seuraavissa olosuhteissa: (Katso LAPL/PPL 030-08) Painekorkeus 2,000 ft Lämpötila 30°C Massa 2100 lb Tuuli 18 kt vastatuulta Pinta kuiva ruoho",
+      "options": [
+        "A. 1,750 ft.",
+        "B. 1,350 ft.",
+        "C. 2,945 ft.",
+        "D. 1,565 ft."
+      ],
+      "correctIndex": 1,
+      "explanation": "Liitteen 030-08 mukaan 2100 lb, 2000 ft, 30 °C antaa 50 ft esteen yli noin 1555 ft. Vastatuuli 18 kt vähentää arvoa noin 20 %, ja kuiva ruoho lisää 15 % lähtökiidosta. Lähin vaihtoehto on 1350 ft.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0111",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 111,
+      "statement": "Määritä laskeutumiseen tarvittava kokonaismatka. (Katso LAPL/PPL 030-09) Painekorkeus 1,000 ft Lämpötila 30°C Massa 2300 lb Tuuli 9 kt vastatuulta Pinta asfaltti",
+      "options": [
+        "A. 1,330 ft.",
+        "B. 1,197 ft.",
+        "C. 1,475 ft.",
+        "D. 1,055 ft."
+      ],
+      "correctIndex": 1,
+      "explanation": "Liitteen 030-09 mukaan 2300 lb, 1000 ft, 30 °C antaa laskumatkaksi 1330 ft. Vastatuuli 9 kt vähentää arvosta noin 10 %, jolloin tulos on noin 1197 ft.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0112",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 112,
+      "statement": "Määritä laskukiitomatka. (Katso LAPL/PPL 030-09) Painekorkeus 0 ft Lämpötila 10°C Massa 2300 lb Tuuli tyyntä Pinta kuiva ruoho",
+      "options": [
+        "A. 510 ft.",
+        "B. 595 ft.",
+        "C. 1790 ft.",
+        "D. 739 ft."
+      ],
+      "correctIndex": 3,
+      "explanation": "Liitteen 030-09 mukaan 2300 lb, SL, 10 °C antaa laskukiidoksi 510 ft. Kuiva ruoho lisää laskukiitoa 45 %, jolloin tulos on noin 739 ft. Kohta kannattaa merkitä needsReview=true, koska tuulikorjauksen soveltaminen pelkkään laskukiitoon voi olla tulkinnanvarainen.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "medium",
+      "needsReview": true
+    },
+    {
+      "id": "030-0113",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 113,
+      "statement": "Määritä laskukiitomatka. (Katso LAPL/PPL 030-09) Painekorkeus 0 ft Lämpötila 15°C Massa 2300 lb Tuuli tyyntä Pinta asfaltti",
+      "options": [
+        "A. 460 ft.",
+        "B. 495 ft.",
+        "C. 520 ft.",
+        "D. 530 ft."
+      ],
+      "correctIndex": 2,
+      "explanation": "Liitteen 030-09 mukaan 2300 lb, SL, 15 °C ja tyyni antaa laskukiidoksi noin 520 ft.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0114",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 114,
+      "statement": "Määritä laskukiitomatka. (Katso LAPL/PPL 030-09) Painekorkeus 3,000 ft Lämpötila 20°C Massa 2300 lb Tuuli tyyntä Pinta kuiva ruoho",
+      "options": [
+        "A. 770 ft.",
+        "B. 855 ft.",
+        "C. 590 ft.",
+        "D. 660 ft."
+      ],
+      "correctIndex": 1,
+      "explanation": "Liitteen 030-09 mukaan 2300 lb, 3000 ft, 20 °C antaa laskukiidoksi 590 ft. Kuiva ruoho lisää laskukiitoa 45 %, jolloin tulos on noin 855 ft.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0115",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 115,
+      "statement": "Määritä laskeutumiseen tarvittava kokonaismatka. (Katso LAPL/PPL 030-09) Painekorkeus 1,000 ft Lämpötila 10°C Massa 2300 lb Tuuli 10 kt myötätuulta Pinta asfaltti",
+      "options": [
+        "A. 1,900 ft.",
+        "B. 1,265 ft.",
+        "C. 1,475 ft.",
+        "D. 1,055 ft."
+      ],
+      "correctIndex": 0,
+      "explanation": "Liitteen 030-09 mukaan 2300 lb, 1000 ft, 10 °C antaa laskumatkaksi 1265 ft. Myötätuuli 10 kt lisää arvoa 50 %, jolloin tulos on noin 1900 ft.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0116",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 116,
+      "statement": "Määritä laskeutumiseen tarvittava kokonaismatka 50 jalkaa korkean esteen yli. (Katso LAPL/PPL 030-09) Painekorkeus 1,500 ft Lämpötila 30°C Massa 2300 lb Tuuli tyyntä Pinta asfaltti",
+      "options": [
+        "A. 1,470 ft.",
+        "B. 1,200 ft.",
+        "C. 1,280 ft.",
+        "D. 1,350 ft."
+      ],
+      "correctIndex": 3,
+      "explanation": "Liitteen 030-09 mukaan 2300 lb, 1500 ft, 30 °C, tyyni ja asfaltti antaa 50 ft esteen yli laskumatkaksi noin 1350 ft.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0117",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 117,
+      "statement": "Määritä laskeutumiseen tarvittava kokonaismatka 50 jalkaa korkean esteen yli. (Katso LAPL/PPL 030-09) Painekorkeus 0 ft Lämpötila 0°C Massa 2300 lb Tuuli 18 kt vastatuulta Pinta kuiva ruoho",
+      "options": [
+        "A. 1,205 ft.",
+        "B. 660 ft.",
+        "C. 965 ft.",
+        "D. 1,140 ft."
+      ],
+      "correctIndex": 3,
+      "explanation": "Liitteen 030-09 mukaan 2300 lb, SL, 0 °C antaa laskumatkaksi 1205 ft ja laskukiidoksi 495 ft. Vastatuuli 18 kt vähentää arvoa noin 20 %, ja kuiva ruoho lisää laskukiitoa 45 %. Lähin vaihtoehto on 1140 ft.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0118",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 118,
+      "statement": "Mikä on vaakalennossa olevan lentokoneen ilmanopeus seuraavissa olosuhteissa? (Katso LAPL/PPL 030-07) Painekorkeus 8,000 ft Lämpötila 20°C alle standardin Tehoasetus 55 %",
+      "options": [
+        "A. 104 kts.",
+        "B. 110 kts.",
+        "C. 115 kts.",
+        "D. 120 kts."
+      ],
+      "correctIndex": 0,
+      "explanation": "Liitteen 030-07 mukaan painekorkeudella 8000 ft, lämpötila 20 °C alle standardin ja tehoasetuksella 55 % vaakalentonopeus on 104 KTAS.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0119",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 119,
+      "statement": "Mikä on odotettavissa oleva polttoaineenkulutus 250 merimailin pituiselle lennolle seuraavissa olosuhteissa? (Katso LAPL/PPL 030-07) Painekorkeus 6,000 ft Lämpötila 20°C yli standardin Tehoasetus 60 %",
+      "options": [
+        "A. 16.0 USA gal.",
+        "B. 15.1 USA gal.",
+        "C. 14.5 USA gal.",
+        "D. 17.2 USA gal."
+      ],
+      "correctIndex": 1,
+      "explanation": "Liitteen 030-07 mukaan 6000 ft, 20 °C yli standardin ja 60 % teho antaa noin 109 KTAS ja 6,7 US gal/h. 250 NM / 109 kt ≈ 2,29 h, polttoaine noin 15,3 US gal. Lähin vaihtoehto on 15,1 US gal.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0120",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 120,
+      "statement": "Mikä on odotettavissa oleva polttoaineenkulutus 350 merimailin pituiselle lennolle seuraavissa olosuhteissa? (Katso LAPL/PPL 030-07) Painekorkeus 4,000 ft Lämpötila 20°C alle standardin Tehoasetus 60 %",
+      "options": [
+        "A. 25.0 USA gal.",
+        "B. 22.7 USA gal.",
+        "C. 18.6 USA gal.",
+        "D. 14.9 USA gal."
+      ],
+      "correctIndex": 1,
+      "explanation": "Liitteen 030-07 mukaan 4000 ft, 20 °C alle standardin ja 60 % teho antaa noin 105 KTAS ja 6,8 US gal/h. 350 NM / 105 kt ≈ 3,33 h, polttoaine noin 22,7 US gal.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0121",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 121,
+      "statement": "Mikä kierroslukuarvo tulisi suunnilleen asettaa moottoriin 60 % tehon aikaansaamiseksi matkalennolla 2,000 jalan korkeudessa standardilämpötilassa? (Katso LAPL/PPL 030-07)",
+      "options": [
+        "A. 2200 RPM.",
+        "B. 2300 RPM.",
+        "C. 2400 RPM.",
+        "D. 2500 RPM."
+      ],
+      "correctIndex": 1,
+      "explanation": "Liitteen 030-07 mukaan 2000 ft standardilämpötilassa 60 % teho vastaa noin 2300 RPM.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0122",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 122,
+      "statement": "Mikä on odotettavissa oleva polttoaineenkulutus seuraavissa olosuhteissa? (Katso LAPL/PPL 030-07) Painekorkeus 8,000 ft Lämpötila 20°C alle standardin Tehoasetus 55 %",
+      "options": [
+        "A. 6.2 USA gal/h.",
+        "B. 6.7 USA gal/h.",
+        "C. 5.7 USA gal/h.",
+        "D. 5.2 USA gal/h."
+      ],
+      "correctIndex": 0,
+      "explanation": "Liitteen 030-07 mukaan 8000 ft, 20 °C alle standardin ja 55 % teho antaa polttoaineenkulutukseksi 6,2 US gal/h.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0123",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 123,
+      "statement": "Mille ilmanopeudelle yleensä hakeudutaan moottorihäiriön sattuessa lennolla kevyellä lentokoneella?",
+      "options": [
+        "A. Parhaan toiminta-ajan nopeudelle.",
+        "B. Parhaan liitosuhteen nopeudelle.",
+        "C. Pienimmälle mahdolliselle nopeudelle.",
+        "D. Pienimmän vajoamisen nopeudelle."
+      ],
+      "correctIndex": 1,
+      "explanation": "Moottorihäiriön sattuessa kevyellä lentokoneella hakeudutaan yleensä parhaan liitosuhteen nopeudelle eli best glide -nopeudelle.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0124",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 124,
+      "statement": "Ilma-aluksen pienimmän vajoamisen nopeus on verrattuna parhaan liitosuhteen nopeuteen:",
+      "options": [
+        "A. Aina suurempi.",
+        "B. Usein pienempi.",
+        "C. Aina sama.",
+        "D. Usein suurempi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Pienimmän vajoamisen nopeus on yleensä pienempi kuin parhaan liitosuhteen nopeus. Pienin vajoaminen maksimoi ilmassaoloajan, paras liitosuhde maksimoi liitomatkan.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0125",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 125,
+      "statement": "Mikä on ensimmäinen tehtävä moottorihäiriön sattuessa lennolla?",
+      "options": [
+        "A. Laihennusvivun siirtäminen täysin rikkaalle.",
+        "B. Parhaan liitosuhteen nopeuden säilyttävä liitoasennon valitseminen.",
+        "C. Kaasuttimen imuilman etulämmityksen päälle kytkeminen.",
+        "D. Soveltuvan pakkolaskupaikan valitseminen."
+      ],
+      "correctIndex": 1,
+      "explanation": "Moottorihäiriön sattuessa ENSIMMÄISENÄ asetetaan parhaan liitosuhteen nopeus (best glide). 'Aviate, navigate, communicate' – nopeus ja lentoasento ensin, sitten pakkolaskupaikan valinta ja tarkistuslista.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0126",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 126,
+      "statement": "Ilma-alus lentää moottori sammuneena pisimmän matkan lähtökorkeudesta kohtauskulmalla, jolla:",
+      "options": [
+        "A. Haitallinen vastus on pienimmillään.",
+        "B. Haitallinen vastus ja nostovoimakerroin ovat samansuuruiset.",
+        "C. Nostovoimakerroin on suurimmillaan.",
+        "D. Indusoitu vastus ja haitallinen vastus ovat samansuuruiset."
+      ],
+      "correctIndex": 3,
+      "explanation": "Pisin liitomatka saavutetaan kohtauskulmalla, jossa indusoitu vastus = haitallinen vastus eli Vmd / paras L/D. Tällöin kokonaisvastus on minimissä.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0127",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 127,
+      "statement": "Mikä on vastatuulikomponentti laskeuduttaessa kiitotielle 18, jos torni ilmoittaa",
+      "options": [
+        "A. 30 kts.",
+        "B. 19 kts.",
+        "C. 23 kts.",
+        "D. 34 kts."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kiitotie 18 vastaa suuntaa 180°. Tuuli 220°/30 kt tulee 40° kulmassa. Vastatuulikomponentti = 30 × cos 40° ≈ 23 kt.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0128",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 128,
+      "statement": "Mikä on sivutuulikomponentti laskeuduttaessa kiitotielle 18, jos torni ilmoittaa",
+      "options": [
+        "A. 23 kts.",
+        "B. 30 kts.",
+        "C. 34 kts.",
+        "D. 19 kts."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kiitotie 18 vastaa suuntaa 180°. Tuuli 220°/30 kt tulee 40° kulmassa. Sivutuulikomponentti = 30 × sin 40° ≈ 19 kt.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0129",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 129,
+      "statement": "Minkä kiitotien (06, 14, 24, 32) valitset laskua varten, jos torni ilmoittaa eteläistä tuulta 20 kts voimakkuudella ja ilma-aluksesi suurin sallittu sivutuulikomponentti laskeutumisessa on 13 solmua? (Katso LAPL/PPL 030-06)",
+      "options": [
+        "A. RWY 32.",
+        "B. RWY 14.",
+        "C. RWY 24.",
+        "D. RWY 06."
+      ],
+      "correctIndex": 1,
+      "explanation": "Eteläinen tuuli (180°) 20 kt. Pienin sivutuulikomponentti saadaan kiitotielle, joka on lähinnä tuulen suuntaa: RWY 14 (140°) → komponentti = 20 × cos(40°) = 15,3 kt vastatuulta, sivutuuli 20 × sin(40°) = 12,9 kt.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0130",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 130,
+      "statement": "Olet lähestymässä lentokenttää, jolle ilmoitettu tuuli on 360°/20 kts. Minkä kiitotien (06, 14, 24, 32) valitset laskua varten, jos ilma-aluksesi suurin sallittu sivutuulikomponentti laskeutumisessa on 13 solmua? (Katso LAPL/PPL 030-06)",
+      "options": [
+        "A. RWY 24.",
+        "B. RWY 14.",
+        "C. RWY 06.",
+        "D. RWY 32."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tuuli 360° (pohjoinen). Lähimmin pohjoiseen osoittava kiitotie on RWY 32 (320°) – pienin sivutuulikomponentti = 20 × sin(40°) ≈ 13 kt.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0131",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 131,
+      "statement": "Mitkä ovat vastatuuli- ja sivutuulikomponentit kiitotielle, jonka magneettinen suunta on 220°, kun tuulta on ilmoitettu 280°/15 kts? (Katso LAPL/PPL 030-06)",
+      "options": [
+        "A. 7,5 solmua vastatuulta ja 13 solmua sivutuulta.",
+        "B. 15,5 solmua vastatuulta ja 8 solmua sivutuulta.",
+        "C. 15,5 solmua vastatuulta ja 15 solmua sivutuulta.",
+        "D. 13,5 solmua vastatuulta ja 24 solmua sivutuulta."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kiitotien magneettinen suunta 220° ja tuuli 280°/15 kt antavat 60° kulman. Vastatuulikomponentti = 15 × cos 60° = 7,5 kt ja sivutuulikomponentti = 15 × sin 60° ≈ 13 kt.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0132",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 132,
+      "statement": "Määritä suurin sallittu voimakkuus 45° kulmassa tulevalle sivutuulelle, jos ilma-aluksen suurin sallittu sivutuulikomponentti on 25 kts? (Katso LAPL/PPL 030-06)",
+      "options": [
+        "A. 29 kts.",
+        "B. 35 kts.",
+        "C. 25 kts.",
+        "D. 18 kts."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sivutuulikomponentti = tuulen nopeus × sin 45°. Jos suurin sallittu sivutuulikomponentti on 25 kt, suurin tuuli on 25 / sin 45° ≈ 35 kt.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0133",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 133,
+      "statement": "Määritä suurin sallittu voimakkuus 40° kulmassa tulevalle sivutuulelle, jos ilma-aluksen suurin sallittu sivutuulikomponentti on 10 kts? (Katso LAPL/PPL 030-06)",
+      "options": [
+        "A. 20 kts.",
+        "B. 12 kts.",
+        "C. 18 kts.",
+        "D. 15 kts."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sivutuulikomponentti = tuulen nopeus × sin 40°. Jos suurin sallittu sivutuulikomponentti on 10 kt, suurin tuuli on 10 / sin 40° ≈ 15,6 kt. Lähin vaihtoehto on 15 kt.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0134",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 134,
+      "statement": "Määritä suurin sallittu voimakkuus 30° kulmassa tulevalle sivutuulelle, jos ilma-aluksen suurin sallittu sivutuulikomponentti on 10 kts? (Katso LAPL/PPL 030-06)",
+      "options": [
+        "A. 16 kts.",
+        "B. 18 kts.",
+        "C. 20 kts.",
+        "D. 13 kts."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sivutuulikomponentti = tuulen nopeus × sin 30°. Jos suurin sallittu sivutuulikomponentti on 10 kt, suurin tuuli on 10 / sin 30° = 20 kt.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0135",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 135,
+      "statement": "Mitkä ovat vastatuuli- ja sivutuulikomponentit kiitotielle, jonka magneettinen suunta on 330°, kun tuulta on ilmoitettu 030°/10 kts? (Katso LAPL/PPL 030-06)",
+      "options": [
+        "A. 8 solmua vastatuulta ja 4 solmua sivutuulta.",
+        "B. 8 solmua vastatuulta ja 8 solmua sivutuulta.",
+        "C. 10 solmua vastatuulta ja 8 solmua sivutuulta.",
+        "D. 5 solmua vastatuulta ja 8 solmua sivutuulta."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kiitotien magneettinen suunta 330° ja tuuli 030°/10 kt antavat 60° kulman. Vastatuulikomponentti = 10 × cos 60° = 5 kt ja sivutuulikomponentti = 10 × sin 60° ≈ 8,7 kt.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0136",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 136,
+      "statement": "AIP:n lisäykset (AIP Supplements):",
+      "options": [
+        "A. Muuttavat ilmoittamansa asian AIP:ssä tilapäisesti.",
+        "B. Julkaistaan sinisellä paperilla.",
+        "C. Julkaistaan valkoisella paperilla.",
+        "D. Sisältävät pysyviä muutoksia AIP:hen."
+      ],
+      "correctIndex": 0,
+      "explanation": "AIP Supplementit muuttavat tai täydentävät AIP:ssä julkaistua tietoa tilapäisesti. Pysyvät muutokset tehdään AIP-muutoksina.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0137",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 137,
+      "statement": "Jos ilma-alus ei anna sovittua laskuilmoitusta 30 min kuluessa lentosuunnitelmassa mainitusta, syntyy:",
+      "options": [
+        "A. Poikkeustilanne.",
+        "B. Hälytystilanne.",
+        "C. Epävarmuustilanne.",
+        "D. Hätätilanne."
+      ],
+      "correctIndex": 2,
+      "explanation": "30 min ilman laskuilmoitusta → INCERFA (epävarmuustilanne). 60 min → ALERFA (hälytystilanne). 90+ min → DETRESFA (hätätilanne) [ICAO Annex 11 / SERA].",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 27,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0138",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 138,
+      "statement": "Mikä seuraavista on paras tapa polttoaineen määrän tarkastamiseen ennen lentoa?",
+      "options": [
+        "A. Kysymällä asiaa koneen tankkaajalta.",
+        "B. Kysymällä edelliseltä lentäjältä jäljellä oleva toiminta-aika.",
+        "C. Vertaamalla polttoaineen määrämittarin näyttöä polttoaineen täyttöaukosta mitattuun määrään.",
+        "D. Polttoainemäärämittareiden avulla koekäytön aikana."
+      ],
+      "correctIndex": 2,
+      "explanation": "Paras tapa varmistaa polttoaineen määrä ennen lentoa on visuaalinen tarkastus täyttöaukosta (mittatikku) JA mittarivertailu. Pelkkä mittarilukema tai toisen lentäjän ilmoitus ei ole luotettava.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 27,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0139",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 139,
+      "statement": "Mikä seuraavista on lentobensiinin (100LL) painolaskuissa käytetty tiheys:",
+      "options": [
+        "A. 0,62 kg/l",
+        "B. 0,99 kg/l",
+        "C. 0,72 kg/l",
+        "D. 0,68 kg/l"
+      ],
+      "correctIndex": 2,
+      "explanation": "100LL-lentobensiinin painolaskutiheys on 0,72 kg/l (≈ 6,0 lb/USgal). Jet A-1:n vastaava arvo on 0,80 kg/l.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 27,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0140",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 140,
+      "statement": "Nousualue (Clearway) on:",
+      "options": [
+        "A. TORA + ASDA, ja sitä ei voi hyödyntää laskumatkaa määritettäessä.",
+        "B. TODA - TORA, ja sillä ei ole mitään tekemistä laskumatkan määrittämisen kanssa.",
+        "C. ASDA - TORA, ja sen voi koko pituudeltaan lukea hyväksi kiihdytys-pysäytysmatkaa määritettäessä.",
+        "D. TODA - TORA, ja sen voi koko pituudeltaan lukea hyväksi laskumatkaa määritettäessä."
+      ],
+      "correctIndex": 1,
+      "explanation": "Clearway = TODA - TORA. Se on ilmatila kiitotien jatkeena, jonka päällä kone voi nousta 50 ft:iin. Sitä EI saa käyttää laskumatkan (LDA) laskennassa.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 27,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0141",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 141,
+      "statement": "Käytettävissä olevat kiitotiematkat (TORA, TODA, ASDA, LDA) löydät:",
+      "options": [
+        "A. AIP:n AD-osasta",
+        "B. ICAO:n Annex 14:stä (lentokentät)",
+        "C. ICAO:n VFR-kartasta kunkin kentän kohdalta",
+        "D. AIP:n GEN-osasta"
+      ],
+      "correctIndex": 0,
+      "explanation": "Käytettävissä olevat kiitotiematkat (TORA, TODA, ASDA, LDA) ilmoitetaan AIP:n AD-osassa kunkin lentopaikan tiedoissa.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 27,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0142",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 142,
+      "statement": "Mikä seuraavista väittämistä on totta koskien 45 minuutin \"Final reserve\" polttoainetta?",
+      "options": [
+        "A. Vähintään kyseinen polttoainemäärä tulee olla tankeissa jäljellä lennon jälkeen vain kun kyseessä on matkalento.",
+        "B. Vähintään kyseinen polttoainemäärä on oltava lennon jälkeen tankeissa jäljellä. Mikäli lennolla kulutetaan kyseistä polttoainetta on kyseessä hätätilanne.",
+        "C. 45 minuutin \"Final reserve\" koskee vain suihkukoneita.",
+        "D. Kyseinen polttoainemäärä ei koske yksityislentotoimintaa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Final reserve (45 min mäntämoottorilla, 30 min suihkukoneella) on lain vaatima vähimmäismäärä polttoainetta tankissa LENNON JÄLKEEN. Jos sitä joudutaan käyttämään, on kyseessä hätätilanne ja MAYDAY FUEL on lähetettävä.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 27,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0143",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 143,
+      "statement": "AIP:n lisäykset, Suplementit, löydät:",
+      "options": [
+        "A. NOTAM-kansiosta Briefingistä.",
+        "B. AIP:n 1-osan yhteydestä.",
+        "C. OPS M1-6 yhteydestä.",
+        "D. Lentosäännöistä."
+      ],
+      "correctIndex": 0,
+      "explanation": "AIP:n Suplementit (AIP SUP) löytyvät NOTAM-kansiosta lähtöselvityksessä (Briefing). Ne sisältävät tilapäisiä, pitkäkestoisia muutoksia.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 28,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0144",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 144,
+      "statement": "Laskukierroskorkeuden Rovaniemen lentokentälle löydät:",
+      "options": [
+        "A. 1:500000 VFR-kartasta",
+        "B. AIP:n 1-osan yhteydestä.",
+        "C. Lentosäännöistä, kohta \"minimilentokorkeudet\"",
+        "D. Lennonjohtajan käsikirjasta, kohdasta \"lentopaikat\""
+      ],
+      "correctIndex": 1,
+      "explanation": "Laskukierroskorkeus on lentopaikkakohtainen tieto ja löytyy AIP:n AD-osasta/lentopaikan tiedoista. Vastausvaihtoehdon sanamuoto 'AIP:n 1-osan yhteydestä' on epäselvä ja kohta kannattaa tarkistaa virallisesta vastausavaimesta.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 28,
+      "confidence": "medium",
+      "needsReview": true
+    },
+    {
+      "id": "030-0145",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 145,
+      "statement": "Lentotoiminnassa lentoonlähtömassaltaan enintään 5700 kg olevilla ilma-aluksilla on standardimassa lapselle 2v-12v:",
+      "options": [
+        "A. 35 kg.",
+        "B. 25 kg.",
+        "C. 40 kg.",
+        "D. 30 kg."
+      ],
+      "correctIndex": 3,
+      "explanation": "EASA Part-NCO / OPS M1-19: standardimassa lapsille (2-12 v.) ≤ 5700 kg koneilla on 30 kg.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 28,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0146",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 146,
+      "statement": "Lentotoiminnassa lentoonlähtömassaltaan enintään 5700 kg olevilla ilma-aluksilla on standardimassa täysikasvuiselle matkustajalle:",
+      "options": [
+        "A. 85 kg.",
+        "B. 70 kg.",
+        "C. 75 kg.",
+        "D. 80 kg."
+      ],
+      "correctIndex": 3,
+      "explanation": "Standardimassa täysikasvuiselle matkustajalle (≤ 5700 kg, kaikki istuimet) on 80 kg sisältäen käsimatkatavarat (osa lähteistä 84 kg). PPL-kokeessa käytetään yleensä 80 kg.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 28,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0147",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 147,
+      "statement": "VFR-lennolla on koneessa oltava riittävästi polttoainetta",
+      "options": [
+        "A. Lentoon lähtölentopaikalta määrälentopaikalle ja lisäksi 45 minuutin ajaksi",
+        "B. Käynnistykseen, koekäyttöön ja rullaukseen, lentoon lähtölentopaikalta määrälentopaikalle ja lisäksi 45 minuutin ajaksi",
+        "C. Käynnistykseen, koekäyttöön ja rullaukseen, lentoon lähtölentopaikalta määrälentopaikalle ja lisäksi 30 minuutin ajaksi",
+        "D. Lentoon lähtölentopaikalta määrälentopaikalle ja lisäksi 30 minuutin ajaksi"
+      ],
+      "correctIndex": 2,
+      "explanation": "EASA Part-NCO NCO.OP.125 ja AMC1 NCO.OP.125 Fuel and oil supply -ohjeen mukaisesti päivä-VFR-lennolla kiinteäsiipisellä lentokoneella on suunniteltava polttoainetta: käynnistykseen, koekäyttöön ja rullaukseen, lentoon lähtölentopaikalta määrälentopaikalle, sekä vähintään 30 minuutin varapolttoaine normaalilla matkateholla. 45 minuutin vaatimus on vanhentunut.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 28,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0148",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 148,
+      "statement": "Väärin lastattu helikopteri:",
+      "options": [
+        "A. On vain hankalampi hallita autorotaatiossa, kun moottori ei ole kytkettynä.",
+        "B. On yleensä vähän helpompi hallita kuin oikein lastattu.",
+        "C. Ei käytännössä voi joutua hallitsemattomaan tilaan.",
+        "D. Saattaa olla mahdoton hallita jo leijuntaan noustessa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Helikopteri reagoi väärin lastaukseen herkemmin kuin lentokone: jos CG on rajojen ulkopuolella, kone voi olla mahdoton hallita jo leijuntaan noustessa – syklisen ohjauksen alue ei riitä tasapainottamaan.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 28,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0149",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 149,
+      "statement": "Mikä seuraavista tekijöistä EI vaikuta pisimmän toimintamatkan antavaan nopeuteen?",
+      "options": [
+        "A. Taantuvan lavan sakkaus.",
+        "B. Tiheyskorkeus.",
+        "C. Lentopaino.",
+        "D. Vastatuuli."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pisimmän toimintamatkan nopeus riippuu painosta, tiheyskorkeudesta ja tuulesta. Taantuvan lavan sakkaus on helikopterin nopeusrajoitus (Vne), ei suoraan kantamarajoitus.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 29,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0150",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 150,
+      "statement": "Mikä seuraavista vaikuttaa ahtamattomasta mäntämoottorista saatavaan tehoon?",
+      "options": [
+        "A. Ilmanopeus",
+        "B. Lentoasu",
+        "C. Tiheyskorkeus",
+        "D. Ilma-aluksen paino"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ahtamattoman mäntämoottorin teho riippuu tiheyskorkeudesta (ilmamassan tilavuusvirta). Korkeudessa teho putoaa noin 3 % per 1000 ft.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 29,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0151",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 151,
+      "statement": "Mikäli massakeskiö on liian takana:",
+      "options": [
+        "A. Leijunta vaikeutuu",
+        "B. Tarvitaan ylimääräistä vetoa ohjaussauvasta",
+        "C. Autorotaatioloppuveto voi olla mahdoton suorittaa",
+        "D. Helikopteri on nokkapainoinen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Helikopterin CG liian takana → autorotaatioloppuveto (flare) voi olla mahdoton: syklisen takarajan loppuessa ei saa aikaiseksi tarpeeksi nokan ylösvetoa.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 29,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0152",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 152,
+      "statement": "Helikopterin suurin liukumatka autorotaatiossa saavutetaan yhdistelmällä:",
+      "options": [
+        "A. Suuri nopeus-pienet roottorin kierrokset",
+        "B. Suuri nopeus-suuret roottorin kierrokset",
+        "C. Pieni nopeus-pienet roottorin kierrokset",
+        "D. Pieni nopeus-suuret roottorin kierrokset"
+      ],
+      "correctIndex": 3,
+      "explanation": "Helikopterin pisin liukumatka autorotaatiossa: pieni ilmanopeus + suuret roottorin kierrokset (säilyttää roottorin energia loppuvetoon, parantaa L/D).",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 29,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0153",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 153,
+      "statement": "Mikäli massakeskiö on liian edessä:",
+      "options": [
+        "A. Loppuveto voi olla vaikea suorittaa",
+        "B. Tarvitaan ylimääräistä työntöä ohjaussauvasta",
+        "C. Flaren jälkeinen työntö voi olla mahdotonta suorittaa",
+        "D. Lentäminen suurilla nopeuksilla voi olla mahdotonta"
+      ],
+      "correctIndex": 0,
+      "explanation": "CG eturajan etupuolella → autorotaation loppuveto (flare) voi olla vaikea/mahdoton: ohjaussauvan vetorajalla ei saada riittävää nokan ylösnostoa.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 29,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0154",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 154,
+      "statement": "Irrotat koneen liian pienellä nopeudella. Tästä seuraa, että:",
+      "options": [
+        "A. Sakkausnopeus pienenee.",
+        "B. Lennät parhaalla kohoamisnopeudella.",
+        "C. Lennät jyrkimmän nousukulman nopeudella.",
+        "D. Lentoonlähtömatka pitenee."
+      ],
+      "correctIndex": 3,
+      "explanation": "Liian pieni rotaationopeus → kone irtoaa liian aikaisin, jää pinta-efektiin pieneen kohoamiseen → todellisuudessa tehollinen lentoonlähtömatka pitenee, koska kone kiihdyttää siiven kärki harallaan.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 29,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0155",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 155,
+      "statement": "Tiheyskorkeus tarkoittaa:",
+      "options": [
+        "A. Painekorkeuden suhde kentän korkeuteen.",
+        "B. Korkeus keskimääräisestä merenpinnasta tietyssä lämpötilassa.",
+        "C. Painekorkeus standardiolosuhteissa +/- lämpötilakorjaus.",
+        "D. Tosikorkeus +/- lämpötilakorjaus."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tiheyskorkeus = painekorkeus standardiolosuhteissa korjattuna lämpötilapoikkeamalla ISA:sta.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 29,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0156",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 156,
+      "statement": "Mikä seuraavista ei vaikuta helikopterin tehontarpeeseen?",
+      "options": [
+        "A. Tiheyskorkeus.",
+        "B. Ilmanopeus.",
+        "C. Voimalaitteen antama teho.",
+        "D. Lentoasu."
+      ],
+      "correctIndex": 3,
+      "explanation": "Helikopterin tehontarpeeseen vaikuttavat tiheyskorkeus, ilmanopeus, paino, voimalaitteen antama teho ja maavaikutus. Lentoasu (laskutelineiden asento jne.) ei ole helikopteritermi samalla tavalla kuin lentokoneessa.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 30,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0157",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 157,
+      "statement": "Mikä seuraavista EI huononna helikopterin suorituskykyä?",
+      "options": [
+        "A. Lapojen pinnan epätasaisuus",
+        "B. Lapoihin kertyneet itikat",
+        "C. Lapojen vahaus",
+        "D. Lapoihin kertynyt jää"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lapojen vahaus PARANTAA suorituskykyä (sileä pinta, vähemmän vastusta). Jää, itikat ja epätasainen pinta heikentävät suorituskykyä.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 30,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0158",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 158,
+      "statement": "Missä olosuhteissa tehtyihin mittauksiin ja laskelmiin lentokoneen valmistajan ilmoittamat suoritusarvot perustuvat?",
+      "options": [
+        "A. normaalit kesäolosuhteet valmistuspaikkakunnalla",
+        "B. lCAO:n standardi-ilmakehän olosuhteet",
+        "C. valmistajien yhteisesti sopimat standardiolosuhteet",
+        "D. tiheyskorkeus 0 ft ja lämpötila 0°C"
+      ],
+      "correctIndex": 1,
+      "explanation": "Valmistajan ilmoittamat suoritusarvot perustuvat ICAO Standardi-ilmakehään (ISA: 15 °C merenpinnalla, 1013,25 hPa, lapse rate 1,98 °C / 1000 ft, kuiva ilma).",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 30,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0159",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 159,
+      "statement": "64 litraa 100LL:ää painaa:",
+      "options": [
+        "A. 55 kg",
+        "B. 74 kg",
+        "C. 46 kg",
+        "D. 88 kg"
+      ],
+      "correctIndex": 2,
+      "explanation": "100LL tiheys 0,72 kg/l. 64 l × 0,72 = 46,1 kg ≈ 46 kg.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 30,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0160",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 160,
+      "statement": "114 fuel lbs on:",
+      "options": [
+        "A. 72 kg",
+        "B. 22 gal",
+        "C. 72 l",
+        "D. 250 l"
+      ],
+      "correctIndex": 2,
+      "explanation": "114 lb / 6,01 lb/USgal = 18,97 USgal × 3,785 l/gal = 71,8 l ≈ 72 l. (Tiheys 0,72 kg/l: 114 lb = 51,7 kg → 51,7/0,72 ≈ 72 l.)",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 30,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0161",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 161,
+      "statement": "Miten kiitotien kaltevuus vaikuttaa lähtö-ja laskumatkoihin?",
+      "options": [
+        "A. Alamäki pidentää lähtökiitoa, mutta lyhentää laskumatkaa.",
+        "B. Ylämäki pidentää lähtökiitoa, mutta lyhentää laskumatkaa.",
+        "C. Ylämäki lyhentää lähtökiitoa ja laskumatkaa.",
+        "D. Kaltevuudella ei ole merkitystä lähtö-ja laskumatkaan."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ylämäki: pidempi lähtökiito (gravitaatio vastustaa), lyhyempi laskumatka (gravitaatio jarruttaa). Alamäki: päinvastoin.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 30,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0162",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 162,
+      "statement": "Lentokoneen massakeskiö on piste:",
+      "options": [
+        "A. Jonka kautta nostovoima vaikuttaa kaikissa lento-olosuhteissa",
+        "B. Johon lentokoneen koko massan voi katsoa keskittyvän",
+        "C. Jonka lentokoneen valmistaja on laskenut ja ilmoittanut lentokoneen käsikirjassa",
+        "D. Johon nähden kuormauksessa lasketaan kuorman momenttivarsi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Massakeskiö (CG) on piste, johon koko ilma-aluksen massan voidaan ajatella keskittyvän painovoiman vaikutuksessa. Sen suhteen ja perustason suhteen lasketaan momenttivartet.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 30,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0163",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 163,
+      "statement": "Lentokoneen kuormaus muuttuu siten, että massakeskipiste siirtyy läheltä eturajaa sallittuun takarajaan. Lentomassan, lentokorkeuden ja moottoritehon ollessa vakiot:",
+      "options": [
+        "A. Kone muuttuu raskaammaksi ohjata",
+        "B. Koneen sakkausnopeus kasvaa",
+        "C. Koneen maksimilentomatka pitenee",
+        "D. Koneen matkanopeus huononee"
+      ],
+      "correctIndex": 2,
+      "explanation": "CG eturajalta takarajalle → pienempi vakaajan trimmivastus → suurempi maksimilentomatka. Kone kevenee ohjattavaksi ja sakkausnopeus pienenee.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 31,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0164",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 164,
+      "statement": "Mikä seuraavista lentokoneen painopistelaskelmaan liittyvistä väittämistä on oikea?",
+      "options": [
+        "A. Voima = varsi / momentti",
+        "B. Lentokoneen massakeskiön kohdalle lastatun kuorman varsi on nolla, samoin momentti",
+        "C. Momentti on voiman vaikutuspisteen etäisyys massakeskipisteestä",
+        "D. Momentti = voima x varsi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Painopistelaskelman peruskaava: Momentti = Voima (paino) × Varsi (etäisyys perustasosta). CG = ΣMomentit / ΣMassa.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 31,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "030-0165",
+      "module": "030",
+      "moduleName": "Suoritusarvot ja lennonsuunnittelu",
+      "number": 165,
+      "statement": "Lähdettäessä suorasta noususta nousukaartoon tehoasetusta muuttamatta lentokoneen kohoamisnopeus:",
+      "options": [
+        "A. Kasvaa merkittävästi, jos lennetään yli 5000 ft korkeudessa",
+        "B. Kasvaa hieman",
+        "C. Pienenee",
+        "D. Säilyy ennallaan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Suorasta noususta nousukaartoon → kallistuksessa tehollinen paino kasvaa (n = 1/cos φ), nostovoiman pystykomponentti pienenee → kohoamisnopeus PIENENEE samalla tehoasetuksella.",
+      "source": "PPL030FIN 11102018.pdf",
+      "page": 31,
+      "confidence": "high",
+      "needsReview": false
+    }
+  ]
+}

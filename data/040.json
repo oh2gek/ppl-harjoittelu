@@ -1,0 +1,3028 @@
+{
+  "module": "040",
+  "moduleName": "Ihmisen suorituskyky",
+  "source": "PPL040FIN 11102018.pdf",
+  "questions": [
+    {
+      "id": "040-0001",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 1,
+      "statement": "Kansainvälisen standardi-ilmakehän (ISA) mukaisesti, korkeuden kasvaessa troposfäärissä, ilman tiheys:",
+      "options": [
+        "A. Pysyy samana.",
+        "B. Ei vaikutusta, sillä ilmantiheys ei ole riippuvainen korkeudesta.",
+        "C. Pienenee.",
+        "D. Suurenee."
+      ],
+      "correctIndex": 2,
+      "explanation": "ISA-mallissa ilman tiheys pienenee korkeuden kasvaessa, koska ilmaa on vähemmän painamassa ylhäältäpäin. Merenpinnalla ρ = 1,225 kg/m³, 18 000 ft kohdalla noin puolet siitä.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0002",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 2,
+      "statement": "Mikä on kansainvälisen standardi-ilmakehän (ISA) ilmanpaine meren pinnalla?",
+      "options": [
+        "A. 1014.25 Hpa.",
+        "B. 50 elohopeatuumaa.",
+        "C. 1013.25 Hpa.",
+        "D. 1014.00 Hpa."
+      ],
+      "correctIndex": 2,
+      "explanation": "ISA:n ilmanpaine merenpinnalla on 1013,25 hPa (= 29,92 inHg = 760 mmHg). Lämpötila 15 °C ja tiheys 1,225 kg/m³.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0003",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 3,
+      "statement": "Ilmakehässä olevan ilman koostumus:",
+      "options": [
+        "A. Typpi (21%), Happi (0.03%), Hiilidioksidi (78%) ja Argon (1%).",
+        "B. Typpi (78%), Happi (21%), Hiilidioksidi (0.03%) ja Vety (1%).",
+        "C. Typpi (1%), Happi (78%), Hiilidioksidi (21%) ja Argon (0.03%).",
+        "D. Typpi (78 %), Happi (21%), Hiilidioksidi (0.03%) ja Argon (1%)."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kuiva ilma sisältää tilavuusosuuksina noin: typpi 78 %, happi 21 %, argon 1 % ja hiilidioksidi ~0,03 %. Suhteet ovat samat koko troposfäärissä.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0004",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 4,
+      "statement": "Kansainvälisen standardi-ilmakehän (ISA) mukaisesti, korkeuden kasvaessa troposfäärissä, lämpötila:",
+      "options": [
+        "A. Pienenee.",
+        "B. Pysyy samana.",
+        "C. Ei vaikutusta, sillä se ei ole riippuvainen korkeudesta.",
+        "D. Suurenee."
+      ],
+      "correctIndex": 0,
+      "explanation": "Troposfäärissä lämpötila pienenee korkeuden mukaan keskimäärin 1,98 °C / 1000 ft (ISA lapse rate). Tropopaussissa (n. 36 090 ft ISA) lämpötila on -56,5 °C ja pysyy sen jälkeen vakiona.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0005",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 5,
+      "statement": "Jos ilmakehän paine pienenee, hapen osapaine vastaavasti:",
+      "options": [
+        "A. Pienenee.",
+        "B. Pysyy samana.",
+        "C. Ei vaikutusta, sillä se ei ole riippuvainen ilmanpaineesta.",
+        "D. Suurenee."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hapen osapaine = 0,21 × kokonaispaine. Kun kokonaispaine pienenee korkeudessa, myös hapen osapaine pienenee samassa suhteessa. Tämä on hypoksian fysiologinen syy.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0006",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 6,
+      "statement": "Kansainvälisen standardi-ilmakehän (ISA) mukaisesti, korkeuden kasvaessa troposfäärissä, paine:",
+      "options": [
+        "A. Suurenee.",
+        "B. Ei vaikutusta, sillä ilmanpaine ei ole riippuvainen korkeudesta.",
+        "C. Pysyy samana.",
+        "D. Pienenee."
+      ],
+      "correctIndex": 3,
+      "explanation": "Ilmanpaine pienenee korkeuden kasvaessa eksponentiaalisesti (kaava: p = p₀·e^(-h/H)). Noin 18 000 ft kohdalla paine on puolet merenpinnan paineesta.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0007",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 7,
+      "statement": "Lentokorkeuksissa, ilmakehän hapen osuus tilavuuden suhteen on:",
+      "options": [
+        "A. Pienempi kuin merenpinnan korkeudella (MSL).",
+        "B. Riippuvainen sen hetkisestä korkeudesta.",
+        "C. Sama kuin merenpinnan korkeudella (MSL).",
+        "D. Korkeampi kuin merenpinnan korkeudella (MSL)."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hapen tilavuusosuus pysyy samana ~21 % kaikissa lentokorkeuksissa. Vain hapen OSAPAINE muuttuu, ei pitoisuus.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0008",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 8,
+      "statement": "Millä kaasulla, joka imeytyy elimistöön normaalin hengityksen aikana, on suuri merkitys alipainetaudin kannalta?",
+      "options": [
+        "A. Hiilimonoksidi.",
+        "B. Typpi.",
+        "C. Happi.",
+        "D. Hiilidioksidi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Typpi liukenee vereen normaalissa hengityksessä paineen alaisena. Painekorkeuden laskiessa nopeasti (sukeltajan tauti, pikadekompressio) typpi voi kuplia veressä → alipainetauti (DCS).",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0009",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 9,
+      "statement": "Verenluovutuksen jälkeen, mikä on minimi aika joka lentäjän tulee odottaa ennen lentämistä?",
+      "options": [
+        "A. 2 tuntia.",
+        "B. 48 tuntia.",
+        "C. 12 tuntia.",
+        "D. 24 tuntia."
+      ],
+      "correctIndex": 3,
+      "explanation": "Verenluovutuksen jälkeen suositellaan vähintään 24 tunnin lentokieltoa, jotta veritilavuus ja punasolumäärä palautuvat. Joissakin maissa suositus on 48 h.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0010",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 10,
+      "statement": "Mikä voi vaikuttaa siihen, että verenpaine on koholla?",
+      "options": [
+        "A. Ikä.",
+        "B. Stressi.",
+        "C. Kaikki vastaukset ovat oikein.",
+        "D. Tupakointi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kohonnut verenpaine voi johtua iästä, stressistä, tupakoinnista, ylipainosta, suolan käytöstä, perimästä – kaikki vaihtoehdot ovat oikein.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0011",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 11,
+      "statement": "Mikä elintoiminta huolehtii hapen jakelusta kehossa?",
+      "options": [
+        "A. Hapetusjärjestelmä.",
+        "B. Hengityselimistö.",
+        "C. Keskushermosto.",
+        "D. Verenkiertoelimistö."
+      ],
+      "correctIndex": 3,
+      "explanation": "Verenkiertoelimistö (sydän + verisuonet) kuljettaa hapettuneen veren keuhkoista soluihin. Hengityselimistö huolehtii kaasujenvaihdosta, mutta jakelusta vastaa verenkierto.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0012",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 12,
+      "statement": "Veri kuljettaa ____ kehossa ja poistaa ____. Näiden aineiden vaihto tapahtuu ____.",
+      "options": [
+        "A. Happea / Hiilidioksidia / Valtimoissa.",
+        "B. Hiilidioksidia / Happea / Keuhkokapillaareissa.",
+        "C. Hiiltä / Dioksidia / Happisuonissa.",
+        "D. Happea / Hiilidioksidia / Keuhkokapillaareissa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Veri kuljettaa happea kudoksiin ja poistaa hiilidioksidia. Kaasujenvaihto tapahtuu keuhkokapillaareissa (alveolien ympärillä) ja toisaalta kudoskapillaareissa.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0013",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 13,
+      "statement": "Mikä osa hermostosta yleensä säätelee hengitystä?",
+      "options": [
+        "A. Kaikki vastaukset ovat oikein.",
+        "B. Keskushermosto.",
+        "C. Tahdosta riippumaton hermosto.",
+        "D. Ääreishermosto."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hengitystä säätelee tahdosta riippumaton (autonominen) hermosto aivorungossa, vaikkakin tahdolla voi tilapäisesti vaikuttaa. Hiilidioksidipitoisuus veressä on tärkein säätely-tekijä.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0014",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 14,
+      "statement": "Aivosolut, jotka eivät saa happea, alkavat kuolla ____ kuluttua:",
+      "options": [
+        "A. 2 minuutin",
+        "B. 2 sekunnin",
+        "C. 2 tunnin",
+        "D. 30 minuutin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aivosolut alkavat kuolla noin 4–6 minuutin happikadon jälkeen, mutta merkittäviä vaurioita syntyy jo 2 minuutin sisällä. Aivot ovat kehon happiriippuvaisin elin.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0015",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 15,
+      "statement": "Minkä kaasun määrä veressä säätelee hengityksen tiheyttä ja syvyyttä?",
+      "options": [
+        "A. Typpi.",
+        "B. Hiilidioksidi.",
+        "C. Happi.",
+        "D. Hiilimonoksidi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hengityksen tiheyttä ja syvyyttä säätelee veren hiilidioksidipitoisuus (CO₂-pitoisuuden nousu → kemoreseptorit → hengitys kiihtyy). Happi on toissijainen säätelijä.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0016",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 16,
+      "statement": "Kun henkilö kokee stressiä tai pelkoa, adrenaliinia vapautuu verenkiertoon aiheuttaen:",
+      "options": [
+        "A. Väsymystä.",
+        "B. Tajunnan menetyksen.",
+        "C. Sykkeen laskua.",
+        "D. Sykkeen nousua."
+      ],
+      "correctIndex": 3,
+      "explanation": "Stressi/pelko → adrenaliinin vapautuminen → 'taistele tai pakene' -reaktio: syke ja verenpaine nousevat, hengitys nopeutuu, pupilli laajenee.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0017",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 17,
+      "statement": "Kuinka kauan keskimäärin ihmisellä kestää kuluttaa yksi yksikkö alkoholia verestään (vaikkakin kulutus on yksilökohtaista)?",
+      "options": [
+        "A. 12 tuntia.",
+        "B. 2 tuntia.",
+        "C. 5 tuntia.",
+        "D. 1/2 tuntia."
+      ],
+      "correctIndex": 1,
+      "explanation": "Maksa polttaa alkoholia keskimäärin n. 1 yksikkö (10 g) tunnissa – sukupuolen, painon ja yksilön mukaan vaihdellen. PPL-säädöksissä '8 hours bottle to throttle'.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0018",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 18,
+      "statement": "Täytä puuttuviin kohtiin eniten oikeat vaihtoehdot kaasupareista: Punasoluissa oleva hemoglobiini kiinnittyy paremmin ______ kuin ______.",
+      "options": [
+        "A. Happeen/Typpeen.",
+        "B. Typpeen/Happeen.",
+        "C. Hiilidioksidiin/Typpeen.",
+        "D. Hiilimonoksidiin/happeen."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hemoglobiini sitoutuu hiilimonoksidiin (CO) noin 200–250 kertaa voimakkaammin kuin happeen. Tästä syystä jopa pieni CO-pitoisuus aiheuttaa hypoksian (häkämyrkytys).",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0019",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 19,
+      "statement": "Mikä elin säätelee kaikkia muita kehon toimintoja?",
+      "options": [
+        "A. Sydän.",
+        "B. Selkäydin.",
+        "C. Keuhkot.",
+        "D. Aivot."
+      ],
+      "correctIndex": 3,
+      "explanation": "Aivot säätelevät kaikkia kehon toimintoja keskushermoston kautta. Aivorunko vastaa autonomisesta säätelystä (hengitys, syke), aivokuori tahdonalaisesta toiminnasta.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0020",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 20,
+      "statement": "Tilanne, jossa keho ei saa tarpeeksi happea toimiakseen oikein, on nimeltään?",
+      "options": [
+        "A. Hypotensio.",
+        "B. Hyperventilaatio.",
+        "C. Hyperglykemia.",
+        "D. Hypoksia."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hypoksia = solujen riittämätön happi. Hyperventilaatio = liiallinen hengitys, hypotensio = matala verenpaine, hyperglykemia = korkea verensokeri.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0021",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 21,
+      "statement": "Hypoksialle todennäköinen oire/oireet:",
+      "options": [
+        "A. Kohonnut sydämen syke.",
+        "B. Kaikki vastaukset ovat oikein.",
+        "C. Formikaatio eli tunne siitä, että muurahainen kävelee iholla.",
+        "D. Syanoosi eli sinertävyys."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hypoksian oireita ovat mm. kohonnut syke, sinerrys (syanoosi, huulissa ja sormenpäissä), formikaatio, näköhäiriöt, päänsärky, euforia, arvostelukyvyn heikkeneminen – kaikki vaihtoehdot oikein.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0022",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 22,
+      "statement": "Minkä korkeuden yläpuolella lentäjien tarvitsee hengittää lisähappea?",
+      "options": [
+        "A. 20,000 ft.",
+        "B. 2,000 ft.",
+        "C. 8,000 ft.",
+        "D. 10,000 ft."
+      ],
+      "correctIndex": 3,
+      "explanation": "EASA Part-NCO ja kansalliset säädökset: yli 10 000 ft korkeudella yli 30 minuuttia → lisähappi pakollinen. Yli 13 000 ft koko ajan.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0023",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 23,
+      "statement": "Verrattuna ei-tupakoivaan henkilöön, tupakoitsija saattaa kokea hypoksian oireita:",
+      "options": [
+        "A. Millä lentokorkeudella tahansa.",
+        "B. Korkeammalla lentokorkeudella.",
+        "C. Matalammalla lentokorkeudella.",
+        "D. Samalla lentokorkeudella."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tupakoijan veressä on jo lähtötasolla CO:ta hemoglobiinissa, mikä laskee toiminnallisen happipitoisuuden. Hypoksiaa esiintyy MATALAMMALLA korkeudella kuin tupakoimattomalla (esim. 5000 ft alkavan oireilun raja).",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0024",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 24,
+      "statement": "Mitkä seuraavista lisäävät hypoksian vaikutuksia?",
+      "options": [
+        "A. Kaikki vastaukset ovat oikein.",
+        "B. Alkoholi.",
+        "C. Lisääntynyt lentokorkeus.",
+        "D. Kohonnut lämpötila."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hypoksian vaikutuksia lisäävät kaikki: alkoholi, korkea lentokorkeus, kohonnut lämpötila, hiilimonoksidi, väsymys ja sairaudet. Kaikki vastaukset oikein.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0025",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 25,
+      "statement": "Lennät 6000ft korkeudella ja lennolla mukana oleva kaverisi alkaa tuntea kihelmöintiä, huimausta ja näköhäiriöitä, joita seuraa tajuttomuus. Kaverisi todennäköisesti kärsii:",
+      "options": [
+        "A. Angiinasta.",
+        "B. Ruokamyrkytyksestä.",
+        "C. Hyperventilaatiosta.",
+        "D. Hapen puutteesta."
+      ],
+      "correctIndex": 3,
+      "explanation": "6000 ft on liian matala syvälle hypoksialle (ellei CO-myrkytystä), mutta oireet (kihelmöinti, huimaus, näköhäiriöt, tajuttomuus) viittaavat hapenpuutteeseen. PPL-koevastaus: hapen puute.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0026",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 26,
+      "statement": "Hypoksialle todennäköinen oire/oireet:",
+      "options": [
+        "A. Kihelmöivät sormet ja varpaat.",
+        "B. Tajuttomuus.",
+        "C. Arvostelukyvyn heikkeneminen.",
+        "D. Kaikki vastaukset ovat oikein."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hypoksian oireita ovat sormien/varpaiden kihelmöinti, arvostelukyvyn heikkeneminen, euforia ja lopulta tajuttomuus – kaikki oikein.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0027",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 27,
+      "statement": "Lennolla oleva lentäjä kohtaa suoraan törmäyskurssilla vastaan tulevan, nopeasti lentävän suihkukoneen. Lentäjä havaitsee suihkukoneen, joka näyttää kasvavan hänen silmissään seuraavasti:",
+      "options": [
+        "A. Nopeasti aluksi ja sitten tasaisella nopeudella törmäykseen asti.",
+        "B. Suihkukone näyttää kasvavan tasaisella nopeudella.",
+        "C. Aluksi suihkukone näyttää kasvavan hyvin hitaasti, kunnes juuri ennen törmäystä kasvaa hyvin nopeasti.",
+        "D. Aluksi erittäin nopeasti, mutta lopuksi tasaisella nopeudella."
+      ],
+      "correctIndex": 2,
+      "explanation": "Vakio törmäyskurssi-ilmiö: kone näyttää kasvavan aluksi hyvin hitaasti (kulmakoko muuttuu vähän kaukaa), kunnes juuri ennen törmäystä kasvu räjähtää eksponentiaalisesti. Tästä syystä 'liikkumaton piste tuulilasissa = törmäysvaara'.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0028",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 28,
+      "statement": "Värisokeuden, tai oikeammalta termiltään väriheikkouden, aiheuttaa:",
+      "options": [
+        "A. Silmässä olevan linssin kudoksen vioittuminen.",
+        "B. Verkkokalvon väriherkkien tappisolujen rakenteen vioittuminen.",
+        "C. Kiliaarilihaksen viallinen toiminta.",
+        "D. Lyhentynyt silmämuna."
+      ],
+      "correctIndex": 1,
+      "explanation": "Värisokeus johtuu verkkokalvon tappisolujen rakenne- tai pigmenttihäiriöstä. Tappisoluja on kolme tyyppiä (R, G, B); jonkin puuttuminen aiheuttaa väriheikkouden.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0029",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 29,
+      "statement": "Kaukotaitteisuuden ja likitaitteisuuden aiheuttaa yleensä:",
+      "options": [
+        "A. Huonosti istuvat silmälasit.",
+        "B. Stressi.",
+        "C. Silmän rasitus.",
+        "D. Epämuodostunut silmämuna."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kauko-/likitaitteisuuden taustalla on epämuodostunut silmämuna: liian pitkä → likinäkö (myopia), liian lyhyt → kaukonäkö (hyperopia). Linssin kyky muuttaa muotoaan ei riitä korjaamaan ääripäitä.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0030",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 30,
+      "statement": "Kaukotaittoisuuden aiheuttaa _____ silmämuna, joka on korjattavissa _____. Likitaittoisuuden aiheuttaa _____ silmämuna, joka on korjattavissa _____.",
+      "options": [
+        "A. Pidentynyt / kuperalla linssillä / lyhentynyt / koveralla linssillä.",
+        "B. Lyhentynyt / kuperalla linssillä / pidentynyt / koveralla linssillä.",
+        "C. Lyhentynyt / koveralla linssillä / pidentynyt / kuperalla linssillä.",
+        "D. Pidentynyt / koveralla linssillä / lyhentynyt / kuperalla linssillä."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kaukotaittoisuus eli hyperopia johtuu yleensä lyhentyneestä silmämunasta ja korjataan kuperalla eli pluslinssillä. Likitaittoisuus eli myopia johtuu yleensä pidentyneestä silmämunasta ja korjataan koveralla eli miinuslinssillä.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0031",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 31,
+      "statement": "Mikä seuraavista elimistä on kaikkein luotettavin yksittäinen aistitiedonlähde?",
+      "options": [
+        "A. Aivokuori.",
+        "B. Silmä.",
+        "C. Nenä.",
+        "D. Korva."
+      ],
+      "correctIndex": 1,
+      "explanation": "Silmä antaa noin 80 % aistitiedosta. Se on luotettavin yksittäinen aistitiedonlähde – muut aistit (kuulo, tasapaino, lihastunto) ovat täydentäviä.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0032",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 32,
+      "statement": "Mikä silmän osa hoitaa ääreisnäön alueen ja tottuu hämärään?",
+      "options": [
+        "A. Sauvasolut.",
+        "B. Keskuskuoppa.",
+        "C. Tappisolut.",
+        "D. Verkkokalvo."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sauvasolut sijaitsevat verkkokalvon reuna-alueilla, vastaavat ääreisnäöstä ja toimivat hämärässä (mustavalkonäkö). Tappisolut keskuskuopassa antavat tarkan värinäön päivänvalossa.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0033",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 33,
+      "statement": "Tyhjän kentän likinäköisyys on tila, jossa silmä pyrkii luonnostaan tarkentamaan:",
+      "options": [
+        "A. Noin 20 - 500 metrin etäisyydelle.",
+        "B. Äärettömyyteen.",
+        "C. Horisonttiin.",
+        "D. Noin 1 - 2 metrin etäisyydelle."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tyhjän kentän likinäköisyydessä eli empty field myopiassa silmä pyrkii ilman selkeää tarkennuskohdetta tarkentamaan luonnostaan noin 1–2 metrin etäisyydelle. Tämä voi vaikeuttaa kaukana olevan liikenteen havaitsemista esimerkiksi utuisessa ilmassa tai tyhjää taivasta tähystettäessä.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0034",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 34,
+      "statement": "Yöllä on helpompi tarkkailla kohdetta, jos:",
+      "options": [
+        "A. Katsot suoraan kohdetta samalla kun pidät silmiäsi niin auki kuin mahdollista.",
+        "B. Katsot kohteen yhdelle reunalle.",
+        "C. Katsot suoraan kohdetta.",
+        "D. Katsot noin 50 astetta kohteen jommallekummalle puolelle."
+      ],
+      "correctIndex": 1,
+      "explanation": "Yöllä tarkan keskusnäön alue eli fovea ei ole herkkä heikolle valolle. Kohdetta kannattaa katsoa hieman sivuun tai sen reunalle, jotta kuva osuu verkkokalvon sauvasolujen alueelle. 50 astetta sivuun on liian paljon.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0035",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 35,
+      "statement": "Vähentääkseen yhteentörmäyksen vaaraa lentokoneeseen, joka saattaa olla lentäjän kuolleessa kulmassa ja lähestyen samalla suhteellisella suuntimalla, lentäjän tulee:",
+      "options": [
+        "A. Vaihtaa ohjaussuuntaa muutamalla asteella joka kymmenes minuutti.",
+        "B. Kallistaa konetta oikealta vasemmalle muutamia asteita joka kymmenes minuutti.",
+        "C. Katsella ulos systemaattisesti kaiken aikaa.",
+        "D. Suorittaa määrätyin väliajoin tarkistuskaartoja."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kuolleen kulman riskin pienentämiseksi tärkeintä on systemaattinen, jatkuva ulkona katselu (scanning) eri sektoreissa. Yhden kohteen pitkä tuijotus ei näytä suhteellista liikettä.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0036",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 36,
+      "statement": "Missä sijaitsee sokea täplä?",
+      "options": [
+        "A. Mykiössä.",
+        "B. Iiriksessä.",
+        "C. Keskuskuopassa.",
+        "D. Kohdassa, jossa verkkokalvo ja näköhermo yhdistyvät."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sokea täplä (papilla) on kohta, jossa näköhermo lähtee silmästä – siellä ei ole valoreseptoreita. Aivot 'täyttävät' aukon ympäristön perusteella.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0037",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 37,
+      "statement": "Akkommodaatio eli linssin voimakkuus mukauttaa valon säteet lähellä olevista kohteista tarkannäkemisen keskukseen. Akkommodaatiota säätelee:",
+      "options": [
+        "A. Verkkokalvo.",
+        "B. Värikalvo (Iris).",
+        "C. Tappi-ja sauvasolut.",
+        "D. Kiliaarilihas."
+      ],
+      "correctIndex": 3,
+      "explanation": "Akkommodaatiota (linssin muodon muuttamista) säätelee kiliaarilihas: supistuessaan se päästää linssin kuperaksi (lähinäkö), rentoutuessaan linssi litistyy (kaukonäkö).",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0038",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 38,
+      "statement": "Yöadaptaatioon kuluu noin ___ sauvasoluilta ja ___ tappisoluilta.",
+      "options": [
+        "A. 15 minuuttia/20 minuuttia",
+        "B. 7 minuuttia/30 minuuttia",
+        "C. 25 minuuttia/45 minuuttia",
+        "D. 30 minuuttia/7 minuuttia"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tappisolut sopeutuvat pimeään noin 7 minuutissa, sauvasolut tarvitsevat 30–45 minuuttia täyteen sopeutumiseen. Kirkas valo nollaa adaptaation välittömästi.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0039",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 39,
+      "statement": "Akkommodaation tehokkuus silmässä:",
+      "options": [
+        "A. Ei ole riippuvainen linssin elastisuudesta.",
+        "B. Heikkenee, kun linssin elastisuus vähenee.",
+        "C. Ei liity mitenkään linssiin (mykiöön).",
+        "D. Kasvaa, kun linssin elastisuus vähenee."
+      ],
+      "correctIndex": 1,
+      "explanation": "Linssin elastisuus heikkenee iän myötä (presbyopia ~40-vuotiaasta) → akkommodaation tehokkuus heikkenee → lähinäön häiriö.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0040",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 40,
+      "statement": "Yksinlennolla olevan lentäjän, joka epäilee menettäneensä asentotajunsa, tulee:",
+      "options": [
+        "A. Räpyttää silmiään useita kertoja.",
+        "B. Luottaa mittarinäyttämiin.",
+        "C. Luottaa asentoaistimuksiinsa.",
+        "D. Nielaista kovaa, nipistää sieraimista ja puhaltaa nenän kautta, jotta Eustachin putki (korvatorvi) aukeaisi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Asentotajun menettyessä (spatial disorientation) AINOA luotettava tieto on lentomittarit. Kehon tuntemukset ovat tässä tilanteessa harhaanjohtavia.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0041",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 41,
+      "statement": "Mitä on melun aiheuttama huonokuuloisuus?",
+      "options": [
+        "A. Kuulon menettäminen tasapainoelimen vaurion vuoksi.",
+        "B. Kuulon menettäminen kuuloluiden vaurion vuoksi.",
+        "C. Kuulon menettäminen kuuloelimen simpukan vaurion vuoksi.",
+        "D. Kuulon menettäminen keskikorvan vaurion vuoksi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Melun aiheuttama huonokuuloisuus johtuu sisäkorvan simpukassa (cochlea) olevien karvasolujen vaurioitumisesta. Karvasolut eivät uusiudu → vaurio on pysyvä.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0042",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 42,
+      "statement": "Milloin lentäjä voi kokea \"nojaamisharhan\"?",
+      "options": [
+        "A. Nousussa.",
+        "B. Liu'ussa.",
+        "C. Sekä nousussa, että liu'ussa.",
+        "D. Kaikissa lentotiloissa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Nojaamisharha eli the leans on asentotajun harha, joka voi syntyä, kun tasapainoelin ei havaitse hidasta kaartoa tai kun kaartoa korjataan pitkän, huomaamattoman kallistuksen jälkeen. Lentäjä voi tuntea olevansa kallistuneena, vaikka kone olisi suorassa. Ilmiö voi esiintyä kaikissa lentotiloissa, erityisesti ilman luotettavia ulkoisia näköreferenssejä.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0043",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 43,
+      "statement": "Mikä on tärkein aisti asentotajun kannalta?",
+      "options": [
+        "A. Kuuloaisti ja tasapainoaisti.",
+        "B. Istuinpaikka-aisti (\"perstunto\").",
+        "C. Näköaisti.",
+        "D. Kaikilla aisteilla on oma roolinsa tilannetietoisuuden kannalta."
+      ],
+      "correctIndex": 2,
+      "explanation": "Näköaisti on tärkein asentotajun lähde – horisontti antaa vakaan referenssin. Tasapainoelin on apuväline, joka voi pettää ilman näköhorisonttia (IMC).",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0044",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 44,
+      "statement": "Mihin seuraavista lentäjän tulisi ensisijaisesti turvautua, jos hän menettää asentotajunsa näkölentosääolosuhteissa (VMC)?",
+      "options": [
+        "A. Pään kääntämiseen palautuakseen asentotajun menetyksestä.",
+        "B. Tasapainoaistiin.",
+        "C. Näköaistiin.",
+        "D. Lentokoneen mittareihin."
+      ],
+      "correctIndex": 2,
+      "explanation": "VMC:ssä (näkölento-olosuhteet) horisontti on luotettavin: lentäjä tukeutuu ulkoisiin näköreferensseihin asentotajun palauttamiseksi.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0045",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 45,
+      "statement": "Mitkä tekijät vaikuttavat melun aiheuttamaan huonokuuloisuuteen?",
+      "options": [
+        "A. Yli 100 desibelin ylittävän melun kesto.",
+        "B. Yli 90 desibelin ylittävän melun voimakkuus ja kesto.",
+        "C. Yli 110 desibelin ylittävän melun kesto.",
+        "D. Yli 100 desibelin ylittävän melun voimakkuus ja kesto."
+      ],
+      "correctIndex": 1,
+      "explanation": "Yli 90 dB jatkuva melu aiheuttaa kuulovaurioita riippuen sekä voimakkuudesta ETTÄ kestosta. Ilmailussa kuulosuojat ovat välttämättömät – ohjaamossa melu on usein 90–100 dB.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0046",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 46,
+      "statement": "Taajuusalue, jonka terve nuori ihminen voi kuulla on:",
+      "options": [
+        "A. 500 - 15.000 sykliä sekunnissa.",
+        "B. 20 - 20.000 sykliä sekunnissa.",
+        "C. 80 - 20.000 sykliä sekunnissa.",
+        "D. 70 - 15.000 sykliä sekunnissa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Terveen nuoren ihmisen kuuloalue on 20–20 000 Hz (sykliä sekunnissa). Iän myötä yläpää madaltuu (presbyacusis).",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0047",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 47,
+      "statement": "Mikä on Eustachin putken (korvatorvi) tarkoitus?",
+      "options": [
+        "A. Tasata ympäristön ilmanpaine tärykalvosta keskikorvan puolelle.",
+        "B. Päästää ääniaallot keskikorvan kautta kuulohermoon.",
+        "C. Tasata ympäristön ilmanpaine molemmille puolille tasapainoelintä.",
+        "D. Tasata ympäristön ilmanpaine molemmille puolille tärykalvoa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Eustachin putki (korvatorvi) yhdistää välikorvan nielun yläosaan. Sen tehtävä on tasata ilmanpaine välikorvan ja ulkoilman välillä (tärykalvon molemmin puolin).",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0048",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 48,
+      "statement": "Yksi tärkeimmistä osatekijöistä matkapahoinvoinnin laukeamisen kannalta on?",
+      "options": [
+        "A. Suuria G-voimia sisältävien liikkeiden suorittaminen.",
+        "B. Sakkaaminen.",
+        "C. Epäsuhta visuaalisen näkemisen ja tasapainoelimen aistien välillä.",
+        "D. Nopeat kallistukset kaartoon lähdettäessä."
+      ],
+      "correctIndex": 2,
+      "explanation": "Matkapahoinvoinnin pääsyy on ristiriita näköaistin (näkee vakaata sisätilaa) ja tasapainoelimen (aistii liikkeen) välillä. Aivot saavat ristiriitaista tietoa → pahoinvointi.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0049",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 49,
+      "statement": "Suoran vaakalennon aikana suoritettu suoraviivainen kiihdytys saattaa aiheuttaa tuntemuksen, että koneen nokka nousee ylös. Tällaisessa tilanteessa lentäjän pitää:",
+      "options": [
+        "A. Luottaa tasapainoelimeen säilyttääkseen asentonsa.",
+        "B. Korjata nokan asennonmuutos työntämällä ohjaussauvaa hieman eteenpäin.",
+        "C. Luottaa \"perstuntoon\" ja tehdä sen avulla tarvittavat korjaukset.",
+        "D. Olla välittämättä tasapainoelimen tuntemuksista ja luottaa mittarinäyttämiin."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kiihdytyksessä somatogravinen illuusio antaa nokan ylös -tunteen → vaarana nokan painaminen alas. Ratkaisu: TUKEUDU MITTAREIHIN, älä kehon tuntemuksiin.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0050",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 50,
+      "statement": "Äänenvoimakkuutta mittaava suure on?",
+      "options": [
+        "A. Desibeli.",
+        "B. Pascal.",
+        "C. Hertsi.",
+        "D. Kierros/sekunti."
+      ],
+      "correctIndex": 0,
+      "explanation": "Äänenvoimakkuuden mittayksikkö on desibeli (dB). Hertsi (Hz) on taajuus, pascal (Pa) on painemittari (myös äänenpaine, mutta dB on logaritminen muunnos).",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0051",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 51,
+      "statement": "Mihin seuraavista lentäjän tulee pääasiassa turvautua, jos hän menettää asentotajunsa lentäessään mittarilento-olosuhteissa (IMC)?",
+      "options": [
+        "A. Ilma-aluksen mittareihin.",
+        "B. Ulkoisiin näköreferensseihin.",
+        "C. Tasapainon tuntemukseen.",
+        "D. Päänkääntämiseen, palauttaakseen asentotajunsa."
+      ],
+      "correctIndex": 0,
+      "explanation": "IMC:ssä (mittarilento-olosuhteet) ei ole näkyvää horisonttia → ilma-aluksen mittarit ovat AINOA luotettava lentotila-tietolähde.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0052",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 52,
+      "statement": "Tasapainoelin havaitsee ______ -kiihtyvyyksiä:",
+      "options": [
+        "A. Kulma-ja suoraviivaisia.",
+        "B. Positiivisia G-voima.",
+        "C. Suoraviivaisia.",
+        "D. Kulma-."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tasapainoelin sisäkorvassa havaitsee KULMAkiihtyvyydet (kaarikäytävät) JA SUORAVIIVAISET kiihtyvyydet (otoliitit). Molemmat tarvitaan.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0053",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 53,
+      "statement": "Kun ilma-alus kiihdyttää, mitä kuulokivi (otoliitti) viestittää aivoille?",
+      "options": [
+        "A. Ilma-alus on nousussa ja kaartaa.",
+        "B. Ilma-alus kaartaa.",
+        "C. Ilma-aluksen nokka laskee.",
+        "D. Ilma-aluksen nokka nousee."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kiihdytyksen aikana otoliitit (kuulokivet) liikkuvat taaksepäin, mistä aivot tulkitsevat 'nokka nousee'. Tämä on somatogravinen illuusio.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0054",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 54,
+      "statement": "Jos Eustachin putkesi (korvatorvi) on tukossa, etkä pysty avaamaan korviasi, toimit seuraavasti:",
+      "options": [
+        "A. Jätät lentämättä kunnes Eustachin putken (korvatorven) tukos on auennut.",
+        "B. Aukaiset nenäsi nenäsumutteella ennen lentoa.",
+        "C. Lennät ainoastaan matkustajana.",
+        "D. Jatkat lentoasi, mutta sinun tulee niellä voimakkaasti ja usein."
+      ],
+      "correctIndex": 0,
+      "explanation": "Eustachin putken tukos → välikorvan paine ei tasaannu → tärykalvo voi vaurioitua laskeutumisessa. EI SAA LENTÄÄ ennen kuin tukos on auennut.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0055",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 55,
+      "statement": "Lennon aikana ilmanpaineen muutokset voivat saada kehon onteloihin jääneen ilman supistumaan ja laajentumaan. Tähän tilaan joutumista kutsutaan nimellä barotrauma ja sillä on vaikutusta:",
+      "options": [
+        "A. Hampaisiin.",
+        "B. Nenän sivuonteloihin.",
+        "C. Kaikki vastaukset ovat oikein.",
+        "D. Keskikorvaan."
+      ],
+      "correctIndex": 2,
+      "explanation": "Barotraumaa esiintyy kaikissa kehon onteloissa, joissa on ilmaa: keskikorva, nenän sivuontelot, hampaiden kanavat, suolisto. Kaikki vaihtoehdot oikein.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0056",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 56,
+      "statement": "Paras ennaltaehkäisevä keino välttää stroboskooppi-ilmiö, kun henkilöllä havaitaan sen oireita?",
+      "options": [
+        "A. Annetaan henkilölle jokin tehtävä, jotta hän kiinnittäisi huomionsa muualle.",
+        "B. Sijoittaa henkilö varjoon ja saada hänet sulkemaan silmänsä.",
+        "C. Sijoittaa henkilö aurinkoiseen paikkaan.",
+        "D. Ei tarvita toimenpiteitä, sillä oireet kestävät vain lyhyen aikaa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Stroboskooppi-ilmiön (vilkkuvalon aiheuttama hetkellinen näköhäiriö, jopa epileptinen reaktio) hoito: vie henkilö varjoon ja sulje silmät rauhoittamaan näköradan stimulaation.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0057",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 57,
+      "statement": "Onko lääkekuurin aikana suositeltua lähteä lentämään ilma-alusta?",
+      "options": [
+        "A. Kyllä, kunhan kyseessä ei ole reseptilääkkeet.",
+        "B. Ei, ellei ole ilmailulääketieteen asiantuntijan hyväksyntää.",
+        "C. Ei, koskaan ei ole soveliasta lentää lääkkeiden käytön aikana.",
+        "D. Kyllä, kunhan kyseessä on antibiootit, sillä niillä ei ole sivuvaikutuksia."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lääkekuurin aikana lentäminen edellyttää AINA ilmailulääkärin (AME) hyväksyntää. Lääkkeet voivat aiheuttaa väsymystä, näköhäiriöitä tai muita lentoa heikentäviä vaikutuksia.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0058",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 58,
+      "statement": "Mikä voi vaikuttaa siihen, että lentäjä ei kestä vähäisiäkään G-voimia?",
+      "options": [
+        "A. Huonokuuloisuus, joka on aiheutunut aistisolujen vähitellen rappeutuessa(presbyacusis).",
+        "B. Kaikki vastaukset ovat oikein.",
+        "C. Ilma-aluksen maksimikuormituskerroin.",
+        "D. Lentäjän väsymys."
+      ],
+      "correctIndex": 3,
+      "explanation": "Lentäjän väsymys heikentää fysiologista suorituskykyä ja voi huonontaa G-voimien sietokykyä. Ilma-aluksen maksimikuormituskerroin ei ole lentäjän fysiologinen ominaisuus, eikä presbyacusis eli ikäkuulo sellaisenaan selitä G-siedon heikkenemistä.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0059",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 59,
+      "statement": "Paikallispuudutuksen jälkeen lentäjän pitäisi odottaa vähintään _____ ennen lentämistä:",
+      "options": [
+        "A. 12 tuntia.",
+        "B. 48 tuntia.",
+        "C. 2 tuntia.",
+        "D. 24 tuntia."
+      ],
+      "correctIndex": 2,
+      "explanation": "Paikallispuudutus (esim. hammashoito) → vähintään 2 h odotus ennen lentoa. Yleisanestesia → 24–48 h. Verenluovutus → 24 h.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0060",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 60,
+      "statement": "Olet varannut ilma-aluksen lentoasi varten, mutta olet hieman flunssainen ja kärsit lievästä nenän ja sivuonteloiden tukkoisuudesta. Miten toimit asian suhteen?",
+      "options": [
+        "A. Jätät lennon lentämättä.",
+        "B. Lennät ihan normaalisti.",
+        "C. Lennät, mutta ainoastaan pienillä pystynopeuksilla noustessa ja laskeutuessa.",
+        "D. Otat tukoksen avaavaa lääkettä 1/2 tuntia ennen lentoa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Flunssa, nuha tai sivuonteloiden tukkoisuus → EI SAA LENTÄÄ. Paineen muutoksissa korva-/sivuontelokipua, mahdollinen tärykalvovaurio. Päätös: jätetään lento lentämättä.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0061",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 61,
+      "statement": "Kuinka kauan lentäjän tulisi odottaa yleisanestesian jälkeen ennen lentämistä?",
+      "options": [
+        "A. 2 tuntia.",
+        "B. 48 tuntia.",
+        "C. 24 tuntia.",
+        "D. 12 tuntia."
+      ],
+      "correctIndex": 1,
+      "explanation": "Yleisanestesian jälkeen suositus on vähintään 48 h ennen lentämistä. Anestesian jäännösvaikutukset (uneliaisuus, reaktioajan hidastuminen) voivat kestää pitkään.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0062",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 62,
+      "statement": "Mikä seuraavista voi aiheuttaa pyörtymistä?",
+      "options": [
+        "A. Yllättävä/äkillinen järkytys.",
+        "B. Liian huolellinen lennonsuunnittelu.",
+        "C. Kaikki vastaukset ovat oikein.",
+        "D. Liian nopea silmien liikuttelu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pyörtymisen voi laukaista äkillinen järkytys (vasovagaalinen reaktio: verenpaine laskee, syke hidastuu). Myös kuumuus, dehydraatio ja pitkä seisominen.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0063",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 63,
+      "statement": "Verrattuna visuaalisiin ärsykkeisiin, kuuloärsykkeet (äänet):",
+      "options": [
+        "A. Kiinnittävät helpommin huomiota ja aiheuttavat helpommin virheellisiä toimintoja.",
+        "B. Eivät kiinnitä niin helpolla huomiota, mutta aiheuttavat helpommin virheellisiä toimintoja.",
+        "C. Kiinnittävät helpommin huomiota ja eivät johda virheellisiin toimenpiteisiin niin helposti.",
+        "D. Eivät kiinnitä niin helpolla huomiota eivätkä johda virheellisiin toimenpiteisiin niin helposti."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kuuloärsykkeet kiinnittävät huomion helpommin (refleksinomaisesti) ja voivat aiheuttaa nopeita virhereaktioita. Visuaalinen tieto vaatii enemmän tietoista tulkintaa.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0064",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 64,
+      "statement": "Lentäjä lähestyy kiitotietä, joka on paljon isompi kuin hänen kotikentällään oleva kiitotie. Mikä vaikutus tällä seikalla on lentäjän havainnointiin tilanteessa?",
+      "options": [
+        "A. Kiitotie näyttää olevan kauempana kuin se oikeasti on.",
+        "B. Kiitotie näyttää olevan lähempänä kuin se oikeasti on.",
+        "C. Lähestymisessä tulisi käyttää erilaista liukukulmaa.",
+        "D. Etäisyydet on helppo arvioida."
+      ],
+      "correctIndex": 1,
+      "explanation": "Suuri kiitotie näyttää lähemmältä kuin se on (kohteen kulmakoko viittaa tutumpaan, pieneen kiitotiehen). Riskinä lähestymisen tasaantuminen liian aikaisin / liian matala lähestyminen.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0065",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 65,
+      "statement": "Termi, jota käytetään oikeiden aistimusten väärintulkinnasta, on?",
+      "options": [
+        "A. Kangastus.",
+        "B. Hallusinaatio.",
+        "C. Ikävystyminen.",
+        "D. Unelmointi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kohta on terminologisesti ongelmallinen. Oikea yleistermi todellisen aistiärsykkeen väärintulkinnalle olisi illuusio tai harha-aistimus, mutta vaihtoehdoissa sitä ei ole. Hallusinaatio tarkoittaa yleensä aistihavaintoa ilman todellista ärsykettä, joten vastaus B pidetään vanhan kysymyspankin mukaisena mutta merkitään tarkistettavaksi.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "low",
+      "needsReview": true
+    },
+    {
+      "id": "040-0066",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 66,
+      "statement": "Tiedon toistaminen useita kertoja siirtää sen pitkäaikaiseen muistiin. Tätä kutsutaan nimellä:",
+      "options": [
+        "A. Kehottaminen.",
+        "B. Summaaminen.",
+        "C. Muisti-induktio.",
+        "D. Harjoittelu."
+      ],
+      "correctIndex": 3,
+      "explanation": "Toistaminen (rehearsal / harjoittelu) siirtää tiedon lyhytaikaisesta pitkäaikaiseen muistiin. Tämä on kognitiivisen psykologian peruskäsite.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0067",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 67,
+      "statement": "Montako yksikköä ja kuinka kauan lyhytaikainen muistimme pystyy pitämään?",
+      "options": [
+        "A. 15 yksikköä, 1-5 minuuttia",
+        "B. 7 yksikköä, 5-10 minuuttia",
+        "C. 4 yksikköä, 15 sekuntia",
+        "D. 7 yksikköä, 10-20 sekuntia"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lyhytaikainen (työ)muisti pystyy pitämään ~7 ± 2 yksikköä (Miller 1956) noin 10–20 sekunnin ajan ilman toistoa.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0068",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 68,
+      "statement": "Jos lentäjä on tottunut lentämään suhteellisen saastuneessa ja utuisessa ympäristössä ja tämän jälkeen hän lentää hyvin kirkkaassa ja selkeässä ympäristössä:",
+      "options": [
+        "A. Lentäjä saattaa sekoittaa lähellä olevat kohteet kaukana oleviin.",
+        "B. Kaukaiset kohteet saattavat näyttää olevan kauempana kuin oikeasti ovat.",
+        "C. Kaukaiset kohteet saattavat näyttää olevan lähempänä kuin oikeasti ovat.",
+        "D. Lähellä olevat kohteet saattavat näyttää olevan kauempana kuin ne oikeasti ovat."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kirkkaassa, selkeässä ilmassa kohteet näyttävät LÄHEMMILTÄ kuin todellisuudessa. Utuisessa ympäristössä taas kauempana – sopeutuminen utuun aiheuttaa illuusion kirkkaalla ilmalla.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0069",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 69,
+      "statement": "Valitse seuraavista oikeassa järjestyksessä olevat tiedonkäsittelyprosessin osa-alueet:",
+      "options": [
+        "A. Havainnointi, tiedon käsittely, päätöksenteko, toiminta, palaute.",
+        "B. Havainnointi, tiedon käsittely, päätöksenteko, palaute, toiminta.",
+        "C. Tiedon käsittely, toiminta, palaute, havainnointi, päätöksenteko.",
+        "D. Havainnointi, palaute, päätöksenteko, toiminta, tiedon käsittely."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tiedonkäsittelyprosessin vaiheet: 1) havainnointi (sensing), 2) tiedon käsittely (perception), 3) päätöksenteko (decision), 4) toiminta (action), 5) palaute (feedback).",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0070",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 70,
+      "statement": "Mikä seuraavista aiheuttaa harha-aistimuksen siitä, että ilma-alus on liian matalalla lähestymisen aikana?",
+      "options": [
+        "A. Voimakkaasti valaistu lentokenttä, muuten pimeässä ympäristössä.",
+        "B. Kiitotie ylämäkeen.",
+        "C. Normaalia kapeampi kiitotie.",
+        "D. Kiitotie alamäkeen."
+      ],
+      "correctIndex": 3,
+      "explanation": "Alaspäin viettävä kiitotie voi aiheuttaa harha-aistimuksen siitä, että ilma-alus on liian matalalla lähestymisen aikana. Tällöin lentäjä voi pyrkiä korjaamaan liian korkealle. Normaalia kapeampi kiitotie taas aiheuttaa yleensä vaikutelman, että ilma-alus on liian korkealla.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0071",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 71,
+      "statement": "Ilma-aluksen kapteenilla tulee olla hyvät taidot johtamisen eri osa-alueilla. Mikä seuraavista ei ole sellainen?",
+      "options": [
+        "A. Hyvän tilannetietoisuuden ylläpitäminen.",
+        "B. Etukäteissuunnittelu.",
+        "C. Taito delegoida.",
+        "D. Aggressiivinen itsevarmuus."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hyvän johtajan piirteitä ovat tilannetietoisuus, etukäteissuunnittelu ja delegointi. Aggressiivisuus tai ylimielisyys EI ole hyvän johtajuuden ominaisuus.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0072",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 72,
+      "statement": "Olet suunnitellut ottavasi pari kaveria mukaasi lennolle. Ajankohtana, jolloin olitte sopineet lentävänne, sääolosuhteet ovat marginaaliset ja kiitotiellä puhaltaa voimakas sivutuuli. Pätevänä riskin arvioitsijana, minkä seuraavista päätöksistä teet?",
+      "options": [
+        "A. Muutat lennon ajankohdan, siitäkin huolimatta, että ystäväsi pettyvät.",
+        "B. Jatkat lennon suorittamista suunnitellusti, sillä tämä on hyvä tilaisuus harjoitella lentämistä vaikeissa olosuhteissa.",
+        "C. Ennen kuin arvioit tilanteen itse, kysyt ystäviltäsi, että ovatko he valmiit lentämään kyseisissä olosuhteissa.",
+        "D. Lennät lennon suunnitellusti, koska lentosuunnitelmassa pysyttäytyminen on aina järkevää, jos vain suinkin pystyt."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hyvä riskienarviointi: marginaaliset säät + voimakas sivutuuli → siirrä lento. Ystävien pettymys ei ole turvallisuussyy. Tämä on klassinen 'pressonitis' / get-there-itis -vältellä.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0073",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 73,
+      "statement": "Kun lentäjä tekee päätöksiä, onko hänen aikaisemmilla kokemuksillaan vaikutusta asiaan?",
+      "options": [
+        "A. Ei, jokainen päätös on itsenäinen.",
+        "B. Kyllä, mutta vain jos aikaisemmat kokemukset ovat olleet negatiivisia.",
+        "C. Kyllä, aikaisemmat kokemukset voivat vaikuttaa päätöksentekoon.",
+        "D. Kyllä, mutta vain jos aikaisemmat kokemukset ovat olleet positiivisia."
+      ],
+      "correctIndex": 2,
+      "explanation": "Aikaisemmat kokemukset vaikuttavat aina päätöksentekoon (positiivisesti tai negatiivisesti). Ne muodostavat mentaalisen mallin tilanteille, mikä voi olla hyödyllistä tai haitallista.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0074",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 74,
+      "statement": "Henkinen kuormittavuus (Mental Overload) yleensä:",
+      "options": [
+        "A. Johtaa alentuneeseen suorituskykyyn.",
+        "B. Ei vaikuta suorituskykyyn.",
+        "C. Johtaa parempaan suorituskykyyn.",
+        "D. Riippuen yksilöstä, aiheuttaa muutoksia suorituskyvyn nopeudelle ja tarkkuudelle."
+      ],
+      "correctIndex": 0,
+      "explanation": "Henkinen ylikuormitus (mental overload) → suorituskyky heikkenee: tarkkuus laskee, virheet lisääntyvät, tärkeitä toimia jää tekemättä.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0075",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 75,
+      "statement": "Olet kokematon lentäjä ja lennät hyvin kokeneen lentäjän kanssa. Huomaat tämän kokeneen lentäjän tekevän jonkin toimenpiteen, jonka itse koet vaaralliseksi. Tällaisessa tilanteessa sinun tulee:",
+      "options": [
+        "A. Olla välittämättä tilanteesta sillä hetkellä, mutta laskeutumisen jälkeen keskustelet lennonopettajan kanssa tällaisten toimenpiteiden oikeellisuudesta ja järkevyydestä.",
+        "B. Odottaa, että hän saa toimenpiteensä suoritettua, jonka jälkeen vasta kyseenalaistat hänen toimintatapansa.",
+        "C. Olla välittämättä tilanteesta, sillä hän kokeneena lentäjä todennäköisesti tietää mitä on tekemässä.",
+        "D. Välittömästi kyseenalaistaa hänen toimintatapansa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Vaarallinen toimintatapa on nostettava ESILLE VÄLITTÖMÄSTI – CRM (Crew Resource Management) -periaate. Vaaratilanteen vaimentaminen / 'kokeneempi tietää' -ajattelu on kuolleen lentäjän asenne.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0076",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 76,
+      "statement": "Hyvin suoritettu lentoa edeltävä ohjeistus (briefaus) on tärkeää. Mikä seuraavista saattaa olla seurauksena, jos suoritetaan ohjeistus (briefaus) huonosti?",
+      "options": [
+        "A. Tiedon välittäminen parantuu.",
+        "B. Tiedot ymmärretään hyvin.",
+        "C. Epätietoisuus lisääntyy.",
+        "D. Epätietoisuus vähenee."
+      ],
+      "correctIndex": 2,
+      "explanation": "Huono briifaus → epätietoisuus lisääntyy, tilannetietoisuus heikkenee, virheriski kasvaa. Hyvä briifaus on ennaltaehkäisevän turvallisuuden kulmakivi.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0077",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 77,
+      "statement": "Täydennä seuraava lause. Soveltuvin ajankohta lentäjän suorittamalle matkustajien ohjeistukselle hätätilanteissa on:",
+      "options": [
+        "A. Odotuspaikalla lentoonlähtöä odotellessa.",
+        "B. Ennen lentoa suoritettavan turvallisuusohjeistuksen aikana.",
+        "C. Heti lentoonlähdön jälkeen.",
+        "D. Hätätilanteen ilmetessä; ei ole tarvetta huolehtia hätätilanneohjeistuksista aikaisemmin."
+      ],
+      "correctIndex": 1,
+      "explanation": "Matkustajien hätätilanneohjeistus annetaan ENNEN LENTOA osana turvallisuusohjeistusta (vyöt, ovet, hätäuloskäynnit, tulipalo, pelastusliivit). Hätätilanteen aikana on liian myöhäistä.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0078",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 78,
+      "statement": "Kaksi lentäjää, molemmilla ohjaimet ja tyyppikelpuutettuja lentämään kyseistä ilma-alusta, ovat juuri aloittaneet lennon ja ilma-alukseen tulee moottorihäiriö. Kumman tulisi lentää ilma-alusta moottorihäiriön sattuessa?",
+      "options": [
+        "A. Lentoa edeltävässä hätätilanneohjeistuksessa (briefaus) sovitun lentäjän, kapteenin, hyväksymän menetelmän mukaisesti.",
+        "B. Kokeneemman lentäjän.",
+        "C. Kapteenin.",
+        "D. Vasemmalla istuimella istuvan lentäjän."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tehtävän- ja ohjainvaihdon menettely on sovittava ENNEN lentoa briifauksessa (Pilot Flying / Pilot Monitoring -roolit, hätätilannekäytäntö). Tämä on CRM-perusasia.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0079",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 79,
+      "statement": "Mikä seuraavista asenteista ja luonteenpiirteistä on huonoa kommunikointia ja erityisen vaarallisia lentämisen yhteydessä?",
+      "options": [
+        "A. Vahva tunne johtajuudesta.",
+        "B. Toisten ihmisten mielipiteiden kunnioittaminen.",
+        "C. Kaikki vastaukset ovat oikein.",
+        "D. Ylimielisyys ja aggressiivisuus."
+      ],
+      "correctIndex": 3,
+      "explanation": "Ylimielisyys ja aggressiivisuus tukahduttavat toisten viestintää, estävät virheiden esille tuomisen ja ovat ilmailun vaarallisimpia asenteita ('hazardous attitudes').",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0080",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 80,
+      "statement": "Mikä seuraavista tavoista auttaa välttämään stressiä ohjaamossa?",
+      "options": [
+        "A. Maltillinen toiminta niin, että et kiirehdi tekemään asioita ennen kuin olet siihen valmis.",
+        "B. Muutat ennakkoon sovittua suunnitelmaan aina kun huomaat poikkeavasi siitä tai olet suunnitelmasta jäljessä.",
+        "C. Pidä kylmä juoma kädessäsi jatkuvasti.",
+        "D. Kaikki vastaukset ovat oikein."
+      ],
+      "correctIndex": 0,
+      "explanation": "Stressin välttämiseksi: maltillisuus, riittävä etukäteissuunnittelu, tarkistuslistojen käyttö, ei kiirettä. Kylmä juoma jne. eivät ole CRM-keinoja.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0081",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 81,
+      "statement": "Mitä ovat stressitekijät?",
+      "options": [
+        "A. Tekijät, jotka lisäävät pulssia.",
+        "B. Tapahtumat ja tilanteet, jotka aiheuttavat stressiä.",
+        "C. Henkilöstä päällepäin näkyvän stressin määrä.",
+        "D. Tilanteet ja tapahtumat, jotka aiheuttavat mitä tahansa reaktioita ihmisen elimistölle asetettuihin vaatimuksiin."
+      ],
+      "correctIndex": 3,
+      "explanation": "Stressitekijät (stressors) ovat tilanteita ja tapahtumia, jotka aiheuttavat fyysisiä, henkisiä tai emotionaalisia reaktioita. Ne voivat olla positiivisia (eustressi) tai negatiivisia (distressi).",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0082",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 82,
+      "statement": "Minkä tyyppisen tiedon välittämisessä analoginen näyttö on yleisellä tasolla parempi kuin digitaalinen näyttö?",
+      "options": [
+        "A. Määrällisen tiedon.",
+        "B. Subjektiivisen tiedon.",
+        "C. Numeerisen tiedon.",
+        "D. Laadullisen tiedon."
+      ],
+      "correctIndex": 3,
+      "explanation": "Analoginen näyttö (osoitin) välittää LAADULLISTA tietoa nopeasti (suunta, trendi, kasvaako/laskeeko). Digitaalinen näyttö on parempi tarkkojen NUMEERISTEN arvojen lukemiseen.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0083",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 83,
+      "statement": "Mikä seuraavista ilmenee, kun lentäjä istuu liian korkealla ohjaamossa? a) Hyvä näkyvyys ulos alaviistoon b) Huono näkyvyys mittaristoon c) Heikentynyt näkyvyys ulos yläviistoon",
+      "options": [
+        "A. a) ja b) ainoastaan.",
+        "B. a) ja c) ainoastaan.",
+        "C. Ainoastaan a).",
+        "D. a), b) ja c)."
+      ],
+      "correctIndex": 1,
+      "explanation": "Liian korkea istuma-asento → hyvä näkyvyys ulos alaviistoon JA heikentynyt näkyvyys ulos yläviistoon (nokan ja katon takia). Mittaristoon näkyvyys on yleensä OK.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0084",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 84,
+      "statement": "Olet valmistelemassa koululentoa lennonopettajan kanssa ja huomaat, että tarkistuslista on kadoksissa. Mitä teet?",
+      "options": [
+        "A. Luotat siihen, että lennonopettaja huomauttaa kaikesta mitä sinä mahdollisesti unohdat.",
+        "B. Otat erityyppisestä ilma-aluksesta tarkistuslistan lainaksi.",
+        "C. Etsit tarkistuslistan silläkin uhalla, että saatat menettää osan päivän lentoajastasi.",
+        "D. Suoritat tarkastukset ulkomuistista."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tarkistuslista on lentoturvallisuuden kulmakivi – ilman sitä ei lähdetä. Aikamenetys < turvariski. EI saa korvata muistinvaraisesti tai vieraan tyypin listalla.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0085",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 85,
+      "statement": "Mikäli lentäjänä tarvitset neuvoa mahdollisesta lentämisestä sairaana, otat yhteyttä:",
+      "options": [
+        "A. Lähimpään terveyskeskukseen.",
+        "B. Perheen omalääkäriin.",
+        "C. Yleislääkäriin.",
+        "D. Ilmailulääkäriin."
+      ],
+      "correctIndex": 3,
+      "explanation": "Lentäjän terveyteen liittyvissä kysymyksissä otetaan yhteyttä ILMAILULÄÄKÄRIIN (AME). Yleislääkäri ei tunne lentokelpoisuusvaatimuksia.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0086",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 86,
+      "statement": "Mitkä seuraavista aina vaikuttavat lentokykyyn?",
+      "options": [
+        "A. Homeopaattiset valmisteet.",
+        "B. Käsikaupasta saatavat kipulääkkeet ja antihistamiinit.",
+        "C. Antibiootit.",
+        "D. Reseptillä saatavat vahvat kipulääkkeet ja antihistamiinit."
+      ],
+      "correctIndex": 3,
+      "explanation": "Reseptilääkkeistä vahvat kipulääkkeet (opioidit) ja antihistamiinit aiheuttavat aina lentokyvyn heikkenemistä (väsymys, näköhäiriöt, reaktioajan hidastuminen). Käsikauppalääkkeet voivat myös vaikuttaa, mutta tehtävä korostaa reseptilääkkeitä.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0087",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 87,
+      "statement": "Kun lentäjä lentää pitkiä aikoja kuuman kesäpäivän aikana, hän saattaa altistua nestehukkaan, koska:",
+      "options": [
+        "A. Lentokorkeuksilla kostea ilma auttaa säilyttämään kehon nestetasapainon.",
+        "B. Lämpötila pienenee noustaessa korkeammalle.",
+        "C. Lentokorkeuksissa lennettäessä kuivalla ilmalla on taipumus lisätä nesteen häviämistä kehosta.",
+        "D. Lämpötila kasvaa noustaessa korkeammalle."
+      ],
+      "correctIndex": 2,
+      "explanation": "Lentokorkeudessa ilma on kuivaa (hyvin pieni absoluuttinen kosteus) → keho menettää nestettä hengityksen ja ihon kautta nopeammin → dehydraatioriski.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0088",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 88,
+      "statement": "Matkapahoinvoinnin aiheuttaa:",
+      "options": [
+        "A. Sisäkorvan tasapainosta vastaavien pienten osien jatkuva ärsytys (stimulointi).",
+        "B. Ilma-aluksen liikehdintä, joka saa vatsan kehittämään hapanta ainetta, josta aiheutuu vatsaontelon supistelua.",
+        "C. Epätasapaino aivosoluissa, jolla on vaikutusta henkilön tasapainoon ja mikä yleensä heikkenee kokemuksen myötä.",
+        "D. Silmien työskentely, yrittäessään hallita/jakaa horisonttia, kun ilma-alus on jatkuvassa liikkeessä."
+      ],
+      "correctIndex": 0,
+      "explanation": "Matkapahoinvoinnin syy on sisäkorvan tasapainoelimen (kaarikäytävät, otoliitit) jatkuva stimulointi, erityisesti silloin kun se on ristiriidassa näköaistin kanssa.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0089",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 89,
+      "statement": "Minkä olotilaa parantavan keinon voisit kertoa ystävällesi, jolla on matkapahoinvointia?",
+      "options": [
+        "A. Laske pääsi alaspäin, sulje silmäsi ja hengitä syvään.",
+        "B. Vältä tarpeetonta pään liikuttamista ja pidä katseesi ilma-aluksen ulkopuolella.",
+        "C. Ota matkapahoinvointiin soveltuvaa lääkettä.",
+        "D. Hengitä paperipussiin."
+      ],
+      "correctIndex": 1,
+      "explanation": "Matkapahoinvoinnin lievitys: vältä pään liikuttamista, katso kauas horisonttiin koneen ULKOPUOLELLE (näkö synkronoituu liikkeeseen), raitis ilma. Silmien sulkeminen pahentaa.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0090",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 90,
+      "statement": "Lennettäessä korkealla paineistamattomalla ilma-aluksella, keuhkojen kautta vereen siirtyvän hapen määrä:",
+      "options": [
+        "A. On vähentynyt pienemmän lämpötilan vuoksi.",
+        "B. On lisääntynyt, koska hapen osapaine on suurentunut.",
+        "C. Pysyy samana verrattuna merenpintatasoon.",
+        "D. On vähentynyt, koska hapen osapaine on pienentynyt."
+      ],
+      "correctIndex": 3,
+      "explanation": "Korkealla hapen OSAPAINE on pienempi (vaikka osuus 21 % säilyy). Tästä seuraa, että keuhkoissa siirtyy vereen vähemmän happea → hypoksia.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0091",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 91,
+      "statement": "Nousulennon aikana 18,000 jalan korkeuteen, hapen prosenttiosuus ympäröivässä ilmakehässä:",
+      "options": [
+        "A. Pienenee.",
+        "B. Pysyy samana.",
+        "C. Räjähtää.",
+        "D. Kasvaa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hapen tilavuusosuus pysyy 21 % läpi koko troposfäärin ja stratosfäärin. Vain hapen osapaine pienenee paineen mukana.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0092",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 92,
+      "statement": "Hypoksia on seurausta:",
+      "options": [
+        "A. Liiallinen typen määrä verenkierrossa.",
+        "B. Kaikki vastaukset ovat oikein.",
+        "C. Hapen puutteesta kehossa.",
+        "D. Riittämätön määrä happea ilmassa."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hypoksia = hapenpuute kehon kudoksissa. Voi johtua matalasta hapen osapaineesta korkealla, häkämyrkytyksestä, anemiasta tai verenkiertohäiriöstä.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0093",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 93,
+      "statement": "Puhuttaessa hypoksiasta, mikä seuraavista on totta?",
+      "options": [
+        "A. Keskittymällä tietoisesti lennonvalvontamittareihin voidaan sietää hypoksian oireita.",
+        "B. Ihon kihelmöinti ja yleinen huolettomuus ovat hypoksian oireita.",
+        "C. Hypoksian aiheuttaa typpikuplat nivelissä ja verenkierrossa.",
+        "D. Hypoksia on aina helppo havaita."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hypoksian oireita ovat ihon kihelmöinti, euforia/huolettomuus, näköhäiriöt, arvostelukyvyn heikkeneminen. Sukeltajan tauti on typpikuplista, ei hypoksiasta.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0094",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 94,
+      "statement": "Mitä aiheutuu, kun noustaan yli 18,000 jalan korkeuteen paineistamattomalla ilma-aluksella ilman lisähappea?",
+      "options": [
+        "A. Keskikorvassa oleva paine laskee alle sen ilmanpaineen, joka vallitsee matkustamossa.",
+        "B. Hapen osapainetta keuhkoissa ei pystytä säilyttämään ilman hapen paineen lisäystä.",
+        "C. Kaasut jäävät kehoon loukkuun ja näin ollen estävät typpeä poistumasta verenkierrosta.",
+        "D. Hapen osapaine keuhkoissa pysyy samana."
+      ],
+      "correctIndex": 1,
+      "explanation": "Yli 18 000 ft hapen osapaine on niin pieni, että keuhkoissa ei ole riittävästi 'gradienttia' siirtää happi vereen → tarvitaan PAINEISTETTU lisähappi (positive pressure breathing).",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0095",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 95,
+      "statement": "Vaara altistua häkämyrkytykselle kasvaa:",
+      "options": [
+        "A. Korkeuden kasvaessa.",
+        "B. Ilmanopeuden kasvaessa.",
+        "C. Korkeuden pienentyessä.",
+        "D. Ilmanpaineen kasvaessa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Häkämyrkytysriski kasvaa korkeudessa, koska hapen osapaine on pieni eikä CO:n syrjäyttämä happi tule kompensoiduksi. CO + hypoksia = nopea tajuttomuus.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0096",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 96,
+      "statement": "Ilma-aluksen matkustamossa esiintyvä häkä on:",
+      "options": [
+        "A. Helppo havaita, koska sillä on erikoinen haju.",
+        "B. Vaikea havaita, koska häkä on hajuton ja väritön.",
+        "C. Helpompi havaita lennettäessä yli 18,000 jalan korkeudella, koska hapen määrä pienenee.",
+        "D. Helppo havaita, koska sillä on erikoinen väri."
+      ],
+      "correctIndex": 1,
+      "explanation": "Häkä (CO) on hajuton, mauton ja väritön → ei voi havaita aisteilla. Tästä syystä lentokoneissa on CO-tunnistimia ja sitruunanmakuisia mittareita.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0097",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 97,
+      "statement": "Suuri määrä hiilimonoksidia ihmiskehossa aiheuttaa:",
+      "options": [
+        "A. Lihasvoimien heikkenemisen.",
+        "B. Lisääntynyttä hyvän olon tunnetta.",
+        "C. Kiristävän tunteen otsalla.",
+        "D. Hyperventilaatiota."
+      ],
+      "correctIndex": 0,
+      "explanation": "Suuri määrä hiilimonoksidia elimistössä sitoutuu hemoglobiiniin ja estää hapen kuljetusta kudoksiin. Vakavassa häkämyrkytyksessä seurauksena on suorituskyvyn ja lihasvoiman heikkeneminen, sekavuus, tajunnan heikkeneminen ja lopulta tajuttomuus. Kiristävä tunne otsalla voi olla lievemmän altistuksen oire, mutta ei paras vastaus suureen CO-kertymään.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0098",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 98,
+      "statement": "Mitä seuraavista tupakointi aiheuttaa lentäjille?",
+      "options": [
+        "A. Yönäkökyky heikentyy 50 prosentilla.",
+        "B. Kohonneen ruumiinlämpötilan, mikä vuorostaan aiheuttaa tarpeen hengittää lisää happea.",
+        "C. Lisääntynyt hyvänolontunne.",
+        "D. Lisääntynyt hiilidioksidin määrä kehossa, mikä usein johtaa hyperventilaatioon."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tupakoinnin on osoitettu heikentävän YÖNÄKÖKYKYÄ jopa 50 %:lla CO:n vuoksi (CO sitoutuu hemoglobiiniin → vähemmän happea verkkokalvolle, sauvasolut kärsivät ensin).",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0099",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 99,
+      "statement": "Mikä seuraavista todennäköisimmin aiheuttaa hyperventilaation?",
+      "options": [
+        "A. Ketjutupakointi.",
+        "B. Tunnejännitteet, ahdistus ja pelko.",
+        "C. Liiallinen alkoholin käyttö.",
+        "D. Äärimmäisen hidas hengitystiheys ja vähäinen hapen määrä."
+      ],
+      "correctIndex": 1,
+      "explanation": "Hyperventilaation tavallisin syy on stressi/pelko/jännitys → liian nopea hengitys → CO₂ huuhtoutuu → respiratorinen alkaloosi. Oireet: kihelmöinti, huimaus.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0100",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 100,
+      "statement": "Käytettäessä happea nopea tai erityisen syvään hengittäminen saattaa aiheuttaa:",
+      "options": [
+        "A. Hyperventilaation.",
+        "B. Barosinusiitin.",
+        "C. Barotiitin.",
+        "D. Hypoksian."
+      ],
+      "correctIndex": 0,
+      "explanation": "Liian syvä/nopea hengitys hapella käytettäessä → CO₂ häviää → hyperventilaatio. Happi ei suojaa siltä, koska syy on CO₂:n puute, ei hapen ylimäärä.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0101",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 101,
+      "statement": "Hyperventilaation aiheuttaa:",
+      "options": [
+        "A. Liian korkealla lentäminen ilman lisähappea.",
+        "B. Liiallinen määrä hiilidioksidia kehossa.",
+        "C. Hiilidioksidin puute kehossa.",
+        "D. Liian nopea hengittäminen, joka aiheuttaa hapen puutteen."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hyperventilaatio = liian nopea hengitys → liian vähän CO₂:ta veressä (hypokapnia). Veren pH nousee → keskushermosto-oireet.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0102",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 102,
+      "statement": "Millä keino(i)lla lentäjän pitäisi pystyä selättämään tai välttämään jatkossa hyperventilaatiota?",
+      "options": [
+        "A. Hengitystiheyden lisääminen, jotta keuhkojen ilmanvaihto lisääntyisi.",
+        "B. Lentokoneen hallinta lennonvalvontamittareita läheltä seuraamalla.",
+        "C. Hengitystiheyden lisääminen.",
+        "D. Hengitystiheyden pienentäminen, hengittäminen pussiin tai ääneen puhuminen."
+      ],
+      "correctIndex": 3,
+      "explanation": "Hyperventilaation hoito: HIDASTA hengitystä, hengitä paperipussiin (palauttaa CO₂:ta) tai puhu ääneen (hidastaa hengitystä). Lisähappi voi pahentaa, mikäli syy on hyperventilaatio.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0103",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 103,
+      "statement": "Jos henkilö on ollut sukeltamassa ja on ollut tarvetta käyttää hallittua nousua, hänen suositeltu odotusaikansa ennen seuraavaa 8000 jalan korkeuteen (matkustamon painekorkeus) asti ulottuvaa lentoaan on:",
+      "options": [
+        "A. 4 tuntia.",
+        "B. 12 tuntia.",
+        "C. 48 tuntia.",
+        "D. 24 tuntia."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sukelluksen jälkeen ennen lentoa: 12 h jos sukellus ilman dekompressiopysähdystä (no-decompression), 24 h jos vaadittu hallittu nousu (decompression stop). Korkeudessa typpi voi kuplata uudelleen.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0104",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 104,
+      "statement": "Mikä seuraavista heikentää sopeutumista hämärään?",
+      "options": [
+        "A. A-vitamiini ruokavaliossa.",
+        "B. Hiilidioksidi.",
+        "C. Yli 5000 jalan korkeus matkustamon ilmanpaineessa.",
+        "D. Typpi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hapenpuute (jo 5000 ft yli) heikentää sopeutumista hämärään – sauvasolut tarvitsevat happea toimiakseen. Jopa pieni hypoksia heikentää yönäköä.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0105",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 105,
+      "statement": "Jotta silmät tottuisivat pimeään, mitä lentäjän olisi hyvä tehdä valmistautuessaan yölennolle?",
+      "options": [
+        "A. Pitää aurinkolaseja auringonlaskun jälkeen lennolle saakka.",
+        "B. Pysytellä pimeässä huoneessa vähintään 60 minuuttia ennen lentoa.",
+        "C. Välttää punaisia valoja vähintään 30 minuuttia ennen lentoa.",
+        "D. Välttää kirkkaita valkoisia valoja vähintään 30 minuuttia ennen lentoa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Yölennon valmistelu: vältä kirkkaita valkoisia valoja vähintään 30 min ennen, käytä punaisia valoja (eivät häiritse sauvasolujen sopeutumista). 30 min on minimi, 45 min ihanteellinen.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0106",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 106,
+      "statement": "Yksi keino parantaa yönäkökyvyn tehokkuutta on:",
+      "options": [
+        "A. Katsoa suoraan kohteeseen.",
+        "B. Kiinnittää katse pois katsottavan kohteen keskeltä.",
+        "C. Katsoa kaukaisuuteen.",
+        "D. Lisätä ohjaamon sisävalaistusta."
+      ],
+      "correctIndex": 1,
+      "explanation": "Yöllä paras näkö on KESKIKUOPAN OHI (ääreisnäössä). Katsotaan 10–20° kohteen sivuun, jolloin sauvasolut näkevät kohteen.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0107",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 107,
+      "statement": "Mikä on tehokkain tapa katsoa yölennolla?",
+      "options": [
+        "A. Tähyile hitaasti, jotta vältät katsomasta suoraan kohdetta.",
+        "B. Keskitä katseesi jokaiseen kohteeseen suoraan ja muutaman sekunnin ajan.",
+        "C. Katso ainoastaan kaukaisuuteen ja himmennä valot.",
+        "D. Lisää sisätilan valaistusta."
+      ],
+      "correctIndex": 0,
+      "explanation": "Yölennolla TÄHYILLÄÄN HITAASTI ja kohteen sivuun katsoen. Suora tuijotus ei toimi (keskuskuoppa on lähes sokea pimeässä).",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0108",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 108,
+      "statement": "Paras tekniikka toisen ilma-aluksen havaitsemiseksi yöllä on:",
+      "options": [
+        "A. Välttää tähyilemästä horisontin alapuolella olevaa aluetta, jotta vältytään näkemästä maassa olevia valoja.",
+        "B. Välttää tuijottamasta suoraan paikkaan, jossa ilma-aluksen oletetaan lentävän.",
+        "C. Kääntää päätä ja siirtää katsetta nopeasti koko näkyvissä olevalla alueella.",
+        "D. Katsoa kaukaisuuteen ja tähyillä hitaasti."
+      ],
+      "correctIndex": 1,
+      "explanation": "Yöllä toinen kone havaitaan parhaiten katsomalla sen sivuun (5–10° offset), jolloin valo osuu sauvasoluille. Suora tuijotus 'sokean täplän' takia ei näe.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0109",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 109,
+      "statement": "Paras keino, jolla havaitset toisen ilma-aluksen yöllä, on:",
+      "options": [
+        "A. Katsoa kohteen sivulle ja siirrellä katsetta hitaasti.",
+        "B. Katsoa kohteen sivulle ja siirrellä katsetta hyvin nopeasti.",
+        "C. Tähyillä näkyvällä alueella hyvin nopealla tahdilla.",
+        "D. Välttää tähyilemästä horisontin alapuolella olevaa aluetta, jotta vältytään näkemästä maassa olevia valoja."
+      ],
+      "correctIndex": 0,
+      "explanation": "Yötarkkailussa katsotaan kohteen SIVULLE ja siirretään katsetta HITAASTI. Liian nopea silmänliike ei jätä valoa sauvasoluille tarpeeksi pitkäksi aikaa.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0110",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 110,
+      "statement": "Ennen kuin lentäjä aloittaa liikehtimisen ilma-aluksellaan, hänen tulisi:",
+      "options": [
+        "A. Silmämääräisesti katsoa ja tarkistaa koko alue törmäysten välttämiseksi.",
+        "B. Ilmoittaa aikeistaan lähimmällä käyttökelpoisella radiotaajuudella.",
+        "C. Aina ensin pyytää lennonjohtajalta selvitys.",
+        "D. Tarkistaa korkeus, ilmanopeus ja lentosuunta."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ennen mitään liikehtimistä on AINA ensin tarkistettava ulkona, että ilmatila on tyhjä – 'clearing turn'. Tämä on vakiomenettely sakkausharjoituksiin, kaartoihin jne.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0111",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 111,
+      "statement": "Millä tekniikalla lentäjän kannattaa katsella vasemmalla ja oikealla olevaa muuta liikennettä, suoran vaakalennon aikana?",
+      "options": [
+        "A. Keskittyä ääreisnäön alueella havaittuihin suhteellisiin liikkeisiin.",
+        "B. Systemaattisesti keskittyä eri taivaan osiin lyhyin väliajoin.",
+        "C. Jatkuvaa pälyilyä tuulilasin kautta vasemmalle ja oikealle.",
+        "D. Katsoa kaukaisuuteen ja tähyillä hitaasti."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tehokas tarkkailu = systemaattinen sektori-skannaus (esim. 10° sektori, 1 sek pysähdys), ei jatkuva pyyhkäisy. Aivot tunnistavat liikkeen vain pysähtyneellä silmällä.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0112",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 112,
+      "statement": "Miten utu vaikuttaa muun liikenteen tai maaston muotojen havainnointiin lennolla?",
+      "options": [
+        "A. Muu liikenne tai maaston muodot näyttäisivät olevan lähempänä kuin ne oikeasti ovat.",
+        "B. Utu saa silmät työskentelemään niin voimakkaasti, että suhteellista liikettä on vaikea enää havaita.",
+        "C. Utu saa katseen keskittymään kaukaisuuteen.",
+        "D. Muu liikenne tai maaston muodot näyttäisivät olevan kauempana kuin ne oikeasti ovat."
+      ],
+      "correctIndex": 3,
+      "explanation": "Utu vähentää näkyvyyttä ja kontrastia → kohteet näyttävät KAUEMPANA kuin todellisuudessa. Tämä voi johtaa liian matalaan lähestymiseen.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0113",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 113,
+      "statement": "Eri aistien aivoille lähettämä harhaanjohtava tieto, joka johtaa tilapäiseen sekaannustilaan, on nimeltään:",
+      "options": [
+        "A. Hypoksia.",
+        "B. Asentotajun menetys.",
+        "C. Hyperventilaatio.",
+        "D. Monokromaattisuus."
+      ],
+      "correctIndex": 1,
+      "explanation": "Asentotajun menetys (spatial disorientation) = aistien antama harhaanjohtava tieto, joka aiheuttaa tilapäisen sekaannuksen lentoasennon suhteen. JFK Jr. -onnettomuuden klassinen syy.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0114",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 114,
+      "statement": "Mikä seuraavista on suositeltu menetelmä välttää tai päästä eroon asentotajun menetyksestä?",
+      "options": [
+        "A. Vältä jyrkkiä kaartoja ja äkkinäisiä ohjainten poikkeutuksia.",
+        "B. Systemaattisesti ja lyhyin väliajoin keskitä katseesi eri taivaan osiin.",
+        "C. Luota ainoastaan ilma-aluksen mittarinäyttämiin.",
+        "D. Vähennä pään ja silmien liikkeet niin vähäisiksi kuin mahdollista."
+      ],
+      "correctIndex": 2,
+      "explanation": "Asentotajun menetyksen ratkaisu: LUOTA AINOASTAAN MITTAREIHIN. Sulje korva 'tuntemuksilta', katso vain ennustuslukemia ja korjaa systemaattisesti.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0115",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 115,
+      "statement": "Lentäjät menettävät helpommin asentotajunsa, jos:",
+      "options": [
+        "A. Katsetta muutetaan usein lentomittareiden ristiintarkkailun aikana.",
+        "B. He eivät huomioi kaikkia kehon tuntemuksia.",
+        "C. He eivät huomioi tuntemuksiaan lihaksissa ja keskikorvassa.",
+        "D. Lentotilan määrittämiseen käytetään apuna kehon tuntemuksia."
+      ],
+      "correctIndex": 3,
+      "explanation": "Asentotajun menetys syntyy juuri siitä, että käytetään KEHON TUNTEMUKSIA lentotilan määrittämiseen IMC-olosuhteissa. Aivot saavat ristiriitaista tietoa eri aisteilta.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0116",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 116,
+      "statement": "Riskiä menettää asentotajunsa lennon aikana huonoissa näkösääolosuhteissa voidaan vähentää:",
+      "options": [
+        "A. Luottamalla mittareihin ennemmin kuin muihin tuntemuksiin.",
+        "B. Nojaamalla vastakkaiseen suuntaan, jonne ilma-aluksen liike kohdistuu.",
+        "C. Vaihtamalla katsetta nopeassa tahdissa ulkoisten referenssien ja ilma-aluksen mittariston välillä.",
+        "D. Määrätietoisesti keskittymällä lyhyin jaksoin eri taivaan osiin."
+      ],
+      "correctIndex": 0,
+      "explanation": "Huonossa lentonäkyvyydessä luota MITTAREIHIN ennemmin kuin tuntemuksiin. Ulkoisia referenssejä ei ole, joten kehon aistit pettävät.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0117",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 117,
+      "statement": "Jos lentäjä kokee menettävänsä asentotajunsa lentäessään olosuhteissa, joissa on huono lentonäkyvyys, paras tapa selviytyä tilanteesta on:",
+      "options": [
+        "A. Tietoisesti hidastaa hengityksen tiheyttä kunnes tuntemukset ovat hävinneet ja jatkaa tämän jälkeen normaalisti.",
+        "B. Luottaa ilma-aluksen mittarinäyttämiin.",
+        "C. Nopeuttaa hengityksen tiheyttä.",
+        "D. Keskittyä luiston, nokanasennon ja kallistuksen tuntemuksiin."
+      ],
+      "correctIndex": 1,
+      "explanation": "Asentotajun menetyksen aikana paras keino on luottaa mittarinäyttämiin. Hengitys / luiston tuntemukset ovat sivuasioita.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0118",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 118,
+      "statement": "Nopea kiihdytys saattaa aiheuttaa harha-aistimuksen siitä, että ilma-alus olisi:",
+      "options": [
+        "A. Vasemmassa kaarrossa.",
+        "B. Liu'ussa.",
+        "C. Nousussa.",
+        "D. Syöksykierteessä."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nopea kiihdytys → otoliitit liikkuvat taakse → aivot tulkitsevat 'nokka nousee' → somatogravinen illuusio. Riski: lentäjä työntää nokkaa alas → SYÖKSY.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0119",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 119,
+      "statement": "Kenellä on viimeinen vastuu siitä, että lentäjä on lentokelpoisessa kunnossa tietylle lennolle, vaikka hänellä olisikin voimassaoleva lääketieteellinen kelpoisuustodistus?",
+      "options": [
+        "A. Ilmailulääkäri.",
+        "B. Viranomainen.",
+        "C. Lennonjohtaja.",
+        "D. Lentäjä itse."
+      ],
+      "correctIndex": 3,
+      "explanation": "Ilmailulääkärintarkastus on YLEINEN kelpoisuus. PÄIVÄKOHTAISESTA lentokuntoisuudesta vastaa AINA lentäjä itse (IMSAFE-tarkistus: Illness, Medication, Stress, Alcohol, Fatigue, Eating).",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0120",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 120,
+      "statement": "Mikä on yleinen tekijä, joka vaikuttaa eniten ennaltaehkäistävissä oleviin onnettomuuksiin?",
+      "options": [
+        "A. Mekaaninen vika.",
+        "B. Inhimillinen erehdys.",
+        "C. Toisten osallisten tekemät virheet.",
+        "D. Rakenteiden pettäminen."
+      ],
+      "correctIndex": 1,
+      "explanation": "70–80 % ennaltaehkäistävistä onnettomuuksista johtuu inhimillisistä virheistä (human factors). Mekaaniset viat ja sääilmiöt ovat pienempi osa.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0121",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 121,
+      "statement": "Hyväksytyn tarkistuslistan johdonmukainen noudattaminen on merkki:",
+      "options": [
+        "A. Kokemattomasta lentäjästä.",
+        "B. Kurinalaisesta ja pätevästä lentäjästä.",
+        "C. Lentäjästä, jolla on vaillinaiset tiedot kyseisestä aiheesta.",
+        "D. Lentäjästä, jolla on huono stressinsietokyky."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tarkistuslistan johdonmukainen käyttö osoittaa kurinalaisuutta ja ammattimaisuutta. 'Cowboy-lento' ulkomuistista on amatöörimäistä ja vaarallista.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0122",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 122,
+      "statement": "Jotta et unohda tärkeitä asioita tai toimenpiteitä, käytä aina:",
+      "options": [
+        "A. Lentokäsikirjaa.",
+        "B. Merkittyjä ilmanopeuksia.",
+        "C. Tarkoituksenmukaista tarkistuslistaa.",
+        "D. Lentokelpoisuustodistusta."
+      ],
+      "correctIndex": 2,
+      "explanation": "Tarkoituksenmukainen tarkistuslista (POH-mukainen) varmistaa, ettei tärkeitä toimia unohdu. Käyttö ei ole muistivajeen merkki vaan ammattilaisten tapa.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0123",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 123,
+      "statement": "Positiivinen kolmivaiheprosessi vaihdettaessa ohjaimia ilma-aluksessa lentäjien välillä sisältää seuraavat sanonnat: (a) Sinä ohjaat, (b) Minä ohjaan ja (c) ____.",
+      "options": [
+        "A. Minun ilma-alus.",
+        "B. Sinä ohjaat.",
+        "C. Minä ohjaan.",
+        "D. Minun ilma-alus ja minä ohjaan."
+      ],
+      "correctIndex": 1,
+      "explanation": "Positiivinen kolmivaiheinen ohjaintenvaihto on: luovuttava lentäjä sanoo 'Sinä ohjaat', vastaanottava lentäjä sanoo 'Minä ohjaan', ja luovuttava lentäjä vahvistaa vielä 'Sinä ohjaat'. Näin varmistetaan, ettei jää epäselvyyttä siitä, kuka ohjaa.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0124",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 124,
+      "statement": "Mihin perustuu riskien hallinta ilmailun päätöksentekoprosessissa, jolla vähennetään jokaisella lennolla olevia riskejä?",
+      "options": [
+        "A. Kaikki vastaukset ovat oikein.",
+        "B. Tietyssä tilanteessa kaiken tiedon analysointi henkisellä tasolla ja ajoissa tehdyt päätökset tarvittavista toimenpiteistä.",
+        "C. Stressin hallinnan soveltaminen ja riskin alkutekijämenetelmä.",
+        "D. Tilannetietoisuus, ongelmien tunnistaminen ja hyvä harkinta."
+      ],
+      "correctIndex": 3,
+      "explanation": "Riskienhallinta perustuu tilannetietoisuuteen, ongelmien tunnistukseen ja hyvään harkintaan. ADM (Aeronautical Decision Making) on systemaattinen prosessi.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0125",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 125,
+      "statement": "Vaarallista asennoitumista esiintyy jokaisella lentäjällä jollakin tasolla ja jonkin aikaa. Mitä tällaisia vaarallisia asennoitumisia on?",
+      "options": [
+        "A. Kaikki vastaukset ovat oikein.",
+        "B. Huono tilannetietoisuus, nopeasti tuomitseva ja puutteellinen päätöksentekokyky.",
+        "C. Huono riskien hallinta ja stressin hallinnan puute.",
+        "D. Auktoriteettivastaisuus, impulsiivisuus, machoilu, vetäytyvyys ja haavoittumattomuuden tunne."
+      ],
+      "correctIndex": 3,
+      "explanation": "Viisi vaarallista asennoitumista (FAA): Anti-authority, Impulsivity, Macho, Resignation, Invulnerability – auktoriteettivastaisuus, impulsiivisuus, machoilu, vetäytyvyys, haavoittumattomuus.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0126",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 126,
+      "statement": "Mikä on ilmailussa tapahtuvan päätöksentekoprosessin ensimmäinen lähtökohta vaarallisen asennoitumisen välttämiseksi?",
+      "options": [
+        "A. Vaarallisen asennoitumisen tunnistaminen.",
+        "B. Vahinkojen minimointi.",
+        "C. Järkevien päätösten tekeminen.",
+        "D. Tilanteen haavoittumattomuuden tunnistaminen."
+      ],
+      "correctIndex": 0,
+      "explanation": "Vaarallisten asenteiden hallinnan ENSIMMÄINEN askel on niiden TUNNISTAMINEN itsessä. Vasta tunnistamisen jälkeen voidaan soveltaa korjaavaa ajatusmallia (antidote).",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0127",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 127,
+      "statement": "Mitä sellaisen lentäjän tulisi ajatella, jolla on taipumusta vaaralliseen asennoitumiseen, kuten impulsiivisuuteen?",
+      "options": [
+        "A. Tee se nopeasti, jotta saat sen tehtyä.",
+        "B. Ei niin nopeasti, ajattele ensin.",
+        "C. En välitä.",
+        "D. Se voisi sattua myös minulle."
+      ],
+      "correctIndex": 1,
+      "explanation": "Impulsiivisuuden vasta-aatos: 'Ei niin nopeasti, ajattele ensin.' Pysähdy ja punnitse vaihtoehdot ennen toimintaa.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0128",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 128,
+      "statement": "Mitä sellaisen lentäjän tulisi ajatella, jolla on taipumusta vaaralliseen asennoitumiseen, kuten auktoriteettivastaisuuteen?",
+      "options": [
+        "A. Tiedän mitä olen tekemässä.",
+        "B. En välitä.",
+        "C. Säännöt eivät päde tässä tapauksessa.",
+        "D. Noudata sääntöjä."
+      ],
+      "correctIndex": 3,
+      "explanation": "Auktoriteettivastaisuuden ('Säännöt eivät päde minuun') vasta-aatos: 'Noudata sääntöjä. Ne ovat yleensä oikein.'",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0129",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 129,
+      "statement": "Mitä sellaisen lentäjän tulisi ajatella, jolla on taipumusta vaaralliseen asennoitumiseen, kuten haavoittumattomuuden tunteeseen?",
+      "options": [
+        "A. En välitä.",
+        "B. Ei se voi olla niin paha.",
+        "C. Se ei voi sattua minulle.",
+        "D. Se voisi sattua myös minulle."
+      ],
+      "correctIndex": 3,
+      "explanation": "Haavoittumattomuuden tunteen ('Se ei voi sattua minulle') vasta-aatos: 'Se VOISI sattua myös minulle.'",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0130",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 130,
+      "statement": "Lennettäessä korkealla ilmakehässä olevan hapen paine on:",
+      "options": [
+        "A. Korkeampi kuin MSL-korkeudessa.",
+        "B. Pienempi kuin MSL-korkeudessa.",
+        "C. Muuttumaton, sillä hapen osapaine on riippumaton lentokorkeudesta.",
+        "D. Sama kuin merenpintakorkeudessa (MSL)."
+      ],
+      "correctIndex": 1,
+      "explanation": "Korkealla hapen kokonaispaine ja osapaine ovat pienemmät kuin merenpinnalla – vaikka hapen tilavuusosuus pysyy 21 %.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0131",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 131,
+      "statement": "Mikäli lentäjä on reilusti ylipainoinen, on hänellä suurentunut riski:",
+      "options": [
+        "A. Saada sydänkohtaus.",
+        "B. Hypotermiaan.",
+        "C. Kaikki vastaukset ovat oikein.",
+        "D. Altistua hypoksialle lennettäessä korkealla."
+      ],
+      "correctIndex": 2,
+      "explanation": "Ylipaino lisää sydän- ja verisuonisairauksien riskiä, hypoksia-alttiutta, uniapnean riskiä – kaikki vastaukset oikein.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0132",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 132,
+      "statement": "\"Virhe\" on yleisnimi kuvaamaan kaikkia niitä tapahtumia, joissa sarja henkisiä tai fyysisiä toimintoja ei johda haluttuun lopputulokseen. Jatka seuraavaa lausetta. Virheet:",
+      "options": [
+        "A. Ovat kumulatiivisia: yksi virhe johtaa toiseen, joka johtaa kolmanteen jne.",
+        "B. Ovat aina osa virheketjua.",
+        "C. Ovat yksittäisiä, ilman että niillä olisi muita seurauksia tai vaikutuksia jatkossa.",
+        "D. Voivat olla yksittäisiä tai kumulatiivisia."
+      ],
+      "correctIndex": 3,
+      "explanation": "Virheet voivat olla yksittäisiä (slip, lapse) tai kumulatiivisia (error chain → onnettomuus). 'Swiss cheese' -malli kuvaa, miten useat pienet virheet kasaantuvat.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0133",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 133,
+      "statement": "Mikä seuraavista pitää paikkansa, puhuttaessa alkoholista ja ihmisistä?",
+      "options": [
+        "A. Alkoholin vaikutuksesta lentäjä altistuu herkemmin hypoksialle.",
+        "B. Kahvi auttaa haihduttamaan alkoholia ja lievittää krapulaa.",
+        "C. Pieni määrä alkoholia parantaa toimintoja.",
+        "D. Pieni määrä alkoholia ei vaikuta lentotaitoon."
+      ],
+      "correctIndex": 0,
+      "explanation": "Alkoholi heikentää solujen hapenkäyttöä → altistaa hypoksialle. 'Histotoxic hypoxia.' Kahvi EI auta kuluttamaan alkoholia – maksa metaboloi sen omaan tahtiinsa.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0134",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 134,
+      "statement": "Mikä seuraavista parhaiten kuvaa hypoksiaa?",
+      "options": [
+        "A. Hapen puute elimistössä.",
+        "B. Hengitetyn ilmamäärän epänormaali väheneminen.",
+        "C. Hengitetyn ilmamäärän epänormaali lisääntyminen.",
+        "D. Kaasukuplien muodostuminen niveliin ja lihaksiin."
+      ],
+      "correctIndex": 0,
+      "explanation": "Hypoksia = hapen puute kehossa (kudoksissa, soluissa). Lat. 'hypo' = alle, 'oxia' = happi.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0135",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 135,
+      "statement": "Harha-aistimuksen siitä, että ilma-alus lentää korkeammalla kuin mitä se oikeasti on, voi aiheuttaa:",
+      "options": [
+        "A. Utuinen ilmanala.",
+        "B. Nouseva maasto.",
+        "C. Aleneva maasto.",
+        "D. Leveä kiitotie."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nouseva maasto tai ylämäkeen viettävä lähestymisympäristö voi aiheuttaa harha-aistimuksen siitä, että ilma-alus on korkeammalla kuin todellisuudessa. Tällöin lentäjä saattaa korjata liikaa alaspäin ja lentää liian matalan lähestymisen. Aleneva maasto aiheuttaa yleensä päinvastaisen, liian matalan tuntuisen vaikutelman.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0136",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 136,
+      "statement": "Pienlentokoneissa yleisesti käytetty kolmella osoittimella varustettu korkeusmittari: a) On helppo lukea väärin. b) Tuskin koskaan luetaan väärin. c) On tarkka ja luotettava. d) Ei ole kovin tarkka eikä luotettava.",
+      "options": [
+        "A. Ainoastaan b).",
+        "B. a) ja c).",
+        "C. Ainoastaan a).",
+        "D. b) ja d)."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kolmiviisarinen korkeusmittari (10 000 / 1 000 / 100 ft) on perinteinen ja TARKKA, mutta sitä on helppo lukea VÄÄRIN (tuhansien viisarin paikka) – useita onnettomuuksia (ml. BEA Trident).",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0137",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 137,
+      "statement": "Mikä seuraavista Ihmisen suorituskyky -oppiaineessa käytetyistä termeistä kuvaa yleisesti yhtä muistityyppiä?",
+      "options": [
+        "A. Kaikki vastaukset ovat oikein.",
+        "B. Herkkyysmuisti.",
+        "C. Pitkäkestoinen muisti.",
+        "D. Onnellisuusmuisti."
+      ],
+      "correctIndex": 2,
+      "explanation": "Muistityypit: aistimuisti (sensorinen), lyhytkestoinen/työmuisti, pitkäkestoinen muisti. 'Pitkäkestoinen muisti' on vakiokäsite.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0138",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 138,
+      "statement": "Ulko-, väli-ja sisäkorvan täyteaineet ovat esitetyssä järjestyksessään:",
+      "options": [
+        "A. Neste, neste ja ilma.",
+        "B. Neste, ilma ja ilma.",
+        "C. Ilma, ilma ja neste.",
+        "D. Ilma, neste ja neste."
+      ],
+      "correctIndex": 2,
+      "explanation": "Korva: ulkokorva (ilma) – välikorva (ilma, kuuloluut) – sisäkorva (neste, kaarikäytävät ja simpukka). Järjestys ulkoa sisälle: ilma, ilma, neste.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0139",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 139,
+      "statement": "Huonokuuloisuuden aiheuttava tekijä, jossa aistisolut vähitellen rappeutuvat (presbyacusis), on:",
+      "options": [
+        "A. Tupakointi.",
+        "B. Ikä.",
+        "C. Vaurio kuuloelimen simpukassa.",
+        "D. Vaurio kaarikäytävissä."
+      ],
+      "correctIndex": 1,
+      "explanation": "Presbyacusis = iän myötä kehittyvä kuulonalenema (sisäkorvan karvasolujen rappeutuminen). Yleensä alkaa korkeista taajuuksista.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0140",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 140,
+      "statement": "Mikä aiheuttaa konduktiivisen kuulovaurion?",
+      "options": [
+        "A. Vaurio korvalehdessä.",
+        "B. Vaurio välikorvassa.",
+        "C. Vaurio ulkokorvassa.",
+        "D. Mikä tahansa äänen johtumista estävä tekijä, esim. korvakäytävän tukkiva vaikku."
+      ],
+      "correctIndex": 3,
+      "explanation": "Konduktiivinen (johtumis)kuulovaurio = ääni ei pääse kulkemaan välikorvan kautta – syynä esim. korvavaha, tärykalvon vaurio, välikorvan tulehdus tai kuuloluiden vika.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0141",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 141,
+      "statement": "Missä silmän osassa sijaitsee tarkan näkemisen keskus?",
+      "options": [
+        "A. Pupilli.",
+        "B. Sarveiskalvo.",
+        "C. Verkkokalvo.",
+        "D. Keskuskuoppa (fovea)."
+      ],
+      "correctIndex": 3,
+      "explanation": "Keskuskuoppa (fovea centralis) verkkokalvon keskellä on tarkan näkemisen alue – täynnä tappisoluja, ei sauvasoluja. Sokea yöllä.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0142",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 142,
+      "statement": "Nähdäkseen tarkasti kohti lentävän ilma-aluksen, jonka silmä on jo havainnut, lentäjän tulisi:",
+      "options": [
+        "A. Aloittaa edessään olevan ilmatilan systemaattinen tarkkailu.",
+        "B. Katsoa suoraan kohti vastaan tulevaa ilma-alusta.",
+        "C. Räpäyttää silmiään useita kertoja saadakseen vastaan tulevasta ilma-aluksesta tarkemman kuvan.",
+        "D. Tarkentaa katse vastaan tulevan ilma-aluksen yhdelle sen reunoista."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kun kohti tuleva ilma-alus on jo havaittu ja siitä halutaan saada tarkka kuva, katse kohdistetaan suoraan kohteeseen, jotta kuva osuu foveaan eli tarkan näkemisen keskukseen. Kohteen sivuun katsominen on yö- ja hämäränäön tekniikka, ei paras tapa saada päivällä tarkka kuva jo havaitusta kohteesta.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0143",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 143,
+      "statement": "Silmään tulevan valon määrään vaikuttaa:",
+      "options": [
+        "A. Sarveiskalvo.",
+        "B. Verkkokalvo.",
+        "C. Pupilli.",
+        "D. Linssi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Pupilli (mustuainen) säätelee silmään tulevan valon määrää. Värikalvo (iris) avaa/sulkee pupillia (kuten kameran himmennin).",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0144",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 144,
+      "statement": "Mikä seuraavista kuljettaa happea läpi kehon?",
+      "options": [
+        "A. Veren punasolut.",
+        "B. Vesi.",
+        "C. Veriplasma.",
+        "D. Veren valkosolut."
+      ],
+      "correctIndex": 0,
+      "explanation": "Veren punasolut (erytrosyytit) sisältävät hemoglobiinia, joka kuljettaa happea. Plasma kuljettaa CO₂:ta liuenneena ja bikarbonaattina.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0145",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 145,
+      "statement": "Korkea verenpaine, sydänsairaudet ja diabetes ovat yhteydessä:",
+      "options": [
+        "A. Hapenpuutteeseen.",
+        "B. Liikalihavuuteen.",
+        "C. Anorexia nervosaan.",
+        "D. Koleraan."
+      ],
+      "correctIndex": 1,
+      "explanation": "Korkea verenpaine, sydänsairaudet, diabetes ovat tavallisia liikalihavuuden seurauksia ('metabolinen oireyhtymä'). Lentäjältä vaadittu painonhallinta.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0146",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 146,
+      "statement": "Mikä aiheuttaa siniset huulet?",
+      "options": [
+        "A. Hiilimonoksidimyrkytys.",
+        "B. Hyperventilaatio.",
+        "C. Hapenpuute.",
+        "D. Positiivisten G-voimien vaikutus."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sinerrys (syanoosi) huulissa, sormenpäissä ja kynsivalkosissa = hapenpuute (deoksigenoitunut hemoglobiini). Hyvä hypoksian ulkoinen merkki.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0147",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 147,
+      "statement": "Mikä seuraavista kaasuista on merkityksellisessä osassa sukeltajan tautia?",
+      "options": [
+        "A. Vety.",
+        "B. Hiilidioksidi.",
+        "C. Typpi.",
+        "D. Happi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sukeltajan tauti (Decompression Sickness, 'bends') johtuu typpikuplista veressä ja kudoksissa, kun paineen lasku vapauttaa kudoksiin liuennutta typpeä.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0148",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 148,
+      "statement": "Lentämisen opettelu aiheuttaa yleensä jonkin verran stressiä, koska lento-oppilas on tilanteessa, jossa hänellä ei ole täydellistä hallintaa. Tällaisen stressin todennäköisin oire on:",
+      "options": [
+        "A. Hermostuneisuus, lihasjännitys ja tarkkaavaisuusongelmat.",
+        "B. Unettomuus, tupakoinnin ja juomisen lisääntyminen.",
+        "C. Nälän tunne, uneliaisuus ja näköharhat.",
+        "D. Lentäminen karkeasti ja yleinen sekavuus."
+      ],
+      "correctIndex": 0,
+      "explanation": "Lento-oppilaan stressioireita ovat hermostuneisuus, lihasjännitys ja keskittymisongelmat. Nämä lievenevät kokemuksen myötä.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0149",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 149,
+      "statement": "Keho saa energiansa:",
+      "options": [
+        "A. Hiilihydraateista, proteiineista ja rasvoista.",
+        "B. Kivennäisaineista, hiilihydraateista ja vitamiineista.",
+        "C. Proteiineista ja vitamiineista.",
+        "D. Kivennäisaineista ja vitamiineista."
+      ],
+      "correctIndex": 0,
+      "explanation": "Keho saa energiansa makroravinteista: hiilihydraatit, proteiinit ja rasvat. Vitamiinit ja kivennäisaineet eivät ole energianlähteitä, mutta tarpeellisia aineenvaihdunnalle.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0150",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 150,
+      "statement": "Keuhkokapillaarien ohuista seinämistä menevät läpi:",
+      "options": [
+        "A. Veren punasolut.",
+        "B. Proteiinit.",
+        "C. Kaasut.",
+        "D. Vesi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Keuhkorakkuloiden eli alveolien ja niitä ympäröivien kapillaarien ohuet seinämät mahdollistavat kaasujen diffuusion. Happi siirtyy alveoleista vereen ja hiilidioksidi verestä alveoleihin. Punasolut ja proteiinit eivät normaalisti kulje kapillaarin seinämän läpi tällä tavalla.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0151",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 151,
+      "statement": "Mikä seuraavista väittämistä on oikein:",
+      "options": [
+        "A. Alkoholi parantaa näön tarkkuutta.",
+        "B. Arviointikyky voi heiketä jo pienestäkin alkoholimäärästä.",
+        "C. Lentokorkeuden lisääminen vähentää alkoholin haitallisia vaikutuksia.",
+        "D. Ihmisen keho polttaa alkoholia nopeammin, jos sen kanssa nautitaan kahvia."
+      ],
+      "correctIndex": 1,
+      "explanation": "Jo 0,2 promillen alkoholipitoisuus heikentää arviointikykyä, näköä ja motoriikkaa. EASA: '8 hours bottle to throttle' ja maks. 0,2 ‰ lennon aikana.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0152",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 152,
+      "statement": "Äkillinen inkapasitaatio tarkoittaa:",
+      "options": [
+        "A. Umpilisäkkeen tulehdusta",
+        "B. Nopeasti kehittyvää epätavallista lentotilaa",
+        "C. Moottorihäiriötä kriittisessä lentovaiheessa",
+        "D. Ohjaajan suorituskyvyn pettämistä esim. lennolla"
+      ],
+      "correctIndex": 3,
+      "explanation": "Äkillinen inkapasitaatio (incapacitation) = lentäjän suorituskyvyn pettäminen lennon aikana (esim. tajuttomuus, sydänkohtaus, kohtaus). Vaarallinen yhden ohjaajan koneessa.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0153",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 153,
+      "statement": "Hiilimonoksidi on:",
+      "options": [
+        "A. Hajuton, mauton ja väritön kaasu",
+        "B. Ihmiselle elintärkeä kaasu",
+        "C. Pistävän hajuinen, väritön kaasu",
+        "D. Mauton ja harmaa kaasu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hiilimonoksidi (CO) on hajuton, mauton ja väritön kaasu. Tästä syystä erittäin vaarallinen – sitä ei voi havaita aisteilla.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0154",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 154,
+      "statement": "Kuinka paljon ilmanpaine on pudonnut noustessa 18000 jalan korkeuteen?",
+      "options": [
+        "A. 50%",
+        "B. 25%",
+        "C. 80%",
+        "D. 10%"
+      ],
+      "correctIndex": 0,
+      "explanation": "18 000 ft on noin puolet ilmanpainekohdasta merenpinnasta: ~500 hPa eli 50 % alkuperäisestä 1013 hPa:sta. Tämä on merkittävä hypoksiaraja.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0155",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 155,
+      "statement": "Hengityksen tärkein säätelijä on:",
+      "options": [
+        "A. Hengitysnopeus",
+        "B. Typpi",
+        "C. Hiilidioksidi",
+        "D. Happi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hengityksen säätelijä on veren HIILIDIOKSIDIPITOISUUS (CO₂ → kemoreseptorit aivorungossa). Happi on toissijainen säätely-tekijä.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0156",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 156,
+      "statement": "Kaasujen vaihto tapahtuu:",
+      "options": [
+        "A. Keuhkoputkissa.",
+        "B. Keuhkovaltimossa.",
+        "C. Aortassa.",
+        "D. Keuhkorakkuloissa eli alveoleissa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kaasujenvaihto (O₂ veressä, CO₂ ulos) tapahtuu keuhkorakkuloissa eli ALVEOLEISSA, joiden ohuiden seinämien läpi diffuusio toimii.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0157",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 157,
+      "statement": "Nuhaisena lentäminen:",
+      "options": [
+        "A. Pahentaa korvien lukkiutumistaipumusta",
+        "B. Aiheuttaa hämäränäkökyvyn heikkenemistä",
+        "C. Parantaa nuhan nopeasti",
+        "D. Voi aiheuttaa harha-aistimuksia kaartamisesta"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nuhaisena lennettäessä Eustachin putki on tukossa → korvien lukkiutuminen pahenee, voi aiheuttaa kovaa kipua ja jopa tärykalvon repeämän laskeutumisessa.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0158",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 158,
+      "statement": "Tasapainoaisti sijaitsee ihmisellä:",
+      "options": [
+        "A. Välikorvassa",
+        "B. Istuinlihaksissa ja alaraajoissa",
+        "C. Sisäkorvassa",
+        "D. Aivolisäkkeessä"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tasapainoaisti sijaitsee sisäkorvassa: kolme kaarikäytävää (kulmakiihtyvyydet) ja kaksi otoliittielintä (suoraviivaiset kiihtyvyydet).",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "040-0159",
+      "module": "040",
+      "moduleName": "Ihmisen suorituskyky",
+      "number": 159,
+      "statement": "Punasoluissa happi kiinnittyy:",
+      "options": [
+        "A. Hematokriittiin",
+        "B. Hemoglobiiniin",
+        "C. Hiilidioksidiin",
+        "D. Hiilimonoksidiin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Punasolujen happi sitoutuu HEMOGLOBIINIIN – proteiiniin, joka sisältää rautaa (Fe²⁺) hapen sitomiseen. Yksi hemoglobiinimolekyyli kuljettaa 4 happimolekyyliä.",
+      "source": "PPL040FIN 11102018.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    }
+  ]
+}

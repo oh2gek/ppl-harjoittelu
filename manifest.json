@@ -1,0 +1,17 @@
+{
+  "name": "PPL teoriakokeiden harjoittelu",
+  "short_name": "PPL Harjoittelu",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0b3d91",
+  "theme_color": "#0b3d91",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cdefs%3E%3ClinearGradient id='bg' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' style='stop-color:%230b3d91'/%3E%3Cstop offset='100%25' style='stop-color:%231a5fb4'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='512' height='512' rx='64' fill='url(%23bg)'/%3E%3Cpath d='M256 80 C 220 140, 180 200, 160 260 L 200 260 C 210 240, 230 220, 250 200 L 250 320 L 180 380 L 180 400 L 250 360 L 250 420 L 280 420 L 280 360 L 350 400 L 350 380 L 280 320 L 280 200 C 300 220, 320 240, 330 260 L 370 260 C 350 200, 310 140, 276 80 Z' fill='white'/%3E%3Cpath d='M160 260 L 120 300 L 120 320 L 160 290 Z' fill='%23e0e0e0'/%3E%3Cpath d='M370 260 L 410 300 L 410 320 L 370 290 Z' fill='%23e0e0e0'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

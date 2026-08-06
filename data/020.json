@@ -1,0 +1,3028 @@
+{
+  "module": "020",
+  "moduleName": "Lentokoneen yleistuntemus",
+  "source": "PPL020FIN 11102018.pdf",
+  "questions": [
+    {
+      "id": "020-0001",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 1,
+      "statement": "Halonisammutin:",
+      "options": [
+        "A. On melko turvallinen käytettäväksi ohjaamossa, mikäli ohjaamo tuuletetaan käytön jälkeen.",
+        "B. Soveltuu ainoastaan puu-ja kangaspaloihin, eikä se sen takia sovellu käytettäväksi ohjaamossa.",
+        "C. Sisältää hyvin myrkyllisiä kaasuja, eikä sitä saisi koskaan käyttää ohjaamossa.",
+        "D. On turvallinen käytettäväksi ohjaamossa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Halonisammutin (BTF/BCF) on melko turvallinen ohjaamossa, mutta palon aikana se hajoaa myrkyllisiksi kaasuiksi. Sammutuksen jälkeen ohjaamo on tuuletettava. Halon on tehokas neste- ja sähköpaloihin.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0002",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 2,
+      "statement": "Jos epäilet kaasuttimen jäätymistä ilma-aluksessa, jota ei ole varustettu kaasuttimen lämpötilamittarilla, oikea toimenpide on:",
+      "options": [
+        "A. Säätää imuilman esilämmitystä päälle sen verran, minkä tuntee tarpeelliseksi riippuen jäätämistilanteesta.",
+        "B. Valita aina imuilman esilämmitys täydelle teholle.",
+        "C. Lisätä kaasua menetetyn tehon kompensoimiseksi.",
+        "D. Valita aina imuilman esilämmitys täydelle teholle, kunnes moottori alkaa käydä karkeasti ja sen jälkeen valita lämmitys takaisin kylmälle."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kun lämpötilamittaria ei ole, kaasuttimen esilämmitys (carb heat) valitaan AINA täydelle teholle. Osittainen lämmitys voi pahentaa jäätämistä nostamalla lämpötilan kriittiselle alueelle (-5 … +5 °C). Käytön ajan kierrosluku laskee, koska lämmin ilma on harvempaa.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0003",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 3,
+      "statement": "Vesiliirtonopeus:",
+      "options": [
+        "A. Kasvaa, mikäli renkaan urasyvyys pienenee.",
+        "B. Kasvaa, mikäli veden syvyys maassa kasvaa.",
+        "C. Voidaan laskea solmuissa kertomalla rengaspaineen neliöjuuri yhdeksällä.",
+        "D. Mitataan arvolla maamaileja tunnissa."
+      ],
+      "correctIndex": 2,
+      "explanation": "Vesiliirtonopeus (hydroplaning) lasketaan nyrkkisäännöllä Vp ≈ 9 × √P, missä P on rengaspaine PSI:nä ja tulos solmuissa. Kasvava rengaspaine nostaa rajaa, kuluneet renkaat (matala urasyvyys) madaltavat sitä.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0004",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 4,
+      "statement": "Kytkemällä kaksi 12 volttista, 40 ampeerituntista akkua sarjaan, saadaan aikaiseksi:",
+      "options": [
+        "A. 24 volttia ja 80 ampeeritunnin kapasiteetti.",
+        "B. 12 volttia ja 80 ampeeritunnin kapasiteetti.",
+        "C. 12 volttia ja 40 ampeeritunnin kapasiteetti.",
+        "D. 24 volttia ja 40 ampeeritunnin kapasiteetti."
+      ],
+      "correctIndex": 3,
+      "explanation": "Sarjaan kytketyt akut summaavat jännitteet mutta säilyttävät ampeeritunnit: 12 V + 12 V = 24 V, kapasiteetti pysyy 40 Ah. Rinnakkain kytkettäessä jännite pysyisi 12 V mutta kapasiteetti olisi 80 Ah.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0005",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 5,
+      "statement": "Mikäli öljynjäähdytin tukkeutuu lennolla, ohitusventtiili mahdollistaa öljyn kulkemisen jäähdyttimen ohitse. Ohitusventtiilin toiminta riippuu:",
+      "options": [
+        "A. Mekaanisesta valitsimesta.",
+        "B. Paineesta.",
+        "C. Lämpötilasta.",
+        "D. Hydraulisesta valitsimesta."
+      ],
+      "correctIndex": 1,
+      "explanation": "Öljynjäähdyttimen ohitusventtiili on paineohjattu: kun jäähdytin tukkeutuu, paine sen syöttöpuolella nousee ja ohitusventtiili avautuu, jolloin öljy kiertää suoraan moottoriin. Estää öljyn loppumista voitelusta.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0006",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 6,
+      "statement": "Potkurin lavassa on kiertoa pituussuunnassa, jotta:",
+      "options": [
+        "A. Saavutetaan asteittain kasvava nousu tyvestä kärkeen.",
+        "B. Saadaan kompensoitua potkurin hidastuva ratanopeus tyvestä kärkeen.",
+        "C. Saavutetaan asteittain kasvava lapakulma tyvestä kärkeen.",
+        "D. Saavutetaan sopiva kohtauskulma tyvestä kärkeen."
+      ],
+      "correctIndex": 3,
+      "explanation": "Potkurin lapakulma pienenee tyvestä kärkeen (twist), jotta jokainen lavan poikkileikkaus näkee suunnilleen saman kohtauskulman. Lavan kärki liikkuu ratanopeudella, joka on paljon suurempi kuin tyvellä, joten kärjessä tarvitaan pienempi geometrinen lapakulma optimaaliseen kohtauskulmaan.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 2,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0007",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 7,
+      "statement": "Magneetot ovat:",
+      "options": [
+        "A. Itsenäisiä, moottorin pyörittämiä generaattoreita, jotka tuottavat korkeajännitteisiä kipinöitä.",
+        "B. Asennettu virranjakajaan ja toimivat samassa järjestyksessä, kuin sytytystulpat.",
+        "C. Nokka-akselin pyörittämiä generaattoreita, joita tarvitaan sähkölaitteita varten.",
+        "D. Laitteita, jotka tuottavat matalajännitteisen kipinän sytytystulpille."
+      ],
+      "correctIndex": 0,
+      "explanation": "Magneetto on itsenäinen, moottorin pyörittämä generaattori, joka tuottaa korkeajännitteisen kipinän sytytystulpille. Magneeton toiminta ei ole riippuvainen ilma-aluksen sähköjärjestelmästä – tästä syystä moottori käy, vaikka akku ja alternaattori vikaantuisivat.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0008",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 8,
+      "statement": "Mikä seuraavista on oikea toimenpide, mikäli kaasutin syttyy palamaan käynnistyksen yhteydessä?",
+      "options": [
+        "A. Kaikki vastausvaihtoehdot ovat oikein.",
+        "B. Valita käynnistyskytkin OFF-asentoon.",
+        "C. Valita seosvipu täysin laihalle.",
+        "D. Valita kaasuttimen lämmitys pois päältä."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kaasuttimen tulipalon yhteydessä kaikki vaihtoehdot ovat oikein: jatka starttausta jotta liekit imeytyvät palokammioon, valitse seos täysin laihalle (Idle Cut-Off), sammuta lämmitys ja sytytys. Tavoite on saada moottori käymään tai kuristaa palo polttoaineen lopussa.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0009",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 9,
+      "statement": "Renkaan liikkuminen vanteella (tyre creep):",
+      "options": [
+        "A. Voidaan estää liimaa käyttämällä.",
+        "B. Tarkoittaa ilma-aluksen liikkumista jarruja vasten.",
+        "C. Voidaan tunnistaa renkaaseen ja vanteeseen piirretyn merkintäviivan siirtymisestä.",
+        "D. Voidaan estää piirtämällä merkintäviiva renkaaseen ja vanteeseen."
+      ],
+      "correctIndex": 2,
+      "explanation": "Renkaan ryömiminen (tyre creep) on rengaskumin liukumista vanteella jarrutuksessa. Se tunnistetaan, kun renkaan kylkeen ja vanteeseen maalattu kohdistusviiva siirtyy. Liiallinen ryömä voi katkaista venttiilin – riski rengasrikolle.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0010",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 10,
+      "statement": "Liite LAPL/PPL 020-01 kuvaa ilma-aluksen sähköjärjestelmää. Jos lennolla kuormitusmittarin näyttämä arvo putoaa nollaan, todennäköisin syy on:",
+      "options": [
+        "A. Akku on täysin latautunut.",
+        "B. Virtakisko on ylikuormittunut.",
+        "C. Akku on tyhjä.",
+        "D. Alternaattori on vikaantunut."
+      ],
+      "correctIndex": 3,
+      "explanation": "Jos kuormitusmittarin näyttämä putoaa lennolla nollaan, todennäköisin syy on alternaattorin vikaantuminen. Tällöin sähköjärjestelmä ei enää saa latausta alternaattorilta, ja kuormitus/latausmittari putoaa nollaan.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0011",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 11,
+      "statement": "Polttomoottoriperiaatteella toimivan moottorin tehoa voidaan lisätä:",
+      "options": [
+        "A. Pienentämällä iskunpituutta.",
+        "B. Pienentämällä sylinterin pinta-alaa.",
+        "C. Kasvattamalla moottorin kierroslukua.",
+        "D. Kasvattamalla polttoainetankin kokoa."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mäntämoottorin teho ≈ vääntö × kierrosluku. Iskunpituus, sylinterimäärä ja puristussuhde ovat kiinteitä rakenteen ominaisuuksia, joten käytössä tehoa lisätään pääosin kierroslukua nostamalla (kaasua avaamalla).",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0012",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 12,
+      "statement": "Liu'ussa vakioteholla, kiintopotkurilla varustetun ilma-aluksen moottorin kierrosluku:",
+      "options": [
+        "A. Pienenee, mikäli ilmanopeus kasvaa.",
+        "B. Pienenee, mikäli tehoasetusta ei muuteta.",
+        "C. Säilyy vakiona ilmanopeudesta riippumatta.",
+        "D. Kasvaa, mikäli ilmanopeuden annetaan kasvaa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Liu'ussa kiintopotkurilla tehoasetus on lukittu, mutta ilmavirtaus pyörittää potkuria kuin tuulimyllyä. Kun ilmanopeus kasvaa (esim. nokka alaspäin), potkurin lavan tulokulma muuttuu ja kierrosluku kasvaa. Tämän vuoksi liu'ussa pitää tarkkailla, ettei VNE/RPM-rajoituksia ylitetä.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 3,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0013",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 13,
+      "statement": "Heti käynnistämisen jälkeen tulisi tarkastaa käynnistimen (starter) varoitusvalo. Jos se palaa edelleen, tulee:",
+      "options": [
+        "A. Seurata tilannetta 30 sekuntia ja sammuttaa moottori sen jälkeen, mikäli valo ei sammu.",
+        "B. Ei tarvitse tehdä mitään. Käynnistimen varoitusvalo palaa aina, kun moottori on käynnissä.",
+        "C. Sammuttaa moottori välittömästi.",
+        "D. Sammuttaa moottori, laskea 30:een ja käynnistää moottori uudelleen."
+      ],
+      "correctIndex": 2,
+      "explanation": "Käynnistimen varoitusvalo, joka palaa moottorin käynnistyksen jälkeen, tarkoittaa että käynnistimen rele on jäänyt kiinni eli starttimoottori pyörii vielä. Tämä tuhoaa starttimoottorin nopeasti – moottori on sammutettava välittömästi.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0014",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 14,
+      "statement": "Mikä on polttoaineen ja ilman kemiallisesti oikean seossuhteen käyttämisen merkitys?",
+      "options": [
+        "A. Se mahdollistaa täydellisen palamisen.",
+        "B. Se on tilavuussuhteeltaan 15:1.",
+        "C. Se antaa parhaan lopputuloksen.",
+        "D. Sitä käytetään yleensä."
+      ],
+      "correctIndex": 0,
+      "explanation": "Stoikiometrinen seossuhde (n. 14,7:1 paino-osina ilma:polttoaine) on kemiallisesti oikea, jossa kaikki polttoaine ja happi reagoivat → täydellinen palaminen. Käytännössä lentomoottoreita käytetään hieman rikkaammalla seoksella jäähdytyksen vuoksi.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0015",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 15,
+      "statement": "Missä olosuhteissa ilmanopeusmittari näyttää tosi-ilmanopeutta, mikäli jätetään huomioimatta mittari-ja asentovirheet?",
+      "options": [
+        "A. Missä tahansa korkeudessa, kun lämpötila on ISA-olosuhteiden mukainen.",
+        "B. Ainoastaan standardi-ilmakehässä (ISA), merenpinnan tasolla.",
+        "C. Missä tahansa korkeudessa, kunhan ilma jäähtyy ylöspäin mentäessä ISA-olosuhteiden mukaisesti.",
+        "D. Missä tahansa korkeudessa ja lämpötilassa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ilmanopeusmittari (ASI) mittaa dynaamista painetta, joka riippuu ilman tiheydestä. TAS = IAS vain ISA-merenpinnalla (15 °C, 1013 hPa, ρ=1,225 kg/m³). Korkeudessa ja korkeammassa lämpötilassa todellinen ilmanopeus on suurempi kuin mittarin näyttämä.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0016",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 16,
+      "statement": "Koekäytön yhteydessä, oikeanpuoleinen magneetto valittuna, havaitset moottorin käyvän karkeasti ja epäilet sen sammuvan. Mitä sinun tulisi tehdä?",
+      "options": [
+        "A. Vaihdat nopeasti vasemmanpuoleiselle magneetolle.",
+        "B. Annat moottorin sammua kokonaan ja keskeytät lennon, vika on tutkittava ennen seuraavaa lentoa.",
+        "C. Lisäät tehoa moottorin toimimiseksi ja valitset molemmat magneetot käyttöön.",
+        "D. Vaihdat nopeasti molemmat magneetot käyttöön."
+      ],
+      "correctIndex": 1,
+      "explanation": "Magneeton koekäytössä jos moottori käy karkeasti ja uhkaa sammua, älä yritä saada sitä toimimaan. Anna sammua, keskeytä lento ja vaadi vian tutkimista. Kahdennetun sytytyksen tarkoitus on, että toinen magneetto saa moottorin käymään turvallisesti.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0017",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 17,
+      "statement": "Teoriassa 100Ah akku tarjoaa 25A virtaa:",
+      "options": [
+        "A. 100 minuuttia.",
+        "B. 25 tuntia.",
+        "C. 25 minuuttia.",
+        "D. 4 tuntia."
+      ],
+      "correctIndex": 3,
+      "explanation": "Akun teoreettinen kapasiteetti = jännitteestä riippumaton ampeeritunti (Ah). 100 Ah ÷ 25 A = 4 tuntia. Käytännössä kapasiteetti on pienempi suuremmilla virroilla (Peukertin laki) ja lämpötila vaikuttaa siihen.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0018",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 18,
+      "statement": "Yhden täyden Otto-syklin aikana mäntä:",
+      "options": [
+        "A. Liikkuu sylinterinpäätä kohden neljä kertaa.",
+        "B. Liikkuu sylinterinpäätä kohden kaksi kertaa.",
+        "C. Pyörii kiertokangen ympäri kahdesti.",
+        "D. Tekee kaksi työtahtia."
+      ],
+      "correctIndex": 1,
+      "explanation": "Otto-syklissä on 4 tahtia (imu, puristus, työ, poisto), jotka kestävät 2 kampiakselin kierrosta. Mäntä siis liikkuu sylinterinpäätä kohden 2 kertaa per Otto-sykli (puristuksen ja poiston päässä).",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 4,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0019",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 19,
+      "statement": "Mikä seuraavista ei ole kuivana toimivan alipainejärjestelmän osa?",
+      "options": [
+        "A. Alipainepumppu.",
+        "B. Järjestelmän voitelulaite.",
+        "C. Paineensäädin.",
+        "D. Ilmansuodatin."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kuiva alipainejärjestelmä käyttää grafiittilamelleja, jotka voitelevat itse itsensä – erillistä voitelulaitetta ei tarvita. Märkä järjestelmä käyttää öljyvoitelua. Suodatin, paineensäädin ja pumppu ovat osa kuivaa järjestelmää.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0020",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 20,
+      "statement": "Rullatessasi kiintopotkurilla varustetulla ilma-aluksella epäilet kaasuttimen olevan jäässä. Mikä on oikea toimenpide?",
+      "options": [
+        "A. Säätää imuilman esilämmitys täydelle teholle ja ottaa se myöhemmin pois päältä lentoonlähdön jälkeen, kun ilma-alus on nousussa.",
+        "B. Säätää imuilman esilämmitys täydelle teholle, minkä jälkeen takaisin pois päältä, sillä kierrosluku pienenee.",
+        "C. Välttää imuilman esilämmityksen käyttöä maassa ja luottaa moottorin toimivan riittävän lämpimänä suojakuorensa sisällä.",
+        "D. Säätää imuilman esilämmitys täydelle teholle, ottaa se myöhemmin pois päältä ennen lentoonlähtöä ja varmistaa riittävä kierrosluku lentoonlähdön yhteydessä."
+      ],
+      "correctIndex": 3,
+      "explanation": "Rullatessa kaasuttimen jäätyessä esilämmitys laitetaan täydelle teholle. Ennen lentoonlähtöä se otetaan pois, jotta saadaan suorituskykyyn täysi teho ja suodatettu (lämmittämätön) ilma. Lentoonlähdössä on varmistettava, että kierrosluku on normaali.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0021",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 21,
+      "statement": "Mekaanisen kierroslukumittarin toiminta:",
+      "options": [
+        "A. Perustuu kitkaan, joka syntyy eräänlaisessa kupissa, jonka voima siirretään suoraan varren avulla mittarin neulaan; jousivoima vastustaa samaan aikaan neulaa.",
+        "B. Perustuu magneettisen kentän vastustamisen avulla luodun vääntömomentin siirtämiseen varren avulla suoraan mittarin neulaan.",
+        "C. Perustuu suoraan voimanvälitykseen laturin hihnalta.",
+        "D. Perustuu suoraan voimanvälitykseen kampiakselista varren avulla omalle generaattorille. Varren päässä oleva vaihteisto hidastaa pyörimisnopeutta generaattorille, joka tuottaa jännitteen. Kierrosluku on kalibroitu jännitteen mukaan."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mekaaninen kierroslukumittari toimii pyörrevirtaperiaatteella: pyörivä magneetti luo magneettikentän, joka kohdistaa vääntömomenttia alumiinikuppiin (drag cup). Jousivoima vastustaa, ja neula asettuu tasapainoasentoon, joka on verrannollinen kierroslukuun.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0022",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 22,
+      "statement": "Nakutusta voi syntyä käytettäessä:",
+      "options": [
+        "A. Korkeampioktaanista polttoainetta kuin on suositeltu.",
+        "B. Liian pientä ahtopainetta.",
+        "C. Liian suurta kierroslukua.",
+        "D. Liian laihaa seossuhdetta."
+      ],
+      "correctIndex": 3,
+      "explanation": "Nakutus (detonation) on polttoaineseoksen räjähdyksenomaista palamista. Sen aiheuttavat liian laiha seos, liian korkea ahtopaine, kuumat moottorit tai liian matalaoktaaninen polttoaine. Liian korkea oktaani EI aiheuta nakutusta.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0023",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 23,
+      "statement": "Ennenaikainen syttyminen nelitahtisissa mäntämoottoreissa:",
+      "options": [
+        "A. Johtuu rikkaasta seoksesta kuumassa moottorissa.",
+        "B. Tunnistetaan sille ominaisesta helisevästä äänestä, jonka polttoaine tuottaa palaessaan.",
+        "C. On polttoaine-ilmaseoksen räjähdysmäistä palamista.",
+        "D. On polttoaine-ilmaseoksen palamista ennen sytytystulpan kipinää."
+      ],
+      "correctIndex": 3,
+      "explanation": "Pre-ignition (ennenaikainen syttyminen) on polttoaine-ilmaseoksen syttyminen palokammiossa ENNEN sytytystulpan kipinää. Yleensä syynä on kuuma kohta (hot spot), kuten ylikuumentunut sytytystulppa tai venttiili. Ero detonaatioon: detonaatio tapahtuu sytytyksen jälkeen, pre-ignition ennen.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0024",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 24,
+      "statement": "Mikäli moottori ylikuumenee, saattaa polttoaineen ja ilman seos syttyä ennen kuin sytytystulppa tuottaa kipinän.",
+      "options": [
+        "A. Tätä ilmiötä kutsutaan nakutukseksi (detonaatioksi).",
+        "B. Tätä ilmiötä kutsutaan ennenaikaiseksi syttymiseksi.",
+        "C. Tehoa tulisi tällöin lisätä moottorin jäähdyttämiseksi.",
+        "D. Seosta tulisi tällöin laihentaa moottorin jäähdyttämiseksi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Polttoaine-ilmaseos voi syttyä kuumassa moottorissa ennen sytytystulpan kipinää – tätä kutsutaan ennenaikaiseksi syttymiseksi (pre-ignition). Hoito: rikasta seosta (jäähdyttää) ja vähennä tehoa.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 5,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0025",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 25,
+      "statement": "Tyypillisesti sähköllä toimivia mittareita ovat:",
+      "options": [
+        "A. Kaartomittari ja öljynpainemittari.",
+        "B. Moottorin kierroslukumittari ja polttoaineen määrämittarit.",
+        "C. Moottorin kierroslukumittari ja kaartomittari.",
+        "D. Polttoaineen määrämittarit ja kaartomittari."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tyypillisesti sähköllä toimivia mittareita ovat polttoaineen määrämittarit ja kaartomittari/turn coordinator. Perinteinen moottorin kierroslukumittari on usein mekaaninen, ja öljynpainemittari on yleensä mekaaninen tai paineeseen perustuva mittari.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0026",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 26,
+      "statement": "Jotkut kaasuttimet ovat varustettu diffuusorilla, joka:",
+      "options": [
+        "A. Estää seoksen muuttumisen liian rikkaaksi kierrosluvun pienentyessä.",
+        "B. Estää seoksen muuttumisen liian rikkaaksi kierrosluvun kasvaessa.",
+        "C. Estää seoksen muuttumisen liian laihaksi kierrosluvun kasvaessa.",
+        "D. Estää seoksen muuttumisen liian laihaksi kierrosluvun pienentyessä."
+      ],
+      "correctIndex": 1,
+      "explanation": "Diffuusori-/ekonomi-suutin estää seoksen muuttumisen liian rikkaaksi suurilla kierroksilla. Korkealla nopeudella venturin alipaine olisi muuten liian voimakas ja imisi liikaa polttoainetta – diffuusori sekoittaa ilmaa polttoainekanavaan ja korjaa seossuhteen.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0027",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 27,
+      "statement": "Mihin kohtaan moottoria on asennettu öljyn lämpötila-anturi, joka on kytketty ohjaamossa sijaitsevaan öljynlämpömittariin?",
+      "options": [
+        "A. Paikkaan, jossa öljy poistuu öljysäiliöstä.",
+        "B. Juuri ennen öljyn kulkeutumista öljynjäähdyttimeen.",
+        "C. Moottorin kuumien osien sisälle.",
+        "D. Öljynjäähdyttimen jälkeen, ennen kuin öljy kulkeutuu moottorin kuumiin osiin."
+      ],
+      "correctIndex": 3,
+      "explanation": "Öljynlämpötila-anturi sijaitsee öljyn paluulinjassa öljynjäähdyttimen JÄLKEEN, juuri ennen kuin öljy palaa moottoriin. Tällöin mitataan moottoriin syötettävän voiteluöljyn lämpötila, joka on tehokkain mittakohta jäähdyttimen toiminnan arvioimiseksi.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0028",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 28,
+      "statement": "Moottorin jäähdyttämiseksi:",
+      "options": [
+        "A. Polttoaine-ilmaseosta voidaan rikastaa.",
+        "B. Polttoaine-ilmaseosta voidaan laihentaa.",
+        "C. Ilmanopeutta voidaan pienentää.",
+        "D. Kidusluukut (cowl flaps) voidaan sulkea."
+      ],
+      "correctIndex": 0,
+      "explanation": "Moottorin jäähdyttäminen onnistuu rikastamalla polttoaine-ilmaseosta, koska ylimääräinen polttoaine höyrystyessään sitoo lämpöä. Lisäksi moottoria voidaan jäähdyttää pienentämällä tehoa, lisäämällä ilmanopeutta ja avaamalla kidusluukut. Laihentaminen ja kidusluukkujen sulkeminen lisäävät lämpötilaa.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0029",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 29,
+      "statement": "Liitteessä (LAPL/PPL 020-02) olevat siiven osat A, B ja C ovat nimeltään:",
+      "options": [
+        "A. Pääsalko, siipikaaret ja tanko.",
+        "B. Etusalko, sekundäärinen salko ja siipikaari.",
+        "C. Tanko, sekundäärinen salko ja siipikaari.",
+        "D. Etusalko, siipikaaret ja takasalko."
+      ],
+      "correctIndex": 3,
+      "explanation": "Liitteen LAPL/PPL 020-02 kuvassa siiven osat A, B ja C ovat etusalko, siipikaaret ja takasalko.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0030",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 30,
+      "statement": "Puolikuorirakenne tarkoittaa, että:",
+      "options": [
+        "A. Yhteen hitsatuista kevyistä teräsputkista muodostuu kolmiomainen kehikko.",
+        "B. Rakenteessa ei ole yhtään aukkoa.",
+        "C. Verhous kantaa osan kuormasta. Kaaret ja jäykisteet antavat muodon ja kantavat osan kuormasta.",
+        "D. Kevennysreiättömässä rakenteessa ulkokuori kantaa kaiken kuorman. Lisäksi tukea antavat kiristetyt vaijerit."
+      ],
+      "correctIndex": 2,
+      "explanation": "Puolikuori-/semi-monocoque-rakenteessa ulkokuori (verhous) kantaa osan kuormasta ja sisäpuoliset kaaret/jäykisteet (frames, stringers) loput. Täysi monocoque kantaisi koko kuorman pelkällä kuorella. Putkikehys on truss-rakenne.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0031",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 31,
+      "statement": "Yleisilmailukoneella, joka on varustettu mekaanisella nokkapyöräohjauksella, ohjaaminen tapahtuu maassa:",
+      "options": [
+        "A. Vaijereilla, jota käytetään ohjaussauvalla.",
+        "B. Tangoilla tai vaijereilla, joita käytetään polkimilla.",
+        "C. Ainoastaan käyttämällä tietyn puolen jarruja.",
+        "D. Hydraulisylintereillä, jotka mahdollistavat keskittämisen."
+      ],
+      "correctIndex": 1,
+      "explanation": "Modernissa nokkapyöräkoneessa ohjaus tapahtuu polkimilla, jotka liikuttavat tankoja tai vaijereita nokkapyörän kääntömekanismiin. Lisäksi käytetään yleensä myös eri puolen pääpyörän jarrua tiukemmissa käännöksissä.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 6,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0032",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 32,
+      "statement": "Moottorin puristussuhde on:",
+      "options": [
+        "A. Kokonaistilavuuden ja puristustilavuuden välinen suhde.",
+        "B. Iskutilavuuden ja kokonaistilavuuden välinen suhde.",
+        "C. Iskutilavuus suhteessa puristustilavuuteen.",
+        "D. Puristustilavuus suhteessa iskutilavuuteen."
+      ],
+      "correctIndex": 0,
+      "explanation": "Puristussuhde = kokonaistilavuus (yläkuolokohta + iskutilavuus) / puristustilavuus (yläkuolokohdan tilavuus). Tyypillisesti 6–9 lentomoottoreissa. Kuvaa, kuinka monta kertaa seos puristetaan ennen sytytystä.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0033",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 33,
+      "statement": "100Ah akku:",
+      "options": [
+        "A. On käytettävä samanaikaisesti toisen samanlaisen akun kanssa.",
+        "B. Sen lataaminen kestää 100 tuntia.",
+        "C. Tuottaa virtaa virtakiskolle (bus bar) 45A lämpölaukaisijan kautta.",
+        "D. Tuottaa teoriassa 20 ampeerin virran viideksi tunniksi."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kapasiteetti Ah = virta × aika. 100 Ah teoriassa antaa 20 A:n virran 5 tunniksi (20×5=100). Käytännössä korkeammilla virroilla saatava kapasiteetti on pienempi (Peukert).",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0034",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 34,
+      "statement": "Mikäli alternaattori tai generaattori hajoaa kesken lennon:",
+      "options": [
+        "A. Sähkönkulutus tulisi vähentää mahdollisimman pieneksi ja laskeutua, kun se on turvallisesti mahdollista.",
+        "B. Lentoa voi jatkaa normaalisti, sillä akku tuottaa tarvittavan virran sähkönkulutukselle.",
+        "C. Tulisi laturin valintakytkin laittaa OFF-asentoon ja jatkaa lentoa normaalisti ilman sähköä.",
+        "D. Tulisi sulkea kaikki sähkölaitteet ja laskeutua heti, kun mahdollista."
+      ],
+      "correctIndex": 0,
+      "explanation": "Alternaattorin/generaattorin vikaantuessa lentoa lennetään akun varassa. Sähkönkulutus on minimoitava (tarpeettomat laitteet pois) ja laskeuduttava heti, kun se on turvallisesti mahdollista. Akku riittää tyypillisesti 30–60 min.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0035",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 35,
+      "statement": "Mikäli liu'un aikana ilmanopeusmittarin ja korkeusmittarin staattinen aukko menee tukkoon jään takia:",
+      "options": [
+        "A. Ilmanopeusmittari näyttää todellista pienempää ja korkeusmittari suurempaa arvoa.",
+        "B. Ilmanopeusmittari näyttää todellista suurempaa ja korkeusmittari pienempää arvoa.",
+        "C. Molemmat mittarit näyttävät todellista suurempaa arvoa.",
+        "D. Molemmat mittarit näyttävät todellista pienempää arvoa."
+      ],
+      "correctIndex": 2,
+      "explanation": "Pitot toimii, mutta jos liu'ussa staattinen aukko jäätyy, staattinen paine 'lukittuu' aiempaan korkeampaan lukemaan. Korkeusmittari näyttää lukitun (korkeamman) arvon, vaikka korkeus pienenee → liian suuri. ASI vertaa pitot-painetta lukittuun staattiseen → näyttää liian suurta nopeutta. Molemmat näyttävät todellista suurempaa.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0036",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 36,
+      "statement": "Yhden Otto-kierron aikana nelitahtisen mäntämoottorin venttiilit aukeavat:",
+      "options": [
+        "A. Imutahdin aikana.",
+        "B. Kaksi kertaa.",
+        "C. Työtahdin aikana.",
+        "D. Kerran."
+      ],
+      "correctIndex": 1,
+      "explanation": "Yhden täyden Otto-kierron aikana imuventtiili aukeaa kerran imutahdilla ja pakoventtiili kerran poistotahdilla. Venttiilit aukeavat siis yhteensä kaksi kertaa.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0037",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 37,
+      "statement": "Magneettikompassin lähelle kiinnitetyn eksymätaulukon tarkoitus on:",
+      "options": [
+        "A. Osoittaa magneettisen suunnan ja kompassin osoittaman suunnan välinen ero.",
+        "B. Osoittaa ero tosipohjoisen ja ilma-aluksen kulkusuunnan välillä.",
+        "C. Kompensoida ohjaajan ja matkustajien kantamien sähkömagneettisten laitteiden aiheuttamat häiriöt.",
+        "D. Osoittaa ero magneettisen pohjoisen ja ilma-aluksen kulkusuunnan välillä."
+      ],
+      "correctIndex": 0,
+      "explanation": "Eksymätaulukko (compass deviation card) osoittaa magneettisen suunnan ja kompassin näyttämän suunnan välisen eron eri suunnilla. Eksymä johtuu ilma-aluksen omasta magneettikentästä (metalli, sähkölaitteet).",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0038",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 38,
+      "statement": "Yleisin tapa sammuttaa kaasutinkäyttöinen lentomoottori on:",
+      "options": [
+        "A. Säätää seosvipu täysin laihalle.",
+        "B. Säätää kaasuvipu tyhjäkäynnille ja seosvipu täysin laihalle.",
+        "C. Säätää kaasuvipu tyhjäkäynnille.",
+        "D. Kääntää käynnistyskytkin OFF-asentoon."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lentomoottori sammutetaan vetämällä seosvipu täysin laihalle (Idle Cut-Off, ICO). Tämä lopettaa polttoaineen syötön ja moottori sammuu ilman polttoaineen jäämistä sylintereihin – estää jälkikäyntiä ja palovaaroja.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 7,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0039",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 39,
+      "statement": "Miksi ilma-alusten sytytysjärjestelmä on varustettu kipinänvahvistimella?",
+      "options": [
+        "A. Kaikki vastausvaihtoehdot ovat oikein.",
+        "B. Sillä estetään kipinän iskeminen väärään suuntaan käynnistyksen yhteydessä.",
+        "C. Suurella pyörimisnopeudella tarvitaan voimakkaampi kipinä seoksen syttymiseen.",
+        "D. Moottorin kierrosnopeus on liian alhainen käynnistyksen yhteydessä, jotta magneeton tuottama virta riittäisi sytyttämään seoksen."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kipinänvahvistinta tarvitaan käynnistyksessä, koska moottorin pyörimisnopeus on liian alhainen, jotta magneetto tuottaisi riittävän voimakkaan kipinän seoksen sytyttämiseksi. Impulse coupling lisäksi viivästää sytytystä käynnistyksen aikana ja ehkäisee potkurin takaisinpotkua.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0040",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 40,
+      "statement": "Yksityisen ilma-aluksen huoltotoimenpiteet, joita lentäjä saa itse tehdä määräysten mukaan:",
+      "options": [
+        "A. On kirjattava ilma-aluksen lokikirjaan ja huollon kuittaa huollon suorittanut lentäjä.",
+        "B. On kirjattava ilma-aluksen lokikirjaan ja huollon kuittaa valtuutettu mekaanikko.",
+        "C. On kirjattava ilma-aluksen lokikirjaan ja huollon kuittaa ilmailuviranomaisen hyväksymä tarkastaja.",
+        "D. Eivät vaadi kirjausta tai seurantaa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pilotille sallitut huoltotoimet (Part-M/CS-VLA mukaan) on kirjattava ilma-aluksen lokikirjaan ja huollon kuittaa työn suorittanut lentäjä itse. Vain ammattihuoltoja kuittaavat valtuutetut mekaanikot.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0041",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 41,
+      "statement": "Hiilimonoksidi, erittäin myrkyllinen kaasu, voi päästä lennolla ilma-aluksen ohjaamoon viallisen pakokaasujärjestelmän kautta. Hiilimonoksidi:",
+      "options": [
+        "A. Voidaan tunnistaa sen harmaasta väristä.",
+        "B. Voidaan tunnistaa sen vahvasta tuoksusta.",
+        "C. On hajuton ja väritön.",
+        "D. Omaa selvästi erottuvan maun."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hiilimonoksidi (CO) on hajuton ja väritön, lievästi kevyempi kuin ilma kaasu. Se sitoutuu hemoglobiiniin 200× tehokkaammin kuin happi → kudosten hapenpuute. Lentäjän on epäiltävä CO:ta, jos lämmityksen käytön jälkeen tulee päänsärkyä, pahoinvointia tai uneliaisuutta.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0042",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 42,
+      "statement": "Lapakulma _____ potkurin tyvestä kärkeen, jotta saavutetaan optimaalinen _____ potkurin tyvestä kärkeen.",
+      "options": [
+        "A. Pienenee, kohtauskulma",
+        "B. Kasvaa, kohtauskulma",
+        "C. Kasvaa, tehollinen nousu",
+        "D. Pienenee, geometrinen nousu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Optimaalinen kohtauskulma saavutetaan koko lavan pituudelta, kun lapakulma pienenee tyvestä kärkeen. Kärki liikkuu nopeammin (suurempi ratanopeus) ja sen kohtaaman ilmavirran vektori on jyrkempi tangentiaalisesta suunnasta → tarvitsee pienemmän geometrisen lapakulman.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0043",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 43,
+      "statement": "Suuntahyrrä:",
+      "options": [
+        "A. Antaa stabiilin näyttämän koneen asennosta, jonka avulla voidaan säilyttää koneen nokan asento ja suunta.",
+        "B. Kärsii kiihtyvyysvirheistä kaarron aikana.",
+        "C. Ei kärsi ryömimisestä, joka johtuu kitkasta mittarin laakereissa.",
+        "D. Ryömii alkuperäisestä asennostaan johtuen maan pyörimisestä."
+      ],
+      "correctIndex": 3,
+      "explanation": "Suuntahyrrä (Directional Gyro, DG) säilyttää asentonsa avaruudessa. Maan pyöriminen aiheuttaa näennäisen ryömimisen (apparent drift, n. 15°/h × sin(latitude)) – mittari on synkronoitava magneettikompassin kanssa säännöllisesti vaakalennossa.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0044",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 44,
+      "statement": "Nousussa korkeus _____ ja ilman tiheys _____. Tämän takia seosta tulee _____.",
+      "options": [
+        "A. Pienenee/kasvaa/laihentaa",
+        "B. Kasvaa/pienenee/laihentaa",
+        "C. Pienenee/pienenee/rikastaa",
+        "D. Kasvaa/pienenee/rikastaa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nousussa korkeus kasvaa, ilman tiheys pienenee. Polttoaineen syöttö pysyy lähes samana, mutta ilmaa on vähemmän → seos rikastuu liikaa. Korjaus: laihenna seosta korkeudessa optimaalisen suorituskyvyn ja oikean palotapahtuman ylläpitämiseksi.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 8,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0045",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 45,
+      "statement": "Lennettäessä merenpinnan tasolla, nelitahtisen moottorin tuottama teho:",
+      "options": [
+        "A. Nousee aluksi, jonka jälkeen säilyy vakiona kun kierrosluku kasvaa.",
+        "B. Kasvaa kun kierrosluku kasvaa.",
+        "C. On verrannollinen sylinteriin syötetyn seoksen tilavuudesta.",
+        "D. Säilyy vakiona, kun kierrosluku kasvaa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mäntämoottorin tuottama teho kasvaa kierrosluvun mukana, koska teho = vääntö × kulmanopeus. Vääntö pysyy melko vakiona kierroslukualueella, joten teho seuraa likimain lineaarisesti kierroslukua optimaalisella seossuhteella.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0046",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 46,
+      "statement": "Kun vakiokierrospotkurilla varustettu lentokone kiihdyttää kiitotietä pitkin:",
+      "options": [
+        "A. Kohtauskulma pienenee ja kierrosluku säilyy vakiona.",
+        "B. Kohtauskulma pysyy vakiona ja kierrosluku kasvaa.",
+        "C. Lapakulma kasvaa, säilyttäen kohtauskulman ja kierrosluvun vakiona.",
+        "D. Potkurin kärjen ratanopeus pienenee vähitellen."
+      ],
+      "correctIndex": 2,
+      "explanation": "Vakiokierrospotkurin tehtävänä on pitää kierrosluku vakiona muuttamalla lapakulmaa. Kun lentokone kiihdyttää, lavan kohtauskulma pyrkii pienenemään ja kierrosluku kasvamaan → CSU-säädin lisää lapakulmaa, jolloin AOA ja kierrosluku säilyvät.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0047",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 47,
+      "statement": "Kuvassa (PPL(A) 020-03) on kevyen ilma-aluksen sähköjärjestelmä, joka on varustettu nollakeskeisellä ampeerimittarilla. Lennon aikana akun ollessa täysi ja akun valintakytkimen ollessa ON-asennossa, ampeerimittarin neulan tulisi olla:",
+      "options": [
+        "A. Neulan asento vaihtelee, mutta näyttää pääsääntöisesti negatiivista lukemaa.",
+        "B. Oikealla, näyttäen suurta positiivista lukemaa.",
+        "C. Keskellä, nolla-asennossa.",
+        "D. Vasemmalla, näyttäen negatiivista lukemaa."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nollakeskeinen ampeerimittari näyttää akun virran (lataus +, purkaus -). Kun akku on täysi ja sähkönkulutus normaalia, alternaattori syöttää suoraan kuormalle eikä akkua tarvitse ladata → mittari keskellä, lähellä nollaa.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0048",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 48,
+      "statement": "Ohjainlukko:",
+      "options": [
+        "A. Lukitsee ohjaimet ja estää vauriot tuulisissa olosuhteissa, koneen ollessa pysäköitynä.",
+        "B. Sitä tulee aina käyttää lennettäessä puuskaisella säällä.",
+        "C. Pakollinen vain korkeusperäsimessä.",
+        "D. Rajoittaa ohjaussauvan sen suunnittelurajoihin asti, jotta koneen runko ei vahingoitu normaalioperoinnin aikana."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ohjainlukko (control lock) lukitsee siivekkeet, korkeus- ja sivuperäsimen, kun kone on pysäköitynä. Tarkoitus on estää tuulen aiheuttamat ohjainpintojen heilahtelut ja vaurioituminen. Lukko on poistettava ehdottomasti ennen lentoa!",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0049",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 49,
+      "statement": "Jos renkaaseen tai sen kiinnityksiin syttyy tulipalo ja palo on välittömästi sammutettava, turvallisin sammutusaine on:",
+      "options": [
+        "A. Bromotrifluorimetaani (BTF).",
+        "B. Vesihappo.",
+        "C. Jauhe.",
+        "D. Hiilidioksidi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Rengaspaloon (laskutelineen renkaat/jarrut) sopii parhaiten kuiva jauhe (dry chemical). CO2 jäähdyttää voimakkaasti → voi halkaista kuumat jarrurummut/-levyt. Halon (BTF) on tarkoitettu suljettuihin tiloihin, ei ulkoisille palolle.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0050",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 50,
+      "statement": "Magneettikompassia käytettäessä lentäjän on muistettava, että:",
+      "options": [
+        "A. Kaartovirheet ovat suurimmillaan kaarrettaessa pohjoisen ja etelän kautta, pienimmillään idän ja lännen kautta.",
+        "B. Kaartovirheet kasvavat, mitä lähempänä ollaan magneettista päiväntasaajaa ja pienenevät siirryttäessä kohti magneettisia napoja.",
+        "C. Kaartovirheet ovat suurimmillaan kaarrettaessa idän ja lännen kautta, pienimmillään pohjoisen ja etelän kautta.",
+        "D. Kiihtyvyysvirheet kasvavat, mitä lähempänä ollaan magneettisia napoja ja pienenevät siirryttäessä kohti magneettista päiväntasaajaa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kaartovirheet (turning errors) ovat magneettikompassin pahimmat virheet kaarrettaessa pohjoisen tai etelän kautta (suuret virheet) – pohjoisesta lähtiessä kompassi 'jää jälkeen'. Kaartovirheet ovat pienimmät idän/lännen kautta. Kiihtyvyysvirheet taas ovat pahimmat itäisillä/läntisillä suunnilla (ANDS-sääntö).",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 9,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0051",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 51,
+      "statement": "Mikäli kylmää moottoria käynnistettäessä öljynpainemittari ei näytä nousua 30 sekunnin kuluessa käynnistyksestä, on:",
+      "options": [
+        "A. Moottori sammutettava välittömästi.",
+        "B. Voidaan jättää huomioimatta, mikäli öljyn määrä oli riittävä konetta tarkastettaessa ennen käynnistystä.",
+        "C. Voidaan jättää huomioimatta jos öljy on kuumaa ja öljyn määrä oli riittävä konetta tarkastettaessa ennen käynnistystä.",
+        "D. Moottorin kierroslukua tulee lisätä, minkä jälkeen öljynpaine tulee tarkastaa uudelleen."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kylmästä käynnistyksessä öljynpainemittarin pitää näyttää nousua 30 sekunnin kuluessa. Jos paine ei nouse, öljyä ei pumppaudu – moottori vaurioituu sekunneissa. Sammuta moottori välittömästi ja selvitä syy.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0052",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 52,
+      "statement": "Renkaan ryömiminen (tyre creep) voidaan tunnistaa:",
+      "options": [
+        "A. Kahdesta vastakkaisilla puolilla toisiaan olevista keltaisista nuolista renkaan kyljessä.",
+        "B. Kahdesta valkoisesta neliöstä, jotka ovat piirretty vanteeseen.",
+        "C. Renkaan kylkeen ja vanteeseen maalatusta kohdistusviivasta.",
+        "D. Tarkastamalla rengaspaine."
+      ],
+      "correctIndex": 2,
+      "explanation": "Renkaan ryömä (tyre creep) tunnistetaan renkaan kylkeen ja vanteeseen maalatusta kohdistusviivasta. Kun viiva on siirtynyt, on rengas liukunut suhteessa vanteeseen – riski venttiilin katkeamiselle.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0053",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 53,
+      "statement": "Pakokaasun lämpötilamittari:",
+      "options": [
+        "A. Tekee saman asian kuin sylinterinpään lämpötilamittari.",
+        "B. Tarvitsee sähköä tasavirtakiskolta.",
+        "C. On mittari, joka on tarkoitettu suojaamaan moottoria liialliselta kuumentumiselta.",
+        "D. Pystyy ilmaisemaan, onko palokammion polttoaine-ilmaseos liian rikas tai laiha."
+      ],
+      "correctIndex": 3,
+      "explanation": "Pakokaasun lämpötila (EGT) on suoraan verrannollinen polttoaine-ilmaseokseen. Stoikiometrisellä seoksella EGT on suurin (peak EGT). Rikkaammalla tai laihemmalla seoksella EGT laskee. Mittari auttaa optimoimaan seoksen matkalennossa.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0054",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 54,
+      "statement": "Nelitahtisen moottorin oikea työkierto on:",
+      "options": [
+        "A. Imu-, työ-, puristus-ja poistotahti.",
+        "B. Poisto-, imu-, työ-ja puristustahti.",
+        "C. Imu-, puristus-, työ-ja poistotahti.",
+        "D. Poisto-, työ-, puristus-ja imutahti."
+      ],
+      "correctIndex": 2,
+      "explanation": "Otto-syklin oikea järjestys: 1) Imu (intake) – mäntä alas, imuventtiili auki, seos tankoutuu, 2) Puristus (compression) – mäntä ylös, kaikki venttiilit kiinni, 3) Työ (power) – sytytys, kaasut paisuvat, mäntä alas, 4) Poisto (exhaust) – mäntä ylös, pakoventtiili auki.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0055",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 55,
+      "statement": "Lentäminen tyhjällä akulla varustetulla ilma-aluksella, joka on käynnistetty käyttäen apuna maavirtaa:",
+      "options": [
+        "A. Ei ole suositeltavaa, sillä akku ei välttämättä lataudu oikein lennon aikana.",
+        "B. On sallittua, koska akkua ei tarvita lennolla.",
+        "C. Ei ole suositeltavaa, koska sähköä ei ole riittävästi.",
+        "D. On sallittua, koska akku latautuu täyteen ennen lentoonlähtöä."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tyhjällä akulla maavirtakäynnistys ei ole suositeltavaa: lennon aikana alternaattorin pitäisi ladata akkua, mutta tyhjä akku ei välttämättä lataudu kunnolla, ja jos alternaattori vikaantuu, lennossa ei ole mitään sähkövirran lähdettä.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0056",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 56,
+      "statement": "Ryyppypumpun lukittuminen paikoilleen on tarkistettava käytön jälkeen, koska:",
+      "options": [
+        "A. Se voi aiheuttaa polttoainevuodon kasvattaen tulipalon mahdollisuutta.",
+        "B. Se voi aiheuttaa polttoaineen imeytymisen polttoainetankista kaasuttimeen, tehden seoksesta erittäin rikkaan.",
+        "C. Jos se tärisee suljettuna, se aiheuttaa moottorin sammumisen.",
+        "D. Se voi aiheuttaa polttoaineen imeytymisen polttoainesuodattimesta imujärjestelmään, tehden seoksesta erittäin rikkaan."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ryyppypumpun on oltava käytön jälkeen painettuna sisään ja lukittuna. Jos ryyppypumppu jää auki tai lukitsematta, moottorin imu voi vetää polttoainetta primerijärjestelmän kautta hallitsemattomasti sylintereihin tai imujärjestelmään, jolloin seos rikastuu liikaa ja moottori voi käydä karkeasti. Vuotava tai lukitsematon primeri voi lisäksi aiheuttaa polttoainevuodon, mikä kasvattaa tulipalon mahdollisuutta.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 10,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0057",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 57,
+      "statement": "Mikä vaikutus on ilma-aluksen lentokelpoisuudelle sillä, että sitä ei huolleta lentokelpoisuustodistuksen mukaisen huoltoaikataulun mukaisesti?",
+      "options": [
+        "A. Ilma-aluksen omistajan tulee hakea viranomaiselta poikkeuslupaa huoltoaikatauluun.",
+        "B. Lentokelpoisuustodistus tulee uusia ennen kuin ilma-aluksella voi lentää.",
+        "C. Sillä ei ole vaikutusta lentokelpoisuustodistukseen.",
+        "D. Lentokelpoisuustodistus on pätemätön niin kauan, kunnes tarvittavat huoltotoimenpiteet ovat suoritettu."
+      ],
+      "correctIndex": 3,
+      "explanation": "Lentokelpoisuustodistus on pätemätön niin kauan, kunnes määräaikaiset tai määrätyt huollot on suoritettu ja kuitattu. Lentäminen huoltamattomalla ilma-aluksella on lainvastaista ja mitätöi vakuutukset.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0058",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 58,
+      "statement": "Työtahdin aikana nelitahtisen moottorin palokaasujen lämpötila sylinterissä:",
+      "options": [
+        "A. Pysyy samana.",
+        "B. Käyttäytyy Charles:n lain mukaisesti.",
+        "C. Pienenee.",
+        "D. Nousee."
+      ],
+      "correctIndex": 2,
+      "explanation": "Työtahdin aikana puristettu seos sytytetään, palaminen vapauttaa lämpöä ja palokaasujen lämpötila ja paine nousevat voimakkaasti. Tämä työntää männän alas tehden työn. Lämpötila huipentuu juuri sytytyksen jälkeen.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0059",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 59,
+      "statement": "Mäntämoottorin kampiakseli:",
+      "options": [
+        "A. Pyörii nokka-akseliin verrattuna puolella nopeudella.",
+        "B. Muuttaa edestakaisen liikkeen pyöriväksi.",
+        "C. Säätää venttiilien asentoja.",
+        "D. Muuttaa pyörivän liikkeen edestakaiseksi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kampiakselin tehtävä on muuttaa männän edestakainen liike pyöriväksi liikkeeksi. Kiertokanki välittää voiman männästä kampiakseliin. Pyörivä liike välitetään potkurille (suoraan tai vaihteen kautta).",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0060",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 60,
+      "statement": "Moottoritilassa olevat levyt:",
+      "options": [
+        "A. Ovat ilmanohjaimia, jotka ohjaavat ilmavirtauksen menemään sylinterin ympäri.",
+        "B. Ovat sijoitettu voitelujärjestelmään ja ovat tarkoitettu hidastamaan öljyn valumista moottoriin.",
+        "C. Vähentävät ilmavirtaa moottorin ympärillä.",
+        "D. Tulee sijoittaa tiiviisti keskenään ilmavirran vähentämiseksi moottorin ympärillä."
+      ],
+      "correctIndex": 0,
+      "explanation": "Moottoritilan levyt (engine baffles) ohjaavat moottorin ympärille jäähdytysilman ahtopaineesta sylinterien jäähdytysripoihin. Ilman levyjä ilma kulkisi vain helpointa reittiä eikä jäähdyttäisi sylintereitä tehokkaasti.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0061",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 61,
+      "statement": "Ennenaikainen syttyminen:",
+      "options": [
+        "A. Tapahtuu sytytystulpan aiheuttaman kipinän jälkeen.",
+        "B. Tapahtuu sytytyksen jälkeen.",
+        "C. Tunnetaan myös nimellä koputus.",
+        "D. Aiheutuu yleensä kuumasta kohdasta palokammiossa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Pre-ignition (ennenaikainen syttyminen) aiheutuu yleensä kuumasta kohdasta (hot spot) palokammiossa, kuten hehkuvasta sytytystulpasta, kekohanasta tai venttiilistä. Kuuma kohta sytyttää seoksen ennen kipinää.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0062",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 62,
+      "statement": "Moottorissa käytettävää seossuhdetta on paras käyttää:",
+      "options": [
+        "A. Hieman laihalla, jolloin ylimääräinen ilma jäähdyttää moottoria.",
+        "B. Hieman rikkaalla, jolloin ylimääräinen ilma jäähdyttää moottoria.",
+        "C. Hieman rikkaalla, jolloin ylimääräinen polttoaine jäähdyttää moottoria.",
+        "D. Kemiallisesti oikeassa suhteessa, koska se on kaikista tehokkain."
+      ],
+      "correctIndex": 2,
+      "explanation": "Käytännössä lentomoottoreita käytetään hieman rikkaammalla seoksella kuin stoikiometrinen, koska ylimääräinen polttoaine höyrystyessään sitoo lämpöä ja jäähdyttää sylintereitä. Tämä ehkäisee detonaatiota ja kuumenemista.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 11,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0063",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 63,
+      "statement": "Jos pitot-järjestelmän lämmitys vikaantuu jäätävissä olosuhteissa ja ilma-alus aloittaa liu'un tukkeutuneella pitot-putkella, niin korkeusmittarin, pystynopeusmittarin ja ilmanopeusmittarin näyttämät ovat: (korkeusmittari/pystynopeusmittari/ilmanopeusmittari)",
+      "options": [
+        "A. Näyttää oikein/näyttää oikein/epäluotettava",
+        "B. Näyttää liian alhaista arvoa/näyttää oikein/näyttää liian korkeaa arvoa",
+        "C. Näyttää oikein/näyttää oikein/näyttää liian korkeaa arvoa",
+        "D. Näyttää oikein/näyttää liian alhaista arvoa/näyttää liian korkeaa arvoa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pitot tukossa (jää) liu'ussa: pitot-paine 'lukittuu', static-aukko toimii. Korkeusmittari (vain static) ja VSI (vain static) näyttävät oikein. ASI = pitot - static; pitot lukossa, mutta static muuttuu liu'ussa kasvaen → näytti epäluotettavaa lukemaa (yleensä laskien).",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0064",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 64,
+      "statement": "Sylinterinpään lämpötilamittari:",
+      "options": [
+        "A. Tarvitsee vaihtovirtaa mittarin neulan liikkumiseen.",
+        "B. Saa tietonsa anturista, joka on sijoitettu noin 10cm etäisyydelle sylinteristä pakokaasujärjestelmässä.",
+        "C. Saa tietonsa moottorin kuumimpaan sylinteriin liitetystä kaksoismetalliliuskasta.",
+        "D. On pääasiallisesti polttoainehallintamittari."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sylinterinpään lämpötilamittari (CHT) saa tietonsa anturista, joka on asennettu suoraan kuumimpaan sylinteriin (tyypillisesti termopari tai bimetalli sytytystulpan alla tai pultilla kiinni). EGT-mittarin anturi on pakoputkessa.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0065",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 65,
+      "statement": "Staattisen paineen aukko tukkiutuu vaakalennon aikana jäätävissä olosuhteissa. Ilma-aluksen aloittaessa myöhemmin nousun, jolloin korkeusmittarin, pystynopeusmittarin ja ilmanopeusmittarin näyttämät ovat: (korkeusmittari/pystynopeusmittari/ilmanopeusmittari)",
+      "options": [
+        "A. Säilyy muuttumattomana/säilyy muuttumattomana/näyttää liian alhaista arvoa.",
+        "B. Säilyy muuttumattomana/näyttää liian alhaista arvoa/näyttää liian korkeaa arvoa.",
+        "C. Näyttää liian korkeaa arvoa/näyttää liian korkeaa arvoa/näyttää liian alhaista arvoa.",
+        "D. Näyttää liian alhaista arvoa/säilyy muuttumattomana/näyttää liian korkeaa arvoa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Static-port tukossa vaakalennossa ja sitten nousu: korkeusmittari ja VSI lukittuvat vaakalennon lukemiin (eivät muutu). ASI: lukittu suurempi static, todellinen pienenee → indicated < actual eli näyttää liian alhaista.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0066",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 66,
+      "statement": "Todennäköisin syy öljynpainemittarin neulan heilahteluille vaakalennossa moottorin käydessä matkalentoteholla on:",
+      "options": [
+        "A. Alhainen tehoasetus.",
+        "B. Väljät sähköliittimet.",
+        "C. Ilmaa öljysäiliössä.",
+        "D. Alhainen öljymäärä."
+      ],
+      "correctIndex": 3,
+      "explanation": "Heilahteleva öljynpaine vaakalennossa matkalentoteholla on tyypillinen alhaisen öljymäärän merkki: pumppu imee välillä ilmaa öljyn pinnalta. Ennen lentoa öljymäärän tarkistus on välttämätön.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0067",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 67,
+      "statement": "Pääasiallinen syy, minkä takia kevyissä ilma-aluksissa on kiinteät laskutelineet on:",
+      "options": [
+        "A. Koulukonetta täytyy tukea tietyltä korkeudelta.",
+        "B. Koulukoneen on liikuttava maassa.",
+        "C. Koulukoneen on kestettävä laskussa absorboituva liike-energia.",
+        "D. Lisävastuksen aiheuttama suorituskyvyn menetys korvautuu kiinteän laskutelineen yksinkertaisuudella, edullisella hinnalla ja helpolla huollettavuudella."
+      ],
+      "correctIndex": 3,
+      "explanation": "Yleisilmailun harjoitus-/koulukoneissa kiinteä laskuteline on yleisin, koska sen aiheuttama lisävastus on vähäinen ja se kompensoituu yksinkertaisuudella, edullisuudella ja huoltovapaudella verrattuna sisään vedettävään telineeseen.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0068",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 68,
+      "statement": "Polttoainesäiliöön ilmaantuva vesi aiheutuu yleisimmin:",
+      "options": [
+        "A. Huonosti asettuvista korkeista.",
+        "B. Tankkauksen yhteydessä polttoaineesta.",
+        "C. Polttoainesäiliöön jäävän ilman kosteudesta.",
+        "D. Vuodoista polttoainesäiliössä, jotka ovat päästäneet sadetta sisään."
+      ],
+      "correctIndex": 2,
+      "explanation": "Vesi polttoainesäiliössä syntyy yleisimmin kondensoitumisesta: säiliön yläosaan jäänyt kostea ilma jäähtyy ja vesihöyry tiivistyy. Vältetään pitämällä tankit täysinä yön yli ja tankkaamalla säännöllisesti. Vesi tarkistetaan polttoainenäytteistä ennen lentoa.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 12,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0069",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 69,
+      "statement": "Korkeusmittari:",
+      "options": [
+        "A. Sisältää aneroidinkapselin ja staattisen paineen lähteen. Kapseli supistuu korkeuden pienentyessä.",
+        "B. Sisältää osittain tyhjennetyn kotelon, joka laajenee liu'un aikana.",
+        "C. Sisältää painekotelon, joka laajenee liu'un aikana.",
+        "D. Sisältää painekotelon, joka on yhteydessä kokonaispaineen aukkoon. Kotelo supistuu liu'un aikana."
+      ],
+      "correctIndex": 0,
+      "explanation": "Korkeusmittarin pääosa on aneroidikapseli (osittain tyhjennetty kotelo), joka on yhteydessä ulkoiseen staattiseen paineeseen. Korkeuden noustessa staattinen paine pienenee ja kapseli laajenee; korkeuden laskiessa paine kasvaa ja kapseli supistuu.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0070",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 70,
+      "statement": "Moottorin kiihdytyspumppua käytetään, jotta moottori ei sammu tehonmuutosten aikana. Tällainen ilmiö syntyy:",
+      "options": [
+        "A. Kun kaasuvipu avataan nopeasti, eikä polttoainetta ole heti riittävästi saatavilla tehoasetusta varten.",
+        "B. Kun kaasuvipu suljetaan nopeasti, jolloin moottori ei saa polttoainetta.",
+        "C. Kun kaasuvipu suljetaan nopeasti ja seoksesta tulee hetkellisesti liian rikas.",
+        "D. Kun kaasuvipu avataan nopeasti, jolloin seoksesta tulee hetkellisesti liian rikas."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kiihdytyspumppu (accelerator pump) ruiskuttaa polttoainetta kaasuttimeen, kun kaasuvipu avataan nopeasti. Ilman sitä äkillinen ilmavirran kasvu tekisi seoksesta hetkellisesti liian laihan ja moottori voisi sammua.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0071",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 71,
+      "statement": "Jos vallitseva ilmankosteus ei ole tiedossa, kaasuttimen jäätäminen on mahdollista:",
+      "options": [
+        "A. Lämpötilavälillä -20°C...+10°C.",
+        "B. Millä tahansa lämpötilalla.",
+        "C. Lämpötilavälillä -30°C...+10°C.",
+        "D. Lämpötilassa 0°C ja sen alapuolella."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kun ilman kosteus ei ole tiedossa, kaasuttimen jäätyminen on syytä epäillä millä tahansa lämpötilalla. Yleensä riskialue on -10…+30 °C, ja erityisesti +0…+20 °C kostealla ilmalla, mutta varovaisuussyistä lähtökohta on 'voi tapahtua aina'.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0072",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 72,
+      "statement": "Mikäli sulake palaa lennon aikana:",
+      "options": [
+        "A. Se voidaan vaihtaa niin usein, kuin on tarve.",
+        "B. Se voidaan vaihtaa ainoastaan kerran lennon aikana samanarvoisella sulakkeella.",
+        "C. Sitä ei pitäisi vaihtaa ennen laskeutumista.",
+        "D. Sen tilalle voi vaihtaa korkeampaa virtaa kestävän sulakkeen uudelleenpalamisen ehkäisemiseksi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sulakkeen palaminen lennon aikana saa korvata KERRAN samanarvoisella sulakkeella. Jos uusi sulake palaa heti uudelleen, vika on jätettävä korjaamatta lennolla – uudelleenkytkentä voi sytyttää tulipalon. Korkeampaa sulaketta ei saa koskaan asentaa.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0073",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 73,
+      "statement": "Suurin osa uudenaikaisten kevyiden ilma-alusten nokkatelineistä on:",
+      "options": [
+        "A. Öljy-jousitoimisia iskua vaimentavia joustintukia.",
+        "B. Kierrejousisia joustintukia.",
+        "C. Teräsjousitoimisia joustintukia.",
+        "D. Kumisia joustintukia."
+      ],
+      "correctIndex": 0,
+      "explanation": "Modernit yleisilmailukoneet käyttävät öljy-jousitoimisia joustintukia (oleo strut), jotka käyttävät öljyä iskunvaimennukseen ja typpeä jousitukseen. Tehokas iskunvaimennus laskuissa ja rullauksessa.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0074",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 74,
+      "statement": "Mikäli liu'un aikana pystynopeusmittariin kulkeutuva staattisen paineen linja menee tukkoon, pystynopeusmittarin näyttämä on:",
+      "options": [
+        "A. Näyttää liukua.",
+        "B. Jatkaa samaa näyttämää.",
+        "C. Näyttää nousua.",
+        "D. Nolla, pienen viiveen jälkeen."
+      ],
+      "correctIndex": 3,
+      "explanation": "VSI näyttää muutoksen staattisessa paineessa. Kun static-linja menee tukkoon liu'ussa, paine ei muutu mittarissa → VSI näyttää 0 pienen viiveen jälkeen, riippumatta todellisesta liu'usta.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 13,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0075",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 75,
+      "statement": "Lennon aikana pitot-putken eteenpäin osoittavan reiän havaitsema paine on:",
+      "options": [
+        "A. Kokonaispaine ja dynaaminen paine.",
+        "B. Vain dynaaminen paine.",
+        "C. Dynaaminen paine ja staattinen paine.",
+        "D. Vain staattinen paine."
+      ],
+      "correctIndex": 2,
+      "explanation": "Pitot-putken eteenpäin osoittava reikä havaitsee kokonaispaineen eli staattisen paineen ja dynaamisen paineen summan. Ilmanopeusmittari saa dynaamisen paineen vertaamalla pitot-kokonaispainetta staattiseen paineeseen.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0076",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 76,
+      "statement": "Mikä seuraavista kasvattaa kiintopotkurin lavan kohtauskulmaa?",
+      "options": [
+        "A. Pienenevä tosi-ilmanopeus ja pienenevä kierrosluku.",
+        "B. Pienenevä tosi-ilmanopeus ja lisääntyvä kierrosluku.",
+        "C. Lisääntyvä tosi-ilmanopeus ja pienenevä kierrosluku.",
+        "D. Lisääntyvä tosi-ilmanopeus ja lisääntyvä kierrosluku."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kiintopotkurin lavan kohtauskulma riippuu lavan geometrisestä kulmasta ja suhteellisen tuulen kulmasta. Suhteellinen tuuli = vektorisumma TAS (lentäen) ja Vrot (pyörien). AOA kasvaa, kun TAS pienenee TAI kierrosluku kasvaa, koska tällöin suhteellinen tuuli tulee enemmän tangentiaalisesta suunnasta.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0077",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 77,
+      "statement": "Keinohorisontissa oleva hyrrä:",
+      "options": [
+        "A. Säilyttää asentonsa maapallon suhteen ja pyörii pystysuorassa ilma-aluksen pituusakselin ympäri.",
+        "B. Säilyttää asentonsa ilma-aluksen suhteen ja pyörii vaakatasossa ilma-aluksen pituusakselin ympäri.",
+        "C. Säilyttää asentonsa maapallon suhteen ja pyörii vaakatasossa akselin ollessa pystysuorassa.",
+        "D. Säilyttää asentonsa maapallon suhteen ja pyörii pystysuorassa ilma-aluksen lateraalitason ympäri."
+      ],
+      "correctIndex": 2,
+      "explanation": "Keinohorisontin hyrrä on pystyakselilla pyörivä (akseli pystysuorassa), ja kehä on kardaaniripustuksella. Hyrrä säilyttää asentonsa avaruudessa (pystysuorana), ja ilma-alus liikkuu sen ympärillä – kehä näyttää koneen asennon.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0078",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 78,
+      "statement": "Kiintopotkurilla ja kaasuttimella varustetun lentokoneen ensimmäiset oireet kaasuttimen jäätyessä ovat:",
+      "options": [
+        "A. Äkillinen kierrosnopeuden pieneneminen sekä moottorin lämpötilan lasku.",
+        "B. Vaakalennossa ahtopaineen nousu sekä ilmanopeuden lasku.",
+        "C. Öljyn lämpötilan nousu ja öljynpaineen lasku.",
+        "D. Asteittainen kierrosluvun pieneneminen sekä mahdollisesti huono käynti ja tärinä."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kaasuttimen jäätymisen ensimmäinen merkki kiintopotkurilla on asteittainen kierrosluvun pieneneminen, koska jää tukkii ilmavirran. Lopulta moottori käy karkeasti, voi täristä ja sammua. Vakiokierrospotkurilla ensimmäinen merkki on ahtopaineen lasku.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0079",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 79,
+      "statement": "Alternaattorin pääasiallinen hyöty generaattoriin verrattuna on:",
+      "options": [
+        "A. Generaattorin tuottama virta vaihtelee liikaa.",
+        "B. Alternaattori tuottaa tasavirtaa käämityksestään.",
+        "C. Generaattori voi tuottaa ainoastaan vaihtovirtaa.",
+        "D. Alternaattori tuottaa lähes täyttä tehoa tyhjäkäynnillä."
+      ],
+      "correctIndex": 3,
+      "explanation": "Alternaattori tuottaa lähes täyden tehon jo tyhjäkäynnillä (matalalla kierrosluvulla), kun taas generaattori tarvitsee korkeammat kierrokset. Alternaattorin sisäinen tasasuuntaaja muuntaa AC:n DC:ksi, kun taas generaattori tuottaa DC:tä suoraan.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0080",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 80,
+      "statement": "Venturiputken kurkussa ilman nopeus _____, staattinen tai vallitseva paine _____ ja lämpötila _____.",
+      "options": [
+        "A. Kasvaa/pienenee/pienenee",
+        "B. Kasvaa/kasvaa/kasvaa",
+        "C. Pienenee/kasvaa/pienenee",
+        "D. Pienenee/pienenee/kasvaa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bernoullin lain mukaan venturin kurkussa nopeus kasvaa, staattinen paine pienenee ja koska kaasu paisuu adiabaattisesti, lämpötila pienenee. Tätä paine-eroa hyödyntävät kaasutin (polttoaineen syöttö) ja venturi-tyyppinen alipainelähde.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 14,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0081",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 81,
+      "statement": "Mitkä seuraavista mittareista toimivat tyypillisesti tyhjiöpumppujärjestelmällä? 1. Suuntahyrrä 2. Kaartomittari 3. Keinohorisontti 4. Korkeusmittari 5. Magneettikompassi",
+      "options": [
+        "A. 1 ja 3.",
+        "B. 1, 3 ja 4.",
+        "C. 1, 3 ja 5.",
+        "D. 1 ja 2."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tyhjiöpumppukäyttöisiä mittareita ovat tyypillisesti suuntahyrrä (DG) ja keinohorisontti (AI). Niiden hyrrät pyöritetään ilmavirran avulla. Kaartomittari on yleensä sähköinen, korkeusmittari aneroidi (paine), ja magneettikompassi pelkästään mekaanis-magneettinen.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0082",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 82,
+      "statement": "Nakutus on:",
+      "options": [
+        "A. Osa tavallista moottorin käyntiä.",
+        "B. Tunnettu myös nimellä \"mäntäläimäys\".",
+        "C. Vahingollista männille.",
+        "D. Mahdotonta tunnistaa ulkopuolelta."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nakutus aiheuttaa korkeita iskumaisia paineenmuutoksia, jotka vahingoittavat erityisesti mäntiä, männänrenkaita, sytytystulppia ja venttiileitä. Pitkäaikainen nakutus voi tuhota moottorin lyhyessä ajassa.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0083",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 83,
+      "statement": "Virranjakajan varsi pyörii:",
+      "options": [
+        "A. Samalla nopeudella kuin moottori.",
+        "B. Kaksinkertaisella nopeudella moottorin nopeuteen verrattuna.",
+        "C. Neljäsosanopeudella moottorin nopeuteen verrattuna.",
+        "D. Puolikkaalla nopeudella moottorin nopeuteen verrattuna."
+      ],
+      "correctIndex": 3,
+      "explanation": "Virranjakajan varsi (distributor) pyörii puolikkaalla nopeudella verrattuna kampiakseliin nelitahtimoottorissa, koska kukin sytytystulppa sytyttää kerran kahta kampiakselikierrosta kohti (yksi täysi Otto-sykli).",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0084",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 84,
+      "statement": "Suuntahyrrä voidaan asettaa linjaan magneettikompassin kanssa:",
+      "options": [
+        "A. Nestepyörteen (liquid swirl) takia.",
+        "B. Pyörittämällä suuntahyrrän näyttämää säätönupin avulla, koneen ollessa suorassa vaakalennossa.",
+        "C. Säännöllisesti kiihtyvyysvirheiden poistamiseksi kaarroissa.",
+        "D. Minimoimaan magneettikentän pystysuuntaiset vaikutukset."
+      ],
+      "correctIndex": 1,
+      "explanation": "Suuntahyrrä asetetaan magneettikompassin näyttämän mukaiseksi vaakalennossa kone tasaisella suunnalla. Pyörittämällä säätönuppia kohdistetaan suuntahyrrän näyttämä kompassiin. Säätö toistetaan n. 15 min välein apparent drift -virheen vuoksi.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0085",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 85,
+      "statement": "Missä kohtaa ilma-aluksen moottorin polttoainejärjestelmää sähköllä toimiva polttoaineen siirtopumppu tyypillisesti sijaitsee?",
+      "options": [
+        "A. Välittömästi mekaanisen polttoainepumpun vieressä.",
+        "B. Polttoainesäiliön alimmassa kohdassa.",
+        "C. Polttoainesäiliön korkeimmassa kohdassa.",
+        "D. Mekaanisen polttoainepumpun ja kaasuttimen välissä."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sähköinen siirtopumppu (boost pump / auxiliary pump) sijaitsee säiliön pohjalla koska: Sen tehtävä on työntää polttoainetta mekaaniselle pumpulle (ei imeä) ",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0086",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 86,
+      "statement": "Magneettinen suunta:",
+      "options": [
+        "A. On kompassisuunnan, eksymän ja erannon summa.",
+        "B. Kaartovirheet eivät vaikuta siihen.",
+        "C. Viittaa aina tosipohjoiseen.",
+        "D. On kompassisuunnan ja eksymän summa."
+      ],
+      "correctIndex": 3,
+      "explanation": "Magneettinen suunta = kompassisuunta + eksymä (deviation). Tosisuunta = magneettinen suunta + eranto (variation). Kaava: TT (true) → -V → MH (magnetic) → -D → CH (compass). Suunta länteen lisää, itään vähennä.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 15,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0087",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 87,
+      "statement": "Liian suuri öljynpaine estetään ilma-aluksen moottorissa:",
+      "options": [
+        "A. Moottorin suodattimen ohitusventtiilillä.",
+        "B. Moottorin korkeakapasiteettisella painepumpulla.",
+        "C. Huolehtimalla, että moottorin kierrosluku ei ylitä punaisen viivan kierroslukua.",
+        "D. Moottorin öljynpaineen rajoitusventtiilillä."
+      ],
+      "correctIndex": 3,
+      "explanation": "Liiallinen öljynpaine estetään moottorin öljynpaineen rajoitusventtiilillä (pressure relief valve). Venttiili avautuu, kun paine ylittää säädetyn arvon, ja päästää ylimääräisen öljyn takaisin imupuolelle.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0088",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 88,
+      "statement": "Kuinka pian öljynpainemittarin tulisi antaa näyttämää kylmän moottorin käynnistyksen jälkeen?",
+      "options": [
+        "A. 30 sekunnissa, muussa tapauksessa sammuta moottori.",
+        "B. Mikäli öljyn määrä oli riittävä ilma-alusta tarkastettaessa ja moottorin kierrosluku on sallituissa rajoissa, niin öljynpainemittari on luultavasti rikki ja siitä tulisi ilmoittaa lennon jälkeen.",
+        "C. Siinä vaiheessa, kun ennen lentoonlähtöä tehtävät tarkastukset ovat tehtynä. Muussa tapauksessa sammuta moottori.",
+        "D. Heti, muussa tapauksessa sammuta moottori."
+      ],
+      "correctIndex": 0,
+      "explanation": "Öljynpaineen on noustava normaalille käyttöalueelle 30 sekunnin kuluessa kylmästä käynnistyksestä. Jos paine ei nouse, moottori on sammutettava välittömästi laakerivaurioiden estämiseksi.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0089",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 89,
+      "statement": "Mikäli kaartomittarin hyrrä pyörii suunnitteluarvoansa pienemmällä nopeudella, miten ilma-aluksen todellinen kaartonopeus ja kaartomittarin näyttämä eroavat toisistaan?",
+      "options": [
+        "A. Ilma-aluksen todellinen kaartonopeus on sama, kuin mittarin näyttämä.",
+        "B. Ilma-aluksen todellinen kaartonopeus on pienempi, kuin mittarin näyttämä.",
+        "C. Kaartomittari ei näytä kaartonopeutta.",
+        "D. Ilma-aluksen todellinen kaartonopeus on suurempi, kuin mittarin näyttämä."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kaartomittarin näyttämä on verrannollinen hyrrän pyörimisnopeuteen. Jos hyrrä pyörii suunniteltua hitaammin, mittari näyttää LIIAN VÄHÄN kaartoa → todellinen kaartonopeus on suurempi kuin näyttämä. Tämä on vaarallinen virhe.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0090",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 90,
+      "statement": "Toimiakseen parhaimmalla hyötysuhteella, moottorin:",
+      "options": [
+        "A. On oltava matalimmassa mahdollisessa lämpötilassa, minkä turvallinen käyttö sallii.",
+        "B. On oltava korkeimmassa mahdollisessa lämpötilassa, minkä turvallinen käyttö sallii.",
+        "C. Öljyjärjestelmän on saatava jatkuvasti kuumaa öljyä.",
+        "D. On oltava käytössä korkealla, jotta voidaan hyödyntää kylmän ilman jäähdytysvaikutus."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mäntämoottorin termodynaaminen hyötysuhde paranee korkeammilla lämpötiloilla (Carnot-periaate). Käytännössä moottoria ajetaan korkeimmassa turvallisessa lämpötilassa (CHT/öljylämpötila lähellä rajoitusta) – siksi moottori on lämmitettävä riittävästi ennen kuormitusta.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0091",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 91,
+      "statement": "Mittaritaulussasi alipainemittari näyttää vikaa järjestelmässä. Hyrrätoimiset mittarit toimivat kuitenkin normaalisti eikä alipainejärjestelmän varoitusvalo pala. Missä epäilet vian olevan?",
+      "options": [
+        "A. Alipainemittarissa.",
+        "B. Alipainejärjestelmän varoitusvalossa.",
+        "C. Hyrrätoimisissa mittareissa.",
+        "D. Alipainejärjestelmässä."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jos hyrrätoimiset mittarit toimivat normaalisti ja varoitusvalo ei pala, alipainejärjestelmä toimii oikein. Vika on todennäköisesti itse alipainemittarissa tai sen anturissa, ei järjestelmässä.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0092",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 92,
+      "statement": "Eksymätaulukkoa tehdessä:",
+      "options": [
+        "A. Ilma-aluksen kompassin näyttämää verrataan \"maa-\" tai \"perustason\" kompassin näyttämään.",
+        "B. Mahdollistetaan ilma-aluksen tosisuunnan määrittäminen.",
+        "C. Mahdollistetaan ilma-aluksen erannon määrittäminen.",
+        "D. Mittaus voidaan suorittaa lentokentällä missä tahansa, kunhan paikka on kuiva ja tasainen."
+      ],
+      "correctIndex": 0,
+      "explanation": "Eksymätaulukko (compass swing) tehdään kompassiruusulla tai vastaavalla, jossa ilma-aluksen kompassin näyttämää verrataan tunnetun, ilma-aluksesta riippumattoman 'maakompassin' näyttämään useissa eri suunnissa, jotta saadaan eksymätaulukko jokaiselle suunnalle.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 16,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0093",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 93,
+      "statement": "Mikä osa, tai mitkä osat polttomoottorissa tiivistävät palokammion?",
+      "options": [
+        "A. Männänrenkaat ja venttiilit.",
+        "B. Sylinterin tiiviste.",
+        "C. Sytytystulpat.",
+        "D. Nokka-akseli."
+      ],
+      "correctIndex": 0,
+      "explanation": "Polttomoottorin palokammion tiivistää männänrenkaat (sylinterin seinämä vasten) sekä imu- ja pakoventtiilit (venttiilien istukat). Sytytystulppa tiivistyy omalla tiivisteellään, mutta sen tehtävä on sytytys, ei tiivistys.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0094",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 94,
+      "statement": "Polttomoottorin kiertokanki yhdistää:",
+      "options": [
+        "A. Männän ja kampiakselin.",
+        "B. Männän ja nokka-akselin.",
+        "C. Työntötangon ja keinuvivun.",
+        "D. Keinovivun ja venttiilirungon."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kiertokanki (connecting rod) yhdistää männän männäntapilla ja kampiakselin kampitappiin. Se välittää männän edestakaisen liikkeen kampiakselille, joka muuntaa sen pyöriväksi liikkeeksi.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0095",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 95,
+      "statement": "Mikä osa ohjaa venttiileitä nelitahtisessa polttomoottorissa?",
+      "options": [
+        "A. Kiertokanki.",
+        "B. Nokka-akseli.",
+        "C. Männäntappi.",
+        "D. Diffuusoriventtiili."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nokka-akseli (camshaft) ohjaa imu- ja pakoventtiilien aukeamista ja sulkeutumista oikein ajoitettuna. Nelitahtimoottorissa nokka-akseli pyörii puolella nopeudella kampiakseliin verrattuna.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0096",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 96,
+      "statement": "Polttomoottorin sylinterin ympärillä olevien jäähdytysripojen tehtävä on:",
+      "options": [
+        "A. Parantaa sylinterien erottuvuutta.",
+        "B. Pienentää moottorin aerodynaamista vastusta.",
+        "C. Kasvattaa jäähdyttävää pinta-alaa ja parantaa sylinterin jäähdytystä.",
+        "D. Pienentää jäähdyttävää pinta-alaa ja keventää moottorin painoa."
+      ],
+      "correctIndex": 2,
+      "explanation": "Sylinterien jäähdytysripat (cooling fins) kasvattavat moottorin pinta-alaa, jonka kautta lämpö siirtyy ilmavirtaan. Suuri pinta-ala parantaa konvektiivista jäähdytystä – elintärkeä ilmajäähdytteisille mäntämoottoreille.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0097",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 97,
+      "statement": "Ilmailukäytössä olevan ahtamattoman polttomoottorin teho pienenee korkeuden kasvaessa, sillä:",
+      "options": [
+        "A. Ilman tiheys pienenee ja moottori ei saa riittävästi happea.",
+        "B. Korkeampi ilman tiheys aiheuttaa huonon polttoaine-ilmaseoksen.",
+        "C. Kylmemmässä ilmassa moottori ei toimi optimaalisessa lämpötilassaan.",
+        "D. Matalampi ilman tiheys aiheuttaa liian rikkaan polttoaine-ilmaseoksen."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ahtamattoman moottorin teho pienenee korkeudessa, koska ilman tiheys pienenee ja sylintereihin pääsee vähemmän happea. Polttoaine-ilmaseoksen massa pienenee → vähemmän energiaa palotapahtumassa → vähemmän tehoa.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0098",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 98,
+      "statement": "Lentomoottori tuottaa eniten tehoa:",
+      "options": [
+        "A. Lentoonlähdön aikana.",
+        "B. Vaakalennossa merenpinnan tasolla.",
+        "C. Korkealla.",
+        "D. Lentoonlähdön aikana täydellä kierrosluvulla."
+      ],
+      "correctIndex": 3,
+      "explanation": "Lentomoottori tuottaa eniten tehoa lentoonlähdössä täydellä kaasulla (ja täydellä kierrosluvulla vakiokierrospotkurilla) merenpinnan tasolla, kun ilman tiheys on suurin ja moottori saa eniten happea.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0099",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 99,
+      "statement": "Polttomoottorin öljyjärjestelmän tehtävänä on:",
+      "options": [
+        "A. Toimia polttoaineen lisäaineena sopivalle seossuhteelle palaen sylinterissä.",
+        "B. Kasvattaa sylinterissä tapahtuvan seoksen palotapahtuman lämpötilaa.",
+        "C. Ainoastaan vaimentaa moottorin käyntiääntä.",
+        "D. Voidella ja jäähdyttää moottoria."
+      ],
+      "correctIndex": 3,
+      "explanation": "Voiteluöljyn tehtävä on (1) voidella liikkuvia osia kitkan vähentämiseksi, (2) jäähdyttää moottoria viemällä lämpöä öljynjäähdyttimeen, (3) puhdistaa hiukkaset suodattimeen, ja (4) tiivistää männänrenkaiden ja sylinterin seinän väli.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 17,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0100",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 100,
+      "statement": "Mikä on todennäköisin syy heilahtelevalle öljynpaineelle lentomoottorissa?",
+      "options": [
+        "A. Kuluneet tai löysät laakerit.",
+        "B. Alhainen öljyn määrä.",
+        "C. Viallinen öljynpainemittari.",
+        "D. Löysä potkurin tiiviste."
+      ],
+      "correctIndex": 1,
+      "explanation": "Heilahteleva öljynpaine vaakalennossa on tyypillinen merkki alhaisesta öljymäärästä: kun öljy on vähissä, pumppu imee välillä ilmaa öljyn pinnalta, ja paine heilahtelee. Tarkista määrä mittatikulla mahdollisimman pian.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0101",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 101,
+      "statement": "Kun moottori on sammutettu, pääasiallinen sähkövirran lähde on:",
+      "options": [
+        "A. Akku.",
+        "B. Lämpölaukaisija.",
+        "C. Generaattori tai alternaattori.",
+        "D. Magneetto."
+      ],
+      "correctIndex": 0,
+      "explanation": "Moottorin sammutuksen jälkeen alternaattori/generaattori ei tuota virtaa. Akku on ainoa sähkövirran lähde, ja siitä syystä päävirtakytkin on aina käännettävä OFF-asentoon, ettei akku tyhjene.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0102",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 102,
+      "statement": "Toimiakseen alternaattori tarvitsee ensiksi herätevirran. Tämän virran tuottaa:",
+      "options": [
+        "A. Virranjakaja.",
+        "B. Sytytyspuola.",
+        "C. Akku.",
+        "D. Magneetto."
+      ],
+      "correctIndex": 2,
+      "explanation": "Alternaattori tarvitsee herätevirran (excitation current) magneettikenttää varten ennen kuin se alkaa tuottaa sähköä. Tämä virta otetaan akusta. Tästä syystä alternaattori ei toimi täysin tyhjällä akulla.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0103",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 103,
+      "statement": "Voiko lentomoottorin alternaattori toimia ilman akkuvirtaa?",
+      "options": [
+        "A. Kyllä, mutta vain korkealla kierrosluvulla.",
+        "B. Kyllä, mikäli magneetot toimivat oikein.",
+        "C. Ei.",
+        "D. Kyllä, mikäli lentäjä on sammuttanut kaikki ilma-aluksen sähkölaitteet."
+      ],
+      "correctIndex": 2,
+      "explanation": "Alternaattori EI voi toimia ilman akkuvirtaa, koska se tarvitsee herätevirran roottorin magnetointiin. Generaattori puolestaan voi toimia ilman akkua jäännösmagnetismin avulla.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0104",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 104,
+      "statement": "Mihin virtalähteeseen lentomoottorin starttimoottori on kytketty?",
+      "options": [
+        "A. Riippuu lentokonemallista.",
+        "B. Alternaattoriin tai generaattoriin.",
+        "C. Ainoastaan ulkopuoliseen virtalähteeseen.",
+        "D. Suoraan akkuun."
+      ],
+      "correctIndex": 3,
+      "explanation": "Starttimoottori vaatii erittäin suurta virtaa (yli 100 A), jonka voi tuottaa vain akku suoraan. Siksi se on kytketty suoraan akkuun raskaan käynnistinkaapelin ja relesalvan kautta, ei sähköjärjestelmän virtakiskon kautta.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0105",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 105,
+      "statement": "Moottorin sammutuksen jälkeen on akun päävirtakytkin asetettava OFF-asentoon, jotta vältetään akun tyhjeneminen:",
+      "options": [
+        "A. Alternaattorin tai generaattorin kautta.",
+        "B. Suoraan siihen kytkettyjen sähkölaitteiden kautta.",
+        "C. Magneettojen kautta.",
+        "D. Sytytyskytkimen kautta."
+      ],
+      "correctIndex": 1,
+      "explanation": "Moottorin sammutuksen jälkeen päävirtakytkin OFF-asentoon estää akun tyhjenemisen siihen kytkettyjen sähkölaitteiden (esim. radiot, valot) kautta. Magneettoja ei voi sammuttaa päävirtakytkimellä – ne kytketään erikseen sytytyskytkimellä.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0106",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 106,
+      "statement": "Lentomoottorin kahdennetun sytytysjärjestelmän yhtenä etuna on:",
+      "options": [
+        "A. Tasaisempi lämmönjako.",
+        "B. Sylinterinpään paineen tasaaminen.",
+        "C. Moottorin hyötysuhteen paraneminen, jolloin myös suorituskyky paranee.",
+        "D. Kaksi kertaa enemmän tehoa."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kahdennetussa sytytysjärjestelmässä jokaisessa sylinterissä on KAKSI sytytystulppaa, jotka sytytetään yhtaikaa eri magneetoilla. Tämä parantaa palotapahtumaa (täydellisempi palo, parempi hyötysuhde) ja tarjoaa varmuutta yhden magneeton vikatilanteissa.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 18,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0107",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 107,
+      "statement": "Mikä on lopputulos, mikäli yksi magneetto hajoaa lennolla?",
+      "options": [
+        "A. Pakoputkesta tulee ulos mustaa savua.",
+        "B. Hieman alhaisempi kierrosluku sekä hieman lisääntynyt polttoaineen kulutus.",
+        "C. Moottorin säätäminen vaikeutuu.",
+        "D. Moottori paukkuu huomattavasti."
+      ],
+      "correctIndex": 1,
+      "explanation": "Yhden magneeton vikaantuessa moottori käy edelleen toisen magneeton avulla, mutta hieman alhaisemmalla kierrosluvulla (tyypillisesti 75–175 RPM tippuma) ja hieman lisääntyneellä polttoaineenkulutuksella, koska palotapahtuma on epätäydellisempi.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0108",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 108,
+      "statement": "Voiko asematasolla olevan lentokoneen moottori käynnistyä, mikäli potkuria pyöritetään käsin?",
+      "options": [
+        "A. Kyllä, mikäli sytytyskytkin on viallinen tai se on päällä.",
+        "B. Ei missään olosuhteissa.",
+        "C. Ei yleensä, mikäli moottori on kylmä ja sytytyskytkin on \"OFF\"-asennossa.",
+        "D. Kyllä, aina."
+      ],
+      "correctIndex": 0,
+      "explanation": "Asematasolla seisova lentokone voi käynnistyä, jos sytytyskytkin on viallinen tai jätetty ON-asentoon ja potkuria pyöritetään käsin. Tämä on vakavasti vaarallinen tilanne – pidä potkuria aina kuin se olisi 'live', ja kytke sytytys aina OFF ennen lähestymistä.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0109",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 109,
+      "statement": "Kohotyyppisen kaasuttimen toiminta perustuu:",
+      "options": [
+        "A. Ilman automaattiseen mittaukseen venturissa lentokorkeuden kasvaessa.",
+        "B. Ilman nopeuden lisääntymiseen venturin kurkussa, mikä kasvattaa ilmanpainetta.",
+        "C. Ilmapaineen eroon venturin kurkussa ja sisääntuloputkessa.",
+        "D. Ilmanpaineen lisääntymiseen venturin kurkussa, mikä kasvattaa ilman nopeutta."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kohotyyppinen kaasutin (float-type carburetor) toimii Bernoullin lain perusteella: ilma kiihtyy venturin kurkussa, paine pienenee, ja paine-ero venturin kurkun ja kaasuttimen kelluntakammion (atmosfäärinen sisääntuloputki) välillä imee polttoainetta seokseen.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0110",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 110,
+      "statement": "Kaasuttimen tehtävänä on syöttää:",
+      "options": [
+        "A. Polttoaine-ilmaseos moottorin sylintereille.",
+        "B. Ilmaa moottorin sylintereille.",
+        "C. Ympäröivän ilmanpaineen omaavaa polttoainetta moottorin sylintereille.",
+        "D. Polttoainetta moottorin sylintereille."
+      ],
+      "correctIndex": 0,
+      "explanation": "Kaasuttimen tehtävä on syöttää oikeassa suhteessa olevaa polttoaine-ilmaseosta moottorin sylintereille. Se annostelee polttoaineen ilmavirran (kaasuvipu/throttle) ja korkeudensäädön (mixture) mukaisesti.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0111",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 111,
+      "statement": "Moottori, jossa ei ole kaasutinta ja jossa polttoaine ruiskutetaan paineella ja annosteltuna suoraan moottorin imusarjaan, sisältää:",
+      "options": [
+        "A. Ruiskutusjärjestelmän.",
+        "B. Kohokaasuttimen.",
+        "C. Mittaavan kaasuttimen.",
+        "D. Turboahtimen."
+      ],
+      "correctIndex": 0,
+      "explanation": "Polttoaineen suoraruiskutusjärjestelmä (fuel injection system) syöttää polttoaineen paineella suoraan kunkin sylinterin imusarjaan. Etuna on tasaisempi seos, parempi suorituskyky korkeudessa ja vähäisempi kaasuttimen jäätymisriski.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0112",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 112,
+      "statement": "Seossuhteen säätämisen tarkoitus kasvavan korkeuden suhteen on:",
+      "options": [
+        "A. Pienentää polttoaineen virtausta ilman tiheyden kasvamisen kompensoimiseksi.",
+        "B. Kasvattaa polttoaineenkulutusta.",
+        "C. Pienentää polttoaineen virtausta ilman tiheyden pienenemisen kompensoimiseksi.",
+        "D. Lisätä polttoaineen virtausta ilmanpaineen pienenemisen kompensoimiseksi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Korkeudessa ilman tiheys pienenee, joten samalla polttoainemäärällä seos rikastuu. Säätämällä seosta laihemmaksi (vähemmän polttoainetta) palautetaan oikea seossuhde. Käytännössä tämä tehdään seosvivulla matkalentoasetukseen.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0113",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 113,
+      "statement": "Mitä tapahtuu seossuhteelle, kun etulämmitystä käytetään?",
+      "options": [
+        "A. Seoksesta tulee laihempi.",
+        "B. Seoksesta tulee rikkaampi.",
+        "C. Kierrosluku laskee laihentuneesta seoksesta johtuen.",
+        "D. Seossuhde ei muutu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kaasuttimen esilämmityksen (carb heat) ottaminen lämmittää imuilmaa, joka laajenee → ilman tiheys pienenee → samaa polttoainemäärää kohti vähemmän ilmaa → seos RIKASTUU. Siksi pitkäaikainen esilämmityksen käyttö voi vaatia myös seoksen säätöä.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 19,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0114",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 114,
+      "statement": "Lennät vaakalentoa 9500 jalan korkeudella seoksen ollessa säädetty oikein kyseistä lentokorkeutta varten. Mitä tapahtuu, jos laskeudut 4000 jalan korkeuteen säätämättä seosta uudelleen?",
+      "options": [
+        "A. Liian rikas seos aiheuttaa sylinterin pään korkeamman lämpötilan ja voi aiheuttaa nakutusta.",
+        "B. Sylinterissä on enemmän polttoainetta kuin normaali palotapahtuma tarvitsee, mikä jäähdyttää moottoria.",
+        "C. Seoksesta tulee todella laiha ja voi näin ollen aiheuttaa liian aikaisen sytytyksen.",
+        "D. Seoksesta voi tulla liian laiha."
+      ],
+      "correctIndex": 3,
+      "explanation": "9500 ft seos säädetään laihaksi tiheämmälle ilmalle. Laskeutuessasi 4000 ft tiheys kasvaa, mutta polttoainemäärä on edelleen sama → seoksesta tulee LIIAN LAIHA suhteessa ilmaan. Liian laiha seos voi aiheuttaa moottorivaurioita (CHT, detonaatio). Korjaus: rikasta seosta laskeutuessa.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0115",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 115,
+      "statement": "Mikäli lentokoneessa on kiintopotkuri ja kohokaasutin, ensimmäinen merkki kaasuttimen jäätymisestä on todennäköisesti:",
+      "options": [
+        "A. Moottorin karkea käynti.",
+        "B. Sylinterinpään lämpötilan nousu.",
+        "C. Kierrosluvun pieneneminen.",
+        "D. Sylinterinpään ja öljyn lämpötilojen lasku."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kiintopotkurilla varustetussa lentokoneessa kaasuttimen jäätymisen ensimmäinen merkki on KIERROSLUVUN PIENENEMINEN, koska jää tukkii ilmavirran. Vakiokierrospotkurilla ensimmäinen merkki olisi ahtopaineen (MAP) lasku.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0116",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 116,
+      "statement": "Jäätä on syntynyt kaasuttimen kurkkuun ja lentokoneesi moottori on alkanut menettää tehoa. Aiheuttaako etulämmityksen käyttö välittömän kierrosluvun nousun?",
+      "options": [
+        "A. Ei, sillä etulämmitys vain sulattaa jäätä, eikä vaikuta kierroslukuun.",
+        "B. Kyllä, sillä kaasuttimen jää sulaa välittömästi.",
+        "C. Kyllä, sillä etulämmitys vain sulattaa jäätä, eikä vaikuta kierroslukuun.",
+        "D. Ei, sillä kiintopotkurilla varustetun moottorin käynti muuttuu hetkellisesti karkeaksi ja kierrosluku laskee vielä enemmän, kun moottori imee sulavaa vettä palotilaan. Tämän jälkeen kierrosluku nousee."
+      ],
+      "correctIndex": 3,
+      "explanation": "Kun kaasuttimessa on jo jäätä ja esilämmitys otetaan, jää ALKAA sulaa. Sulava vesi imeytyy moottoriin → moottori käy hetken karkeasti ja kierrosluku tippuu vielä alemmas. Sen jälkeen, kun jää on poistunut, kierrosluku palautuu ja jopa nousee.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0117",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 117,
+      "statement": "Mikä tarkoitus on joihinkin yleisilmailukoneisiin asennetulla sähköisellä polttoaineen lisäpumpulla?",
+      "options": [
+        "A. Lisäpolttoaineen toimittaminen kaasuttimelle käynnistyksen yhteydessä sekä mekaanisen pumpun rikkoutuessa.",
+        "B. Polttoaineen toimitus sylintereihin ennen sytytystä.",
+        "C. Polttoainetankkien nopeaa tyhjennystä varten.",
+        "D. Moottorin hyötysuhteen parantaminen."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sähköisen polttoaineen lisäpumpun (auxiliary fuel pump/boost pump) tarkoitus on (1) toimittaa polttoainetta käynnistyksen yhteydessä ennen mekaanisen pumpun toimintaa, (2) toimia varatoimintona mekaanisen pumpun vikatilanteissa lentoonlähdössä, laskussa ja matkalla.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0118",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 118,
+      "statement": "Miksi korkean puristussuhteen omaavat moottorit tarvitsevat korkealaatuisempaa polttoainetta?",
+      "options": [
+        "A. Kaasuttimen jäätymisen välttämiseksi suurilla nopeuksilla.",
+        "B. Suuremman tehon tuottamiseksi.",
+        "C. Jotta vältytään moottoria hajottavalta ennenaikaiselta syttymiseltä.",
+        "D. Jotta vältytään moottoria hajottavalta nakutukselta."
+      ],
+      "correctIndex": 3,
+      "explanation": "Korkean puristussuhteen moottoreissa puristettu seos on alttiimpi nakutukselle (detonaatio). Korkeaoktaaninen polttoaine kestää suurempaa puristusta ennen itsesyttymistä, joten se estää moottoria vahingoittavaa nakutusta.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 20,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0119",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 119,
+      "statement": "Mitä säädetään pakokaasun lämpötilan mittarilla (EGT) polttomoottorissa?",
+      "options": [
+        "A. Öljynpainetta.",
+        "B. Öljynkulutusta.",
+        "C. Polttoaine-ilmaseoksen laatua.",
+        "D. Kaasuttimen jäätymistä."
+      ],
+      "correctIndex": 2,
+      "explanation": "EGT-mittari (Exhaust Gas Temperature) auttaa säätämään polttoaine-ilmaseoksen optimaaliseksi. Stoikiometrinen seos antaa korkeimman EGT:n (peak). Säätämällä seosta löydetään peak ja siitä yleensä siirrytään hieman rikkaampaan suuntaan suorituskyvyn ja jäähdytyksen takaamiseksi.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0120",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 120,
+      "statement": "Epätavallisen korkea öljyn lämpötila nelitahtimoottorissa voi olla merkki:",
+      "options": [
+        "A. Liian suuresta öljyn määrästä.",
+        "B. Liian rikkaasta seoksesta.",
+        "C. Liian korkeasta öljyn viskositeetista.",
+        "D. Liian alhaisesta öljyn määrästä."
+      ],
+      "correctIndex": 3,
+      "explanation": "Korkea öljylämpötila on tyypillisesti seurausta alhaisesta öljymäärästä (vähemmän öljyä → kierto nopeampi, mutta ei jäähdyty riittävästi). Muita syitä: tukkeutunut öljynjäähdytin, liian kuuma ilma, liian rikas seos.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0121",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 121,
+      "statement": "Polttomoottorin sisäisen lämpötilan hallinta on yleensä varmistettu lentomoottoreissa:",
+      "options": [
+        "A. Voiteluöljyn kierrolla.",
+        "B. Oikein toimivalla termostaatilla.",
+        "C. Nestejäähdytyksen virtaamisella pakosarjan päältä.",
+        "D. Ilman virtaamisella pakosarjan päältä."
+      ],
+      "correctIndex": 0,
+      "explanation": "Lentomoottorin sisäisen lämpötilan hallinta tapahtuu pääosin voiteluöljyn kierrolla – öljy kuljettaa lämpöä kuumimmista osista (laakerit, sylinterit) öljynjäähdyttimeen. Lisäksi sylintereitä jäähdyttää ulkoinen ilmavirtaus.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0122",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 122,
+      "statement": "Mitä tapahtuu vakiokierrospotkurille kaasua lisättäessä?",
+      "options": [
+        "A. Kierrosluku kasvaa.",
+        "B. Potkurin lavan kohtauskulma ei muutu.",
+        "C. Potkurin lavan kohtauskulma kasvaa.",
+        "D. Potkurin lavan kohtauskulma pienenee."
+      ],
+      "correctIndex": 2,
+      "explanation": "Vakiokierrospotkurilla CSU-säädin pitää kierrosluvun vakiona muuttamalla lapakulmaa. Kun kaasua lisätään, moottorin tuottama vääntö kasvaa → CSU lisää lapakulmaa, jotta lapa 'puree' enemmän ilmaa ja kierrosluku ei nouse. Tällöin kohtauskulma ja lapakulma kasvavat.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0123",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 123,
+      "statement": "Missä olosuhteissa potkurin kiertovaikutus on suurimmillaan yksimoottorisessa lentokoneessa?",
+      "options": [
+        "A. Suurella ilmanopeudella, suurella teholla ja suurella kohtauskulmalla.",
+        "B. Pienellä ilmanopeudella, pienellä teholla ja pienellä kohtauskulmalla.",
+        "C. Suurella ilmanopeudella, pienellä teholla ja suurella kohtauskulmalla.",
+        "D. Pienellä ilmanopeudella, suurella teholla ja suurella kohtauskulmalla."
+      ],
+      "correctIndex": 3,
+      "explanation": "Potkurin kiertovaikutus (P-factor, slipstream, gyroscopic, torque) on suurimmillaan, kun nokka on ylhäällä (suuri kohtauskulma), ilmanopeus on pieni ja teho suuri – tyypillisesti rotaatiossa ja alkunousussa. Tästä syystä tarvitaan suurta sivuperäsinkorjausta.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0124",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 124,
+      "statement": "Minkä, mahdollisesti vaarallisen, gyroskooppisen voiman lentäjä tuntee lentoonlähdössä rotaation aikana?",
+      "options": [
+        "A. Lentokoneen kaartamisen.",
+        "B. Lentokoneen halun nostaa nokan asentoa.",
+        "C. Asennonmuutoksen pystyakselin ympäri.",
+        "D. Lentokoneen nokan asennon muutoksen."
+      ],
+      "correctIndex": 2,
+      "explanation": "Lentoonlähdön rotaatiossa potkuriaalto pyrkii pituusakselilla pyöriessään saamaan koneen kallistumaan ja yawaamaan. Gyroskooppinen voima rotaatiossa (pitch-up) → presessio 90° pyörimissuuntaan = YAW (sivuakselin ympäri eli pystyakseli). Vasemmalle kallistuvilla potkureilla yaw vasemmalle.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0125",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 125,
+      "statement": "Mikä on tärinänvaimentimen tehtävä laskutelineessä?",
+      "options": [
+        "A. Vähentää jousimännän liikkumismatkaa.",
+        "B. Estää nokkapyörän värähtelyitä.",
+        "C. Vaimentaa pomppuja.",
+        "D. Vähentää iskuja polkimissa."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tärinänvaimennin (shimmy damper) nokkapyörässä estää värähtelyitä (shimmy), jotka muuten syntyvät rullauksessa korkeilla nopeuksilla. Vaimennin on yleensä hydraulinen iskunvaimennin nokkapyörän kääntöakselilla.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 21,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0126",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 126,
+      "statement": "Mikä tai mitkä mittarit ovat kytkettynä kokonaispaineen lähteeseen?",
+      "options": [
+        "A. Perinteinen pystynopeusmittari sekä korkeusmittari.",
+        "B. Vain ilmanopeusmittari.",
+        "C. Vain perinteinen pystynopeusmittari.",
+        "D. Ilmanopeusmittari, perinteinen pystynopeusmittari sekä korkeusmittari."
+      ],
+      "correctIndex": 1,
+      "explanation": "Kokonaispaineen (pitot) lähteeseen on kytketty VAIN ilmanopeusmittari (ASI), joka vertaa kokonaispainetta staattiseen paineeseen saadakseen dynaamisen paineen → ilmanopeuden. Korkeusmittari ja VSI ovat vain staattisen paineen mittareita.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0127",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 127,
+      "statement": "Mitkä mittarit ovat kytketty staattisen paineen aukkoon korkeusmittarin lisäksi?",
+      "options": [
+        "A. Ilmanopeusmittari, pystynopeusmittari sekä kaarto-ja kallistusmittari.",
+        "B. Ainoastaan ilmanopeusmittari.",
+        "C. Ilmanopeusmittari ja pystynopeusmittari.",
+        "D. Ilmanopeusmittari ja ulkoilman lämpötilan mittari."
+      ],
+      "correctIndex": 2,
+      "explanation": "Staattisen paineen aukkoon ovat kytkettynä korkeusmittari (vertaa absoluuttiseen paineeseen → korkeus), VSI (vertailee paineen muutosnopeutta → nousu/lasku) sekä ASI (vertailupaine kokonaispaineelle). Kaartomittari ja UKM-mittari eivät käytä staattista painetta.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0128",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 128,
+      "statement": "Mistä johtuu ero lentokoneen tosi-ilmanopeuden ja ilmanopeusmittarin näyttämän välillä?",
+      "options": [
+        "A. Lämpötilan ja ilman tiheyden vaihteluista.",
+        "B. Kaartomomentin aiheuttamista kaartovirheistä matkalentokorkeuksilla.",
+        "C. Vastatuulikomponentista.",
+        "D. Pitot-järjestelmän virtausongelmista johtuvista virheistä."
+      ],
+      "correctIndex": 0,
+      "explanation": "TAS:n ja IAS:n (CAS) ero johtuu ilman tiheyden vaihtelusta korkeuden ja lämpötilan mukaan. ASI on kalibroitu ISA-merenpinnalle (ρ=1,225 kg/m³). Korkealla ja kuumassa ρ pienenee → samaa dynaamista painetta vastaava todellinen ilmanopeus on suurempi kuin näyttämä.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0129",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 129,
+      "statement": "Mitä tärkeää nopeutta ei ole merkitty värikoodilla ilma-aluksen ilmanopeusmittariin?",
+      "options": [
+        "A. Liikehtimisnopeutta (VA).",
+        "B. Maksiminopeutta (VNE).",
+        "C. Suurinta nopeutta laskusiivekkeet alhaalla (VFE).",
+        "D. Suurinta rakenteellista matkalentonopeutta (VMO)."
+      ],
+      "correctIndex": 0,
+      "explanation": "Liikehtimisnopeus (VA, manoeuvring speed) ei ole värikoodissa merkitty ASI:hin, koska se riippuu massasta. Se ilmoitetaan käsikirjassa. VNE = punainen viiva, VFE = valkoisen kaaren yläraja, VNO = vihreän kaaren yläraja.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0130",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 130,
+      "statement": "Suurin nopeus laskusiivekkeiden ulos ottamiselle on:",
+      "options": [
+        "A. Sama kuin liikehtimisnopeus.",
+        "B. Sama kuin suurin rakenteellinen matkalentonopeus.",
+        "C. Katsottava lentokäsikirjasta.",
+        "D. Katsottava lentokelpoisuustodistuksesta."
+      ],
+      "correctIndex": 2,
+      "explanation": "Suurin nopeus laskusiivekkeiden ulosottoon (VFE) on katsottava ilma-aluksen lentokäsikirjasta tai luettava ASI:n VALKOISEN kaaren ylärajasta. Liian suurella nopeudella laskusiivekkeet voivat vaurioitua tai irrota.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0131",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 131,
+      "statement": "Mitä tarkoittaa ilmanopeusmittarin vihreä alue?",
+      "options": [
+        "A. Normaalin operoinnin nopeusaluetta.",
+        "B. Suurinta sallittu nopeutta.",
+        "C. Vaarallista aluetta.",
+        "D. Laskutelineiden ja laskusiivekkeiden käyttönopeusaluetta."
+      ],
+      "correctIndex": 0,
+      "explanation": "ASI:n vihreä kaari (green arc) merkitsee normaalin operoinnin nopeusaluetta (VS1 sileänä → VNO). Tällä alueella voi lentää myös turbulentissa ilmassa.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0132",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 132,
+      "statement": "Mitä punaiset viivat ilma-alusten mittareissa yleensä tarkoittavat?",
+      "options": [
+        "A. Laskutelineiden käyttönopeusaluetta.",
+        "B. Vaarallista aluetta.",
+        "C. Sallittuja maksimi-tai minimiarvoja.",
+        "D. Normaalin operoinnin aluetta."
+      ],
+      "correctIndex": 2,
+      "explanation": "Mittareiden punaiset viivat ja punaiset alueet osoittavat sallittuja maksimi- tai minimiarvoja, joita ei saa ylittää tai alittaa (esim. VNE, max RPM, max öljynpaine). Vaaravyöhyke.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 22,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0133",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 133,
+      "statement": "Ilma-aluksen ilmanopeusmittarissa oleva punainen viiva on:",
+      "options": [
+        "A. Nopeus, jota ei saa milloinkaan ylittää.",
+        "B. Nopeus, jonka saa ylittää vain tasaisessa ilmassa.",
+        "C. Nopeus, jonka saa ylittää vasta, kun laskusiivekkeet ja laskuteline ovat nostettu ylös.",
+        "D. Maksiminopeus nopeille ohjainliikkeille."
+      ],
+      "correctIndex": 0,
+      "explanation": "ASI:n punainen viiva = VNE (Velocity Never Exceed) = ehdoton maksiminopeus, jota ei saa milloinkaan ylittää missään olosuhteissa. Tämän ylittäminen voi aiheuttaa rakenteellisen vaurion tai flutterin.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0134",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 134,
+      "statement": "Mikä on korkeusmittarin ilmanpaineen näytön tarkoitus?",
+      "options": [
+        "A. Sen mukaan korkeusmittari säädetään tarkasti vuotuisessa huollossa.",
+        "B. Siitä näkee lentokorkeuden ilmanpaineen.",
+        "C. Määrittää lentokentän ja merenpinnan ilmanpaineen välinen erotus.",
+        "D. Siihen asetetaan sen vertailupinnan paine, josta korkeus halutaan mitata mittarin avulla."
+      ],
+      "correctIndex": 3,
+      "explanation": "Korkeusmittarin Kollsman-ikkunaan asetetaan vertailupinnan paine (QNH, QFE tai 1013,25), josta korkeus halutaan mitata. Säädön avulla mittari näyttää oikean korkeuden vallitsevan ilmanpaineen suhteen.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0135",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 135,
+      "statement": "Mikäli korkeusmittariin asetetaan QNH, mitä mittari näyttää laskun jälkeen?",
+      "options": [
+        "A. Lentokentän painekorkeutta standardiarvon yläpuolella.",
+        "B. Nollaa.",
+        "C. Lentokentän korkeutta keskimääräisestä merenpinnasta.",
+        "D. Lentokentän korkeutta 1013,2 hPa painetason yläpuolella."
+      ],
+      "correctIndex": 2,
+      "explanation": "QNH on merenpinnan tasolle palautettu paikallinen ilmanpaine. Sillä asetettu korkeusmittari näyttää lentokentän laskun jälkeen kentän todellista korkeutta merenpinnasta (elevation).",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0136",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 136,
+      "statement": "Mitä korkeutta näyttää korkeusmittari, mikäli siihen on asetettu paikallinen QNH?",
+      "options": [
+        "A. Korkeutta maaston yläpuolella.",
+        "B. Korkeutta merenpinnan yläpuolella.",
+        "C. Lentopintaa.",
+        "D. Korkeutta lentokentän yläpuolella."
+      ],
+      "correctIndex": 1,
+      "explanation": "QNH-asetuksella korkeusmittari näyttää korkeutta merenpinnan yläpuolella (altitude / MSL). Tällöin samaan korkeustasoon lentävät koneet ovat saman QNH:n alueella samalla absoluuttisella korkeudella.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0137",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 137,
+      "statement": "Mitä korkeutta näyttää korkeusmittari, mikäli siihen on asetettu standardi-ilmakehän ilmanpaine?",
+      "options": [
+        "A. Suhteellista korkeutta.",
+        "B. Absoluuttista korkeutta.",
+        "C. Lentopintaa.",
+        "D. Todellista korkeutta maanpinnan yläpuolella."
+      ],
+      "correctIndex": 2,
+      "explanation": "Standardi-ilmakehän asetus (1013,25 hPa = QNE) muuntaa korkeusmittarin näyttämän lentopinnaksi (Flight Level). Käytetään siirtokorkeuden yläpuolella, jotta kaikki ilma-alukset ovat samalla painepinnalla riippumatta paikallisesta säästä.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0138",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 138,
+      "statement": "Mitä korkeusmittari näyttää, mikäli lentäjä unohtaa asettaa QNH:n korkeusmittariin liu'un aikana lentopinnoilta, ja jatkaa lentoaan standardiasetuksella?",
+      "options": [
+        "A. Korkeusmittarin näyttö on käyttökelvoton.",
+        "B. Nollaa.",
+        "C. Lentokentän korkeutta painepinnan 1013,2 hPa suhteen.",
+        "D. Lentokentän korkeutta."
+      ],
+      "correctIndex": 2,
+      "explanation": "Jos lentäjä unohtaa laskeutuessa vaihtaa standardiasetuksen QNH:hon, korkeusmittari näyttää edelleen painepinnan 1013 hPa suhteen mitattua lentokentän korkeutta, ei oikeaa MSL- eikä AGL-korkeutta. Voi johtaa vakaviin korkeusvirheisiin.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0139",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 139,
+      "statement": "Mikäli korkeusmittariin asetetaan pienempi paine, korkeusmittarin näyttämä:",
+      "options": [
+        "A. Laskee.",
+        "B. Muuttuu epäluotettavaksi.",
+        "C. Nousee.",
+        "D. Pysyy samana."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pienempi vertailupaine Kollsman-ikkunaan asetettuna LASKEE korkeusmittarin näyttämää (n. 27 ft / hPa). Tämä johtuu siitä, että pienempi vertailupaine vastaa korkeampaa korkeutta ilmakehässä → mittari 'olettaa' olevansa jo korkeammalla.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 23,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0140",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 140,
+      "statement": "Kun asetat QFE:n, korkeusmittari näyttää:",
+      "options": [
+        "A. Lentopintaa.",
+        "B. Korkeutta lentokentän yläpuolella.",
+        "C. Korkeutta merenpinnan yläpuolella.",
+        "D. Todellista korkeutta maanpinnan yläpuolella."
+      ],
+      "correctIndex": 1,
+      "explanation": "QFE on lentopaikan peruspisteen tasolle palautettu paine. QFE-asetuksella korkeusmittari näyttää korkeuden lentokentän YLÄPUOLELLA (height) – kentällä lukema on 0.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0141",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 141,
+      "statement": "Mikäli korkeusmittariin asetetaan QFE, näyttää korkeusmittari laskun jälkeen:",
+      "options": [
+        "A. Lentokentän korkeutta.",
+        "B. Nollaa.",
+        "C. Lentokentän korkeutta painepinnan 1013,2 hPa suhteen.",
+        "D. Lentokentän painekorkeutta standardiarvon yläpuolella."
+      ],
+      "correctIndex": 1,
+      "explanation": "QFE-asetus tarkoittaa, että korkeusmittari näyttää 0 lentokentällä laskun jälkeen. QFE on kentän peruspisteen tasolle kalibroitu paine.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0142",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 142,
+      "statement": "Mikäli lennät korkeapaineen alueelta matalapaineen alueelle muuttamatta korkeusmittarin asetusta, ilma-aluksen todellinen korkeus:",
+      "options": [
+        "A. Pienenee.",
+        "B. Pysyy muuttumattomana.",
+        "C. On epäluotettava.",
+        "D. Kasvaa."
+      ],
+      "correctIndex": 0,
+      "explanation": "Lennettäessä korkeapaineelta matalapaineelle ilman korkeusmittarin säätöä mittari näyttää KORKEAMPAA arvoa kuin todellinen korkeus → todellinen korkeus on PIENEMPI kuin mittarin näyttämä. Sääntö: 'High to low, look out below.' Vaarallinen tilanne maaston suhteen.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0143",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 143,
+      "statement": "ISA-olosuhteissa merenpinnan tasolla:",
+      "options": [
+        "A. Ilmantiheys on 1,225g/m3 ja ilmanpaine 1013,25hPa",
+        "B. Ilmanpaine on 1013mbar ja ilman lämpötila laskee 1,98°C/km",
+        "C. Ilmanpaine on 1013bar ja ilman lämpötila laskee 6,5°C/km",
+        "D. Ilmantiheys on 1225g/m3 ja ilman lämpötila laskee 6,5°C/km"
+      ],
+      "correctIndex": 3,
+      "explanation": "ISA-olosuhteissa merenpinnan tasolla ilman tiheys on 1,225 kg/m³ eli 1225 g/m³. Troposfäärissä lämpötila laskee standardi-ilmakehässä 6,5 °C/km. Vaihtoehto A on väärin, koska siinä tiheyden yksikkö on merkitty muodossa 1,225 g/m³, mikä olisi tuhat kertaa liian pieni arvo.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "medium",
+      "needsReview": false
+    },
+    {
+      "id": "020-0144",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 144,
+      "statement": "Polttoaineen oktaaniluku tarkoittaa:",
+      "options": [
+        "A. Polttoaineen pakkaskestävyyttä.",
+        "B. Polttoaineen nakutuskestävyyttä.",
+        "C. Polttoaineen höyrystymislämpötilaa.",
+        "D. Polttoaineen leimahduspistettä."
+      ],
+      "correctIndex": 1,
+      "explanation": "Polttoaineen oktaaniluku kuvaa sen nakutuskestävyyttä eli kykyä vastustaa itsestään syttymistä korkeissa puristuspaineissa. Korkeaoktaaninen AvGas (esim. 100LL) kestää suurempia puristussuhteita ilman detonaatiota.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0145",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 145,
+      "statement": "Cross checking eli ristiintarkistus tarkoittaa:",
+      "options": [
+        "A. Että mittareiden tarkistusjärjestys on jaettu päällikön ja perämiehen kesken ennen lennolle lähtöä",
+        "B. Kahden tai useamman mittarin näyttämien havaitsemista ja tulkitsemista koneen asennon päättelemiseksi ja säilyttämiseksi",
+        "C. Check-listan eli tarkistuslistan käyttöä hätätilannetoimenpiteissä",
+        "D. Vuoroittaista tehon ja ilmanopeuden tarkkailua"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ristiintarkistus (cross-check) tarkoittaa kahden tai useamman mittarin näyttämien jatkuvaa havainnointia ja tulkintaa, jotta ilma-aluksen asento, suunta, korkeus ja nopeus voidaan päätellä luotettavasti. Yhden mittarin tuijotusta vältetään (fixation).",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0146",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 146,
+      "statement": "Tiheyskorkeus on:",
+      "options": [
+        "A. Arvo, jota käytetään moottorin suoritusarvojen mittaamiseen.",
+        "B. Korkeusmittarin näyttämä korkeus, kun siihen on asetettu QFE.",
+        "C. Korkeusmittarin näyttämä korkeus, kun siihen on asetettu QNH.",
+        "D. Korkeusmittarin näyttämä korkeus, kun siihen on asetettu QNE."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tiheyskorkeus (density altitude) = painekorkeus korjattuna ei-standardilämpötilan mukaan. Sitä käytetään moottorin ja siiven suorituskyvyn arviointiin, koska kuumissa, korkealla sijaitsevissa olosuhteissa todellinen suorituskyky on huomattavasti pienempi.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 24,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0147",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 147,
+      "statement": "Suuntahyrrä asetetaan nokkapyöräkoneissa oikeaan asentoonsa lentoa varten:",
+      "options": [
+        "A. ennen lentoonlähtöä maassa, koneen ollessa paikallaan",
+        "B. sen asettaa mekaanikko huollossa",
+        "C. alkunousun aikana",
+        "D. kun on kone asetettu ensin matkalennon vaakalentoon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Suuntahyrrä asetetaan oikeaan suuntaan (magneettikompassin mukaan) ennen lentoonlähtöä koneen ollessa paikallaan vaakatasossa rullaustien tai asematason tasaisessa kohdassa. Lennon aikana ryömä korjataan n. 15 min välein.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0148",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 148,
+      "statement": "Mitä painetta pitot-putki mittaa?",
+      "options": [
+        "A. Dynaamista painetta",
+        "B. Reynolds-painetta",
+        "C. Staattista painetta",
+        "D. Kokonaispainetta"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pitot-putken eteenpäin osoittama reikä mittaa kokonaispaineen (total pressure, pt = ps + dynamic). ASI vähentää siitä staattisen paineen ja saa dynaamisen paineen, josta lasketaan kalibroitu ilmanopeus.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0149",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 149,
+      "statement": "Polttoainenäytteessä vesi ilmenee:",
+      "options": [
+        "A. Erivärisinä läikkinä näytteen pinnalla",
+        "B. Kuplina näytteen pinnalla",
+        "C. Kuplina näytteen pohjalla",
+        "D. Erivärisinä läikkinä näytteen pohjalla"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vesi on tiheämpi kuin AvGas tai Mogas, joten polttoainenäytteessä se laskeutuu pohjalle, jossa se näkyy kupliina, läikkinä tai erillisenä kerroksena. Vesi on värittömämpää kuin sininen 100LL ja muodostaa selkeän rajapinnan.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0150",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 150,
+      "statement": "Korkeusmittariasetuksessa 1 hPa vastaa:",
+      "options": [
+        "A. 27m",
+        "B. 27ft",
+        "C. 100ft",
+        "D. 270ft"
+      ],
+      "correctIndex": 1,
+      "explanation": "Korkeusmittari muuttuu n. 27 ft / 1 hPa lähellä merenpintaa (tarkemmin 27,3 ft/hPa). 1 hPa muutos Kollsman-ikkunassa siirtää näyttämää 27 jalkaa. Tästä syystä paineen muutos esim. 5 hPa = 135 ft virhe korkeudessa.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0151",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 151,
+      "statement": "Primäärirakenteen hajoaminen lennon aikana aiheuttaa:",
+      "options": [
+        "A. Muutoksen luokkaa alempaan kuormituskestävyyteen",
+        "B. Ei vaikuta lentoturvallisuuteen",
+        "C. Välittömän onnettomuuden",
+        "D. Ei aiheuta välitöntä vaaraa"
+      ],
+      "correctIndex": 2,
+      "explanation": "Primäärirakenne (primary structure) on kuormaa kantava päärakenne (siipisalot, runkokaaret, kiinnityskorvakkeet). Sen hajoaminen lennon aikana johtaa välittömästi onnettomuuteen, koska lentokone menettää rakenteellisen eheyden.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0152",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 152,
+      "statement": "Mikä on siirtopinta (transition level)?",
+      "options": [
+        "A. FL 50",
+        "B. 5000ft",
+        "C. Korkeus, jossa vaihdetaan QNE-asetukselle",
+        "D. Lentopinta, jossa vaihdetaan QNH-asetukselle"
+      ],
+      "correctIndex": 3,
+      "explanation": "Siirtopinta (transition level) on alin käytettävissä oleva lentopinta siirtokorkeuden yläpuolella. Laskeuduttaessa siirtopinnan kohdalla tai sen alapuolella korkeusmittarin asetus vaihdetaan standardiasetuksesta/QNE:stä paikalliseen QNH:hon. Vaihtoehto D kuvaa tätä operatiivista vaihtokohtaa, vaikka se ei ole täydellinen määritelmä.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0153",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 153,
+      "statement": "Rikastettaessa polttoaineseosta:",
+      "options": [
+        "A. Lisätään tehoa",
+        "B. Lisätään ilman määrää suhteessa polttoainemäärään",
+        "C. Lisätään polttoaineen määrää ilman määrään nähden",
+        "D. Ei kosketa kaasuvipuun"
+      ],
+      "correctIndex": 2,
+      "explanation": "Seoksen rikastaminen tarkoittaa, että polttoaineen määrää lisätään ilman määrään nähden (siirrytään pienempään ilma:polttoaine -suhteeseen). Tämä tehdään seosvivulla, ei kaasuvivulla. Käynnistyksessä, lentoonlähdössä ja matalalla seos on yleensä rikas.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 25,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0154",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 154,
+      "statement": "Valitse oikea nopeusmittarin värimerkintöjä koskeva väittämä:",
+      "options": [
+        "A. Valkoinen = turbulenttisen sään suurin sallittu nopeus",
+        "B. Punainen viiva = sakkausnopeus sileänä",
+        "C. Vihreä = normaalin toiminnan nopeusalue",
+        "D. Keltainen = normaali käyttö"
+      ],
+      "correctIndex": 2,
+      "explanation": "ASI:n vihreä kaari = normaalin operoinnin nopeusalue (VS1 → VNO). Valkoinen kaari = laskusiivekkeiden käyttöalue. Keltainen kaari = varovainen alue (vain rauhallisessa ilmassa). Punainen viiva = VNE (älä koskaan ylitä).",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0155",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 155,
+      "statement": "Lentokoneen ns. primäärirakenteisiin kuuluvat:",
+      "options": [
+        "A. Siipisalot, siiven pintalevyt, siiven ja vakaajan kiinnityskorvakkeet.",
+        "B. Purjehdus-ja laskeutumisvalot.",
+        "C. Muotolevyt, peiteluukut ja virityslaipat.",
+        "D. Nokkakartio, jättöreunapanelit, laskutelineiden luukut."
+      ],
+      "correctIndex": 0,
+      "explanation": "Primäärirakenteita ovat siipisalot (spars), pintalevyt (skin) ja kiinnityskorvakkeet (fittings). Nämä kantavat lentokoneen ensisijaiset kuormat. Sekundäärirakenteita ovat esim. virityslaipat, kuomu ja muotoilevat osat.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0156",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 156,
+      "statement": "Mitä tarkoittaa valkoinen kaari nopeusmittarissa?",
+      "options": [
+        "A. Ylinopeutta",
+        "B. Normaalia lentonopeusaluetta",
+        "C. Laskutelineen käyttöaluetta",
+        "D. Laskusiivekkeiden käyttöaluetta"
+      ],
+      "correctIndex": 3,
+      "explanation": "ASI:n valkoinen kaari = laskusiivekkeiden käyttöalue (VS0 = stall flaps down → VFE = max flaps speed). Tämä alue voidaan käyttää, kun laskusiivekkeet ovat ulkona laskussa tai lentoonlähdössä.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0157",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 157,
+      "statement": "Mäntämoottorin imuilman esilämmitys:",
+      "options": [
+        "A. Ei vaikuta polttoaineen kulutukseen.",
+        "B. Laihentaa polttoaineseosta.",
+        "C. Lisää oleellisesti polttoaineen kulutusta.",
+        "D. Vähentää huomattavasti polttoaineen kulutusta."
+      ],
+      "correctIndex": 2,
+      "explanation": "Imuilman esilämmitys (carb heat) lämmittää imuilmaa, joka laajenee → ilmanmäärä per polttoaine pienenee → seos rikastuu. Tämä lisää oleellisesti polttoaineen kulutusta. Lisäksi lämmin ilma aiheuttaa tehon laskun – käytä vain tarvittaessa.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0158",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 158,
+      "statement": "Vuositarkastus tehdään:",
+      "options": [
+        "A. 12 kk välein.",
+        "B. Aina 100 h huollon yhteydessä.",
+        "C. 24 kk välein.",
+        "D. 6 kk välein."
+      ],
+      "correctIndex": 0,
+      "explanation": "Vuositarkastus (annual inspection) tehdään 12 kuukauden välein. Sen lisäksi lentokoneilla on usein 50 h ja 100 h huoltoja sekä huoltodirektiiveistä riippuvia tarkastuksia.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    },
+    {
+      "id": "020-0159",
+      "module": "020",
+      "moduleName": "Lentokoneen yleistuntemus",
+      "number": 159,
+      "statement": "Mikä on huoltojaksoajan suurin sallittu ylitys?",
+      "options": [
+        "A. 5%",
+        "B. 10%",
+        "C. 20%",
+        "D. 15%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Huoltojaksoajan suurin sallittu ylitys on 10 % (esim. 100 h huolto voi venyä 110 h:aan). Ylityksen jälkeen huolto on tehtävä välittömästi, ja jakso lasketaan alkuperäisestä eräpäivästä, ei ylityksestä.",
+      "source": "PPL020FIN 11102018.pdf",
+      "page": 26,
+      "confidence": "high",
+      "needsReview": false
+    }
+  ]
+}
