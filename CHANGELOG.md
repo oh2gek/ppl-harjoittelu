@@ -2,10 +2,18 @@
 
 Kaikki merkittävät muutokset PPL-harjoittelu -projektiin, uusin ensin.
 
-## [V4.2.16] — 2026-08-06
+## [V4.2.18] — 2026-08-06
+
+### Muutettu
+- **Kysymyspainotus entistä aggressiivisemmaksi**: `pickQuestions`-funktion painotuskerrointa kasvatettu (`gap*gap*3`, katto 150, aiemmin `gap*gap`, katto 50; virhebonus `wrongCount*2`, katto 20, aiemmin katto 3). Vähiten nähdyt ja useimmin väärin vastatut kysymykset nousevat nyt selvästi useammin esiin harjoituksissa. Koskaan-ei-kysytyt kysymykset pakotetaan edelleen mukaan aina kun niitä on jäljellä, mikä takaa että kaikki moduulin kysymykset käydään läpi ennen kuin mitään toistetaan. Lisätty lopuksi harjoituksen kysymysjärjestyksen sekoitus, jotta koskaan-ei-kysytyt kysymykset eivät ole aina harjoituksen alussa.
+
+## [V4.2.17] — 2026-08-06
 
 ### Korjattu
-- **030-0067 ja 030-0068 ei tunnistuneet kuvakysymyksiksi**: Kummasta kysymyksestä puuttui liiteviittaus `(Katso LAPL/PPL 030-10)` (todennettu PDF-lähteestä sivulta 13), jonka takia `imageRefFor`-tunnistus ei löytänyt kuvaa `PNG/PPL 030-10.png`. Lisätty puuttuva viittaus molempiin, ja 030-0068:sta puuttunut "kuormattu seuraavasti?" -teksti. Lisäksi taulukkomuotoiset massa/momentti-tiedot jaettu riveille (`\n`) selkeyden vuoksi, ja `.statement`-CSS-luokkaan lisätty `white-space: pre-line` jotta rivinvaihdot näkyvät.
+- **030-0067, 030-0068 ja 030-0071 ei tunnistuneet kuvakysymyksiksi**: Kaikista kolmesta kysymyksestä puuttui liiteviittaus `(Katso LAPL/PPL 030-10)` (todennettu PDF-lähteestä sivuilta 13–14), jonka takia `imageRefFor`-tunnistus ei löytänyt kuvaa `PNG/PPL 030-10.png`. Lisätty puuttuva viittaus kaikkiin kolmeen, ja 030-0068:sta puuttunut "kuormattu seuraavasti?" -teksti. Lisäksi taulukkomuotoiset massa/momentti-tiedot jaettu riveille (`\n`) selkeyden vuoksi, ja `.statement`-CSS-luokkaan lisätty `white-space: pre-line` jotta rivinvaihdot näkyvät. Käyty läpi kaikki moduulin 030 kuva- ja liiteviittaukset (32 kpl) – muut täsmäävät oikein olemassa oleviin PNG-kuviin.
+
+### Muutettu
+- **Kuvakysymykset-selain**: Poistettu satunnainen järjestys (`shuffle`) kuvakysymysten selauksesta. Kysymykset näytetään nyt aina järjestyksessä (moduuli kerrallaan, kysymysnumeron mukaan). Päivitetty myös ohje-sivun teksti vastaamaan uutta toimintaa.
 
 ## [V4.2.15] — 2026-08-06
 

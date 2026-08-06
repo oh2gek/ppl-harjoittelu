@@ -1338,7 +1338,7 @@
       "module": "030",
       "moduleName": "Suoritusarvot ja lennonsuunnittelu",
       "number": 71,
-      "statement": "Kuinka paljon matkatavaraa voidaan kuormata normaaliluokan lentokoneeseen siten, että massakeskipiste pysyy sallittujen rajojen sisäpuolella? (Katso massa (lb) momentti/1000 (lbxin) Tyhjämassa 1,350 51.5 Ohjaaja ja matkustaja edessä 250 Matkustajat takana 400 Polttoaine 30 US gal. Matkatavarat Öljy 8 qt -0.2",
+      "statement": "Kuinka paljon matkatavaraa voidaan kuormata normaaliluokan lentokoneeseen siten, että massakeskipiste pysyy sallittujen rajojen sisäpuolella? (Katso LAPL/PPL 030-10)\nmassa (lb) — momentti/1000 (lbxin)\nTyhjämassa: 1,350 — 51.5\nOhjaaja ja matkustaja edessä: 250\nMatkustajat takana: 400\nPolttoaine: 30 US gal.\nMatkatavarat: (kysytty)\nÖljy: 8 qt — -0.2",
       "options": [
         "A. 90 lbs.",
         "B. 105 lbs.",

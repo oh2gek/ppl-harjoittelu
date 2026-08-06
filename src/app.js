@@ -48,7 +48,7 @@
   var THEME_KEY = "ppl-harjoittelu:theme";
   var DISCLAIMER_KEY = "ppl-harjoittelu:disclaimer-accepted";
   var LETTERS = ["A", "B", "C", "D"];
-  var APP_VERSION = "4.2.16";
+  var APP_VERSION = "4.2.18";
 
   var PDF_FILES = {
     "010": "PPL010FIN 11102018.pdf",
@@ -163,38 +163,59 @@
   function pickQuestions(moduleId, count, opts) {
     opts = opts || {};
     var pool = (data[moduleId] || []).slice();
-    if (!opts.random && pool.length > 0) {
-      var s = loadStorage();
-      var hist = s.errorHistory[moduleId] || {};
-      var sc = s.seenCount[moduleId] || {};
+    if (opts.random || pool.length === 0) {
+      var randomShuffled = shuffle(pool);
+      return randomShuffled.slice(0, count);
+    }
+
+    var s = loadStorage();
+    var hist = s.errorHistory[moduleId] || {};
+    var sc = s.seenCount[moduleId] || {};
+
+    // 1) Pakota mukaan kysymykset, joita ei ole KOSKAAN kysytty tässä moduulissa.
+    //    Tämä takaa, että kaikki kysymykset käydään läpi ennen kuin mitään toistetaan,
+    //    riippumatta siitä kuinka suuri kysymyspankki on.
+    var neverSeen = shuffle(pool.filter(function (q) { return !sc[q.id]; }));
+    var picked = neverSeen.slice(0, count);
+    var pickedIds = {};
+    picked.forEach(function (q) { pickedIds[q.id] = true; });
+
+    // 2) Jos tila jäi täytettäväksi, valitaan loput painotetulla satunnaisotannalla,
+    //    joka suosii AGGRESSIIVISESTI vähiten nähtyjä ja useimmin väärin vastattuja kysymyksiä.
+    if (picked.length < count) {
+      var remaining = pool.filter(function (q) { return !pickedIds[q.id]; });
       var maxSeen = 0;
-      pool.forEach(function (q) {
+      remaining.forEach(function (q) {
         var n = sc[q.id] || 0;
         if (n > maxSeen) maxSeen = n;
       });
       var weighted = [];
-      pool.forEach(function (q) {
+      remaining.forEach(function (q) {
         weighted.push(q);
         var seenCount = sc[q.id] || 0;
         var wrongCount = hist[q.id] || 0;
         var gap = maxSeen - seenCount;
-        var relativeBonus = Math.max(0, Math.min(gap * gap, 50));
-        var errorBonus = Math.min(wrongCount, 3);
-        var extra = Math.min(relativeBonus + errorBonus, 60);
+        // Neliöllinen + kerroin tekee painotuksesta huomattavasti aggressiivisemman:
+        // mitä harvemmin nähty suhteessa muihin, sitä moninkertaisesti todennäköisemmin se osuu kohdalle.
+        var relativeBonus = Math.max(0, Math.min(gap * gap * 3, 150));
+        var errorBonus = Math.min(wrongCount * 2, 20);
+        var extra = Math.min(relativeBonus + errorBonus, 180);
         for (var i = 0; i < extra; i++) weighted.push(q);
       });
-      pool = weighted;
+      var shuffledWeighted = shuffle(weighted);
+      var seenLocal = {};
+      for (var i = 0; i < shuffledWeighted.length && picked.length < count; i++) {
+        var wq = shuffledWeighted[i];
+        if (pickedIds[wq.id] || seenLocal[wq.id]) continue;
+        seenLocal[wq.id] = true;
+        pickedIds[wq.id] = true;
+        picked.push(wq);
+      }
     }
-    var shuffled = shuffle(pool);
-    var seen = {};
-    var picked = [];
-    for (var i = 0; i < shuffled.length && picked.length < count; i++) {
-      var q = shuffled[i];
-      if (seen[q.id]) continue;
-      seen[q.id] = true;
-      picked.push(q);
-    }
-    return picked;
+
+    // Sekoitetaan lopullinen järjestys, jotta "koskaan ei kysytyt" -kysymykset
+    // eivät aina ole harjoituksen alussa.
+    return shuffle(picked);
   }
 
   function moduleStats(moduleId) {
@@ -1299,7 +1320,6 @@
         alert("Ei kuvakysymyksiä valitussa moduulissa.");
         return;
       }
-      pictureQs = shuffle(pictureQs);
       var idx = 0;
       var testAnswers = {};
 
@@ -1561,7 +1581,7 @@
 
       section("4. Kuvakysymykset", [
         paragraph("Kuvakysymyksissä näytetään liitteenä olevat kuvat (esim. sääkartat, lentokenttäkaaviot, radiokuviot). Voit selata kuvakysymyksiä moduuli kerrallaan."),
-        paragraph("Jos kuva ei lataudu, kysymyksen yhteydessä on linkki avata kuva alkuperäisestä PDF-tiedostosta. Kuvakysymykset esitetään aina satunnaisessa järjestyksessä.")
+        paragraph("Jos kuva ei lataudu, kysymyksen yhteydessä on linkki avata kuva alkuperäisestä PDF-tiedostosta. Kuvakysymykset esitetään aina järjestyksessä (moduuli kerrallaan, kysymysnumeron mukaan).")
       ]),
 
       section("5. Tilastot", [
