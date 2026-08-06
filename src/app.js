@@ -48,7 +48,7 @@
   var THEME_KEY = "ppl-harjoittelu:theme";
   var DISCLAIMER_KEY = "ppl-harjoittelu:disclaimer-accepted";
   var LETTERS = ["A", "B", "C", "D"];
-  var APP_VERSION = "4.2.18";
+  var APP_VERSION = "4.2.22";
 
   var PDF_FILES = {
     "010": "PPL010FIN 11102018.pdf",
@@ -117,12 +117,13 @@
       if (!parsed.errorHistory) parsed.errorHistory = {};
       if (!parsed.examHistory) parsed.examHistory = [];
       if (!parsed.seenCount) parsed.seenCount = {};
+      if (!parsed.allInOne) parsed.allInOne = {};
       return parsed;
     } catch (e) {
       return defaultStorage();
     }
   }
-  function defaultStorage() { return { modules: {}, errorHistory: {}, examHistory: [], seenCount: {} }; }
+  function defaultStorage() { return { modules: {}, errorHistory: {}, examHistory: [], seenCount: {}, allInOne: {} }; }
   function saveStorage(s) {
     try { localStorage.setItem(STORAGE_KEY, JSON.stringify(s)); } catch (e) { /* ignore */ }
   }
@@ -256,6 +257,29 @@
     sc[q.id] = (sc[q.id] || 0) + 1;
     s.seenCount[moduleId] = sc;
     saveStorage(s);
+  }
+
+  function recordWrong(moduleId, q) {
+    var s = loadStorage();
+    var hist = s.errorHistory[moduleId] || {};
+    hist[q.id] = (hist[q.id] || 0) + 1;
+    s.errorHistory[moduleId] = hist;
+    saveStorage(s);
+  }
+
+  // ---------- All in One -- etenemisen tallennus ----------
+  function getAllInOneIndex(moduleId) {
+    var s = loadStorage();
+    return (s.allInOne && s.allInOne[moduleId]) || 0;
+  }
+  function setAllInOneIndex(moduleId, idx) {
+    var s = loadStorage();
+    if (!s.allInOne) s.allInOne = {};
+    s.allInOne[moduleId] = idx;
+    saveStorage(s);
+  }
+  function resetAllInOne(moduleId) {
+    setAllInOneIndex(moduleId, 0);
   }
 
   function recordExamResult(exam, byModule, modulesPassed, modulesTotal) {
@@ -637,7 +661,15 @@
         el("div", { class: "action-sub" }, "Valitse moduuli ja katso kysymykset oikeine vastauksineen vastaamatta")
       ])
     ]);
-    view.appendChild(el("div", { class: "action-row" }, [testCard, browseCard]));
+    // ----- All in One -----
+    var allInOneCard = el("button", { class: "action-card", style: "margin-top:14px;opacity:0.85;", onclick: renderAllInOnePicker }, [
+      el("div", { class: "action-icon" }, "🗂️"),
+      el("div", { class: "action-body" }, [
+        el("div", { class: "action-title" }, "All in One"),
+        el("div", { class: "action-sub" }, "Käy koko moduulin kaikki kysymykset läpi järjestyksessä – etenemä tallentuu automaattisesti")
+      ])
+    ]);
+    view.appendChild(el("div", { class: "action-row" }, [testCard, browseCard, allInOneCard]));
 
     window.scrollTo({ top: 0 });
   }
@@ -1513,6 +1545,236 @@
     showAt(idx);
   }
 
+  // ---------- All in One ----------
+  function renderAllInOnePicker() {
+    var availableModules = MODULES.filter(function (m) { return (data[m.id] || []).length > 0; });
+    if (availableModules.length === 0) {
+      alert("Kysymyksiä ei löytynyt.");
+      renderHome();
+      return;
+    }
+
+    var moduleList = el("div", { class: "module-list", style: "display:flex;flex-direction:column;gap:10px;margin-top:14px;" });
+    availableModules.forEach(function (m) {
+      var count = (data[m.id] || []).length;
+      var idx = Math.min(getAllInOneIndex(m.id), count);
+      var pct = count > 0 ? Math.round((idx / count) * 100) : 0;
+      var started = idx > 0 && idx < count;
+      var doneAll = idx >= count && count > 0;
+
+      var mainBtn = el("button", {
+        class: "btn",
+        style: "flex:1;text-align:left;padding:14px 16px;font-size:1.05rem;",
+        onclick: function () { startAllInOne(m.id, false); }
+      }, [
+        el("div", null, m.id + " " + m.name),
+        el("div", { style: "font-size:0.85rem;opacity:0.8;" },
+          doneAll ? "Kaikki " + count + " kysymystä käyty läpi – klikkaa aloittaaksesi alusta"
+            : started ? "Jatka kohdasta " + (idx + 1) + " / " + count + " (" + pct + " %)"
+              : count + " kysymystä"),
+        el("div", { class: "module-progress " + m.color, style: "margin-top:8px;" }, el("div", { style: "width:" + pct + "%" }))
+      ]);
+
+      var resetBtn = el("button", {
+        class: "btn ghost",
+        title: "Aloita " + m.id + " alusta",
+        style: "flex:0 0 auto;",
+        onclick: function () {
+          if (idx === 0) return;
+          if (confirm("Aloitetaanko moduulin " + m.id + " All in One -kysymykset alusta? Etenemä nollataan.")) {
+            resetAllInOne(m.id);
+            startAllInOne(m.id, true);
+          }
+        }
+      }, "↺ Alusta");
+
+      var row = el("div", { style: "display:flex;gap:8px;align-items:stretch;" }, [mainBtn, resetBtn]);
+      moduleList.appendChild(row);
+    });
+
+    var card = el("div", { class: "card" }, [
+      el("div", { class: "btn-row", style: "margin-bottom:10px" }, [
+        el("button", { class: "btn ghost", onclick: renderHome }, "← Takaisin")
+      ]),
+      el("h2", null, "🗂️ All in One"),
+      el("div", { style: "margin-bottom:8px;opacity:0.9;" }, "Valitse moduuli. Kysymykset käydään läpi järjestyksessä alusta loppuun samalla tekniikalla kuin normaalissa harjoituksessa. Etenemä tallentuu automaattisesti, ja voit jatkaa myöhemmin siitä mihin jäit – myös toisella kertaa."),
+      moduleList
+    ]);
+    setView(card);
+  }
+
+  function startAllInOne(moduleId, fromStart) {
+    var module = MODULES.find(function (m) { return m.id === moduleId; });
+    var pool = (data[moduleId] || []).slice().sort(function (a, b) { return (a.number || 0) - (b.number || 0); });
+    if (pool.length === 0) {
+      alert("Tässä moduulissa ei ole kysymyksiä.");
+      return;
+    }
+    var startIndex = fromStart ? 0 : getAllInOneIndex(moduleId);
+    if (startIndex >= pool.length) startIndex = 0;
+
+    var quiz = {
+      moduleId: moduleId,
+      moduleName: module ? module.name : moduleId,
+      questions: pool,
+      answers: [],
+      index: startIndex
+    };
+    renderAllInOneQuestion(quiz);
+  }
+
+  function renderAllInOneQuestion(quiz) {
+    var q = quiz.questions[quiz.index];
+    recordSeen(quiz.moduleId, q);
+    var total = quiz.questions.length;
+    var num = quiz.index + 1;
+    var pct = Math.round((quiz.index / total) * 100);
+
+    var meta = el("div", { class: "quiz-meta" }, [
+      el("div", null, quiz.moduleName + " · All in One" + (q.number ? " · kysymys #" + q.number : "")),
+      el("div", null, "Kysymys " + num + " / " + total)
+    ]);
+
+    var progress = el("div", { class: "progress" }, el("div", { style: "width:" + pct + "%" }));
+    var statement = el("div", { class: "statement" }, q.statement);
+
+    var pdfLink = null;
+    var imgEl = null;
+    if (isPictureQuestion(q)) {
+      var pdfHref = pdfLinkFor(q);
+      if (pdfHref) {
+        pdfLink = el("a", { class: "pdf-link", href: pdfHref, target: "_blank", rel: "noopener" }, "📎 Avaa kuva PDF:stä");
+      }
+      var imgRef = imageRefFor(q);
+      if (imgRef) {
+        imgEl = el("img", { src: imgRef, alt: "Kuvakysymys", style: "max-width:100%;border-radius:var(--radius);margin:12px auto 0;display:block;" });
+      }
+    }
+
+    var feedback = el("div", { class: "feedback", style: "display:none" });
+    var nextBtn = el("button", { class: "btn primary large", style: "display:none; margin-top:14px;" }, "Seuraava →");
+
+    var answered = false;
+    var optionButtons = [];
+    var options = Array.isArray(q.options) ? q.options : [];
+    var correctIndex = (typeof q.correctIndex === "number") ? q.correctIndex : -1;
+
+    function handleAnswer(userIndex) {
+      if (answered) return;
+      answered = true;
+      var correct = (userIndex === correctIndex);
+      quiz.answers.push({ q: q, user: userIndex, correct: correct });
+      if (!correct) recordWrong(quiz.moduleId, q);
+
+      var heading = correct ? "Oikein!" : "Väärin.";
+      var oikeaLetter = (correctIndex >= 0 && correctIndex < LETTERS.length) ? LETTERS[correctIndex] : "?";
+      var omaLetter = LETTERS[userIndex] || "?";
+      feedback.className = "feedback " + (correct ? "correct" : "wrong");
+      feedback.innerHTML = "";
+      feedback.appendChild(el("h3", null, heading));
+      feedback.appendChild(el("div", null,
+        "Vastauksesi: " + omaLetter + (options[userIndex] ? " – " + optionText(options[userIndex]) : "") +
+        ". Oikea vastaus: " + oikeaLetter + (options[correctIndex] ? " – " + optionText(options[correctIndex]) : "") + "."
+      ));
+      if (q.explanation) {
+        feedback.appendChild(el("div", { class: "explanation", style: "margin-top:8px" }, "Selitys: " + q.explanation));
+      }
+      if (q.needsReview) {
+        feedback.appendChild(el("div", { class: "review-note" },
+          "Huomio: Tämän kysymyksen oikea vastaus on AI:n / placeholder-arvio ja vaatii ihmisen tarkistuksen" + (q.confidence ? " (luottamus: " + q.confidence + ")" : "") + "."));
+      }
+      feedback.style.display = "block";
+      nextBtn.style.display = "inline-flex";
+
+      optionButtons.forEach(function (b, i) {
+        b.disabled = true;
+        b.style.opacity = "0.85";
+        if (i === correctIndex) b.classList.add("opt-correct");
+        if (i === userIndex && i !== correctIndex) b.classList.add("opt-wrong");
+      });
+    }
+
+    var optsBox = el("div", { class: "options" });
+    options.forEach(function (opt, i) {
+      var btn = el("button", {
+        class: "btn option",
+        onclick: function () { handleAnswer(i); }
+      }, [
+        el("span", { class: "opt-letter" }, LETTERS[i] || ("" + (i + 1))),
+        el("span", { class: "opt-text" }, optionText(opt))
+      ]);
+      optionButtons.push(btn);
+      optsBox.appendChild(btn);
+    });
+
+    nextBtn.addEventListener("click", function () {
+      quiz.index++;
+      setAllInOneIndex(quiz.moduleId, quiz.index);
+      if (quiz.index >= quiz.questions.length) finishAllInOne(quiz);
+      else renderAllInOneQuestion(quiz);
+    });
+
+    var topRow = el("div", { class: "btn-row", style: "margin-bottom:10px" }, [
+      el("button", { class: "btn ghost", onclick: function () {
+        renderAllInOnePicker();
+      } }, "← Keskeytä (etenemä on tallennettu)")
+    ]);
+
+    var card = el("div", { class: "card" }, [
+      topRow,
+      meta,
+      progress,
+      statement,
+      pdfLink,
+      optsBox,
+      feedback,
+      nextBtn,
+      imgEl
+    ]);
+    setView(card);
+  }
+
+  function finishAllInOne(quiz) {
+    var total = quiz.questions.length;
+    var correct = quiz.answers.filter(function (a) { return a.correct; }).length;
+    var pct = total > 0 ? Math.round((correct / total) * 100) : 0;
+    var wrong = quiz.answers.filter(function (a) { return !a.correct; });
+
+    resetAllInOne(quiz.moduleId);
+
+    var wrongList = el("div", { class: "wrong-list" });
+    if (wrong.length === 0) {
+      wrongList.appendChild(el("div", { class: "lead" }, "Ei virheitä – hienoa työtä!"));
+    } else {
+      wrong.forEach(function (a) {
+        var ci = a.q.correctIndex;
+        var oikea = (ci >= 0 && a.q.options && a.q.options[ci]) ? (LETTERS[ci] + " – " + optionText(a.q.options[ci])) : "?";
+        var oma = (a.user >= 0 && a.q.options && a.q.options[a.user]) ? (LETTERS[a.user] + " – " + optionText(a.q.options[a.user])) : "?";
+        wrongList.appendChild(el("div", { class: "wrong-item" }, [
+          el("div", { class: "stmt" }, a.q.statement),
+          el("div", null, "Vastauksesi: " + oma),
+          el("div", null, "Oikea vastaus: " + oikea),
+          a.q.explanation ? el("div", { class: "meta", style: "margin-top:6px;" }, "Selitys: " + a.q.explanation) : null,
+          a.q.needsReview ? el("div", { class: "review-note" }, "Vaatii ihmisen tarkistuksen.") : null
+        ]));
+      });
+    }
+
+    var card = el("div", { class: "card" }, [
+      el("h2", null, "Kaikki käyty läpi – " + quiz.moduleName),
+      el("div", { class: "score-big" }, correct + " / " + total),
+      el("div", { class: "score-pct" }, pct + " % oikein · kaikki moduulin " + total + " kysymystä käytiin läpi"),
+      el("h3", null, "Väärin menneet kysymykset"),
+      wrongList,
+      el("div", { class: "btn-row", style: "margin-top:18px;" }, [
+        el("button", { class: "btn primary", onclick: function () { startAllInOne(quiz.moduleId, true); } }, "Aloita alusta"),
+        el("button", { class: "btn", onclick: renderAllInOnePicker }, "Takaisin moduulivalintaan"),
+        el("button", { class: "btn ghost", onclick: renderHome }, "Palaa alkuvalikkoon")
+      ])
+    ]);
+    setView(card);
+  }
+
   // ---------- Instructions / Ohjeet ----------
   function renderInstructions() {
     function section(title, children) {
@@ -1584,7 +1846,22 @@
         paragraph("Jos kuva ei lataudu, kysymyksen yhteydessä on linkki avata kuva alkuperäisestä PDF-tiedostosta. Kuvakysymykset esitetään aina järjestyksessä (moduuli kerrallaan, kysymysnumeron mukaan).")
       ]),
 
-      section("5. Tilastot", [
+      section("5. Selaa kysymyspankkia", [
+        paragraph("Tämä toiminto näyttää valitsemasi moduulin kaikki kysymykset alkuperäisessä numerojärjestyksessä ilman vastaamista – oikea vastaus on korostettu suoraan vihreällä. Sopii nopeaan kertaukseen ennen harjoitusta."),
+        paragraph("Selaus ei vaikuta tilastoihin, virhehistoriaan eikä kysymysten painotukseen, koska mihinkään ei vastata.")
+      ]),
+
+      section("6. All in One", [
+        paragraph("All in One käy valitun moduulin KAIKKI kysymykset läpi järjestyksessä alusta loppuun samalla tekniikalla kuin normaalissa harjoituksessa: valitset vastauksen A–D ja saat heti palautteen ja selityksen."),
+        el("ul", { style: "margin:0 0 10px 18px;padding:0;" }, [
+          bullet("Etenemä (mihin kysymykseen jäit) tallentuu automaattisesti moduulikohtaisesti, niin voit jatkaa myöhemmin – myös toisella laitteella tai selaimen istunnolla samalla selaimella."),
+          bullet("Moduulivalinnassa näet etenemispalkin ja voit jatkaa siitä mihin jäit, tai painaa \"↺ Alusta\" aloittaaksesi moduulin alusta."),
+          bullet("Väärin vastatut kysymykset kertyvät virhehistoriaan ja nähdyt kysymykset vaikuttavat kysymysten painotukseen samalla tavalla kuin tavallisissa harjoituksissa."),
+          bullet("Kun kaikki moduulin kysymykset on käyty läpi, näet yhteenvedon tuloksesta ja väärin menneistä kysymyksistä.")
+        ])
+      ]),
+
+      section("7. Tilastot", [
         paragraph("Tilastot-sivulla näet:"),
         el("ul", { style: "margin:0 0 10px 18px;padding:0;" }, [
           bullet("Jokaisen moduulin harjoitusmäärän, viimeisimmän ja parhaan tuloksen."),
@@ -1593,12 +1870,12 @@
         ])
       ]),
 
-      section("6. Nollaa tulokset", [
-        paragraph("\"Nollaa tulokset\" -toiminto tyhjentää kaikki harjoitustulokset, virhehistorian ja koesimulaatiohistorian pysyvästi. Tätä toimintoa ei voi perua."),
+      section("8. Nollaa tulokset", [
+        paragraph("\"Nollaa tulokset\" -toiminto tyhjentää kaikki harjoitustulokset, virhehistorian, koesimulaatiohistorian ja All in One -etenemän pysyvästi. Tätä toimintoa ei voi perua."),
         paragraph("Huom: sovellus toimii täysin offline-tilassa, joten tietojen nollaus vaikuttaa vain tähän selaimeen.")
       ]),
 
-      section("7. Ulkoasu ja teema", [
+      section("9. Ulkoasu ja teema", [
         paragraph("Yläpalkin kuvakkeista voit vaihtaa tumman ja vaalean teeman välillä. Valinta tallentuu selaimen muistiin.")
       ]),
 

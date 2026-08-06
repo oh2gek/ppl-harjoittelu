@@ -2,6 +2,35 @@
 
 Kaikki merkittävät muutokset PPL-harjoittelu -projektiin, uusin ensin.
 
+## [V4.2.22] — 2026-08-06
+
+### Muutettu
+- **030-0070 rivitys**: Kysymyksen taulukkomuotoinen data oli yhtenä pötkönä. Jaettu riveille (`\n`) samalla tyylillä kuin 030-0068:ssa, ja desimaalipilkut yhtenäistetty Suomen käytäntöön (esim. `51.5` → `51,5`).
+
+## [V4.2.21] — 2026-08-06
+
+### Lisätty
+- **Uusi "All in One" -toiminto**: Uusi painike etusivulla "Selaa kysymyspankkia" -painikkeen vierestä. Käy valitun moduulin kaikki kysymykset läpi alkuperäisessä järjestyksessä samalla vastaustekniikalla kuin normaalissa harjoituksessa (A–D, heti palaute ja selitys). Etenemä (mihin kysymykseen jäit) tallentuu automaattisesti moduulikohtaisesti `localStorage`:en, niin harjoittelua voi jatkaa myöhemmin siitä mihin jäi. Moduulivalinnassa näkyy etenemispalkki ja erillinen "↺ Alusta" -painike etenemän nollaamiseen. Väärin vastatut kysymykset ja nähdyt kysymykset kirjataan samaan virhehistoriaan/seenCountiin kuin tavallisissa harjoituksissa, joten ne vaikuttavat myös kysymysten painotukseen. "Nollaa tulokset" tyhjentää myös All in One -etenemän.
+- **Käyttöohjeet päivitetty**: Lisätty uudet osiot "5. Selaa kysymyspankkia" (puuttui aiemmin kokonaan ohjeista) ja "6. All in One". Loput osiot numeroitu uudelleen (Tilastot 7, Nollaa tulokset 8, Ulkoasu ja teema 9). "Nollaa tulokset" -osion teksti mainitsee nyt myös All in One -etenemän nollautumisen.
+
+### Korjattu
+- **030-0107, 030-0127 ja 030-0128 katkenneet kysymystekstit**: 030-0107:stä puuttui liiteviittaus "(Katso LAPL/PPL 030-08)" kokonaan, jolloin kysymystä ei tunnistettu kuvakysymykseksi eikä kuvaa/PDF-linkkiä näytetty. 030-0127 ja 030-0128 olivat katkenneet kesken lauseen ("...jos torni ilmoittaa") – puuttui itse tuulitieto ("tuuleksi 220°/30 kts?") ja liiteviittaus "(Katso LAPL/PPL 030-06)" kokonaan, jolloin kysymykseen ei olisi voinut vastata oikein ilman annettua dataa. Kaikki kolme korjattu vastaamaan PDF-lähdettä (sivut 20 ja 25). Käyty läpi koko moduulin 030 kysymykset vastaavien virheiden varalta (puuttuvat liiteviittaukset, katkenneet lauseet) – muita virheitä ei löytynyt.
+
+## [V4.2.20] — 2026-08-06
+
+### Korjattu
+- **Kuusi väärää oikeaa vastausta moduulissa 030**: Uudelleenlasketut/tarkistetut mass & balance-, tiheyskorkeus- ja helikopteri-kysymykset. 030-0068 (polttoainemäärä: A 40 gal, oli D 24 gal), 030-0070 (momentti: C 74,9, oli D 77,0), 030-0079 (tiheyskorkeus: D 1360 ft, oli B 1300 ft), 030-0082 (tiheyskorkeus: A 2050 ft, oli C 2900 ft), 030-0152 (autorotaation liukumatka: A suuri nopeus/pienet kierrokset, oli D), 030-0156 (ei vaikuta tehontarpeeseen: C voimalaitteen teho, oli D lentoasu).
+- **030-0151 merkitty tarkistettavaksi** (`needsReview: true`, `confidence: medium`): tekninen peruste viittaa siihen, että "autorotaatioloppuveto voi olla mahdoton" liittyy tyypillisemmin liian etupainoiseen massakeskiöön, ei liian takana olevaan – korrektiindeksiä ei muutettu automaattisesti, vaatii tarkistuksen alkuperäisestä vastausavaimesta.
+
+### Muutettu
+- **Selitysten tarkennus (11 kysymystä)**: 030-0011, 030-0027, 030-0043, 030-0054, 030-0056, 030-0112, 030-0119 – selitykset täsmennetty/korjattu vastaamaan laskuja tai poistettu ristiriitaisia väitteitä, `correctIndex` ei muuttunut.
+- **030-0142 ja 030-0147 merkitty tarkistettaviksi** (`needsReview: true`, `confidence: medium`): selityksissä oli liian yleistäviä väitteitä "final reserve fuel" -ajoista (45 min/30 min), jotka riippuvat sovellettavista säännöistä. `correctIndex` säilytetty ennallaan.
+
+## [V4.2.19] — 2026-08-06
+
+### Korjattu
+- **030-0011 ja 030-0021 väärä oikea vastaus**: Kuvan `LAPL/PPL 030-01` (4 kuormaustilannetta A–D) tulkinta oli virheellinen. Kuvien todellinen sisältö: A = ei polttoainetta, matkustajat+matkatavarat mukana; B = vain polttoaine, ei kuormaa; C = ei kuormaa ollenkaan; D = täydet tankit + matkustajat+matkatavarat. Korjattu: 030-0011 (kuva D → "Suurin sallittu kokonaismassa", oli virheellisesti "Tyhjämassa") ja 030-0021 (kuva A → "Massa ilman polttoainetta", oli virheellisesti "Tyhjämassa"). Käyty läpi kaikki moduulin 030 kysymykset, joissa viitataan kuvan osiin A/B/C/D – muita virheitä ei löytynyt.
+
 ## [V4.2.18] — 2026-08-06
 
 ### Muutettu

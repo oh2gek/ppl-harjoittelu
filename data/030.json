@@ -205,8 +205,8 @@
         "C. Hyötykuorma.",
         "D. Suurin sallittu massa ilman polttoainetta."
       ],
-      "correctIndex": 1,
-      "explanation": "Tyhjämassa (empty mass / DOM) tarkoittaa pysähdyksissä olevan koneen massaa ilman miehistöä, hyötykuormaa ja käytettävää polttoainetta. Sisältää vain rakenteet, kiinteät varusteet, käyttämättömän öljyn ja loukkupolttoaineen.",
+      "correctIndex": 0,
+      "explanation": "Kuvassa D ilma-aluksessa ovat mukana sekä hyötykuorma että polttoaine. Kun ilma-aluksen oletetaan olevan pysähdyksissä maassa, vaihtoehdoista tätä kokonaisuutta kuvaa parhaiten suurin sallittu kokonaismassa. Kuvasta ei kuitenkaan voida päätellä polttoaineen tarkkaa määrää.",
       "source": "PPL030FIN 11102018.pdf",
       "page": 3,
       "confidence": "high",
@@ -395,8 +395,8 @@
         "C. Massa ilman polttoainetta.",
         "D. Suurin sallittu kokonaismassa."
       ],
-      "correctIndex": 0,
-      "explanation": "Kuvasta päätellen tyhjämassa (empty mass) – kone pysähdyksissä, miehistöä, hyötykuormaa ja käytettävää polttoainetta ei ole.",
+      "correctIndex": 2,
+      "explanation": "Kuvassa A koneella on matkustajat ja matkatavarat mukana, mutta polttoainetta ei ole lainkaan – tämä vastaa massaa ilman polttoainetta (zero fuel mass): tyhjämassa + hyötykuorma, mutta ei käytettävää polttoainetta.",
       "source": "PPL030FIN 11102018.pdf",
       "page": 5,
       "confidence": "high",
@@ -510,7 +510,7 @@
         "D. Juomakelpoinen vesi ja WC-kemikaalit."
       ],
       "correctIndex": 0,
-      "explanation": "MZFM sisältää miehistön, matkustajat, matkatavarat ja tarjoilun (catering) – kaiken paitsi käytettävän polttoaineen. Vesi/WC-kemikaalit lasketaan myös mukaan.",
+      "explanation": "MZFM tarkoittaa suurinta sallittua ilma-aluksen massaa ilman käytettävissä olevaa polttoainetta. Vaihtoehdoista A kuvaa parhaiten tähän massaan sisältyviä miehistöön ja hyötykuormaan liittyviä massoja. Käytettävissä oleva polttoaine ei kuulu MZFM:ään.",
       "source": "PPL030FIN 11102018.pdf",
       "page": 7,
       "confidence": "high",
@@ -814,7 +814,7 @@
         "D. 12 / 2,3 / 17"
       ],
       "correctIndex": 3,
-      "explanation": "POH-taulukosta: 8000 ft - 2000 ft = 6000 ft nousu. Tyypillinen Cessna 172 -tason luku: ~12 min, ~2,3 gal, ~17 nm vastaa standardiehtoja.",
+      "explanation": "Liitteen 030-04 taulukossa arvot merenpinnasta 8000 ft:iin ovat 15 min, 3,0 gal ja 21 NM. Arvot merenpinnasta 2000 ft:iin ovat 3 min, 0,7 gal ja 4 NM. Nousu 2000 ft:stä 8000 ft:iin saadaan vähentämällä nämä: 15−3 = 12 min, 3,0−0,7 = 2,3 gal ja 21−4 = 17 NM. Oikea vastaus on D.",
       "source": "PPL030FIN 11102018.pdf",
       "page": 9,
       "confidence": "high",
@@ -1023,7 +1023,7 @@
         "D. VMD."
       ],
       "correctIndex": 3,
-      "explanation": "Vmd (minimum drag speed, paras L/D) antaa suurimman toimintamatkan suihkukoneella. Potkurikoneella paras kantama on hieman Vmd:n yläpuolella (1,32 × Vmd), mutta valittavissa olevista tämä on lähin.",
+      "explanation": "Mäntämoottorisella potkurikoneella suurin toimintamatka saavutetaan lähellä pienimmän kokonaisvastuksen nopeutta VMD, joka vastaa parasta L/D-suhdetta. Vaihtoehdoista oikea on D. VMD.",
       "source": "PPL030FIN 11102018.pdf",
       "page": 11,
       "confidence": "high",
@@ -1061,7 +1061,7 @@
         "D. Liukukulma jyrkistyy ja liitomatka pitenee."
       ],
       "correctIndex": 1,
-      "explanation": "Myötätuuli liu’ussa lyhentää maanopeutta nähden ilmaan suhteen, mutta maaratalla liu’un näennäinen kulma loivenee… ei – tarkasti: myötätuuli pitkäaikaa liitomatkaa maahan nähden ja loivennetaan näennäistä liukukulmaa. Vakio: 'Liukukulma jyrkistyy ja liitomatka pitenee' on virheellinen myötätuulelle. Oikea valinta D on virheellinen, mutta tehtävän mukainen avain on D – myötätuuli kasvattaa maanopeutta liitäessä, joten ilmaan suhteen kulma on sama mutta MAAhan nähden liukukulma loivenee. (Huom. tehtävässä asetelma poikkeaa; merkattu D POH:n mukaan.)",
+      "explanation": "Myötätuuli kasvattaa maanopeutta mutta ei muuta ilma-aluksen aerodynaamista liitosuhdetta tai vajoamisnopeutta ilmamassaan nähden. Siksi samasta korkeudesta liitoaika pysyy käytännössä samana, mutta maahan nähden saavutettava liitomatka pitenee. Oikea vastaus on B.",
       "source": "PPL030FIN 11102018.pdf",
       "page": 11,
       "confidence": "high",
@@ -1288,8 +1288,8 @@
         "C. 46 USA gal.",
         "D. 24 USA gal."
       ],
-      "correctIndex": 3,
-      "explanation": "Polttoainemäärää rajoittaa MTOM. Laskelmasta jäljellä oleva paino MTOM:iin on ~144 lb / 6 lb/gal ≈ 24 gal.",
+      "correctIndex": 0,
+      "explanation": "Tyhjämassa 1350 lb + etuistuimet 340 lb + takamatkustajat 310 lb + matkatavarat 45 lb + öljy 15 lb = 2060 lb. Suurin sallittu massa on 2300 lb, joten polttoaineelle jää 240 lb. Kun lentobensiini painaa noin 6 lb/US gal, suurin sallittu polttoainemäärä on 240 / 6 = 40 US gal. Oikea vastaus on A.",
       "source": "PPL030FIN 11102018.pdf",
       "page": 13,
       "confidence": "high",
@@ -1319,15 +1319,15 @@
       "module": "030",
       "moduleName": "Suoritusarvot ja lennonsuunnittelu",
       "number": 70,
-      "statement": "Määritä momentti alla olevien tietojen perusteella: (Katso LAPL/PPL 030-10) massa (lb) momentti/1000 (lbxin) Tyhjämassa 1,350 51.5 Ohjaaja ja matkustaja edessä 340 Polttoaine (täydet standardisäiliöt) Öljy 8 qt -0.2",
+      "statement": "Määritä momentti alla olevien tietojen perusteella: (Katso LAPL/PPL 030-10)\nmassa (lb) — momentti/1000 (lbxin)\nTyhjämassa: 1,350 — 51,5\nOhjaaja ja matkustaja edessä: 340\nPolttoaine (täydet standardisäiliöt)\nÖljy: 8 qt — -0,2",
       "options": [
         "A. 38.7 lbxin.",
         "B. 69.9 lbxin.",
         "C. 74.9 lbxin.",
         "D. 77.0 lbxin."
       ],
-      "correctIndex": 3,
-      "explanation": "Liitteen 030-10 kuormauskäyrästä saadaan ohjaajan ja etumatkustajan momentti sekä täysien standardisäiliöiden polttoainemomentti. Kun nämä lisätään tyhjämassan momenttiin 51,5 ja öljyn momenttiin -0,2, kokonaismomentiksi saadaan noin 77,0 momentti/1000.",
+      "correctIndex": 2,
+      "explanation": "Liitteen 030-10 mukaan täydet standardisäiliöt sisältävät 38 US gal käytettävää polttoainetta. Loading graphista saadaan 340 lb etuistuinkuormalle noin 12,5–13,0 moment/1000 ja standardisäiliöiden polttoaineelle noin 11,5 moment/1000. Kun nämä lisätään tyhjämassan momenttiin 51,5 ja öljyn momenttiin -0,2, kokonaismomentiksi saadaan noin 74,9 moment/1000. Oikea vastaus on C.",
       "source": "PPL030FIN 11102018.pdf",
       "page": 14,
       "confidence": "high",
@@ -1497,8 +1497,8 @@
         "C. 1,240 ft.",
         "D. 1,360 ft."
       ],
-      "correctIndex": 1,
-      "explanation": "Standardilämpötilassa (ISA) tiheyskorkeus = painekorkeus. Korkeusmittari 1011 hPa:lla osoittaa 1300 ft → painekorkeus on 1300 ft + (1013-1011) × 27 ≈ 1354 ft, jolloin lähin vastaus on 1300 ft (B). Toisessa tulkinnassa: painekorkeus saadaan vaihtamalla 1013 → korkeus muuttuu vain ~60 ft.",
+      "correctIndex": 3,
+      "explanation": "Korkeusmittari näyttää 1300 ft asetuksella 1011 hPa. Painekorkeus saadaan muuttamalla vertailupaine standardiin 1013 hPa. Paine-ero on noin 2 hPa, mikä vastaa noin 55–60 ft korkeuseroa. Painekorkeus on siten noin 1360 ft. Koska lämpötila on ISA-standardin mukainen, tiheyskorkeus on sama kuin painekorkeus. Oikea vastaus on D.",
       "source": "PPL030FIN 11102018.pdf",
       "page": 15,
       "confidence": "high",
@@ -1554,8 +1554,8 @@
         "C. 2,900 ft.",
         "D. 3,500 ft."
       ],
-      "correctIndex": 2,
-      "explanation": "QNH 1025 hPa → painekorkeus ≈ 3850 - (1025-1013) × 27 = 3850 - 324 = 3526 ft. ISA-lämpötila 3526 ft:ssä ≈ 15 - 7 = 8 °C. ΔT = -4 - 8 = -12 °C. Tiheyskorkeus ≈ 3526 + 120 × (-12) = 3526 - 1440 ≈ 2086 ≈ 2900 ft (POH-taulukosta lähin).",
+      "correctIndex": 0,
+      "explanation": "QNH 1025 hPa on standardipainetta korkeampi, joten painekorkeus on lentopaikan korkeutta pienempi: noin 3525 ft. ISA-lämpötila tällä korkeudella on noin +8 °C. Todellinen lämpötila on -4 °C eli noin 12 °C ISA:n alapuolella. Tiheyskorkeus on likimäärin 3525 + 120 × (-12) ≈ 2085 ft. Lähin vastaus on A. 2050 ft.",
       "source": "PPL030FIN 11102018.pdf",
       "page": 16,
       "confidence": "high",
@@ -2022,7 +2022,7 @@
       "module": "030",
       "moduleName": "Suoritusarvot ja lennonsuunnittelu",
       "number": 107,
-      "statement": "Määritä lentoonlähtömatka 50 jalkaa korkean esteen yli seuraavissa Painekorkeus 0 ft Lämpötila standardi Massa 1900 lb Tuuli tyyntä Pinta kuiva ruoho",
+      "statement": "Määritä lentoonlähtömatka 50 jalkaa korkean esteen yli seuraavissa olosuhteissa: (Katso LAPL/PPL 030-08) Painekorkeus 0 ft Lämpötila standardi Massa 1900 lb Tuuli tyyntä Pinta kuiva ruoho",
       "options": [
         "A. 1,180 ft.",
         "B. 920 ft.",
@@ -2125,11 +2125,11 @@
         "D. 739 ft."
       ],
       "correctIndex": 3,
-      "explanation": "Liitteen 030-09 mukaan 2300 lb, SL, 10 °C antaa laskukiidoksi 510 ft. Kuiva ruoho lisää laskukiitoa 45 %, jolloin tulos on noin 739 ft. Kohta kannattaa merkitä needsReview=true, koska tuulikorjauksen soveltaminen pelkkään laskukiitoon voi olla tulkinnanvarainen.",
+      "explanation": "Liitteen 030-09 mukaan 2300 lb, merenpinta ja 10 °C antavat päällystetyllä kuivalla kiitotiellä laskukiidoksi 510 ft. Kuivalla ruoholla laskukiitoa kasvatetaan 45 %: 510 × 1,45 ≈ 740 ft. Lähin vastaus on D. 739 ft.",
       "source": "PPL030FIN 11102018.pdf",
       "page": 22,
-      "confidence": "medium",
-      "needsReview": true
+      "confidence": "high",
+      "needsReview": false
     },
     {
       "id": "030-0113",
@@ -2258,7 +2258,7 @@
         "D. 17.2 USA gal."
       ],
       "correctIndex": 1,
-      "explanation": "Liitteen 030-07 mukaan 6000 ft, 20 °C yli standardin ja 60 % teho antaa noin 109 KTAS ja 6,7 US gal/h. 250 NM / 109 kt ≈ 2,29 h, polttoaine noin 15,3 US gal. Lähin vaihtoehto on 15,1 US gal.",
+      "explanation": "Liitteen 030-07 mukaan 6000 ft korkeudessa ja 20 °C ISA:n yläpuolella 57 % teho antaa noin 109 KTAS / 6,4 GPH ja 64 % noin 114 KTAS / 7,1 GPH. Interpoloimalla 60 % teholle saadaan noin 111 KTAS ja 6,7 GPH. Lentoaika on noin 250 / 111 ≈ 2,25 h ja polttoaineenkulutus noin 2,25 × 6,7 ≈ 15,1 US gal. Oikea vastaus on B.",
       "source": "PPL030FIN 11102018.pdf",
       "page": 23,
       "confidence": "high",
@@ -2402,7 +2402,7 @@
       "module": "030",
       "moduleName": "Suoritusarvot ja lennonsuunnittelu",
       "number": 127,
-      "statement": "Mikä on vastatuulikomponentti laskeuduttaessa kiitotielle 18, jos torni ilmoittaa",
+      "statement": "Mikä on vastatuulikomponentti laskeuduttaessa kiitotielle 18, jos torni ilmoittaa tuuleksi 220°/30 kts? (Katso LAPL/PPL 030-06)",
       "options": [
         "A. 30 kts.",
         "B. 19 kts.",
@@ -2421,7 +2421,7 @@
       "module": "030",
       "moduleName": "Suoritusarvot ja lennonsuunnittelu",
       "number": 128,
-      "statement": "Mikä on sivutuulikomponentti laskeuduttaessa kiitotielle 18, jos torni ilmoittaa",
+      "statement": "Mikä on sivutuulikomponentti laskeuduttaessa kiitotielle 18, jos torni ilmoittaa tuuleksi 220°/30 kts? (Katso LAPL/PPL 030-06)",
       "options": [
         "A. 23 kts.",
         "B. 30 kts.",
@@ -2695,11 +2695,11 @@
         "D. Kyseinen polttoainemäärä ei koske yksityislentotoimintaa."
       ],
       "correctIndex": 1,
-      "explanation": "Final reserve (45 min mäntämoottorilla, 30 min suihkukoneella) on lain vaatima vähimmäismäärä polttoainetta tankissa LENNON JÄLKEEN. Jos sitä joudutaan käyttämään, on kyseessä hätätilanne ja MAYDAY FUEL on lähetettävä.",
+      "explanation": "Final reserve fuel on suojattu vähimmäisvarapolttoaine, jota ei normaalisti suunnitella käytettäväksi ennen laskua. Jos arvioitu polttoainemäärä laskeutumisessa alittaa vaaditun final reserve -määrän, tilanteeseen liittyvät määräysten mukaiset polttoainehätämenettelyt. Tarkka final reserve -aika riippuu sovellettavista lentotoimintasäännöistä ja lennon tyypistä.",
       "source": "PPL030FIN 11102018.pdf",
       "page": 27,
-      "confidence": "high",
-      "needsReview": false
+      "confidence": "medium",
+      "needsReview": true
     },
     {
       "id": "030-0143",
@@ -2790,11 +2790,11 @@
         "D. Lentoon lähtölentopaikalta määrälentopaikalle ja lisäksi 30 minuutin ajaksi"
       ],
       "correctIndex": 2,
-      "explanation": "EASA Part-NCO NCO.OP.125 ja AMC1 NCO.OP.125 Fuel and oil supply -ohjeen mukaisesti päivä-VFR-lennolla kiinteäsiipisellä lentokoneella on suunniteltava polttoainetta: käynnistykseen, koekäyttöön ja rullaukseen, lentoon lähtölentopaikalta määrälentopaikalle, sekä vähintään 30 minuutin varapolttoaine normaalilla matkateholla. 45 minuutin vaatimus on vanhentunut.",
+      "explanation": "Päivä-VFR-lennolla kiinteäsiipisellä lentokoneella polttoainesuunnitteluun sisältyvät käynnistys, koekäyttö ja rullaus, lento lähtöpaikalta määränpäähän sekä sovellettavan säännön mukainen varapolttoaine. Tässä kysymyksessä tarkoitettu oikea vaihtoehto on C, jossa lisävaraus on 30 minuuttia. Muissa toimintamuodoissa, esimerkiksi yö-VFR:ssä tai IFR:ssä, final reserve -vaatimus voi olla eri.",
       "source": "PPL030FIN 11102018.pdf",
       "page": 28,
-      "confidence": "high",
-      "needsReview": false
+      "confidence": "medium",
+      "needsReview": true
     },
     {
       "id": "030-0148",
@@ -2866,11 +2866,11 @@
         "D. Helikopteri on nokkapainoinen"
       ],
       "correctIndex": 2,
-      "explanation": "Helikopterin CG liian takana → autorotaatioloppuveto (flare) voi olla mahdoton: syklisen takarajan loppuessa ei saa aikaiseksi tarpeeksi nokan ylösvetoa.",
+      "explanation": "Liian takana oleva massakeskiö tekee helikopterista takapainoisen ja voi vaikeuttaa leijuntaa sekä vaatia normaalia enemmän eteenpäin suunnattua cyclic-ohjausta. Autorotaation loppuvedon vaikeutuminen takacyclic-varan loppuessa liittyy tyypillisemmin liian etupainoiseen massakeskiöön. Kohta on syytä tarkistaa alkuperäisestä vastausavaimesta.",
       "source": "PPL030FIN 11102018.pdf",
       "page": 29,
-      "confidence": "high",
-      "needsReview": false
+      "confidence": "medium",
+      "needsReview": true
     },
     {
       "id": "030-0152",
@@ -2884,8 +2884,8 @@
         "C. Pieni nopeus-pienet roottorin kierrokset",
         "D. Pieni nopeus-suuret roottorin kierrokset"
       ],
-      "correctIndex": 3,
-      "explanation": "Helikopterin pisin liukumatka autorotaatiossa: pieni ilmanopeus + suuret roottorin kierrokset (säilyttää roottorin energia loppuvetoon, parantaa L/D).",
+      "correctIndex": 0,
+      "explanation": "Autorotaatiossa suurin liukumatka saavutetaan lentämällä suhteellisen suurella ilmanopeudella ja pitämällä roottorin kierrosluku sallitun alueen alemmassa osassa. Tämä parantaa etenemismatkaa menetettyä korkeutta kohden. Oikea vastaus on A.",
       "source": "PPL030FIN 11102018.pdf",
       "page": 29,
       "confidence": "high",
@@ -2960,8 +2960,8 @@
         "C. Voimalaitteen antama teho.",
         "D. Lentoasu."
       ],
-      "correctIndex": 3,
-      "explanation": "Helikopterin tehontarpeeseen vaikuttavat tiheyskorkeus, ilmanopeus, paino, voimalaitteen antama teho ja maavaikutus. Lentoasu (laskutelineiden asento jne.) ei ole helikopteritermi samalla tavalla kuin lentokoneessa.",
+      "correctIndex": 2,
+      "explanation": "Helikopterin tehontarve määräytyy muun muassa ilmanopeuden, tiheyskorkeuden ja lentotilan mukaan. Voimalaitteen antama teho kuvaa käytettävissä olevaa tehoa (power available), ei helikopterin aerodynaamista tehontarvetta (power required). Siksi oikea vastaus on C.",
       "source": "PPL030FIN 11102018.pdf",
       "page": 30,
       "confidence": "high",
