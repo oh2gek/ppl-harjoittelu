@@ -48,7 +48,7 @@
   var THEME_KEY = "ppl-harjoittelu:theme";
   var DISCLAIMER_KEY = "ppl-harjoittelu:disclaimer-accepted";
   var LETTERS = ["A", "B", "C", "D"];
-  var APP_VERSION = "4.2.13";
+  var APP_VERSION = "4.2.15";
 
   var PDF_FILES = {
     "010": "PPL010FIN 11102018.pdf",
@@ -1605,11 +1605,42 @@
   }
 
   // ---------- Changelog ----------
+  function markdownToHtml(md) {
+    var lines = md.split(/\r?\n/);
+    var out = [];
+    var inList = false;
+    function closeList() { if (inList) { out.push("</ul>"); inList = false; } }
+    function inlineBold(s) { return s.replace(/\*\*(.+?)\*\*/g, "<b>$1</b>"); }
+    lines.forEach(function (line) {
+      var s = line.trim();
+      if (s.indexOf("# ") === 0) {
+        closeList();
+        out.push('<h2 style="margin-top:0">' + s.slice(2) + "</h2>");
+      } else if (s.indexOf("## ") === 0) {
+        closeList();
+        out.push('<h3 style="margin-top:18px;margin-bottom:6px;border-bottom:1px solid var(--border);padding-bottom:4px;">' + s.slice(3) + "</h3>");
+      } else if (s.indexOf("### ") === 0) {
+        closeList();
+        out.push('<h4 style="margin-top:12px;margin-bottom:4px;color:var(--accent)">' + s.slice(4) + "</h4>");
+      } else if (s.indexOf("- ") === 0) {
+        if (!inList) { out.push('<ul style="margin:0 0 8px 18px;padding:0;line-height:1.55;">'); inList = true; }
+        out.push('<li style="margin-bottom:4px;">' + inlineBold(s.slice(2)) + "</li>");
+      } else if (s === "") {
+        closeList();
+        out.push("<br>");
+      } else {
+        closeList();
+        out.push('<p style="margin:0 0 8px 0;line-height:1.55;">' + inlineBold(s) + "</p>");
+      }
+    });
+    closeList();
+    return out.join("\n");
+  }
+
   function renderChangelog() {
     var contentDiv = el("div", {
       style: "max-height:70vh;overflow-y:auto;padding-right:8px;"
     });
-    contentDiv.innerHTML = CHANGELOG_HTML || "<p>Changelog ei saatavilla.</p>";
 
     var card = el("div", { class: "card" }, [
       el("div", { class: "btn-row", style: "margin-bottom:10px" }, [
@@ -1620,6 +1651,17 @@
       contentDiv
     ]);
     setView(card);
+
+    if (typeof CHANGELOG_HTML !== "undefined" && CHANGELOG_HTML) {
+      contentDiv.innerHTML = CHANGELOG_HTML;
+      return;
+    }
+
+    contentDiv.innerHTML = "<p>Ladataan changelogia…</p>";
+    fetch("CHANGELOG.md")
+      .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.text(); })
+      .then(function (md) { contentDiv.innerHTML = markdownToHtml(md); })
+      .catch(function () { contentDiv.innerHTML = "<p>Changelog ei saatavilla.</p>"; });
   }
 
   // Expose globally for HTML onclick handlers

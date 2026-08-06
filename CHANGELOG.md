@@ -2,6 +2,11 @@
 
 Kaikki merkittävät muutokset PPL-harjoittelu -projektiin, uusin ensin.
 
+## [V4.2.15] — 2026-08-06
+
+### Korjattu
+- **Changelog ei avautunut GitHub Pages -versiossa**: `renderChangelog` viittasi `CHANGELOG_HTML`-muuttujaan, jonka ainoastaan yhden tiedoston build (`tools/build_single_html.py`) upottaa `PPL-harjoittelu.html`-tiedostoon. Kehitysversiossa (`index.html` + `src/app.js`, mm. GitHub Pages) muuttuja ei ollut määritelty, joten "Avaa Changelog" -painike heitti `ReferenceError`in eikä sivu avautunut. Lisätty varajärjestelmä: jos `CHANGELOG_HTML` puuttuu, sovellus hakee `CHANGELOG.md`:n `fetch`illä ja muuntaa sen HTML:ksi selaimessa.
+
 ## [V4.2.13] — 2026-08-06
 
 ### Lisätty
