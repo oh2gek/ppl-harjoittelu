@@ -2,6 +2,14 @@
 
 Kaikki merkittävät muutokset PPL-harjoittelu -projektiin, uusin ensin.
 
+## [V4.2.23] — 2026-08-11
+
+### Muutettu
+- **Alaviite päivitetty**: Poistettu tekijän nimi ja "offline-versio" -maininta alaviitteestä.
+- **Selainvälilehden logo**: Lisätty `<link rel="icon">` käyttäen samaa SVG-kuvaketta kuin iOS:n `apple-touch-icon`.
+- **GitHub Pages -julkaisu**: `deploy.yml` päivitetty kopioimaan `PPL-harjoittelu.html` `index.html`:ksi ja mukana tarvittavat kuva-assetit (`PNG/`, `Taustakuva ISO.png`), jotta juuri-URL palvelee toimivan offline-version.
+- **README palautettu**: GitHubissa typistetty README palautettu täyteen versioonsa.
+
 ## [V4.2.22] — 2026-08-06
 
 ### Muutettu

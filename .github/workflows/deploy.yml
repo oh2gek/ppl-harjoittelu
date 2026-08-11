@@ -26,10 +26,17 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v5
+      - name: Prepare Pages artifact
+        run: |
+          mkdir -p dist
+          cp PPL-harjoittelu.html dist/index.html
+          cp PPL-harjoittelu.html dist/PPL-harjoittelu.html
+          cp -r PNG dist/
+          cp "Taustakuva ISO.png" dist/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "."
+          path: "dist"
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
