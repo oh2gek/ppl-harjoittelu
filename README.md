@@ -36,16 +36,17 @@ on myös **Kertaa virheet** -tila.
 
 ```
 ppl-harjoittelu/
-  index.html              # Kehitysversio (lukee data/-kansiosta)
-  PPL-harjoittelu.html    # Yhden tiedoston offline-versio (jakeluun)
+  index.html              # Valmis yhden tiedoston versio (GitHub Pages / juuri)
+  PPL-harjoittelu.html    # Sama valmis yhden tiedoston versio (jakeluun / varakopio)
   src/
+    index.html            # Kehitysversio (pohja buildille)
     app.js
     styles.css
   data/
     010.json ... 090.json # Kysymysdata moduuleittain
   tools/
     extract_pdfs.py       # PDF -> JSON -muunnin
-    build_single_html.py  # Rakentaa yhden tiedoston offline-version
+    build_single_html.py  # Rakentaa valmiin index.html:n ja PPL-harjoittelu.html:n
     validate.py           # Tuottaa validointiraportin
   reports/
     validation_report.html
@@ -54,12 +55,14 @@ ppl-harjoittelu/
 
 ## Käyttö
 
-### Tapa 1 – Yhden tiedoston offline-versio (suositus jakeluun)
+### Tapa 1 – Valmis yhden tiedoston versio (suositus jakeluun ja GitHub Pages)
 
-Avaa `PPL-harjoittelu.html` selaimessa (Chrome, Edge, Safari, iPad).
-Tämä yksi tiedosto sisältää kaiken: käyttöliittymän, tyylit, JavaScriptin ja
-kysymysdatan. Voit kopioida sen muistitikulle, lähettää sähköpostilla tai
-viedä palvelimelle – mitään asennusta ei tarvita.
+Avaa `index.html` tai `PPL-harjoittelu.html` selaimessa (Chrome, Edge, Safari, iPad).
+Nämä ovat samoja valmiita yhden tiedoston versioita, joissa on kaikki
+sisään: käyttöliittymä, tyylit, JavaScript ja kysymysdata. Voit kopioida
+`PPL-harjoittelu.html`:n muistitikulle, lähettää sähköpostilla tai viedä
+mille tahansa staattiselle web-palvelimelle. GitHub Pagesin osoite on:
+`https://oh2gek.github.io/ppl-harjoittelu/`
 
 ### Tapa 2 – Kehitysversio
 
@@ -71,7 +74,7 @@ cd ppl-harjoittelu
 python -m http.server 8000
 ```
 
-Avaa sitten `http://localhost:8000/` selaimessa.
+Avaa sitten `http://localhost:8000/` selaimessa (valmis versio) tai `http://localhost:8000/src/index.html` kehitysversiota varten.
 
 ### Palvelimelle vienti
 

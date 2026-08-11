@@ -84,7 +84,9 @@ def markdown_to_html(md: str) -> str:
 
 def main() -> int:
     root = Path(__file__).resolve().parent.parent
-    index_html = (root / "index.html").read_text(encoding="utf-8")
+    src_index = root / "src" / "index.html"
+    dev_index = root / "index.html" if not src_index.exists() else src_index
+    index_html = dev_index.read_text(encoding="utf-8")
     css = (root / "src" / "styles.css").read_text(encoding="utf-8")
     js_raw = (root / "src" / "app.js").read_text(encoding="utf-8")
     js, new_ver = bump_version(js_raw)
@@ -118,10 +120,10 @@ def main() -> int:
 
     out = index_html
 
-    # Replace <link rel="stylesheet" href="src/styles.css" /> with inline <style>
+    # Replace <link rel="stylesheet" href="styles.css" /> with inline <style>
     css_block = f"<style>\n{css}\n</style>"
     out = re.sub(
-        r'<link\s+rel="stylesheet"\s+href="src/styles\.css"\s*/?>',
+        r'<link\s+rel="stylesheet"\s+href="(?:src/)?styles\.css"\s*/?>',
         lambda m: css_block,
         out,
     )
@@ -137,7 +139,7 @@ def main() -> int:
     )
 
     out = re.sub(
-        r'<script\s+src="src/app\.js"\s*></script>',
+        r'<script\s+src="(?:src/)?app\.js"\s*></script>',
         lambda m: js_block,
         out,
     )
@@ -152,8 +154,10 @@ def main() -> int:
 
     output_path = root / "PPL-harjoittelu.html"
     output_path.write_text(out, encoding="utf-8")
+    (root / "index.html").write_text(out, encoding="utf-8")
     total_q = sum(len(v) for v in bundle.values())
     print(f"Wrote {output_path}")
+    print(f"Wrote {root / 'index.html'}")
     print(f"  modules: {len(bundle)}, total questions: {total_q}")
     print("Open the file in any browser. No internet required.")
     return 0
