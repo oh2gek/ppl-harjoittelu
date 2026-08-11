@@ -2,6 +2,12 @@
 
 Kaikki merkittävät muutokset PPL-harjoittelu -projektiin, uusin ensin.
 
+## [V4.2.24] — 2026-08-11
+
+### Muutettu
+- **Julkaisu-uudelleenrakennus**: `PPL-harjoittelu.html` rakennettu uudelleen `build_single_html.py`-skriptillä versioon 4.2.24.
+- **GitHub Actions -julkaisu**: `deploy.yml`-työnkulun concurrency-ryhmä uusittu (`pages-deploy-v3`, `cancel-in-progress: true`), koska aiempi ryhmä jäi jumiin GitHubin jonoon (`pending`).
+
 ## [V4.2.23] — 2026-08-11
 
 ### Muutettu
