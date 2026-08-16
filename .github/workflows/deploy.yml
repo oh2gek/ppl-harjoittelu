@@ -33,6 +33,7 @@ jobs:
           cp PPL-harjoittelu.html dist/PPL-harjoittelu.html
           cp -r PNG dist/
           cp "Taustakuva ISO.png" dist/
+          cp "VaaleaTausta.png" dist/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

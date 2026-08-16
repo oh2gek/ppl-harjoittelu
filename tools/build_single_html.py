@@ -86,6 +86,12 @@ def main() -> int:
     root = Path(__file__).resolve().parent.parent
     index_html = (root / "index.html").read_text(encoding="utf-8")
     css = (root / "src" / "styles.css").read_text(encoding="utf-8")
+    # Rewrite CSS url('../X') -> url('X'): styles.css is normally loaded from
+    # src/, so '../' points to the project root. When inlined into the
+    # single-file build, the <style> tag's base URL is the HTML file itself
+    # (which lives in the project root), so the leading '../' must be
+    # stripped or the image would resolve one directory above root.
+    css = re.sub(r"url\('\.\./([^']+)'\)", r"url('\1')", css)
     js_raw = (root / "src" / "app.js").read_text(encoding="utf-8")
     js, new_ver = bump_version(js_raw)
     (root / "src" / "app.js").write_text(js, encoding="utf-8")

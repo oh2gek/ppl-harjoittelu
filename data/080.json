@@ -1402,8 +1402,8 @@
         "C. On samansuuntainen linjan kanssa, joka kulkee painopisteen ja siipien kärkien kautta.",
         "D. Kulkee neljäsosa jänteen kautta siiven tyvessä ja on kohtisuorassa pituusakseliin nähden."
       ],
-      "correctIndex": 3,
-      "explanation": "Poikittaisakseli kulkee neljäsosajänteen kautta siiven tyvessä (CG-linja) ja on KOHTISUORASSA pituusakseliin nähden. Sen ympäri tapahtuu pituuskallistus (pitch).",
+      "correctIndex": 2,
+      "explanation": "Poikittaisakseli kulkee lentokoneen painopisteen kautta siivenkärkien suuntaisesti ja on kohtisuorassa pituusakseliin nähden. Lentokoneen pituuskallistus eli pitch tapahtuu tämän akselin ympäri.",
       "source": "PPL080FIN 11102018.pdf",
       "page": 13,
       "confidence": "high",
@@ -1630,7 +1630,7 @@
         "C. Liikutetaan ylös aiheuttaen vasemman siiven liikkeen alas, kaartosiivekkeet pysyy neutraalissa.",
         "D. Liikuttaa ylös, jotta vasen kaartosiiveke liikkuu ylös ja oikea kaartosiiveke alas."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanation": "Oikea siipi alhaalla → tarvitaan kallistus vasemmalle → vasen siiveke alas, oikea ylös. Vasemman siivekkeen TRIMMILEVY ALAS aiheuttaa siivekkeen liikkumisen YLÖS (servo-toiminta).",
       "source": "PPL080FIN 11102018.pdf",
       "page": 15,
@@ -1668,8 +1668,8 @@
         "C. Peräsimen alaspäin vaikuttava voima pienenee.",
         "D. Nokka-alas -vaikutus on heikentynyt."
       ],
-      "correctIndex": 3,
-      "explanation": "CG eturajalla → vakaajan tasapainottava ALASPÄINPAINE on suuri. Trimmilevy on tällöin asennossa, joka aiheuttaa korkeusperäsimen YLÖSPÄIN. Nokka-alas-vaikutus on heikentynyt → kone vakaampi nokka ylös.",
+      "correctIndex": 0,
+      "explanation": "Kun massakeskiö on lähellä sallittua eturajaa, lentokone tarvitsee enemmän nokka-ylös-trimmiä tasapainottamaan etupainoisuutta. Tällöin käytettävissä oleva nokka-ylös-ohjausvara pienenee, joten nokkaylös-vaikutus on heikentynyt.",
       "source": "PPL080FIN 11102018.pdf",
       "page": 16,
       "confidence": "high",

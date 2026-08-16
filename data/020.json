@@ -148,8 +148,8 @@
         "C. Valita seosvipu täysin laihalle.",
         "D. Valita kaasuttimen lämmitys pois päältä."
       ],
-      "correctIndex": 0,
-      "explanation": "Kaasuttimen tulipalon yhteydessä kaikki vaihtoehdot ovat oikein: jatka starttausta jotta liekit imeytyvät palokammioon, valitse seos täysin laihalle (Idle Cut-Off), sammuta lämmitys ja sytytys. Tavoite on saada moottori käymään tai kuristaa palo polttoaineen lopussa.",
+      "correctIndex": 2,
+      "explanation": "Seosvipu vedetään täysin laihalle polttoaineensyötön katkaisemiseksi ja starttaamista jatketaan, jotta liekit imeytyvät moottoriin.",
       "source": "PPL020FIN 11102018.pdf",
       "page": 3,
       "confidence": "high",
@@ -680,8 +680,8 @@
         "C. Työtahdin aikana.",
         "D. Kerran."
       ],
-      "correctIndex": 1,
-      "explanation": "Yhden täyden Otto-kierron aikana imuventtiili aukeaa kerran imutahdilla ja pakoventtiili kerran poistotahdilla. Venttiilit aukeavat siis yhteensä kaksi kertaa.",
+      "correctIndex": 3,
+      "explanation": "Nelitahtimoottorin yhden Otto-kierron aikana kukin venttiili avautuu kerran: imuventtiili imutahdilla ja pakoventtiili poistotahdilla.",
       "source": "PPL020FIN 11102018.pdf",
       "page": 7,
       "confidence": "high",
@@ -1060,8 +1060,8 @@
         "C. Jos se tärisee suljettuna, se aiheuttaa moottorin sammumisen.",
         "D. Se voi aiheuttaa polttoaineen imeytymisen polttoainesuodattimesta imujärjestelmään, tehden seoksesta erittäin rikkaan."
       ],
-      "correctIndex": 0,
-      "explanation": "Ryyppypumpun on oltava käytön jälkeen painettuna sisään ja lukittuna. Jos ryyppypumppu jää auki tai lukitsematta, moottorin imu voi vetää polttoainetta primerijärjestelmän kautta hallitsemattomasti sylintereihin tai imujärjestelmään, jolloin seos rikastuu liikaa ja moottori voi käydä karkeasti. Vuotava tai lukitsematon primeri voi lisäksi aiheuttaa polttoainevuodon, mikä kasvattaa tulipalon mahdollisuutta.",
+      "correctIndex": 1,
+      "explanation": "Ryyppypumppu on lukittava, jotta polttoainetta ei pääse virtaamaan hallitsemattomasti kaasuttimeen. Auki jäänyt ryyppypumppu voi rikastaa seosta liikaa ja aiheuttaa moottorin epätasaista käyntiä.",
       "source": "PPL020FIN 11102018.pdf",
       "page": 10,
       "confidence": "high",

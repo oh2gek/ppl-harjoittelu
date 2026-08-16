@@ -319,8 +319,8 @@
         "C. Tee 360 asteen kaarros oikealle.",
         "D. Käytössä on oikeanpuoleinen laskukierros."
       ],
-      "correctIndex": 2,
-      "explanation": "TEE YMPYRÄÄ OIKEALLE (ORBIT RIGHT / MAKE A 360) = tee 360 asteen kaarros oikealle. Käytetään porrastukseen.",
+      "correctIndex": 1,
+      "explanation": "'TEE YMPÄRÄÄ OIKEALLE' vastaa ORBIT RIGHT -sanontaa, jossa ilma-alus jatkaa oikeanpuoleista ympärää, kunnes lennonjohto antaa uuden ohjeen. Yksittäinen 360 asteen kaarto annetaan erillisellä sanonnalla 'MAKE A THREE SIXTY TURN RIGHT'.",
       "source": "PPL090FIN 11102018.pdf",
       "page": 4,
       "confidence": "high",
@@ -1345,8 +1345,8 @@
         "C. SÄILYTÄ LENTOPINTA 80",
         "D. PYSÄYTÄ NOUSU LENTOPINNALLA 80"
       ],
-      "correctIndex": 2,
-      "explanation": "Pysäyttäminen vaakalentoon: 'SÄILYTÄ LENTOPINTA 80' (MAINTAIN FL 80). Ohje pysäyttää nousun tai laskun tietyssä korkeudessa.",
+      "correctIndex": 3,
+      "explanation": "Ilma-alus on selvitetty nousemaan FL100:lle, mutta nousu halutaan keskeyttää väliaikaisesti FL80:een. Tällöin lennonjohto käyttää sanontaa 'PYSÄYTÄ NOUSU LENTOPINNALLA 80', joka vastaa englannin standardisanontaa 'STOP CLIMB AT FL80'.",
       "source": "PPL090FIN 11102018.pdf",
       "page": 12,
       "confidence": "high",

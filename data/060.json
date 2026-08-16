@@ -129,8 +129,8 @@
         "C. 21 600 NM.",
         "D. 30 000 NM."
       ],
-      "correctIndex": 2,
-      "explanation": "Maapallon ympärysmitta päiväntasaajalla on noin 21 600 NM = 40 075 km (60 NM × 360°). Tämä määritelmä tekee 1' kaariminuutin = 1 NM.",
+      "correctIndex": 0,
+      "explanation": "Maapallon ympärysmitta päiväntasaajaa pitkin on noin 40 075 km. Arvo 21 600 NM perustuu 360° × 60 NM/aste -likiarvoon, mutta päiväntasaajan todellinen ympärysmitta on lähempänä 40 075 kilometriä.",
       "source": "32089-PPL060FIN.pdf",
       "page": 2,
       "confidence": "high",
@@ -1498,7 +1498,7 @@
         "D. Tosilentosuunta plus/miinus eksymä."
       ],
       "correctIndex": 0,
-      "explanation": "Magneettinen ohjaussuunta (MH, magnetic heading) = magneettinen lentosuunta (MC) ± kompassin eksymä (deviation). Eksymä luetaan ohjaamon eksymätaulukosta.",
+      "explanation": "Magneettinen ohjaussuunta saadaan tosiohjaussuunnasta huomioimalla magneettinen eranto. Eksymä huomioidaan vasta, kun magneettisesta ohjaussuunnasta määritetään kompassiohjaussuunta.",
       "source": "32089-PPL060FIN.pdf",
       "page": 13,
       "confidence": "high",
@@ -1953,11 +1953,11 @@
         "C. ILS-taajuuden asettaminen VOR-vastaanottimeen.",
         "D. Lennettäessä OBS-nupista valittua suuntimaa päinvastaiseen ohjaussuuntaa."
       ],
-      "correctIndex": 0,
-      "explanation": "(tarkista PDF:stä – päivitetty teksti)",
+      "correctIndex": 3,
+      "explanation": "OR:n käänteinen näyttö syntyy, kun lennetään OBS:llä valittuun suuntaan nähden päinvastaiseen ohjaussuuntaan. Tällöin CDI-neulan näyttämä korjaussuunta on päinvastainen normaaliin nähden.",
       "source": "32089-PPL060FIN.pdf",
       "page": 16,
-      "confidence": "medium",
+      "confidence": "high",
       "needsReview": false
     },
     {
@@ -2238,8 +2238,8 @@
         "C. Ainoastaan Part-145 hyväksytty huoltokorjaamo.",
         "D. Ainoastaan ohjelmiston valmistaja."
       ],
-      "correctIndex": 3,
-      "explanation": "GPS-laitteen reittipistetietokannan, pois lukien käyttäjän omat reittipisteet, päivittää käytännössä tietokannan tai ohjelmiston valmistaja.",
+      "correctIndex": 1,
+      "explanation": "GPS-laitteen reittipistetietokannan voi yleensä päivittää ohjaaja maassa valmistajan hyväksymällä tietokantapäivityksellä. Päivitystä ei tehdä lennon aikana, eikä siihen normaalisti tarvita Part-145-huoltokorjaamoa.",
       "source": "32089-PPL060FIN.pdf",
       "page": 18,
       "confidence": "high",
@@ -2637,8 +2637,8 @@
         "C. Tuulikorjauskulma ja eranto.",
         "D. Tosilentosuunta ja eranto."
       ],
-      "correctIndex": 1,
-      "explanation": "Magneettinen ohjaussuunta (MH) = tosilentosuunta + tuulikorjauskulma (→ tosiohjaussuunta) + eranto (→ MH). Tämä on täydellinen TC→MH-laskukaava.",
+      "correctIndex": 2,
+      "explanation": "Magneettisessa ohjaussuunnassa on huomioitu tuulen aiheuttama tuulikorjauskulma sekä magneettinen eranto. Tosilentosuunta toimii laskennan lähtösuuntana, eikä se itsessään ole korjaustekijä.",
       "source": "32089-PPL060FIN.pdf",
       "page": 23,
       "confidence": "high",

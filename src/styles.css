@@ -78,7 +78,7 @@ body::before {
 }
 
 [data-theme="light"] body {
-  background-image: url('../Taustakuva ISO.png');
+  background-image: url('../VaaleaTausta.png');
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;

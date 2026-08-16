@@ -1231,12 +1231,12 @@
         "C. Ikävystyminen.",
         "D. Unelmointi."
       ],
-      "correctIndex": 1,
-      "explanation": "Kohta on terminologisesti ongelmallinen. Oikea yleistermi todellisen aistiärsykkeen väärintulkinnalle olisi illuusio tai harha-aistimus, mutta vaihtoehdoissa sitä ei ole. Hallusinaatio tarkoittaa yleensä aistihavaintoa ilman todellista ärsykettä, joten vastaus B pidetään vanhan kysymyspankin mukaisena mutta merkitään tarkistettavaksi.",
+      "correctIndex": 0,
+      "explanation": "Kangastus tarkoittaa todellisen aistiärsykkeen väärää tulkintaa. Hallusinaatiossa taas havainto syntyy ilman todellista ulkoista ärsykettä. Annetuista vaihtoehdoista kangastus on siksi lähimpänä oikeaa käsitettä.",
       "source": "PPL040FIN 11102018.pdf",
       "page": 11,
-      "confidence": "low",
-      "needsReview": true
+      "confidence": "high",
+      "needsReview": false
     },
     {
       "id": "040-0066",
@@ -1535,8 +1535,8 @@
         "C. Henkilöstä päällepäin näkyvän stressin määrä.",
         "D. Tilanteet ja tapahtumat, jotka aiheuttavat mitä tahansa reaktioita ihmisen elimistölle asetettuihin vaatimuksiin."
       ],
-      "correctIndex": 3,
-      "explanation": "Stressitekijät (stressors) ovat tilanteita ja tapahtumia, jotka aiheuttavat fyysisiä, henkisiä tai emotionaalisia reaktioita. Ne voivat olla positiivisia (eustressi) tai negatiivisia (distressi).",
+      "correctIndex": 1,
+      "explanation": "Stressitekijät ovat tapahtumia ja tilanteita, jotka aiheuttavat ihmiselle stressiä. Ne voivat olla fyysisiä, henkisiä tai emotionaalisia kuormitustekijöitä.",
       "source": "PPL040FIN 11102018.pdf",
       "page": 14,
       "confidence": "high",

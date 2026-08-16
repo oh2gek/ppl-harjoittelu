@@ -1496,8 +1496,8 @@
         "C. Ilmanpaine laskee, 8/8 pilvisyyttä, pilven alaraja pienenee ja näkyvyys paranee.",
         "D. Ilmanpaine kasvaa tasaisesti, korkeintaan 4/8 pilvisyyttä ja hyvä näkyvyys."
       ],
-      "correctIndex": 1,
-      "explanation": "Tyypillisen lämpimän rintaman ylityksen jälkeen paineen lasku pysähtyy ja näkyvyys alkaa usein parantua. Ennen rintamaa paine laskee, pilvisyys lisääntyy ja pilven alaraja madaltuu.",
+      "correctIndex": 0,
+      "explanation": "Tyypillisen lämpimän rintaman lähestyessä ja ylityksen yhteydessä ilmanpaine laskee, pilvisyys lisääntyy usein yhtenäiseksi 8/8-pilvisyydeksi, pilven alaraja laskee ja näkyvyys heikkenee sateen ja matalan pilvisyyden vuoksi.",
       "source": "PPL050FIN 11102018.pdf",
       "page": 14,
       "confidence": "high",
@@ -1755,15 +1755,15 @@
       "module": "050",
       "moduleName": "Sääoppi",
       "number": 93,
-      "statement": "Mikä on se ajallinen jakso, joka on kuvattu SWC kartassa? (Liite LAPL/PPL 050-01)",
+      "statement": "Mikä on se ajallinen jakso, joka on kuvattu SWC kartassa?",
       "options": [
         "A. 3 tuntia.",
         "B. Aika on yhden ennalta määritellyn hetken ennustettu tilanne.",
         "C. 6 tuntia.",
         "D. 30 minuuttia."
       ],
-      "correctIndex": 1,
-      "explanation": "SWC eli Significant Weather Chart kuvaa ennustettua tilannetta tiettynä ennalta määriteltynä voimassaolohetkenä, ei koko ajanjakson säätä.",
+      "correctIndex": 2,
+      "explanation": "SWC-karttoja julkaistaan tyypillisesti 6 tunnin välein, joten karttojen ennustetilanteiden välinen ajallinen jakso on 6 tuntia.",
       "source": "PPL050FIN 11102018.pdf",
       "page": 12,
       "confidence": "high",
@@ -1820,7 +1820,7 @@
         "D. 4 kertaa päivässä."
       ],
       "correctIndex": 1,
-      "explanation": "VOLMET päivitetään tyypillisesti kerran puolessa tunnissa.",
+      "explanation": "VOLMET-lähetys välittää ajantasaisia lentosäätietoja, ja sen tiedot päivittyvät tyypillisesti noin puolen tunnin välein. Suomessa VOLMET-palvelu poistettiin käytöstä vuonna 2023, eikä VOLMET-lähetyksiä ole enää saatavilla.",
       "source": "PPL050FIN 11102018.pdf",
       "page": 12,
       "confidence": "high",
@@ -1876,12 +1876,12 @@
         "C. Aina kun säätiedot muuttuvat.",
         "D. Kerran puolessa tunnissa."
       ],
-      "correctIndex": 1,
-      "explanation": "ATIS päivitetään, kun lentopaikan tai sään kannalta olennaiset tiedot muuttuvat. Vastaus 'vain kun lentokentän tiedot muuttuvat' on liian suppea, koska myös säämuutokset voivat edellyttää uuden ATIS-tiedotteen julkaisemista.",
+      "correctIndex": 3,
+      "explanation": "ATIS uusitaan käytännössä usein noin puolen tunnin välein uusien rutiinisäätietojen yhteydessä. Jos lentopaikan toiminnassa tai sääolosuhteissa tapahtuu merkittävä muutos, ATIS päivitetään kuitenkin heti.",
       "source": "PPL050FIN 11102018.pdf",
       "page": 18,
-      "confidence": "low",
-      "needsReview": true
+      "confidence": "high",
+      "needsReview": false
     },
     {
       "id": "050-0100",
@@ -2123,8 +2123,8 @@
         "C. Turbulenttista ilmaa ja hyvä näkyvyys.",
         "D. Heikko tuuliväänne (windshear), huono näkyvyys, auerta ja heikkoa sadetta."
       ],
-      "correctIndex": 3,
-      "explanation": "Pinnan inversio + korkea kosteus → vakaa ilma, sumua/utua/auerta, huono näkyvyys, mahdollisesti heikkoa sadetta tai tihkusadetta. Heikko tuuliväänne inversion ylä-/alapuolella.",
+      "correctIndex": 0,
+      "explanation": "Pinnanläheinen inversio tekee ilmasta vakaata ja tasaista. Kun suhteellinen kosteus on lisäksi korkea, näkyvyys on usein huono ja voi muodostua sumua sekä matalaa stratuspilvisyyttä. Annetuista vaihtoehdoista A kuvaa tätä parhaiten.",
       "source": "PPL050FIN 11102018.pdf",
       "page": 20,
       "confidence": "high",

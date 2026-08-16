@@ -48,7 +48,7 @@
   var THEME_KEY = "ppl-harjoittelu:theme";
   var DISCLAIMER_KEY = "ppl-harjoittelu:disclaimer-accepted";
   var LETTERS = ["A", "B", "C", "D"];
-  var APP_VERSION = "4.2.24";
+  var APP_VERSION = "4.2.25";
 
   var PDF_FILES = {
     "010": "PPL010FIN 11102018.pdf",

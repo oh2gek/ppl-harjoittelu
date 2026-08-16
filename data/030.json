@@ -1231,8 +1231,8 @@
         "C. 33% tai kertoimella 1.33.",
         "D. 10% tai kertoimella 1.1."
       ],
-      "correctIndex": 2,
-      "explanation": "Laskumatka kasvaa likimäärin neliöllisesti massan mukaan. 15 % massalisäys → (1,15)² ≈ 1,32 → ~33 % pidempi matka.",
+      "correctIndex": 1,
+      "explanation": "Muiden tekijöiden pysyessä samoina laskeutumisnopeus kasvaa massan neliöjuuren suhteessa (V² ∝ W), mutta koska jarrutusvoima syntyy pääosin pyörien kitkasta ja on siten suoraan verrannollinen painoon, myös hidastuvuus kasvaa samassa suhteessa — massa supistuu pois laskusta. Näin laskumatka (s = V²/2a) jää lopulta suoraan verrannolliseksi kokonaismassaan. 15 % suurempi massa pidentää siis laskumatkaa noin 15 %.",
       "source": "PPL030FIN 11102018.pdf",
       "page": 13,
       "confidence": "high",
@@ -1307,8 +1307,8 @@
         "C. 94.01 in.",
         "D. 135.00 in."
       ],
-      "correctIndex": 1,
-      "explanation": "CG = kokonaismomentti / kokonaismassa. Annetuilla arvoilla tulos ~92,44 in perustasosta taaksepäin. Polttoaineen massa 30 USgal × 0,72 kg/l konvertoituna lb:iin.",
+      "correctIndex": 2,
+      "explanation": "CG = kokonaismomentti / kokonaismassa.\n\nPolttoaine: 30 US gal × 6 lb/US gal = 180 lb → momentti 180 × 96,0 = 17 280 lbxin\nOhjaaja ja matkustaja: 380 × 64,0 = 24 320 lbxin\n\nKokonaismassa = 1 495 + 380 + 180 = 2 055 lb\nKokonaismomentti = 151 593 + 24 320 + 17 280 = 193 193 lbxin\n\nCG = 193 193 / 2 055 ≈ 94,01 in perustasosta taaksepäin.",
       "source": "PPL030FIN 11102018.pdf",
       "page": 14,
       "confidence": "high",
@@ -1345,8 +1345,8 @@
         "C. 75 lbs.",
         "D. 120 lbs."
       ],
-      "correctIndex": 0,
-      "explanation": "Matkatavaran määrä rajoittuu siten, että CG pysyy takarajan etupuolella ja MTOM ei ylity → tyypillisesti ~90 lb.",
+      "correctIndex": 1,
+      "explanation": "Kuormien kokonaismassa ilman matkatavaroita on 2195 lb. Normaaliluokan suurin sallittu massa on 2300 lb, joten matkatavaraa voidaan kuormata 105 lb. Tällä kuormalla myös massakeskipiste pysyy sallituissa rajoissa.",
       "source": "PPL030FIN 11102018.pdf",
       "page": 14,
       "confidence": "high",
@@ -1459,12 +1459,12 @@
         "C. Pienempi kuin tosikorkeus.",
         "D. Suurempi kuin tosikorkeus ja pienempi kuin painekorkeus."
       ],
-      "correctIndex": 2,
-      "explanation": "Standardia matalampi OAT tekee ilmasta tiheämpää, joten tiheyskorkeus on pienempi kuin painekorkeus. Vaihtoehtojen muotoilu on epäselvä, koska niissä verrataan myös tosikorkeuteen. Kohta on syytä tarkistaa virallisesta vastausavaimesta.",
+      "correctIndex": 0,
+      "explanation": "Standardia matalampi lämpötila tekee ilmasta tiheämpää, jolloin tiheyskorkeus on painekorkeutta pienempi. Annetuista vaihtoehdoista A kuvaa tätä parhaiten.",
       "source": "PPL030FIN 11102018.pdf",
       "page": 15,
-      "confidence": "medium",
-      "needsReview": true
+      "confidence": "high",
+      "needsReview": false
     },
     {
       "id": "030-0078",

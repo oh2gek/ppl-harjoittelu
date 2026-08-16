@@ -1,24 +1,60 @@
 # PPL-harjoittelu
 
-Offline-toimiva, selainpohjainen harjoitusohjelma Traficomin PPL-teoriakokeiden
-kysymysten harjoitteluun. Ei vaadi internet-yhteyttä, kirjautumista tai
-palvelinta. Toimii myös iPadilla.
+Selainpohjainen harjoitusohjelma Traficomin PPL/LAPL-teoriakokeiden
+kysymysten harjoitteluun. Ei vaadi kirjautumista eikä asennusta. Toimii
+myös iPadilla.
 
-## Mikä tämä on
+## Käyttöehdot
 
-Interaktiivinen harjoitussivu, jossa voit valita PPL-teoriakokeen moduulin ja
-vastata 20 satunnaisesti valittuun **monivalintakysymykseen** (vaihtoehdot
-A–D), aivan kuten Traficomin alkuperäisessä kysymyspankissa. Jokaisen
-vastauksen jälkeen näytetään välittömästi palaute, oikea vastaus ja
-selitys. Lopussa näytetään tulossivu sekä lista väärin menneistä
-kysymyksistä.
+1. Tämä sovellus on tarkoitettu ainoastaan yksityiseen, ei-kaupalliseen
+   henkilökohtaiseen käyttöön ja itseopiskeluun PPL-teoriakokeeseen
+   valmistautumista varten.
+2. Kaupallinen käyttö, myynti, vuokraus, lisensointi, jakelumalliin
+   perustuva hyödyntäminen tai muu taloudellisen hyödyn tavoittelu on
+   ehdottomasti kielletty ilman etukäteen saatua nimenomaista kirjallista
+   lupaa.
+3. Sovellusta tai sen sisältöä ei saa julkaista, levittää tai upottaa osana
+   kolmannen osapuolen palvelua, mukaan lukien sovelluskaupat (App Store,
+   Google Play, Microsoft Store), verkkoalustat ja oppimisjärjestelmät.
+4. Kysymykset ja vastaukset on poimittu julkisista Traficomin
+   PPL-kysymyspankeista. Niiden tekijänoikeudet ja immateriaalioikeudet
+   kuuluvat alkuperäisille haltijoille. Käyttäjällä ei ole oikeutta väittää
+   omakseen, muokata kaupallisiin tarkoituksiin tai edelleen levittää
+   kysymyspankin sisältöä.
+5. Sovellus tarjotaan "sellaisenaan" ilman minkäänlaisia takuita. Tekijä ei
+   vastaa virheellisistä vastauksista, tiedon puutteellisuudesta,
+   mahdollisista vahingoista, välittömistä tai välillisistä menetyksistä tai
+   muista sovelluksen käyttöön liittyvistä seurauksista.
+6. Sovellus **EI** ole virallinen oppimateriaali eikä hyväksytty lähteiden
+   korvaaja. Käytä aina ilmailuviranomaisten (Traficom, EASA, ICAO) virallisia
+   julkaisuja, lentokoulun materiaaleja ja kouluttajien opastusta.
+7. Sovellusta ei saa käyttää automatisoiduissa järjestelmissä, bottien,
+   robottien tai vastaavien työkalujen kautta ilman lupaa.
+8. Sovellus ei käytä evästeitä (cookies) eikä muita seurantateknologioita.
+   Kaikki tallennettava tieto (tilastot, harjoitushistoria, teema-asetus,
+   kokeiden tulokset) säilytetään ainoastaan käyttäjän oman selaimen
+   paikallisessa muistissa (`localStorage`), eikä sitä lähetetä palvelimelle
+   tai kolmansille osapuolille.
+9. Käyttämällä tätä sovellusta hyväksyt nämä ehdot. Mikäli et hyväksy
+   ehtoja, sinun on lopetettava sovelluksen käyttö välittömästi.
 
-Kysymykset on poimittu suoraan Traficomin PDF-kysymyspankeista
-(`PPL010FIN…PPL090FIN`).
+## Sovelluksen yleiskuvaus
 
-Tulokset tallentuvat selaimen `localStorage`:een, joten alkuvalikossa näkyy
-viimeisin tulos, paras tulos ja tehtyjen harjoitusten määrä per moduuli. Mukana
-on myös **Kertaa virheet** -tila.
+PPL-harjoittelu on selainsovellus yksityislentäjän lupakirjan (PPL, LAPL)
+teoriakokeisiin valmistautumiseen. Sovellus ei lähetä tietoja internetiin
+eikä käytä evästeitä – kaikki tulokset tallentuvat vain tämän selaimen
+paikalliseen muistiin (`localStorage`).
+
+Sovellus sisältää kysymyksiä yhdeksästä moduulista. Jokaiseen kysymykseen on
+neljä vaihtoehtoa (A–D) ja useimpiin liittyy selitys.
+
+## Käyttöönotto
+
+Avaa `PPL-harjoittelu.html` selaimessa (Chrome, Edge, Safari, iPad). Tämä
+yksi tiedosto sisältää kaiken – käyttöliittymän, tyylit ja kysymysdatan.
+Voit kopioida sen muistitikulle, lähettää sähköpostilla tai avata suoraan
+paikallisesti. Mitään asennusta, kirjautumista tai internet-yhteyttä ei
+tarvita.
 
 ## Moduulit
 
@@ -32,191 +68,144 @@ on myös **Kertaa virheet** -tila.
 - 080 – Lennonteoria
 - 090 – Radiopuhelinliikenne
 
-## Kansiorakenne
+## 1. Moduuliharjoitukset
 
-```
-ppl-harjoittelu/
-  index.html              # Kehitysversio (lukee data/-kansiosta)
-  PPL-harjoittelu.html    # Yhden tiedoston offline-versio (jakeluun)
-  src/
-    app.js
-    styles.css
-  data/
-    010.json ... 090.json # Kysymysdata moduuleittain
-  tools/
-    extract_pdfs.py       # PDF -> JSON -muunnin
-    build_single_html.py  # Rakentaa yhden tiedoston offline-version
-    validate.py           # Tuottaa validointiraportin
-  reports/
-    validation_report.html
-  README.md
-```
+Etusivulla näet kaikki moduulit. Klikkaamalla moduulia aloitat 20 kysymyksen
+harjoituksen.
 
-## Käyttö
+- Harjoituksessa näet heti, onko vastaus oikein vai väärin.
+- Selitys aukeaa automaattisesti oikean vastauksen yhteyteen.
+- Väärin vastatut kysymykset kertyvät virhehistoriaan.
+- Tulokset tallentuvat automaattisesti ja vaikuttavat tilastoihin.
 
-### Tapa 1 – Yhden tiedoston offline-versio (suositus jakeluun)
+Läpäisyraja on 75 % (15/20 oikein). Moduulin nimen alla näkyy viimeisin
+tuloksesi ja paras tuloksesi prosentteina.
 
-Avaa `PPL-harjoittelu.html` selaimessa (Chrome, Edge, Safari, iPad).
-Tämä yksi tiedosto sisältää kaiken: käyttöliittymän, tyylit, JavaScriptin ja
-kysymysdatan. Voit kopioida sen muistitikulle, lähettää sähköpostilla tai
-viedä palvelimelle – mitään asennusta ei tarvita.
+### Miten kysymykset valitaan ja priorisoidaan
 
-### Tapa 2 – Kehitysversio
+Harjoituksen 20 kysymystä eivät ole täysin satunnaisia, vaan valinta
+priorisoi kysymyksiä seuraavassa järjestyksessä:
 
-Useimmat selaimet estävät paikallisten JSON-tiedostojen lukemisen
-`file://`-protokollalla, joten käytä yksinkertaista paikallista palvelinta:
+1. **Kysymykset, joita et ole vielä koskaan nähnyt** kyseisessä moduulissa,
+   otetaan mukaan aina ensin. Näin koko kysymyspankki käydään läpi ennen
+   kuin mikään kysymys toistuu, riippumatta pankin koosta.
+2. Jos kaikki kysymykset on jo nähty tai ne eivät riitä täyttämään
+   harjoitusta, loput kysymykset valitaan painotetulla arvonnalla, joka
+   suosii voimakkaasti:
+   - kysymyksiä, joita on nähty **harvemmin** kuin muita (mitä suurempi ero
+     eniten nähtyyn kysymykseen, sitä moninkertaisesti todennäköisemmin
+     kysymys valikoituu), ja
+   - kysymyksiä, **joihin on aiemmin vastattu väärin** – jokainen
+     virhevastaus kasvattaa kysymyksen todennäköisyyttä tulla uudelleen
+     kysytyksi.
+3. Lopuksi valittujen kysymysten **esitysjärjestys sekoitetaan**, jotta
+   ensimmäistä kertaa nähtävät kysymykset eivät ole aina harjoituksen
+   alussa.
 
-```powershell
-cd ppl-harjoittelu
-python -m http.server 8000
-```
+Sama logiikka koskee myös "Kertaa virheet" -tilaa: painotus kohdistuu
+automaattisesti vähiten nähtyihin ja useimmin väärin vastattuihin
+kysymyksiin, jotta harjoittelu keskittyy heikkoihin kohtiin eikä toista
+tarpeettomasti jo hyvin osattuja kysymyksiä. Sen sijaan All in One ja
+"Selaa kysymyspankkia" käyvät kysymykset läpi kiinteässä
+kysymysnumerojärjestyksessä, eivät painotetusti.
 
-Avaa sitten `http://localhost:8000/` selaimessa.
+## 2. Trafi-koesimulaatio
 
-### Palvelimelle vienti
+Koesimulaatio jäljittelee virallista PPL-teoriakoetta. Voit valita, mitkä
+moduulit sisällytät kokeeseen. Jokaisesta valitusta moduulista arvotaan 20
+kysymystä.
 
-Riittää, että kopioit joko `PPL-harjoittelu.html` -tiedoston tai koko kansion
-mihin tahansa staattiselle web-palvelimelle (Nginx, Apache, GitHub Pages,
-Netlify, IIS, ...). Mitään palvelinpuolen logiikkaa ei tarvita.
+- Kokeen aikana et näe oikeaa vastausta tai selitystä – vastaukset
+  paljastuvat vasta lopussa.
+- Kaikkien valittujen moduulien on oltava läpäisty (≥ 75 %), jotta koko
+  koesarja katsotaan läpäistyksi.
+- Tulokset tallentuvat Tilastot-sivun kohtaan "Koesimulaatiot".
+- Voit keskeyttää kokeen, mutta keskeytetyltä kokeelta ei tallenneta tulosta.
 
-## PDF:ien muuntaminen kysymysdataksi
+## 3. Kertaa virheet
 
-Alkuperäiset PDF-tiedostot (Traficomin kysymyspankit) ovat projektin juuressa,
-ei tässä kansiossa. Muunnos tehdään työkalulla `tools/extract_pdfs.py`.
+Tämä toiminto nostaa esiin kysymykset, joihin olet vastannut väärin
+aiemmissa harjoituksissa. Virhehistoria kertyy automaattisesti jokaisen
+harjoituksen ja koesimulaation jälkeen.
 
-### Riippuvuudet
+Kertaus painottaa sekä useimmin väärin vastattuja kysymyksiä että aiemmin
+harvemmin nähtyjä kysymyksiä. Näin harjoittelu pysyy monipuolisena eikä
+toista vain samoja kysymyksiä.
 
-```powershell
-pip install pdfplumber
-```
+## 4. Kuvakysymykset
 
-### Aja muunnin
+Kuvakysymyksissä näytetään liitteenä olevat kuvat (esim. sääkartat,
+lentokenttäkaaviot, radiokuviot). Voit selata kuvakysymyksiä moduuli
+kerrallaan.
 
-```powershell
-cd ppl-harjoittelu
-python tools/extract_pdfs.py --pdf-dir ".." --out-dir "data"
-```
+Jos kuva ei lataudu, kysymyksen yhteydessä on linkki avata kuva
+alkuperäisestä PDF-tiedostosta. Kuvakysymykset esitetään aina järjestyksessä
+(moduuli kerrallaan, kysymysnumeron mukaan).
 
-Komento:
+## 5. Selaa kysymyspankkia
 
-1. etsii moduulikohtaiset PDF:t (`PPL010FIN*.pdf`, `PPL020FIN*.pdf`, ...)
-2. lukee tekstin
-3. tunnistaa väittämät heuristisesti
-4. antaa jokaiselle yksilöllisen ID:n (`010-0001`, ...)
-5. arvioi tekoälyttömästi todennäköisen oikean vastauksen ja selityksen
-   placeholderina – **kaikki AI:n / heuristiikan tuottamat vastaukset on
-   merkitty `needsReview: true`**.
-6. kirjoittaa tulokset tiedostoihin `data/0X0.json`.
+Tämä toiminto näyttää valitsemasi moduulin kaikki kysymykset alkuperäisessä
+numerojärjestyksessä ilman vastaamista – oikea vastaus on korostettu
+suoraan vihreällä. Sopii nopeaan kertaukseen ennen harjoitusta.
 
-> **Tärkeää:** Älä luota AI:n / heuristiikan tuottamiin oikeisiin vastauksiin
-> sellaisinaan. Ilmailun teoriakoulutus vaatii ihmisen tarkistuksen.
+Selaus ei vaikuta tilastoihin, virhehistoriaan eikä kysymysten painotukseen,
+koska mihinkään ei vastata.
 
-## Vastausten tarkistaminen käsin – suositeltu työnkulku
+## 6. All in One
 
-PDF:t eivät sisällä vastausavainta, joten kaikkien 1217 kysymyksen oikea
-vastaus täytyy täyttää käsin. Helpoin tapa on käyttää **review-tiedostoa**:
+All in One käy valitun moduulin kaikki kysymykset läpi järjestyksessä
+alusta loppuun samalla tekniikalla kuin normaalissa harjoituksessa: valitset
+vastauksen A–D ja saat heti palautteen ja selityksen.
 
-```powershell
-py tools/export_review.py        # luo review/answers.md
-# muokkaa review/answers.md (Oikea: + Selitys: jokaiselle kysymykselle)
-py tools/import_review.py        # päivittää data/0X0.json
-py tools/build_single_html.py    # päivittää PPL-harjoittelu.html
-```
+- Etenemä (mihin kysymykseen jäit) tallentuu automaattisesti
+  moduulikohtaisesti, niin voit jatkaa myöhemmin.
+- Moduulivalinnassa näet etenemispalkin ja voit jatkaa siitä mihin jäit, tai
+  painaa "↺ Alusta" aloittaaksesi moduulin alusta.
+- Väärin vastatut kysymykset kertyvät virhehistoriaan ja nähdyt kysymykset
+  vaikuttavat kysymysten painotukseen samalla tavalla kuin tavallisissa
+  harjoituksissa.
+- Kun kaikki moduulin kysymykset on käyty läpi, näet yhteenvedon tuloksesta
+  ja väärin menneistä kysymyksistä.
 
-`review/answers.md` sisältää kaikki kysymykset peräkkäin tässä muodossa:
+## 7. Tilastot
 
-```markdown
-### 010-0001 · #1 · sivu 2
+Tilastot-sivulla näet:
 
-**Väittämä:** Mitä seuraavista dokumenteista ei ole vaatimuksena …?
+- Jokaisen moduulin harjoitusmäärän, viimeisimmän ja parhaan tuloksen.
+- Koesimulaatiohistorian: läpäistyjen ja hylättyjen kokeiden määrän sekä
+  yksityiskohtaiset tulokset viimeisimmistä kokeista.
+- Aikaleimat suhteellisessa muodossa ("tunti sitten", "eilen" jne.).
 
-- A. Rekisteröimistodistus
-- B. Miehistön syntymätodistus
-- C. Lentokelpoisuustodistus
-- D. Miehistön lupakirja
+## 8. Nollaa tulokset
 
-**Oikea:** B
+"Nollaa tulokset" -toiminto tyhjentää kaikki harjoitustulokset,
+virhehistorian, koesimulaatiohistorian ja All in One -etenemän pysyvästi.
+Tätä toimintoa ei voi perua.
 
-**Selitys:** Syntymätodistusta ei vaadita lennolla – ICAO Annex 6 listaa …
-```
+Huom: tietojen nollaus vaikuttaa vain tähän selaimeen.
 
-Muokkaa **vain** rivit `**Oikea:** X` (kirjain A/B/C/D) ja `**Selitys:** …`.
-Älä koske `**Väittämä:**`-riviin tai vaihtoehtoihin – ne tulevat suoraan
-PDF:stä. Jos jätät kysymyksen koskematta (Selitys: `(täytä selitys)`), se
-pysyy entisellään tilassa `needsReview: true`. Kun molemmat kentät on
-täytetty, `import_review.py` merkitsee kysymyksen automaattisesti
-tarkistetuksi (`needsReview: false`, `confidence: "high"`).
+## 9. Ulkoasu ja teema
 
-Jos haluat toimia suoraan JSON-tiedostoissa, voit muokata myös
-`data/0X0.json` -tiedostoja. Jokainen kysymys on muotoa:
+Yläpalkin kuvakkeista voit vaihtaa tumman ja vaalean teeman välillä. Valinta
+tallentuu selaimen muistiin.
 
-```json
-{
-  "id": "010-0001",
-  "module": "010",
-  "moduleName": "Ilmailun säädökset",
-  "number": 1,
-  "statement": "Mitä seuraavista dokumenteista ei ole vaatimuksena ...?",
-  "options": [
-    "A. Rekisteröimistodistus",
-    "B. Miehistön syntymätodistus",
-    "C. Lentokelpoisuustodistus",
-    "D. Miehistön lupakirja"
-  ],
-  "correctIndex": 1,
-  "explanation": "B on oikein, koska ...",
-  "source": "PPL010FIN 11102018.pdf",
-  "page": 2,
-  "confidence": "high",
-  "needsReview": false
-}
-```
+## Vinkkejä tehokkaaseen harjoitteluun
 
-Tarkista `correctIndex` (0=A, 1=B, 2=C, 3=D) ja kirjoita `explanation`.
-Kun olet varma, vaihda `needsReview: false` ja `confidence: "high"`.
-Käyttöliittymä näyttää pienen huomautuksen, jos kysymys on edelleen
-tarkistamaton. PDF:t eivät sisällä vastausavainta, joten extractor
-asettaa väliaikaisesti `correctIndex: 0` ja merkitsee
-`needsReview: true, confidence: "low"`.
-
-Kun olet muokannut JSON-tiedostoja, **rakenna yhden tiedoston versio uudelleen**:
-
-```powershell
-python tools/build_single_html.py
-```
-
-## Validointiraportti
-
-```powershell
-python tools/validate.py
-```
-
-Tuottaa tiedoston `reports/validation_report.html`, joka listaa:
-
-- kysymykset ilman oikeaa vastausta
-- kysymykset ilman selitystä
-- kysymykset, joiden `confidence` on `"low"`
-- kysymykset, joissa `needsReview: true`
-- mahdolliset duplikaatit
-- epäilyttävän lyhyet kysymykset
-- moduulit, joissa on alle 20 kysymystä
-
-## Yhden tiedoston offline-version rakentaminen
-
-```powershell
-python tools/build_single_html.py
-```
-
-Skripti yhdistää `index.html`, `src/styles.css`, `src/app.js` ja kaikki
-`data/*.json` yhdeksi tiedostoksi `PPL-harjoittelu.html`.
-
-## Datan muokkaaminen käsin
-
-Voit lisätä, muokata tai poistaa kysymyksiä suoraan `data/0X0.json`
--tiedostoissa. Pidä JSON kelvollisena (UTF-8, suluittain). Aja sen jälkeen
-`tools/validate.py` ja tarvittaessa `tools/build_single_html.py`.
+- Aloita yhdestä moduulista kerrallaan ja yritä saada tasaisesti ≥ 75 %
+  tuloksia ennen seuraavaan siirtymistä.
+- Käytä "Kertaa virheet" -toimintoa säännöllisesti – se vahvistaa heikkoja
+  kohtia.
+- Tee koesimulaatioita vasta, kun olet harjoitellut kaikki moduulit läpi.
+- Tarkista kuvakysymykset erikseen, jos et ole varma kuvien sisällöstä.
+- Älä luota pelkästään sovellukseen – lue myös viralliset oppikirjat ja kysy
+  kouluttajalta.
 
 ## Tietosuoja
 
 Ohjelma ei lähetä mitään tietoa internetiin. Kaikki harjoitustulokset
 tallentuvat ainoastaan paikallisesti selaimen `localStorage`-tilaan.
+
+## Muutosloki
+
+Katso sovelluksen kaikki versiomuutokset ja sisältökorjaukset tiedostosta
+[`CHANGELOG.md`](./CHANGELOG.md).

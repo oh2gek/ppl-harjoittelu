@@ -832,8 +832,8 @@
         "C. Uusi jäsenvaltio on lupakirjan haltijan asuinvaltio tai haltija on aloittanut kokopäivätyön kyseissä valtiossa.",
         "D. Lupakirjan haltija on asunut uudessa jäsenvaltiossa vähintään 31 päivää."
       ],
-      "correctIndex": 2,
-      "explanation": "Lupakirjan voi siirtää toiseen EASA-jäsenvaltioon (State of License changing), kun uusi jäsenvaltio on lupakirjan haltijan vakinainen asuinpaikka tai työnantajan sijaintivaltio (ARA.FCL.250).",
+      "correctIndex": 0,
+      "explanation": "EASA-jäsenvaltion myöntämä lupakirja voidaan konvertoida toisen EASA-jäsenvaltion lupakirjaksi, kun uudella jäsenvaltiolla ei ole merkittäviä perusteita kieltäytyä konvertoinnista. Asuinvaltio- tai työpaikkaedellytyksiä (vaihtoehdot B–D) ei EASA:n lupakirjan konversiossa vaadita.",
       "source": "PPL010FIN 11102018.pdf",
       "page": 9,
       "confidence": "high",
@@ -1611,8 +1611,8 @@
         "C. Liittyä laskukierrokseen 800 jalassa AAL.",
         "D. Tehdä kaikki kaarrot vasemmalle, ellei toisin ole ilmoitettu."
       ],
-      "correctIndex": 0,
-      "explanation": "Valvomattomalla lentopaikalla G-luokassa käytetään yleensä vasenta laskukierrosta korkeudella 800 ft AAL, ellei AIP/lentopaikan käsikirja toisin määrää.",
+      "correctIndex": 3,
+      "explanation": "SERA.3225:n perussääntö lentopaikan läheisyydessä on, että laskeutumista lähestyttäessä ja lentoonlähdön jälkeen kaarrot tehdään vasemmalle, ellei muuta ole määrätty tai ilmoitettu (esim. lennonjohto, AIP tai lentopaikan merkinnät).",
       "source": "PPL010FIN 11102018.pdf",
       "page": 16,
       "confidence": "high",
