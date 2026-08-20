@@ -48,7 +48,7 @@
   var THEME_KEY = "ppl-harjoittelu:theme";
   var DISCLAIMER_KEY = "ppl-harjoittelu:disclaimer-accepted";
   var LETTERS = ["A", "B", "C", "D"];
-  var APP_VERSION = "4.2.25";
+  var APP_VERSION = "4.2.26";
 
   var PDF_FILES = {
     "010": "PPL010FIN 11102018.pdf",
@@ -310,6 +310,61 @@
     // Keep only last 50 exams
     if (s.examHistory.length > 50) s.examHistory = s.examHistory.slice(0, 50);
     saveStorage(s);
+  }
+
+  // Laskee mitä moduuleja kannattaisi harjoitella lisää: yhdistää virhehistorian
+  // (väärin vastatut kysymykset) sekä hylätyt yritykset harjoitusmoduuleissa ja
+  // koesimulaatioissa. Hylätty yritys painaa enemmän kuin yksittäinen väärä vastaus.
+  function computePracticeRecommendations() {
+    var s = loadStorage();
+    var scores = {};
+    MODULES.forEach(function (m) { scores[m.id] = { module: m, wrongCount: 0, failedAttempts: 0 }; });
+
+    Object.keys(s.errorHistory || {}).forEach(function (mid) {
+      if (!scores[mid]) return;
+      var hist = s.errorHistory[mid] || {};
+      var total = 0;
+      Object.keys(hist).forEach(function (qid) { total += hist[qid] || 0; });
+      scores[mid].wrongCount = total;
+    });
+
+    Object.keys(s.modules || {}).forEach(function (mid) {
+      if (!scores[mid]) return;
+      var st = s.modules[mid];
+      if (st && (st.bestPercent == null || st.bestPercent < PASS_PERCENT)) {
+        scores[mid].failedAttempts += 1;
+      }
+    });
+
+    (s.examHistory || []).forEach(function (e) {
+      (e.moduleResults || []).forEach(function (mr) {
+        if (!mr.passed && scores[mr.moduleId]) scores[mr.moduleId].failedAttempts += 1;
+      });
+    });
+
+    return Object.keys(scores).map(function (mid) { return scores[mid]; })
+      .filter(function (x) { return x.wrongCount > 0 || x.failedAttempts > 0; })
+      .sort(function (a, b) {
+        var sa = a.wrongCount + a.failedAttempts * 3;
+        var sb = b.wrongCount + b.failedAttempts * 3;
+        return sb - sa;
+      })
+      .slice(0, 3);
+  }
+
+  function buildPracticeTip() {
+    var recs = computePracticeRecommendations();
+    if (recs.length === 0) return null;
+    var items = recs.map(function (r) {
+      var parts = [];
+      if (r.wrongCount > 0) parts.push(r.wrongCount + " väärää vastausta");
+      if (r.failedAttempts > 0) parts.push(r.failedAttempts + " hylättyä yritystä");
+      return el("li", null, r.module.id + " " + r.module.name + " – " + parts.join(", "));
+    });
+    return el("div", { class: "practice-tip" }, [
+      el("h3", null, "💡 Vinkki: näitä moduuleja kannattaa harjoitella lisää"),
+      el("ul", null, items)
+    ]);
   }
 
   function svgIcon(name) {
@@ -721,14 +776,17 @@
       );
       var examRows = [];
       examHistory.slice(0, 10).forEach(function (e) {
-        var modSummary = (e.moduleResults || []).map(function (mr) {
-          return mr.moduleId + ": " + mr.correct + "/" + mr.total + (mr.passed ? " ✅" : " ❌");
-        }).join(" · ");
+        var modSummaryTd = el("td", { style: "font-size:0.85rem;" });
+        (e.moduleResults || []).forEach(function (mr, idx) {
+          if (idx > 0) modSummaryTd.appendChild(document.createTextNode(" · "));
+          modSummaryTd.appendChild(el("span", { class: mr.passed ? "mod-pass" : "mod-fail" },
+            mr.moduleId + ": " + mr.correct + "/" + mr.total + (mr.passed ? " ✅" : " ❌")));
+        });
         examRows.push(el("tr", { class: e.allPassed ? "row-pass" : "row-fail" }, [
           el("td", null, formatRelativeTime(e.date) || "–"),
           el("td", null, e.totalCorrect + " / " + e.totalQ),
-          el("td", null, e.modulesPassed + "/" + e.modulesTotal + " moduulia"),
-          el("td", { style: "font-size:0.85rem;" }, modSummary)
+          el("td", { class: e.allPassed ? "result-pass" : "result-fail" }, e.modulesPassed + "/" + e.modulesTotal + " moduulia"),
+          modSummaryTd
         ]));
       });
       var examThead = el("thead", null, el("tr", null, [
@@ -1209,10 +1267,25 @@
     recordExamResult(exam, byModule, modulesPassed, modulesTotal);
 
     var allPassed = (modulesPassed === modulesTotal);
-    var overallVerdict = el("div", { class: "verdict " + (allPassed ? "pass" : "fail") },
-      allPassed
-        ? "Kaikki " + modulesTotal + " moduulia LÄPÄISTY ✅ – simuloitu Trafin koesarja kokonaan läpäisty!"
-        : "Koesarja HYLÄTTY ❌ – " + modulesPassed + "/" + modulesTotal + " moduulia läpäisty. Trafin teoriakokeessa kaikkien osakokeiden on oltava ≥ " + PASS_PERCENT + " %.");
+    var failedModuleInfo = [];
+    exam.modules.forEach(function (m) {
+      var b = byModule[m.id];
+      if (!b || b.total === 0) return;
+      var needed = Math.ceil(b.total * PASS_PERCENT / 100);
+      if (b.correct < needed) {
+        failedModuleInfo.push(m.id + " " + m.name + " (" + b.correct + "/" + b.total + ", " + Math.round((b.correct / b.total) * 100) + " %)");
+      }
+    });
+    var overallVerdict;
+    if (allPassed) {
+      overallVerdict = el("div", { class: "verdict pass" },
+        "Kaikki " + modulesTotal + " moduulia LÄPÄISTY ✅ – simuloitu Trafin koesarja kokonaan läpäisty!");
+    } else {
+      overallVerdict = el("div", { class: "verdict summary" }, [
+        el("div", { class: "verdict-title" }, modulesPassed + "/" + modulesTotal + " moduulia läpäisty. Näissä jäit alle " + PASS_PERCENT + " % läpäisyrajan:"),
+        el("ul", { class: "verdict-list" }, failedModuleInfo.map(function (t) { return el("li", null, t); }))
+      ]);
+    }
 
     var summaryTable = el("table", { class: "exam-summary" });
     var thead = el("thead", null, el("tr", null, [
@@ -1232,7 +1305,7 @@
         el("td", null, m.id + " " + m.name),
         el("td", null, b.correct + " / " + b.total),
         el("td", null, pPct + " %"),
-        el("td", null, pPass ? "✅ LÄPI" : "❌ HYLÄTTY")
+        el("td", { class: pPass ? "result-pass" : "result-fail" }, pPass ? "✅ LÄPI" : "❌ HYLÄTTY")
       ]));
     });
     summaryTable.appendChild(thead);
@@ -1259,6 +1332,8 @@
       });
     }
 
+    var practiceTip = buildPracticeTip();
+
     var card = el("div", { class: "card" }, [
       el("h2", null, "🎯 Trafi-koesimulaatio – yhteenveto"),
       el("div", { class: "score-big" }, totalCorrect + " / " + totalQ),
@@ -1268,6 +1343,7 @@
       summaryTable,
       el("h3", { style: "margin-top:24px;" }, "Väärin menneet kysymykset (" + allWrong.length + " kpl)"),
       wrongSection,
+      practiceTip,
       el("div", { class: "btn-row", style: "margin-top:18px;" }, [
         el("button", { class: "btn primary", onclick: confirmStartExam }, "Tee uusi koesimulaatio"),
         el("button", { class: "btn", onclick: renderHome }, "Palaa alkuvalikkoon")

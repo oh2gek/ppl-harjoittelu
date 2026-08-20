@@ -2,6 +2,15 @@
 
 Kaikki merkittävät muutokset PPL-harjoittelu -projektiin, uusin ensin.
 
+## [V4.2.26] — 2026-08-20
+
+### Muutettu
+- **Koesimulaation yhteenveto pehmennetty**: Trafi-koesimulaation tulossivulla ei enää näytetä isoa punaista "Koesarja HYLÄTTY" -viestiä, jos yksikin moduuli jäi alle läpäisyrajan. Tilalle tulee neutraalimpi keltainen yhteenveto, joka listaa nimeltä ne moduulit, jotka jäivät alle läpäisyrajan (pisteet ja prosentti mukana).
+- **Harjoitteluvinkki koesimulaation loppuun**: Yhteenvedon alaosaan lisätty vinkkilaatikko ("💡 Vinkki: näitä moduuleja kannattaa harjoitella lisää"), joka nostaa esiin enintään 3 moduulia, joissa on ollut eniten väärin vastattuja kysymyksiä ja/tai hylättyjä yrityksiä (harjoitusmoduulissa tai koesimulaatiossa).
+
+### Korjattu
+- **Tilastojen koesimulaatiohistoria värjäsi kaikki moduulit punaisiksi vaikka osa oli läpäisty**: CSS-sääntö `.exam-summary tr.row-fail td:last-child` värjäsi rivin viimeisen solun kokonaan punaiseksi, jos yksikin moduuli epäonnistui koesarjassa. Koska koesimulaatiohistorian taulukossa viimeinen sarake on juuri moduulikohtainen erittely, tämä näytti myös läpäistyt moduulit punaisina. Korjattu poistamalla `td:last-child`-sääntö ja väritetään jokainen moduuli yksilöllisesti (`mod-pass`/`mod-fail`) sen oman tuloksen mukaan.
+
 ## [V4.2.25] — 2026-08-16
 
 ### Korjattu
